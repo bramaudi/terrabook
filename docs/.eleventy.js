@@ -2,6 +2,7 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require('markdown-it')
+const markdownItAnchor = require("markdown-it-anchor")
 const fs = require('fs')
 const { DateTime } = require('luxon')
 
@@ -31,11 +32,23 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
-  eleventyConfig.setLibrary('md', markdownIt({
-    html: true,
-    breaks: true,
-    linkify: false
-  }));
+  eleventyConfig.setLibrary('md',
+    markdownIt({
+      html: true,
+      breaks: true,
+      linkify: false
+    })
+    .use(markdownItAnchor, {
+      permalink: markdownItAnchor.permalink.linkInsideHeader({
+        symbol: `
+          <span style="display: block; visibility: hidden; width: 0; height: 0;">Jump to heading</span>
+          <span aria-hidden="true">#</span>
+        `,
+        placement: 'before'
+      })
+    })
+  );
+  
 	eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, bs) {

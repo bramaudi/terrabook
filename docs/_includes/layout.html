@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{ title }}</title>
+	<title>{{ title if title else siteMeta.title }}</title>
 	<link rel="shortcut icon" href="{{ '/assets/favicon.ico' | url }}" type="image/x-icon">
 	<link rel="stylesheet" href="{{ '/assets/style.css' | url }}">
 </head>
@@ -17,6 +17,12 @@
 				{% if entry.url == page.url %}<span>{{ entry.title }}</span>{% else %}<a href="{{ entry.url | url }}">{{ entry.title }}</a>{% endif %}
 			</li>
 		{%- endfor %}
+			<li class="nav-item">
+				<a href="//github.com/bramaudi/terrabook">Github</a>
+			</li>
+			<li class="nav-item">
+				<a href="//t.me/terrabook">Telegram</a>
+			</li>
 			<li class="search">
 				<a href="{{ '/search' | url }}">Search</a>
 			</li>
