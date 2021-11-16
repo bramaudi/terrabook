@@ -24,7 +24,7 @@ Terrabook is offline handcrafted wiki for Terraria with following features:
 
 We encourage everyone to help with localization. The following is how to do.
 
-- Fork this repository
+- Fork [this](https://github.com/bramaudi/terrabook) repository
 - Copy `en` to path like `id`, here `id` is an [ISO 639-1](http://www.loc.gov/standards/iso639-2/php/code_list.php) language code
 - Translate json files
 - Make a Pull Request
