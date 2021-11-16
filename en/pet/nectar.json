@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"Nectar is a pet summoning item dropped by the Queen Bee with a 1/20 (5%) / [e=1/9 (11.11%)] chance. When used it summons a Baby Hornet pet.",
+
+		"This pet will not teleport to the player when it is far away."
+	],
+
+	"notes": [
+		"This pet is not affected by liquids, but will play a \"splashing\" sound when entering any liquid."
+	],
+
+	"title": "Nectar",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a Baby Hornet",
+	"summon": "Baby Hornet",
+	"rarity": 3,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Baby Hornet",
+			"tooltip": "It thinks you are its mother"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 6.7, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 11, "type": "Bag" }
+		]
+	}
+}

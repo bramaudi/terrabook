@@ -1,0 +1,57 @@
+{
+	"overview": [
+		"The Brain of Confusion is an Expert Mode accessory item obtained from the Treasure Bag dropped by the Brain of Cthulhu. Upon taking damage with the Brain of Confusion equipped, nearby enemies have a 3/5 (60%) chance of receiving the Confused debuff for at minimum 1.5 seconds. The chance, duration, and area of effect of the debuff are based on the amount of damage taken.",
+
+		"In the Desktop version, Console version, and Mobile version, the player wielding it has a 1/6 (16.67%) chance of dodging an attack, which inflicts the Cerebral Mindtrick debuff on them for four seconds. It increases critical strike chance by [i:UI:Desktop version] 10% / [i:UI:Console version] [i:UI:Mobile version] 20%, despite being a debuff. While the debuff is active, the player cannot dodge another attack.",
+
+		"Though not listed, the debuff will also increase summon damage by [i:UI:Desktop version] 10% / [i:UI:Console version] [i:UI:Mobile version] 20%"
+	],
+
+	"notes": [
+		"The effect can be activated by any form of direct damage, including damage taken by traps and thorny bushes. It is not activated from damage inflicted over time, e.g. debuffs.",
+    "Each time the effect is triggered, a flying brain projectile will be spawned. It is a purely visual effect.",
+    "The Brain of Confusion is not affected by dyes.",
+    "Its 1/6 (16.67%) chance to nullify incoming damage can be viewed as a dynamic 16.7% damage reduction that is not a part of the overall defense system. However, this is not as reliable as a flat damage reduction bonus or defense bonus provided through other means such as the Worm Scarf.",
+    "The chance that the Confused debuff is inflicted, as well as its duration, is calculated for each enemy within range individually."
+	],
+
+	"tips": [
+    "The added chance to dodge nearly matches the percentage of damage the Worm Scarf prevents along with the extra critical bonus. This means that both accessories will, on average, prevent the same amount of damage but in a different way. This makes the Brain of Confusion significantly more useful and is arguably even better than the Worm Scarf, depending on the scenario. Often in Master Mode, taking damage in the first place can be extremely dangerous, so a chance to dodge can prove to be more useful in tight situations as taking 17% reduced damage from the Worm Scarf may still be too much.",
+		[
+			"The short-term DPS increase from the critical hit chance increase after a successful dodge can allow the player to deal much more damage to enemies or bosses for a short period of time. Some could consider this to solidify the Brain of Confusion's place as the DPS version of the Worm Scarf.",
+			[
+				"However, the best of both worlds would be the use of both accessories together, significantly increasing the player's chances of survival, while also improving DPS capability."
+			]
+		],
+    "Its dodge ability stacks with the effect of the Black Belt/Master Ninja Gear and Holy Protection. Together with the Black Belt/Master Ninja Gear, the combined chance to dodge an incoming attack is 1/4 (25%). This can be very useful in Master Mode, especially against the daytime Empress of Light.",
+    "Since Cerebral Mindtrick is a debuff, it can be removed by the Nurse. While this removes the critical strike chance bonus, it allows dodging another attack immediately.",
+    "Since Cerebral Mindtrick also provide summon damage bonus, it is a viable option to summoners."
+	],
+
+	"title": "Brain of Confusion",
+	"max_stack": 1,
+	"tooltip": [
+		"Has a chance to create illusions and dodge an attack",
+		"Temporarily increase critical chance after dodge",
+		"May confuse nearby enemies after being struck"
+	],
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Cerebral Mindtrick",
+			"tooltip": "Increased critical chance",
+			"duration": [{
+				"value": "4 [i:UI:Desktop version] / 5 [i:UI:Console version] [i:UI:Mobile version]",
+				"tip": "seconds"
+			}]
+		}
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Brain of Cthulhu)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

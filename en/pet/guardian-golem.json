@@ -1,0 +1,29 @@
+{
+	"overview": [
+		"The Guardian Golem is a Master Mode-exclusive light pet-summoning item dropped by the Golem, with a 1/4 (25%) drop rate. When used or equipped, it summons a Toy Golem."
+	],
+
+	"title": "Guardian Golem",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a toy golem to light your way",
+		"'Power cells not included.'"
+	],
+	"summon": "Toy Golem",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Toy Golem",
+			"tooltip": "Got myself a crying, talking, sleeping, walking, living idol!"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Golem", "rate": 25, "type": "Boss" }
+		]
+	}
+}

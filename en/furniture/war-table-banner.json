@@ -1,0 +1,24 @@
+{
+	"overview": [
+		"The War Table Banner is a decorative banner obtained by defeating the Dark Mage in the Old One's Army event. During the last Tier 1 wave, it has a 10% chance to drop; during the fourth and sixth Tier 3 waves, it has a 5% chance to drop. The Dark Mage drops 4 banners at a time."
+	],
+
+	"notes": [
+		"The War Table Banner is the only banner that has a width of 2 tiles, rather than 1.",
+    "The War Table Banner cannot be placed underneath platforms."
+	],
+
+	"title": "War Table Banner",
+	"max_stack": 999,
+	"auto_use": true,
+	"placeable": true,
+	"use_time": 15,
+	"rarity": 1,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Dark Mage", "rate": 10, "type": "Boss", "tip": "(Tier 1)" },
+		{ "name": "Dark Mage", "rate": 5, "type": "Boss", "tip": "(Tier 3)" }
+	]
+}

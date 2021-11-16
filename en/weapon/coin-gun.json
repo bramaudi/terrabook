@@ -1,0 +1,61 @@
+{
+	"overview": [
+		"The Coin Gun is a Hardmode ranged weapon that uses coins as ammunition, which cannot be retrieved once fired. Its damage and velocity depend on the type of coin fired. It is dropped very rarely (1/8000 (0.0125%) chance) by Pirate Invasion enemies, excluding the Parrot. The drop rate for the Pirate Captain is quadrupled (1/2000 (0.05%) chance) and quintupled again with the Flying Dutchman (1/400 (0.25%) chance).",
+
+		"The Coin Gun cannot receive any modifiers that increase damage, so the modifier that boosts its DPS the most is Agile (+12% speed, +3% critical strike chance). Zealous (+5% critical strike chance) serves as the most ammo-efficient option, dealing the greatest amount of damage per coin fired.",
+
+		{
+			"meta": ["Ammo", "Damage", "Velocity"],
+			"rows": [
+				["[i:Ammunition:Copper Coin] Copper Coin", 25, 1],
+				["[i:Ammunition:Silver Coin] Silver Coin", 50, 2],
+				["[i:Ammunition:Gold Coin] Gold Coin", 100, 3],
+				["[i:Ammunition:Platinum Coin] Platinum Coin", 200, 4]
+			]
+		}
+	],
+
+	"notes": [
+		"Coins are consumed from the designated coin slots first, then the inventory (from top left to bottom right).",
+		"The Coin Gun is affected by ammo conservation effects such as that of Shroomite armor, the Ammo Box or the Ammo Reservation Potion.",
+		"The Coin Gun itself has 0 damage; all of its damage value comes from the coins fired. All ranged damage bonuses from equipment will be applied to the traits of the coins used to fire it (a Destroyer Emblem will add 8% critical strike chance to the Coin Gun and Gold Coin(s), but will only add the 10% damage to the Gold Coin(s)).",
+		"In Celebrationmk10 [i:UI:Desktop version] worlds, the Coin Gun can be purchased from the Princess for 30 Gold Coins after a Pirate Invasion has been defeated."
+],
+
+	"tips": [
+    "If used with Platinum Coin(s), the Coin Gun is easily one of the most powerful weapons, though it can make combat prohibitively expensive.",
+    "Combining the Greedy Ring or Lucky Coin with the Coin Gun can establish a somewhat infinite supply of ammo, as long as combat is intensive.",
+    "The Coin Gun becomes much more viable in Expert Mode due to the larger volume of coin drops.",
+    "It pairs well with Vortex armor or Shroomite armor as it greatly increases the DPS and reduces coins used.",
+    "The Coin Gun firing Platinum Coin(s) has a similar damage output per shot as the Sniper Rifle, but with nearly five times the fire rate.",
+    "In Journey Mode, the player can duplicate infinite amounts of Gold/Platinum Coin(s) starting with just one Silver Coin, thus making the Coin Gun an extremely powerful weapon for Journey Mode.",
+    "Without taking defense into account, it is more cost-efficient to convert coins to lower denominations for ammo. However, this comes at the cost of a lower damage rate. Because 1,000,000 Copper Coins can be made from a single Platinum Coin, Copper Coin(s) are 125,000 times more resource-efficient than using platinum to achieve the same damage.",
+    "The Coin Gun requires a constant craft of 100 low-tier coins because the pickup of coins can convert the stacks with lower than 100 coins into a higher-tier coin, otherwise it can eventually use unwanted coins. It requires constant attention to the ammunition amount indicated. If there is less than 200 ammo, it can start using Silver, Gold or Platinum Coin(s).",
+		["The Encumbering Stone can be useful to ensure that extra coins are not picked up accidentally over the course of a battle"]
+	],
+
+	"title": "Coin Gun",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 0, "tip": "Ranged" }],
+	"knockback": 2,
+	"critical_chance": 4,
+	"use_time": 8,
+	"velocity": 10,
+	"tooltip": [
+		"Uses coins for ammo",
+		"Higher valued coins do more damage"
+	],
+	"rarity": 6,
+	"sell": [{ "value": 6, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 0.25, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.0125, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.0125, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.0125, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.0125, "type": "Enemy" }
+	]
+}

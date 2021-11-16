@@ -1,0 +1,17 @@
+{
+	"title": "Bee Hat",
+	"max_stack": 1,
+	"rarity": 1,
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 11, "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

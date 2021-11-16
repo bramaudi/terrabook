@@ -1,0 +1,420 @@
+/*! Humbler | Brama Udi @ 12/01/2019 | github.com/bramaudi */
+
+@import url('https://fonts.googleapis.com/css?family=Hind|Oswald');
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	outline: 0;
+	outline: none
+}
+
+*::-moz-focus-inner {
+	border: 0
+}
+
+body {
+	background: #f9a8d4;
+	color: #fff;
+	font-size: 18px;
+	line-height: 1.6;
+}
+
+a {
+	color: #db2777;
+	text-decoration: none
+}
+
+button, input {
+	outline: 0;
+	outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 800;
+	line-height: 1.7
+}
+
+.divider {
+	line-height: 0;
+	width: 30%;
+	margin: 20px auto;
+}
+
+.divider span {
+	display: block;
+	border-top: 1px solid #fff
+}
+
+.hide {
+	display: none;
+}
+
+/* #nav-header */
+#nav-header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#nav-header .nav-list {
+	list-style: none;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#nav-header .trigger {
+	background: #fff;
+	border: none;
+	width: 100%;
+	height: 50px;
+	font-size: medium;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+#nav-header .trigger:active {
+	background: #eee
+}
+
+#nav-header .trigger span {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background: #ec4899;
+	margin: 0 1px;
+	border-radius: 100%;
+	padding: 2px 5px;
+}
+
+#nav-header .trigger span+span {
+	background: #990
+}
+
+#nav-header .trigger span+span+span {
+	background: #090
+}
+
+#nav-header .trigger,
+#nav-header .nav-list li a,
+#nav-header .nav-list li span,
+#nav-header li.search {
+	display: block;
+	padding: 13px;
+}
+
+#nav-header .nav-list li a,
+#nav-header .nav-list li span {
+	background: #fff;
+	border-top: 1px solid #eee;
+	font-family: 'Oswald', sans-serif;
+	font-size: medium;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+#nav-header .nav-list li a:hover {
+	background: #eee;
+}
+
+#nav-header .nav-list li.nav-item-active span {
+	background: #eee;
+	color: #323232;
+}
+
+#nav-header .nav-list li.search {
+	padding: 0;
+	margin-left: auto;
+}
+
+/* Header */
+header {
+	margin-top: 50px;
+	padding-top: 10px;
+	text-align: center;
+	background: #ec4899;
+	background-position: center;
+	background-size: cover;
+}
+
+header .logo {
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin: auto;
+	margin-top: 20px
+}
+
+header .title {
+	display: inline-block;
+	text-shadow: 0 0 5px #000;
+	font-size: 50px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 800;
+	color: #fff;
+}
+
+header .description {
+	text-align: center;
+	padding: 10px 20px;
+	font-family: sans-serif;
+	font-style: italic;
+	color: #fff
+}
+
+header .description::after {
+	display: block;
+	margin: 30px auto 15px;
+	content: '';
+	height: 1px;
+	width: 25%;
+	background: #fff;
+}
+
+.info {
+	padding: 20px;
+	background: #f0f0f0;
+	color: #323232;
+	font-family: sans-serif;
+	text-align: center;
+}
+.info strong {
+	display: block;
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;
+}
+
+/* Post */
+.message {
+	padding: 10px;
+	background: #eee;
+	color: #323232;
+	text-align: center;
+	font-family: 'Hind', sans-serif;
+}
+.post {
+	background: #fff;
+	color: #555;
+	padding: 20px;
+	border-top: 1px solid #eee;
+}
+
+.post .title {
+	color: #444;
+	margin: 10px 0;
+}
+.post .title a {
+	color: #323232;
+	text-decoration: underline;
+}
+
+.post .meta {
+	display: flex;
+	align-items: center;
+	width: 100%;
+}
+
+.post .time {
+	width: 40%;
+	flex: auto;
+	text-align: right;
+	font-size: smaller;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	margin-left: auto;
+	font-family: 'Oswald', sans-serif;
+	color: #888;
+}
+
+.post .content {
+	color: #555;
+	font-family: 'Hind', sans-serif;
+}
+
+.post .comment-link {
+	float: right;
+}
+
+.content blockquote {
+	padding: 15px;
+	padding-left: 15px;
+	background: #f0f0f0;
+	background: linear-gradient(to right, #f0f0f0, #fff);
+	border-left: 5px solid #aaa;
+	margin: 10px 0;
+}
+.content blockquote p {
+	padding: 0;
+	margin: 0;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+	color: #444;
+	margin: 5px 0;
+}
+
+.content hr {
+	border: 1px solid #eee;
+	margin: 20px 0;
+}
+
+.content p {
+	margin: 25px 0;
+}
+
+.content img {
+	max-width: 100%;
+}
+
+.content :not(pre) > code {
+	overflow: auto;
+	background: #ddd;
+	padding: 0 3px;
+	font-size: inherit;
+}
+
+.content ul, ol {
+	padding-left: 20px;
+}
+
+.pagination {
+	background: #eee;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	color: #444;
+}
+
+.pagination h2 {
+	display: none;
+}
+
+.pagination span,
+.pagination a {
+	border: 2px solid #fff;
+	padding: 5px 15px;
+	background: #fff;
+	font-family: 'Oswald', sans-serif;
+	margin: 10px 5px;
+	color: #db2777;
+	display: inline-block;
+}
+
+.pagination span {
+	border-color: #ec4899;
+	background: #ec4899;
+	color: #fff
+}
+
+.pagination a:hover {
+	border-color: #ec4899;
+}
+
+
+/* Footer */
+.categories {
+	padding: 20px;
+	list-style: none;
+	background: #fb84b9;
+	font-family: 'Oswald', sans-serif;
+	color: #222
+}
+.categories ul {
+	list-style: none;
+	font-family: 'Hind', sans-serif;
+}
+.categories li {
+	display: inline-block;
+	margin: 10px 10px 0 0;
+	padding: 5px 10px 2px ;
+	background: #fff;
+}
+
+footer {
+	padding: 20px;
+	text-align: center;
+	background: #b6d8c0a4;
+	color: #222;
+	font-family: sans-serif;
+	font-size: medium
+}
+
+footer b {
+	color: #be185d;
+}
+
+
+
+@media only screen and (min-width: 700px)
+{
+	body {
+		margin: 5% auto;
+		max-width: 700px;
+		border: 7px solid #fce7f3;
+		font-size: 22px;
+		line-height: 1.6;
+	}
+
+	.hide {
+		display: flex !important;
+	}
+
+	#nav-header {
+		position: sticky;
+	}
+
+	#nav-header .trigger {
+		display: none;
+	}
+
+	#nav-header .nav-list {
+		display: flex;
+		width: 100%;
+		background: #fff;
+	}
+
+	#nav-header .nav-list li,
+	#nav-header .nav-list li a {
+		display: inline-block;
+	}
+
+	#nav-header .nav-list li.nav-item-active span {
+		padding-bottom: 10px;
+		border-bottom: 3px solid #fbcfe8;
+	}
+
+	#nav-header li.search {
+		border: none;
+	}
+
+	header {
+		margin: 0;
+		padding: 30px 20px 30px;
+	}
+
+	header .logo {
+		width: 150px;
+		height: 150px;
+	}
+	
+	.post {
+		margin: 0;
+	}
+
+	.post .category a {
+		font-size: x-large;
+		margin-right: 15px;
+	}
+
+	.content blockquote {
+		padding: 5px 30px 5px 35px;
+		border-left: 10px solid #aaa; 
+	}
+}

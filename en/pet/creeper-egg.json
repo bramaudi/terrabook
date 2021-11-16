@@ -1,0 +1,32 @@
+{
+	"overview": [
+		"The Creeper Egg is a Hardmode summoning item that gives the player a Flickerwick light pet. It is dropped by the Ogre during the Old One's Army event. When active, it is similar to the Wisp in a Bottle, where it provides light where ever you go. The summoned Flickerwick has the same movement speed as the player, and cannot be left behind easily."
+	],
+
+	"title": "Creeper Egg",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a pet flickerwick to provide light",
+	"summon": "Flickerwick",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Flickerwick",
+			"tooltip": "A flickerwick is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Ogre", "rate": 20, "type": "Boss", "tip": "(Tier 2)" },
+		{ "name": "Ogre", "rate": 10, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ogre", "rate": 25, "type": "Boss", "tip": "(Tier 2)" },
+			{ "name": "Ogre", "rate": 10, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

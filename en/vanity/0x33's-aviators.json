@@ -1,0 +1,21 @@
+{
+	"overview": [
+		"0x33's Aviators are a vanity item. On Desktop version, Console version, and Mobile version, they can be obtained by defeating the Eye of Cthulhu in Master Mode with any character, while on Switch version and tModLoader version, they can be obtained from the Eye of Cthulhu's Treasure Bag if opened in Expert Mode by a Hardcore character."
+	],
+
+	"title": "0x33's Aviators",
+	"max_stack": 1,
+	"tooltip": [
+		"Enables your inner wingman",
+		"'Great for impersonating streamers!'"
+	],
+	"rarity": 9,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Eye of Cthulhu", "rate": 100, "type": "Boss" }
+		]
+	}
+}

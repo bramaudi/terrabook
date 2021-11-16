@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Bubble Gun is a Hardmode magic weapon that rapid-fires a short-range spread of bubble projectiles. Each shot fires three bubbles. It has a 1/5 (20%) chance of being dropped by Duke Fishron.",
+
+		"Its best modifier is either Masterful for mana conservation or Godly/Demonic for higher damage output. It cannot get the Mythical modifier due to its low mana cost."
+	],
+
+	"tips": [
+		"Its rate of fire, combined with its damage, gives it among the highest magic DPS in Terraria, but it has very short range. Its effectiveness can be further enhanced by utilizing the Ichor debuff, e.g. using the Golden Shower.",
+    "The Bubble Gun has similar function to the Razorpine in single target DPS. The Bubble Gun gives significant higher damage output and slightly more mana efficiency at the cost of range.",
+    "Because of its short range, spread, and lingering bubbles, it is most effective against large bosses that chase their target, like Pumpking."
+	],
+
+	"title": "Bubble Gun",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 70, "tip": "Magic" }],
+	"knockback": 3,
+	"mana": 4,
+	"critical_chance": 4,
+	"use_time": 9,
+	"velocity": 11,
+	"tooltip": "Rapidly shoots forceful bubbles",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "rate": 20, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Duke Fishron)", "rate": 20, "type": "Bag" }
+		]
+	}
+}

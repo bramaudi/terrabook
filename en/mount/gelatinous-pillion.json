@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Gelatinous Pillion is a Hardmode mount-summoning item. When used, it summons a friendly Winged Slime Mount. Similar to the pre-Hardmode Slime Mount, the Winged Slime offers increased jump height, provides boosted movement speed, negates fall damage, and allows continuous auto-jump by holding the <kbd>↷ Jump</kbd> key. It also shares the Slime Mount's abilities to deal damage 40 summon damage to enemies when jumping on them from above, and floating when entering liquids.",
+
+		"The Winged Slime Mount grants 2.66 seconds of flight time, similar to low-tier wings, allowing the player to fly up to a height of 73 tiles, as well as gliding while holding the <kbd>↷ Jump</kbd> key after flight time has been exhausted. It can also hover by holding <kbd>▼ Down</kbd>, similar to the Hoverboard.",
+
+		"The Gelatinous Pillion has a 1/4 (25%) chance of being dropped by Queen Slime in Classic Mode, or a 1/2 (50%) chance of being found in Queen Slime's Treasure Bag."
+	],
+
+	"notes": [
+		"The Winged Slime Mount has a maximum speed of 33 mph on land, 102 mph when falling straight down, and 116 mph when falling diagonally."
+	],
+
+	"tips": [
+		"This mount can essentially be used as wings, as it allows short flight and gliding.",
+		["This means that wings can be somewhat avoided, along with other movement accessories. This can make a lot of room for combat accessories."],
+		"The maximum horizontal speed is greater when in free fall than when moving on land, so it is recommended to keep jumping if trying to maintain maximum speed.",
+		"Exhausting the flight time on the mount's wings will also exhaust the flight time on the player's wings, and vice versa, though mounting/un-mounting before exhausting will allow the player to essentially combine the flight times.",
+		"The Gelatinous Pillion is faster than most sprinting accessories on land, except for the Lightning, Frostspark, and Terraspark Boots, where it moves 1 mph slower.",
+		"Its damage is considered summon damage, so accessories like the Summoner Emblem can increase it further.",
+		"Equipping wings with boost abilities like the Jetpack will allow the player to reach much higher altitudes with the Gelatinous Pillion. This is achieved by holding <kbd>▲ Up</kbd> while flying with the wings and switching to the mount midair, which makes it accelerate upwards dramatically.",
+		"Due to the high fall speed of the mount, and the fact that it does not increase the player's width, it is useful for getting down a hellevator faster."
+	],
+
+	"title": "Gelatinous Pillion",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a rideable Winged Slime mount",
+	"summon": "Winged Slime Mount",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{ "buff": "Winged Slime Mount", "tooltip": "BOING FLAP BOING!" }
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Slime", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Slime)", "rate": 50, "type": "Bag" }
+		]
+	}
+}

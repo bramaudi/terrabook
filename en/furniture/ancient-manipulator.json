@@ -1,0 +1,2279 @@
+{
+	"overview": [
+		"The Ancient Manipulator is an endgame crafting station mainly used to craft items from Luminite and Lunar Fragments."
+	],
+
+	"title": "Ancient Manipulator",
+	"max_stack": 99,
+	"auto_use": true,
+	"placeable": { "wide": 3, "high":3 },
+	"use_time": 15,
+	"tooltip": "Used to craft items from Lunar Fragments and Luminite",
+	"rarity": 10,
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Lunatic Cultist", "rate": 100, "type": "Boss" }
+	],
+
+	"craft": {
+		"used":	[
+			{
+				"result": {
+					"name": "Celestial Sigil",
+					"type": "Boss_Summon"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 20,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Daybreak",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Luminite Arrow",
+					"qty": 333,
+					"type": "Ammunition"
+				},
+				"ingredient": [
+					{
+						"name": "Luminite Bar",
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Luminite Bar",
+					"type": "Bar"
+				},
+				"ingredient": [
+					{
+						"name": "Luminite",
+						"qty": 4,
+						"type": "Ore"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Luminite Bullet",
+					"qty": 333,
+					"type": "Ammunition"
+				},
+				"ingredient": [
+					{
+						"name": "Luminite Bar",
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Lunar Hook",
+					"type": "Hook"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Solar Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 6,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Arcanum",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Bathtub",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 14,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Bed",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 5,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Blaze",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Bookcase",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 20,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"qty": 10,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Brick",
+					"qty": 10,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Candelabra",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 3,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Candle",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Chair",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 4,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Chandelier",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 4,
+						"type": "Furniture"
+					},
+					{
+						"name": "Chain",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Chest",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 8,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 2,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Clock",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 3,
+						"type": "Bar"
+					},
+					{
+						"name": "Glass",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Door",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Dresser",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 16,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Fragment Block",
+					"qty": 5,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Lamp",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					},
+					{
+						"name": "Nebula Brick",
+						"qty": 3,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Lantern",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Mantle",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Piano",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Bone",
+						"qty": 4,
+						"type": "Material"
+					},
+					{
+						"name": "Book",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Sink",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Water Bucket",
+						"type": "Tool"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Sofa",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 2,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Table",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 8,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Toilet",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Work Bench",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Brick",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Phantasm",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Bathtub",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 14,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Bed",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 5,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Bookcase",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 20,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"qty": 10,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Brick",
+					"qty": 10,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Candelabra",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 3,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Candle",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Chair",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 4,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Chandelier",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 4,
+						"type": "Furniture"
+					},
+					{
+						"name": "Chain",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Chest",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 8,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 2,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Clock",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 3,
+						"type": "Bar"
+					},
+					{
+						"name": "Glass",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Door",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Dresser",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 16,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Eruption",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Flare Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Fragment Block",
+					"qty": 5,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Lamp",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					},
+					{
+						"name": "Solar Brick",
+						"qty": 3,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Lantern",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Piano",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Bone",
+						"qty": 4,
+						"type": "Material"
+					},
+					{
+						"name": "Book",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Sink",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Water Bucket",
+						"type": "Tool"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Sofa",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 2,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Table",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 8,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Toilet",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Wings",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Work Bench",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Brick",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Bathtub",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 14,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Bed",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 5,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Bookcase",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 20,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"qty": 10,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Brick",
+					"qty": 10,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Candelabra",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 3,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Candle",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Cell Staff",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Chair",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 4,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Chandelier",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 4,
+						"type": "Furniture"
+					},
+					{
+						"name": "Chain",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Chest",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 8,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 2,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Clock",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 3,
+						"type": "Bar"
+					},
+					{
+						"name": "Glass",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Door",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Dragon Staff",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Dresser",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 16,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Fragment Block",
+					"qty": 5,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Lamp",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					},
+					{
+						"name": "Stardust Brick",
+						"qty": 3,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Lantern",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Piano",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Bone",
+						"qty": 4,
+						"type": "Material"
+					},
+					{
+						"name": "Book",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Plate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Sink",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Water Bucket",
+						"type": "Tool"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Sofa",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 2,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Table",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 8,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Toilet",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Wings",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Work Bench",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Stardust Brick",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Void Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Luminite",
+						"qty": 25,
+						"type": "Ore"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Bathtub",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 14,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Beater",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Bed",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 5,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Bookcase",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 20,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"qty": 10,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Booster",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Brick",
+					"qty": 10,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Candelabra",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 3,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Candle",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Chair",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 4,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Chandelier",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 4,
+						"type": "Furniture"
+					},
+					{
+						"name": "Chain",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Chest",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 8,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 2,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Clock",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 3,
+						"type": "Bar"
+					},
+					{
+						"name": "Glass",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Door",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Dresser",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 16,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Fragment Block",
+					"qty": 5,
+					"type": "Block"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Lamp",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					},
+					{
+						"name": "Vortex Brick",
+						"qty": 3,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Lantern",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Piano",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Bone",
+						"qty": 4,
+						"type": "Material"
+					},
+					{
+						"name": "Book",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Sink",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Water Bucket",
+						"type": "Tool"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Sofa",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 2,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Table",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 8,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Toilet",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Work Bench",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Brick",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			}
+		]
+	}
+}

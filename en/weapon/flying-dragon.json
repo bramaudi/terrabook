@@ -1,0 +1,43 @@
+{
+	"overview": [
+		"The Flying Dragon is a projectile sword which is dropped by Betsy during the Old One's Army event. It shoots crescent-shaped projectiles which travel through blocks and produce light. The projectiles can pierce through four enemies, dissipating after hitting the fifth enemy.",
+
+		"On the Desktop version Desktop version, the projectile will deal half the damage (90) if the player does not have a direct line of sight on it.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+    "The blade's hitbox extends considerably beyond the the blade sprite itself, barely beating out the Breaker Blade in horizontal range by about a pixel, but losing quite a bit in vertical range."
+	],
+
+	"tips": [
+		"Due to its light-emitting, wall-piercing beams, this sword is useful for exploring and finding caves, behaving similarly to the Death Sickle.",
+    "Aiming is slightly easier due to how wide the projectiles are, combining that with high melee speed, one can finish multi-segment bosses such as the Destroyer easily.",
+    "It can be very useful for events due to its powerful attacks, projectiles, and crowd control capabilities.",
+    "Its Hearty Slash is one of the most dangerous projectiles a Selenian can reflect, easily one-shotting characters even at full health."
+	],
+
+	"title": "Flying Dragon",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": "180 [i:UI:Desktop version] / 90 [i:UI:Console version] [i:UI:Mobile version]", "tip": "Magic" }],
+	"knockback": 5.5,
+	"critical_chance": 4,
+	"use_time": 25,
+	"velocity": 17,
+	"tooltip": "Unleashes the heart's energy forward",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Betsy", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Betsy)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"overview": [
+		"The Slime Gun is a novelty weapon that deals no damage. It auto-fires an arc of slime that inflicts the Slime debuff on players, enemies, and NPCs, causing them to drip blue goo for 30 seconds. This effect is purely cosmetic. The Slime Gun can be used limitlessly and does not consume any ammunition or mana. It has a 2/3 (66.67%) chance of being dropped by King Slime.",
+
+		"The Slime Gun cannot be reforged, and therefore cannot have modifiers.",
+
+		"It can be considered a counterpart to the Sparkle Slime Balloon."
+	],
+
+	"notes": [
+		"Unlike the Water Gun, the Slime Gun can autofire. However, the Water Gun has a longer range than the Slime Gun.",
+		"Just like the Water Gun, the Slime Gun cannot be placed on a Weapon Rack but instead on an Item Frame.",
+		"As it is a debuff, the Slime debuff cannot be manually removed."
+	],
+
+	"tips": [
+		"The Slime debuff is effective for locating worms while they are traveling through blocks.",
+		"It can also be used to locate invisible players using the Invisibility Potion or Psycho Knife, or invisible players wearing Shroomite armor or Vortex armor."
+	],
+
+	"title": "Slime Gun",
+	"max_stack": 1,
+	"auto_use": true,
+	"use_time": 12,
+	"tooltip": "Squirts a harmless stream of slime",
+	"rarity": 0,
+	"sell": [
+		{ "value": 30, "type": "silver" }
+	],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Slime",
+			"tooltip": "You are slimy and sticky",
+			"chance": "100%",
+			"duration": [
+				{ "value": 30, "tip": "seconds" }
+			]
+		}
+	],
+	"dropped_by": [
+		{ "name": "King Slime", "qty": 1, "rate": 66.67, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (King Slime)", "qty": 1, "rate": 50, "type": "Bag" }
+		]
+	}
+}

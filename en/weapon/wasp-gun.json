@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Wasp Gun is a Hardmode magic weapon which is dropped by Plantera with a 1/7 (14.29%) chance. It fires 2–4 homing wasp projectiles that ricochet off surfaces, and home in on nearby enemies and deal damage to them. It is essentially an upgraded Hardmode version of the Bee Gun. Wasps deal no knockback.",
+
+		"Its best modifier is Demonic or Deadly for damage output, or Mystic for mana conservation because it cannot get modifiers that affect knockback."
+	],
+
+	"notes": [
+		"Like the bees of the Bee Gun, the wasps will dissipate upon contact with water and lava, but not honey.",
+    "The wasps are not affected by the Hive Pack in any way. This is because they are wasps, and the Hive Pack only affects bees.",
+    "Modifiers that increase its speed have very little positive impact because it deals piercing damage, which limits how often it can hit the same enemy no matter how quickly its projectiles are fired."
+	],
+
+	"tips": [
+		"It may not be very effective against Hardmode enemies due to the low per-wasp damage and high enemy defense, even though the gun is dropped by Plantera.",
+		[
+			"Because of that (and the fact that the wasps pierce, triggering enemy invincibility) it is more useful to not spawn too many of them and switch to a different weapon after casting some.",
+			"[i:UI:Desktop_version] The Wasp Gun ignores up to 10 of the target's defense, which somewhat helps mitigate this problem."
+		],
+		"The Wasp Gun is highly effective for farming money with the Lucky Coin during events. The low per-hit damage results in a larger number of hits, netting more money overall."
+	],
+
+	"title": "Wasp Gun",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 31, "tip": "Magic" }],
+	"knockback": 0,
+	"mana": 10,
+	"critical_chance": 4,
+	"use_time": 18,
+	"velocity": 36,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"overview": [
+		"Luminite is a Hardmode ore dropped exclusively by the Moon Lord in stacks of 70–90 ([e=90–110]). It can be used to craft Luminite Bars, which can then be used to craft several end-game items, like the Solar, Nebula, Vortex, and Stardust tools and armor.",
+
+		"Crafting all items (excluding ammunition) requires a total of 317 Luminite Bars (1,268 Luminite; requires defeating the Moon Lord 15–19 / [e=12–15] times). Crafting all items pertaining to one type of Lunar Fragment (i.e., armor, wings, pickaxe, and hamaxe) requires 68 Luminite Bars (204 Luminite) in addition to 85 of the Lunar Fragment; this requires defeating the Moon Lord only 3 / [e=2-3] times."
+	],
+
+	"notes": [
+		"All items crafted from Luminite produce a faint glow, even with vanity items equipped over them."
+	],
+
+	"tips": [
+		"Selling Void Monoliths nets 17 Gold Coins 50 Silver Coins (233.33%) more than selling the required Luminite or an equivalent number of Luminite Bars."
+	],
+
+	"title": "Luminite",
+	"auto_use": true,
+	"max_stack": 999,
+	"placeable": { "wide": 1, "high": 1 },
+	"use_time": 15,
+	"tooltip": "'A pebble of the heavens'",
+	"rarity": 10,
+	"sell": [{ "value": 30, "type": "silver" }],
+	"research": 100,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "qty": "70-90", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "qty": "90-110", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Luminite Bar", "type": "Bar" },
+				"ingredient": [{ "name": "Luminite", "qty": 4, "type": "Ore" }],
+				"station": [{ "name": "Ancient Manipulator", "type": "Furniture" }],
+				"station_rowspan": 2
+			},
+			{
+				"result": { "name": "Void Monolith", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Luminite", "qty": 25, "type": "Ore" }
+				]
+			},
+			{
+				"result": { "name": "Luminite Brick", "qty": 2, "type": "Block" },
+				"ingredient": [
+					{ "name": "Luminite", "type": "Ore" },
+					{ "name": "Stone Block", "type": "Block" }
+				],
+				"station": [{ "name": "Furnace", "type": "Furniture" }]
+			}
+		]
+	}
+}

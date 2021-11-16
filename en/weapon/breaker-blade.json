@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Breaker Blade is a Hardmode broadsword. It is currently the largest sword in the game, giving it the greatest melee reach of all swords. It has a 1/8 (12.5%) / [e=1/4 (25%)] chance to be dropped by the Wall of Flesh. On Desktop version, Console version, and Mobile version, it will also deal double damage to enemies with over 90% health.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"tips": [
+		"The Breaker Blade fares well as a \"first hit\" weapon for entering combat, as enemies above 90% health will take double damage.",
+		"In tandem with the Feral Claws or an upgrade of it, the Breaker Blade becomes an effective weapon due to it gaining autoswing and even higher knockback. Its knockback will be boosted to the point where enemies can be juggled in midair; on the other hand, this makes it very difficult to hit a target multiple times without chasing them down.",
+		"Due to the Breaker Blade's massive range and relatively high knockback, it is a good choice for use if the player is being swarmed. This can be relatively common during early Hardmode, and gives the player enough time to properly prepare or run away.",
+		"As knockback is multiplied by 1.4 on a critical hit, having modifiers that increase the player's crit chance makes the weapon extremely capable of knocking back enemies.",
+		"Because of its slow swing, the Breaker Blade can hit the same enemy multiple times in a single swing, somewhat compensating for its slow use time. However, its aforementioned knockback makes it unlikely for this to occur unless the enemy is cornered.",
+		"The Breaker Blade's reach is especially useful for gathering Glowing Mushrooms in compact farms."
+	],
+
+	"title": "Breaker Blade",
+	"max_stack": 1,
+	"damage": 43,
+	"knockback": 8,
+	"critical_chance": 4,
+	"use_time": 29,
+	"tooltip": "Deals more damage to unhurt enemies",
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 12.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

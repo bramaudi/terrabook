@@ -1,0 +1,44 @@
+{
+	"overview": [
+		"The Spore Sac is a Hardmode accessory that is obtained from the Treasure Bag dropped by Plantera in Expert Mode. When equipped, it continuously spawns multiple stationary floating spores around the player that act as homing mines. When an enemy comes within range, they slowly swarm the enemy and cause small explosions on contact, dealing about 400 damage over 1 second. Spores have the ability to pass through blocks to reach enemies, and will inflict the Poisoned debuff. They have a small area-effect that can hit multiple targets.",
+
+		"Spores can only spawn near blocks, or on background walls, that are up to 25 tiles away from the player. Flying in open areas (eg. via Wings or Mounts) with no walls or blocks in range will not result in any spores spawned. When spawning near blocks, with no background walls, only a single layer of spores spawns, floating within about 3 tiles of the blocks. On background walls, spores can spawn anywhere in mid-air."
+	],
+
+	"notes": [
+		"Spores home in on enemies within 15 tiles of their position.",
+    "Spores will not actively home in on destructible enemy projectiles or critters, but will explode and cause damage if they happen to make contact with them.",
+    "A maximum of 10 spores can be on-screen at any given time. Spores will also not spawn within 2 tiles of each other.",
+    "Each spore fades after 20 seconds, and is replaced by a new one while a valid area exists in range.",
+    "Spores cannot spawn from within liquids, but spores spawned elsewhere can home in on enemies that are in liquids."
+	],
+
+	"tips": [
+		"Spores spawn slowly and move slowly, but are useful while the player stands still or remains in a small area, and can intercept incoming enemies easily. They are less useful while moving.",
+    "Like most weapons that travel through blocks, spores are especially useful when dealing with enemies that move through blocks, since spores can engage enemies before those enemies can reach the player. This can be especially useful in more confined cave systems, like the Dungeon and Underground Jungle, where players are often attacked through blocks.",
+    "Spores do not seem to trigger the teleportation effect of Hardmode Dark Casters in the Dungeon, thus being an efficient way of killing them.",
+    "Useful for automatically fending off minor attacks while building, or for AFK farms, as the spores will automatically damage enemies and are not hindered by blocks.",
+    "Ice blocks created by the Ice Rod can be used to spawn clusters of spores when in the air without any other blocks or walls."
+	],
+
+	"title": "Spore Sac",
+	"max_stack": 1,
+	"tooltip": "Summons spores over time that will damage enemies",
+	"rarity": "rainbow",
+	"sell": [{ "value": 4, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Poisoned",
+			"tooltip": "Slowly losing life",
+			"chance": "100%",
+			"duration": [{ "value": "5-10", "tip": "seconds" }]
+		}
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

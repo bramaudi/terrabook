@@ -1,0 +1,52 @@
+{
+	"overview": [
+		"The S.D.M.G. (Space Dolphin Machine Gun) is a Hardmode, post-Moon Lord gun. It can be considered an endgame upgrade of the Megashark, with a slightly faster firing rate, a 66% chance not to consume ammunition, and a noticeably higher damage output. Its abilities are also similar to those of the Chain Gun, but it is more precise and deals significantly more damage, though with a slightly slower rate of fire. It has a 1/9 (11.11%) chance to be dropped by the Moon Lord.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"Its 66% chance not to consume ammo stacks with similar bonuses.",
+		["Despite the high chance not to consume ammo, its fire rate can still consume a stack of ammo fairly quickly."],
+		"Shots fired from the S.D.M.G. emit a moderate amount of light for their entire path.",
+		"In the Old-gen console version and 3DS version, the S.D.M.G. is unobtainable without the use of glitching or inventory editing, but functional if edited in. Its stats in these versions are vastly inferior to the stats in the Desktop version, Console version, Mobile version, Switch version, and tModLoader version."
+	],
+
+	"tips": [
+		"The S.D.M.G. pairs well with certain types of bullets:",
+		[
+			"The Luminite Bullets' piercing capabilities complement the S.D.M.G.'s high rate of fire and accuracy for crowd control.",
+			"Using Ichor Bullets is a cheap and powerful alternative to Luminite Bullets. The base damage of 13 in addition to the Ichor debuff makes it a great weapon against powerful enemies such as bosses.",
+			"The high accuracy of the gun allows for the shards of Crystal Bullets to consistently hit large enemies.",
+			"The Chlorophyte Bullets' homing abilities make it easier to hit small targets or dangerous enemies. Additionally, the S.D.M.G.'s ammo conservation helps to conserve resources, because crafting Chlorophyte Bullets is rather costly."
+		],
+		"The stealth mode of the Vortex armor increases the S.D.M.G.'s damage output even more. It is particularly helpful for taking down the Moon Lord.",
+		"Compared to the Vortex Beater, the S.D.M.G. is more accurate. It does not fire a homing missile, however."
+	],
+
+	"title": "S.D.M.G.",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 85, "tip": "Ranged" }],
+	"knockback": 2.5,
+	"critical_chance": 14,
+	"use_time": 5,
+	"velocity": 12,
+	"tooltip": [
+		"66% chance to not consume ammo",
+		"'It came from the edge of space'"
+	],
+	"rarity": 10,
+	"sell": [{ "value": 15, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

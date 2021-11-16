@@ -1,0 +1,57 @@
+{
+	"overview": [
+		"The Last Prism is a Hardmode magic weapon that has a 1/9 (11.11%) chance of dropping from the Moon Lord. It fires several beams of light that converge into one focused beam as it charges, dealing massive damage. It has one of the highest base DPS in the game at the cost of rapidly consuming mana.",
+
+		"The Last Prism projects 6 beams that deal individual damage as they begin to rotate, then spin faster as they converge into one thick beam. This process takes exactly 3.365 seconds, each beam continuing to deal the weapon's full listed damage. The fully-converged beam deals 3 times the listed damage, or 300 damage per hit. Unlike most piercing attacks, the weapon hits 12 times per second (every 5 game ticks). The mana cost will increase sharply as the beam converges.",
+
+		"Due to its high mana cost (72 mana per second; 12 mana 6 times per second when fully charged), players will struggle to maintain the beam for more than 5-6 seconds. Usage of the Mana Flower, Magic Cuffs, Nebula armor, and a large supply of Super Mana Potions with the Last Prism is recommended.",
+
+		"When combining the Last Prism's base damage of 100 with Accessories such as the Celestial Emblem, Sorcerer Emblem, Avenger Emblem, and other damage boosters such as Nebula armor or the clairvoyance buff from the Crystal Ball, it is possible to double the damage output.",
+
+		"Its best modifier is Demonic or Deadly for damage output, or Mystic for mana conservation because it cannot get modifiers that affect knockback."
+	],
+
+	"notes": [
+		"The Last Prism consumes significantly less mana while unfocused. Consider firing in short holds if there is no need for the concentrated beam, such as when facing large enemies or groups.",
+    "While held, the Last Prism's aim works in a sweeping motion, so turn rate is reduced.",
+    "The lifesteal set bonus from the Spectre Hood does not work with the fully charged beam.",
+    "The beam will stop firing after 1 minute of continuous use, but will continue to drain mana. However, this is only achievable with certain setups like using Spikes and Celestial Cuffs, or a Mana flower with many Super Mana Potions. It’s also possible to achieve this by using a Journey Mode character in godmode.",
+    "The Last Prism is the strongest pre-1.4 item but post-1.4 it competes with the Zenith for the strongest weapon.",
+    "The beam partly clips through blocks although does not pass through blocks."
+	],
+
+	"tips": [
+		"Although Super Mana Potions are the only effective way to continuously fire the beam, the Mana Sickness debuff they incur heavily reduces its damage output. If this is not of the player's concern, the Mana Flower can be a helpful asset. If it is, there are quite a few other workarounds:",
+		[
+			"It is also possible to set up statues of enemies with a 1 Second Timer and use minions or traps/lava to kill them. Then using the Celestial Magnet or its upgrades, the player continuously picks up mana Stars. Statues of the Skeleton, Crab, slimes, and other less mobile enemies are recommended.",
+			"One can also use Magic Cuffs (or Celestial Cuffs) while standing on Spikes to fire the beam indefinitely. With a Celestial Stone, this results in very slow life loss, such that one can recover with potions. While not effective against many fast moving bosses, it can be used on events such as the Old One's Army."
+		],
+		"With Nebula armor, an enemy statue farm (provides buffs), magic-boosting accessories, and a proper arena, it is possible to reach 250,000 points in the Pumpkin Moon. A similar effect can be achieved in the Frost Moon.",
+		"With an enemy statue farm, it is possible to use the Last Prism almost infinitely (due to the time limit of using it per hold-click) by collecting the Stars dropped by killed enemies. Star Statues can also help with this.",
+		"With Nebula armor, a Mana Flower, the Crystal Ball buff and Magic Power Potions, the Moon Lord can be defeated far before the 60-second use time of the Last Prism expires.",
+		"It is only recommended using it in open-area combat as the beams can only partly go through solid blocks. The Lunar Flare, another magic weapon dropped by the Moon Lord, serves better for this purpose."
+	],
+
+	"title": "Last Prism",
+	"max_stack": 1,
+	"damage": [{ "value": 100, "tip": "Magic" }],
+	"knockback": 0,
+	"mana": 12,
+	"critical_chance": 4,
+	"use_time": 10,
+	"velocity": 30,
+	"tooltip": "'Fire a lifeform disintegration rainbow'",
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"title": "Brain of Cthulhu",
+	"damage": 30,
+	"maxhp": [
+		{ "value": 1000 },
+		{ "value": 3000, "tip": "with creepers" }
+	],
+	"defense": 14,
+	"kb_resist": 50,
+	"immune": [
+		"Confused"
+	],
+	"coins": [
+		{ "value": 5, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Crimtane Ore", "rate": 100, "qty": "40-90", "type": "Ore" },
+		{ "name": "Bone Rattle", "rate": 5, "type": "Pet" },
+		{ "name": "Lesser Healing Potion", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "Brain of Cthulhu Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Brain of Cthulhu Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": 54,
+		"maxhp": [
+			{ "value": 1700 },
+			{ "value": 5100, "tip": "with creepers" }
+		],
+		"kb_resist": 55,
+		"coins": [
+			{ "value": 12, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Lesser Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Brain of Cthulhu Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Brain of Cthulhu)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Brain of Confusion", "rate": 100, "type": "Accessory" },
+					{ "name": "Brain of Cthulhu Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Crimtane Ore", "rate": 100, "qty": "40-90", "type": "Ore" },
+					{ "name": "Tissue Sample", "rate": 100, "qty": "10-19", "type": "Material" },
+					{ "name": "Bone Rattle", "rate": 5, "type": "Pet" },
+					{ "name": "Gold Coin", "rate": 100, "qty": "1", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": 81,
+		"maxhp": [
+			{ "value": 2167 },
+			{ "value": 6487, "tip": "with creepers" }
+		],
+		"defense": 10,
+		"kb_resist": 60,
+		"drops": [
+			{ "name": "Brain in a Jar", "rate": 25, "type": "Pet" },
+			{ "name": "Brain of Cthulhu Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"damage": 30,
+			"maxhp": 1000,
+			"defense": 14,
+		
+			"expert": {
+				"damage": 54,
+				"maxhp": 1700,
+				"defense": 14,
+				"kb_resist": 55
+			},
+		
+			"master": {
+				"damage": 81,
+				"maxhp": 2167,
+				"defense": 14,
+				"kb_resist": 60
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"overview": [
+		"The Dragon Egg is a Pet summoning item that gives the player a Hoardagron pet. It has a 16.67% / [e=25%] chance to be dropped by the Dark Mage (Tier 1) and a 8.33% chance to be dropped from Dark Mage(T3) during the Old One's Army event."
+	],
+
+	"title": "Dragon Egg",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a pet dragon",
+	"summon": "Hoardagron",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Hoardagron",
+			"tooltip": "A hoardagron is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Dark Mage", "rate": 16.67, "type": "Boss", "tip": "(Tier 1)" },
+		{ "name": "Dark Mage", "rate": 8.33, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Dark Mage", "rate": 25, "type": "Boss", "tip": "(Tier 1)" },
+			{ "name": "Dark Mage", "rate": 8.33, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

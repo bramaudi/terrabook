@@ -1,0 +1,48 @@
+{
+	"overview": [
+		"The Heat Ray is a Hardmode, post-Golem magic weapon that has a 1/7 (14.29%) chance to be dropped by Golem. It auto-fires beams which provide significant illumination and instantaneously strike their targets.",
+
+		"On the Desktop version, Console version, and Mobile version, its beams do not pierce enemies, whereas on the Old-gen console version, 3DS version, Switch version, and tModLoader version, its beams can pierce an infinite number of enemies.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"When wielding the Heat Ray, two fuel tanks will appear on the player's back.",
+
+    ["[i:UI:Console_version] [i:UI:Mobile_version] The fuel tanks override the display of wings when not in flight. However, the display of the Hoverboard overrides the tanks."]
+	],
+
+	"tips": [
+		"The instantaneous speed and perfect accuracy of the Heat Ray's beam makes it particularly effective for dealing with fast, distant, or flying enemies.",
+    "The Heat Ray excels at outputting high damage to single targets, and, despite its lack of homing abilities, is a great weapon for dynamic and fast-moving bosses such as the Empress of Light.",
+    ["While its quick fire rate also makes it a viable weapon for crowd control, the Staff of Earth (another Golem drop) is better suited for such a purpose."]
+	],
+
+	"title": "Heat Ray",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 80, "type": "Magic" }],
+	"knockback": 3,
+	"mana": 8,
+	"critical_chance": 4,
+	"use_time": 10,
+	"velocity": 1.515,
+	"tooltip": [
+		"Shoots a scorching ray of heat",
+		"'Oolaa!!'"
+	],
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

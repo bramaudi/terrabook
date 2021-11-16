@@ -1,0 +1,68 @@
+{
+	"overview": [
+		"King Slime drops each piece separately (1 per kill with a 1:3 chance each), or two pieces from the Treasure Bag it drops in Expert Mode. In the 3DS version version, pieces of the Ninja set can also be acquired from Lepus, but with only a 3% chance.",
+		[
+			"In the Switch version and tModLoader version, it provides very little defense, but increases velocity and damage of throwing weapons.",
+			"In the Desktop version, Console version, and Mobile version, it provides very little defense, but increases crit chance and movement speed.",
+			"In the 3DS version version, it provides no defense, but does have throwing weapon bonuses listed in its stats. However, it does not provide the bonuses listed, and throwing damage is not a separate damage type in these versions.",
+			"In the Old-gen console version, it is merely a vanity item and will provide no bonuses or defense."
+		],
+		"In all versions though, having the full set equipped grants an after-image movement effect, similar to Shadow, Necro, and Cobalt armors."
+	],
+
+	"title": "Ninja armor",
+	"type": ["Armor"],
+	"max_stack": 1,
+	"defense": 9,
+	"set_bonus": "20% increased movement speed",
+	"rarity": 1,
+	"sell": [
+		{ "value": 40, "type": "silver", "tip": "(set)" }
+	],
+
+	"dropped_by": [
+		{ "name": "King Slime", "qty": 1, "rate": 33.33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (King Slime)", "qty": 1, "rate": 67, "type": "Bag" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Ninja Hood",
+			"defense": 2,
+			"slot": "Helmet",
+			"tooltip": "3% increased critical strike chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 20, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Ninja Shirt",
+			"defense": 4,
+			"slot": "Shirt",
+			"tooltip": "3% increased critical strike chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 10, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Ninja Pants",
+			"defense": 3,
+			"slot": "Pants",
+			"tooltip": "3% increased critical strike chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 10, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		}
+	]
+}

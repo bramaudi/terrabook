@@ -1,0 +1,60 @@
+{
+	"overview": [
+		"The Portal Gun is a Hardmode, post-Moon Lord tool which is always dropped by the Moon Lord. It launches projectiles capable of creating up to two portals (one fired by hitting <kbd>⚒ Use / Attack</kbd>, the other by hitting <kbd>⚷ Open / Activate)</kbd> upon impact with blocks. These two portals are linked; any player that touches one will be instantly transported to the other one, without losing momentum. While NPCs can be teleported with the Portal Gun, enemies or projectiles cannot.",
+
+		"The Portal Gun has a maximum range of 675 blocks (1350 feet). It takes about two seconds for the projectile to travel this distance.",
+
+		"While selected, the Portal Gun will alter the player's physics: their maximum fall speed is multiplied by 3.5 (from 51 mph to 179 mph) and horizontal momentum/inertia is kept while in the air. This effect is also applied if the last entity that affected the player's fall was a portal. The extremely fast movement may cause performance losses on some devices."
+	],
+
+	"notes": [
+		"Portals can face up or down, left or right, or diagonal in any direction, and need to have at least three blocks straight in any direction to be applied.",
+    "Despite being a tool, the Portal Gun cannot be placed on a Weapon Rack.",
+    "In multiplayer, all players will have different portal colors so players can differentiate between their portals.",
+    "The Portal Gun alone does not block fall damage, but traveling through a portal will reset fall damage taken.",
+		["However, traveling through a portal does not reset the flight timer, and as such cannot be used for infinite flight, like the Soaring Insignia."],
+    "All hooks are released upon teleporting.",
+    "Teleporting quickly shifts the viewpoint instead of instantly setting it to the destination point if the two portals are within viewable distance of each other.",
+    "Portals are closed/despawned if the player gets around 1600 feet (800 blocks) away from them, dies, or leaves the world.",
+    "A mounted player cannot travel through a portal.",
+		["This trait is shared with derailed players in Minecarts."],
+    "The increased fall speed does not work while riding a mount.",
+    "The effects of touching a block will occur before the player enters a portal. A portal placed on damaging blocks will harm the player, and one placed on Pink Slime Blocks will cause a player to bounce, slowing their fall speed.",
+    "A portal cannot share a tile with another one, hence shooting a portal at a location which overlaps an existing portal will remove that existing portal in favor of the new one.",
+    "Actuating or breaking any tile of the surface a portal is placed on removes the portal.",
+    "Portals can be placed on blocks created by the Ice Rod. They are removed as soon as the supporting blocks shatter.",
+    "It is possible for the player to have two upward-facing portals be placed and stand on one portal to be teleported instantly back and forth between the two portals.",
+    "A portal can be placed in a liquid, but will not cause that liquid to flow through that portal, even if it's linked to another one.",
+    "Portals cannot be created while the player has the Creative Shock debuff inflicted by an active Old One's Army event. They can, however, be placed before the event is triggered.",
+    "In Expert mode, the Moon Lord Treasure Bag will not drop a Portal Gun if the player opening it already has one in their inventory.",
+    "Portals cannot be placed on Anti-Portal Blocks."
+	],
+
+	"tips": [
+		"The increased fall speed can be converted into horizontal movement speed by placing the \"outlet\" portal on a horizontal surface. Falling into a portal at 179 mph results in the extraordinarily high horizontal movement speed of 179 mph (this maneuver is know as 'flinging' in Portal). This can be utilized by equipping high-tier wings and placing the \"outlet\" portal in a high, open area.",
+		["It is possible to apply this conversion of vertical to horizontal velocity to the ridiculous speeds gotten with the Inner Tube. With an ideal set up (that being a water chute with two portals inside at the top, stacked right on top of one another, and entering the water chute at the maximum possible distance without destroying the portals then aligning to the side the portals are on), the player can reach horizontal speeds of at least 514 mph, and with accessories such as the Celestial Starboard and Soaring Insignia, they can maintain the speed and navigate around obstacles (to a degree). However, since the Portal Gun is acquired post-Moon Lord and the setup does take some effort, it is likely to be more of a novelty if a player has other methods of fast travel such as Pylons, which they are likely to have by that point in the game."],
+		"The increased fall speed can also be used to fall through hellevators faster.",
+		"With enough training, players can entirely avoid an enemy's or boss's attack using the Portal Gun, then immediately return to that enemy/boss to continue fighting.",
+		"Grappling on a portal can launch a player depending on the direction of the portal, similar to how doors behave when grappled."
+	],
+
+	"title": "Portal Gun",
+	"max_stack": 1,
+	"auto_use": true,
+	"knockback": 2,
+	"use_time": 20,
+	"velocity": 24,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 100, "type": "Bag", "tip": "when no Portal Gun in inventory" }
+		]
+	}
+}

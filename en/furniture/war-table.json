@@ -1,0 +1,19 @@
+{
+	"overview": [
+		"The War Table is an animated furniture item that is dropped by the Dark Mage during the Old One's Army event. It counts as a flat surface for housing, but has no special functions, and can not be stood upon. During the last Tier 1 wave, it has a 10% chance to drop; during the fourth and sixth Tier 3 waves, it has a 5% chance to drop."
+	],
+
+	"title": "War Table",
+	"max_stack": 999,
+	"auto_use": true,
+	"placeable": { "wide": 5, "high": 4 },
+	"use_time": 15,
+	"rarity": 1,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Dark Mage", "rate": 10, "type": "Boss", "tip": "(Tier 1)" },
+		{ "name": "Dark Mage", "rate": 5, "type": "Boss", "tip": "(Tier 3)" }
+	]
+}

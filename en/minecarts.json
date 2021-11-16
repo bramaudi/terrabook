@@ -1,0 +1,249 @@
+{
+	"overview": [
+		"Minecarts are mounts that allow players to ride on Minecart Tracks. There are currently 25 different Minecarts.",
+
+		"On Desktop version, Console version, Mobile version, Switch version, and tModLoader version, Minecarts need to be equipped in the Minecart equipment slot, overriding the use of the Wooden Minecart. On Old-gen console version and 3DS version, the ordinary Minecart is the default and it cannot be changed.",
+
+		"When the player is near a Minecart Track, pressing the Quick Mount hotkey or pressing the <kbd>⚷ Open / Activate</kbd> key on a point on the track causes a Minecart to spawn, which the player is automatically placed in. Once inside, the <kbd>▶ Right</kbd> and <kbd>◀ Left</kbd> direction keys either accelerate, decelerate, or reverse the cart's movement. The cart will maintain its current speed and direction if no keys are pressed and no obstacles are reached. The cart can also \"jump\" with the <kbd>↷ Jump</kbd> key.",
+
+		"To exit the Minecart (which causes the Minecart to despawn), the player can use a hook, press the <kbd>Quick Mount</kbd> hotkey, or cancel the buff (Desktop version right-clicking the icon, Console version Old-gen console version selecting the icon and canceling it in the equipment menu, Mobile version double-tapping the icon, or 3DS version canceling the buff from the buffs screen). The Minecart will also despawn if the player jumps off the tracks, lands on blocks, and attempts to move sideways.",
+
+		"Upon colliding with an enemy, the Minecart will do damage not amplified by any damage amplifiers. The critical chance used by the collision is equal to the highest critical chance out of the player's Melee, Ranged, or Magic critical chance. Knockback is equal to (5 + 25 * currentSpeed), Damage is equal to (25 + 55 * currentSpeed) unless stated otherwise, modified by the random damage variation.",
+
+		"Weapons and tools, as well as most other items except hooks, can be used while riding a Minecart."
+	],
+
+	"notes": [
+		"With the exception of the default cart given when the player does not have a Minecart equipped, the Mechanical Cart, and the Digging Molecart, all Minecart variants have the same acceleration and max speed.",
+
+		{
+			"meta": ["Type", "Max speed", "Acceleration", "Time to reach max speed"],
+			"rows": [
+				["Digging Molecart", "31 mph <br/> (22.5 tiles/second)", "4.5 tiles/second² <br/> (6 mph/second)", "5 seconds"],
+				["Digging Molecart", "51 mph <br/> (37.5 tiles/second)", "6.75 tiles/second² <br/> (9 mph/second)", "5.56 seconds"],
+				["Digging Molecart", "66 mph <br/> (48.75 tiles/second)", "9 tiles/second² <br/> (12 mph/second)", "5.42 seconds"],
+				["Digging Molecart", "102 mph <br/> (75 tiles/second)", "22.5 tiles/second² <br/> (31 mph/second)", "3.33 seconds"]
+			]
+		}
+	],
+
+	"minecarts": [
+		{
+			"name": "Wooden Minecart",
+			"tooltip": "-",
+			"source": "Press <kbd>Quick Mount</kbd> near (or <kbd>⚷ Open / Activate</kbd>) on a Minecart Track.",
+			"notes": [
+				"Deals (15 + 30 * currentSpeed) damage upon collision.",
+				"This is the default minecart."
+			]
+		},
+		{
+			"name": "Minecart",
+			"tooltip": "Let's ride the rails",
+			"source": "15 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1
+		},
+		{
+			"name": "Mechanical Cart",
+			"tooltip": "-",
+			"source": "[i:Material:Mechanical_Wheel_Piece] + [i:Material:Mechanical_Wagon_Piece] + [i:Material:Mechanical_Battery_Piece] ( @ [i:Furniture:Mythril_Anvil] / [i:Furniture:Orichalcum_Anvil] )",
+			"rarity": 12,
+			"notes": [
+				"Deals (50 + 100 * currentSpeed) damage upon collision.",
+				"Fires lasers at nearby enemies dealing 60 damage each.",
+				"Provides a defense boost that gradually increases depending on its current speed: +2 at a standstill, up to +7 at top speed.",
+				"Expert Mode-exclusive."
+			]
+		},
+		{
+			"name": "Desert Minecart",
+			"tooltip": "-",
+			"source": "​[i:Furniture:Sandstone_Chest] Sandstone Chest",
+			"rarity": 1
+		},
+		{
+			"name": "Minecarp",
+			"tooltip": "Allows quick travel in water'Deal with it'",
+			"source": "Received as a quest reward from the Angler.",
+			"rarity": 1,
+			"notes": [
+				"Does not slow down in water."
+			]
+		},
+		{
+			"name": "Bee Minecart",
+			"tooltip": "-",
+			"source": "​[i:Furniture:Ivy_Chest] Ivy Chest",
+			"rarity": 1,
+			"notes": [
+				"The wings flap."
+			]
+		},
+		{
+			"name": "Ladybug Minecart",
+			"tooltip": "-",
+			"source": "​[i:Furniture:Living_Wood_Chest] Living Wood Chest",
+			"rarity": 1
+		},
+		{
+			"name": "Pigron Minecart",
+			"tooltip": "'Powered by Bacon!'",
+			"source": "​[i:Enemy:Corruption_Pigron] Corruption Pigron",
+			"rarity": 1
+		},
+		{
+			"name": "Sunflower Minecart",
+			"tooltip": "-",
+			"source": "[i:Furniture:Living_Wood_Chest]​ Living Wood Chest",
+			"rarity": 1
+		},
+		{
+			"name": "Demonic Hellcart",
+			"tooltip": "Provides 7 seconds of immunity to lava",
+			"source": "​[i:Furniture:Shadow_Chest] Shadow Chest",
+			"rarity": 1,
+			"notes": [
+				"7 seconds lava immunity.",
+				["The effect stacks with other lava immunity accessories, to a maximum total of 42 seconds."],
+				"Emits glowing purple particles from the eyes at low speeds/when stopped."
+			]
+		},
+		{
+			"name": "Shroom Minecart",
+			"tooltip": "'The shroom goes vroom'",
+			"source": "[i:Furniture:Mushroom Chest] Mushroom Chest",
+			"rarity": 1,
+			"notes": [
+				"Emits very low light."
+			]
+		},
+		{
+			"name": "Amethyst Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Amethyst] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Topaz Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Topaz] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Sapphire Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Sapphire] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Emerald Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Emerald] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Ruby Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Ruby] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Diamond Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Diamond] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Amber Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Large_Amber] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1,
+			"notes": [
+				"Sparkles."
+			]
+		},
+		{
+			"name": "Beetle Minecart",
+			"tooltip": "-",
+			"source": "[i:Minecart:Minecart] + [i:Material:Beetle_Husk] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+			"rarity": 1
+		},
+		{
+			"name": "Meowmere Minecart",
+			"tooltip": "'brrrrrow'",
+			"source": "​​[i:Boss:Moon_Lord] Boss: Moon Lord / Treasure Bag (Moon Lord) [i:Bag:Treasure_Bag_(Moon_Lord)]",
+			"rarity": 10,
+			"notes": [
+				"Emits a rainbow trail. Meows when jumping."
+			]
+		},
+		{
+			"name": "Party Wagon",
+			"tooltip": "'All aboard the party wagon!'",
+			"source": "​[i:NPC:Party Girl] NPC: Party Girl (10 Gold Coins)",
+			"rarity": 1,
+			"notes": [
+				"Emits a multicolored trail. The player is shown holding three balloons that bob up and down."
+			]
+		},
+		{
+			"name": "The Dutchman",
+			"tooltip": "-",
+			"source": "​[i:Boss:Flying_Dutchman] Boss: Flying Dutchman",
+			"rarity": 1,
+			"notes": [
+				"The flag begins fluttering when moving, blowing faster with increasing speed."
+			]
+		},
+		{
+			"name": "Steampunk Minecart",
+			"tooltip": "'Steam powered!'",
+			"source": "[i:NPC:Steampunker] NPC: ​Steampunker (10 Gold Coins)",
+			"rarity": 1,
+			"notes": [
+				"Emits smoke particles, that resemble the smoke of a train.",
+				["The smoke changes color based on the dye applied to it."],
+				"The wheel rotation resembles train wheels."
+			]
+		},
+		{
+			"name": "Coffin Minecart",
+			"tooltip": "-",
+			"source": "5 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] + 10 [i:Material:Rotten_Chunk] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] & Ecto Mist ) <br/> <strong>or</strong> <br/> 5 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] + 10 [i:Material:Vertebra] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] & Ecto Mist )",
+			"rarity": 1
+		},
+		{
+			"name": "Digging Molecart",
+			"tooltip": [
+				"Will dig through blocks and lay new track if carrying minecart tracks",
+				"Only digs when underground"
+			],
+			"source": "[i:NPC:Zoologist] NPC: ​Zoologist (50 Gold Coins)",
+			"rarity": 1,
+			"notes": [
+				"Creates track in front of the player.",
+				["The player must have Minecart Tracks in their inventory."],
+				"Digs through blocks in front of the player.",
+				["The player must have a pickaxe or drill in their inventory."]
+			]
+		}
+	]
+}

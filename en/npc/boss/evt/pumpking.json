@@ -1,0 +1,99 @@
+{
+	"title": "Pumpking",
+	"env": ["Pumpkin Moon"],
+	"damage": [
+		{ "value": 50 },
+		{ "value": 65, "tip": "blades" },
+		{ "value": 80, "tip": "Greek Fire" },
+		{ "value": 120, "tip": "Flaming Scythe" }
+	],
+	"maxhp": 22000,
+	"defense": 36,
+	"kb_resist": 100,
+	"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+	"coins": [
+		{ "value": 5, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "One of the following 8 items may be dropped, Higher item drop chances in later waves",
+			"items": [
+				{ "name": "The Horseman's Blade", "rate": "1.56 - 12.5", "type": "Weapon" },
+				{ "name": "Bat Scepter", "rate": "1.56 - 12.5", "type": "Weapon" },
+				{ "name": "Black Fairy Dust", "rate": "1.56 - 12.5", "type": "Material" },
+				{ "name": "Spider Egg", "rate": "1.56 - 12.5", "type": "Pet" },
+				{ "name": "Raven Staff", "rate": "1.56 - 12.5", "type": "Weapon" },
+				{ "name": "Candy Corn Rifle", "rate": "1.56 - 12.5", "type": "Weapon", "ammo": { "name": "Candy Corn", "qty": "50-100" } },
+				{ "name": "Jack 'O Lantern Launcher", "rate": "1.56 - 12.5", "type": "Weapon", "ammo": { "name": "Explosive Jack 'O Lantern", "qty": "25-50" } },
+				{ "name": "Dark Harvest", "rate": "1.56 - 12.5", "type": "Weapon" }
+			]
+		},
+		{ "name": "Pumpking Trophy", "rate": 100, "type": "Furniture", "tip": "During Wave 15 only" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 75, "tip": "melee" },
+			{ "value": 130, "tip": "blades" },
+			{ "value": 160, "tip": "Greek Fire" },
+			{ "value": 240, "tip": "Flaming Scythe" }
+		],
+		"maxhp": 28600,
+		"coins": [
+			{ "value": 12, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{
+				"note": "One of the following 8 items may be dropped, Higher item drop chances in later waves",
+				"items": [
+					{ "name": "The Horseman's Blade", "rate": "6.25 - 12.5", "type": "Weapon" },
+					{ "name": "Bat Scepter", "rate": "6.25 - 12.5", "type": "Weapon" },
+					{ "name": "Black Fairy Dust", "rate": "6.25 - 12.5", "type": "Material" },
+					{ "name": "Spider Egg", "rate": "6.25 - 12.5", "type": "Pet" },
+					{ "name": "Raven Staff", "rate": "6.25 - 12.5", "type": "Weapon" },
+					{ "name": "Candy Corn Rifle", "rate": "6.25 - 12.5", "type": "Weapon", "ammo": { "name": "Candy Corn", "qty": "50-100" } },
+					{ "name": "Jack 'O Lantern Launcher", "rate": "6.25 - 12.5", "type": "Weapon", "ammo": { "name": "Explosive Jack 'O Lantern", "qty": "25-50" } },
+					{ "name": "Dark Harvest", "rate": "6.25 - 12.5", "type": "Weapon" }
+				]
+			},
+			{ "name": "Pumpking Trophy", "rate": 100, "type": "Furniture", "tip": "During Wave 15 only" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 270 },
+			{ "value": 300, "tip": "Flaming Wood, health ≥ 25%" },
+			{ "value": 450, "tip": "Flaming Wood, health < 25%" },
+			{ "value": 240, "tip": "Greek Fire, health ≥ 25%" },
+			{ "value": 300, "tip": "Greek Fire, health < 25%" }
+		],
+		"maxhp": 19890,
+		"drops": [
+			{ "name": "Pumpkin Scented Candle", "rate": "12.5 - 25", "type": "Pet" },
+			{ "name": "Pumpking Relic", "rate": "50 - 100", "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Pumpking Blade",
+			"damage": 65,
+			"maxhp": 5000,
+			"defense": 14,
+			"kb_resist": 100,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": 130,
+				"maxhp": 10000
+			},
+
+			"master": {
+				"damage": 195,
+				"maxhp": 15000
+			}
+		}
+	]
+}

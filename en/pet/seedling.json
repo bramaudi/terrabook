@@ -1,0 +1,32 @@
+{
+	"overview": [
+		"The Seedling is a pet-summoning item that summons a Pet Sapling that follows the player. If the player flies too high or otherwise moves far enough away from it, it will sprout leaflets and use them to fly with the player, acting as \"wings\". Like all pets on the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, it does not attack enemies, nor does it take damage.",
+
+		"The Seedling has a 1/20 (5%) chance of being dropped by Plantera."
+	],
+
+	"title": "Seedling",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a Pet Sapling",
+	"summon": "Pet Sapling",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Pet Sapling",
+			"tooltip": "A little sapling is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 6.67, "type": "Bag" }
+		]
+	}
+}

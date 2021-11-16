@@ -1,0 +1,52 @@
+{
+	"overview": [
+		"The Goat Skull is a Hardmode mount-summoning item dropped by the Wall of Flesh in Master Mode with a 1/4 (25%) chance to drop. When used, it summons a rideable Goat Mount which allows the mounted player to perform a double jump, similar to the Cloud in a Bottle.",
+
+		"Once a high speed is reached, the Goat Mount leaves a fire trail behind, and from that point on, it will be able to damage enemies on contact. The invulnerability is granted for 1/10th of a second when the player and the Goat Mount dash through an enemy, much like the brief invulnerability after taking damage."
+	],
+
+	"notes": [
+		"The Goat Mount cannot swim. It does not prevent damage from lava.",
+		["If the player has Water Walking Boots, Obsidian Water Walking Boots, or Lava Waders equipped, then the Goat Mount will also walk on water."],
+		"The top running speed of the Goat Mount is 61 mph, reachable in 3.56 seconds. At top speed, it is nearly twice as fast as a player wearing Lightning Boots and is equivalent to the Wisp in a Bottle's top speed. However, the Goat Mount can reach up to 80 mph when falling down after having reached max speed.",
+		"When surpassing 51 mph, the Goat Mount will start dealing damage to enemies and critters it runs into, similarly to the Unicorn Mount and the horse mounts. It will deal 60 base summon damage and inflict a knockback of 10 (Extremely strong).",
+		"The Goat Mount does not benefit from the effect of Asphalt Blocks, making players with Lightning Boots travel slightly faster on these blocks (64 mph with boots and 61 mph on a Goat Mount). The Goat Mount also does not benefit from Swiftness Potions.",
+		"While riding the Goat Mount, the player will be damaged by one-block-deep lava, but not given benefits or slowed down by one-block-deep honey.",
+		"While the player is mounted on the Goat Mount, they will only take 20% fall damage, though they will not take fall damage if they have any accessories that negate fall damage equipped, such as the Lucky Horseshoe or a set of wings, regardless of the height the player fell while on the Goat Mount.",
+		"The Goat Mount makes the player five tiles in height, unlike most other mounts, which only raise the height to four tiles.",
+		"All items providing an extra jump, like the Cloud in a Bottle, will stack with the mount, allowing a triple jump. If a Bundle of Balloons is equipped, it is possible to jump 5 times before hitting the ground.",
+		[
+			"Further adding the Fart in a Jar or upgrades and Tsunami in a Bottle or upgrades allows the player to jump 7 times before hitting the ground.",
+			"When using the double jump, the player has a green and yellow sparkling effect in the mount's trail. The color of the particles created by double jumping, as well as charging, are affected by dyes."
+		],
+		"If the Goat Skull is used during the dash of the Shield of Cthulhu, both the damage from the dash of the Shield and the Goat Mount's charge will be dealt to the enemy."
+	],
+
+	"tips": [
+		"The Goat, Unicorn, and Basilisk Mounts' charge abilities operate the same way sprinting accessories do in terms of momentum. This means that mounting while sprinting, dashing with the Shield of Cthulhu or Tabi, or moving quickly through the use of a canceled grapple will immediately cause the Goat Mount to begin charging, even if the distance covered would normally not be enough to trigger it."
+	],
+
+	"title": "Goat Skull",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a rideable death goat mount",
+		"'Brutal!'"
+	],
+	"summon": "Goat Mount",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Goat Mount",
+			"tooltip": "This ride is totally metal!"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Wall of Flesh", "rate": 25, "type": "Boss" }
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Spooky Twig is a crafting material used solely for crafting Spooky Wings. It has a chance to be dropped by Mourning Wood during the Pumpkin Moon event, with an increasing drop rate as waves progress."
+	],
+
+	"tips": [
+		"Selling the Spooky Wings instead of the individual components will be more profitable. The wings sell for 8 Gold Coins, whereas the components sell for a collective 2 Gold Coins 90 Silver Coins."
+	],
+
+	"title": "Spooky Twig",
+	"max_stack": 99,
+	"rarity": 5,
+	"sell": [{ "value": 2, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Mourning Wood", "rate": "2 - 20", "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Mourning Wood", "rate": "5 - 20", "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Spooky Wings", "type": "Wing" },
+				"ingredient": [
+					{ "name": "Soul of Flight", "qty": 20, "type": "Material" },
+					{ "name": "Spooky Twig", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Chain Gun is a Hardmode, post-Plantera Gun, and is currently the fastest gun to date. It has a 50% chance of not consuming Ammunition, but fires in random directions over a wide spread, similar to the Gatligator. It is dropped semi-rarely (5.55%-12.5% / [e=12.5% - 50%] chance) by Santa-NK1 during the Frost Moon event.",
+
+		"Its best Modifier is Rapid. However, Godly may be preferred to save ammo."
+	],
+
+	"tips": [
+		"Chlorophyte Bullets pair well with the Chain Gun, as their homing ability negates the gun's singular weakness of accuracy.",
+		["Note that it may cause framerate drops on low-end computers, due to its streak effect."],
+		"Crystal Bullets also can deal large amounts of damage to larger, stationary enemies and bosses such as the Golem.",
+		"When forged with the Rapid or Frenzying prefix, the Chain Gun will gain 33% speed. This happens due to rounding down its already insane shooting speed (4 to 3). The Godly prefix is better for players preferring to save ammo, at the cost of slightly less damage.",
+		[
+			"DPS for Godly: <code>DPS=(36+bullet-roundup(def/2))*60/4*1.09</code>",
+			"The DPS for Rapid: <code>DPS=(31+bullet-roundup(def/2))*60/3*1.04</code>"
+		],
+		"[i:UI:Console version] [i:UI:Mobile version] This weapon may be a good option for damaging enemies very quickly to trigger abilities like the Nebula Armor's.",
+		"Because of its absurd rate of fire, the Endless Musket Pouch should be used in regular combat to save your more valuable shots for boss fights.",
+		["This is made especially evident when considering, firing at 15 shots per second means that even a full stack of 999 bullets at 50% ammo consumption will still be entirely used, on average, within 2 minutes and 13 seconds. Considering a stack of chlorophyte bullets needs 17 chlorophyte bars (85 ore, it would need 15 bars (90 ore) on earlier versions), this could be seen as very expensive and impractical or not a full return on investment in terms of time spent obtaining the ammo compared to time utilising the ammo."]
+	],
+
+	"title": "Chain Gun",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 31, "tip": "Ranged" }],
+	"ammo": "Bullets",
+	"knockback": 1.75,
+	"critical_chance": 4,
+	"use_time": 4,
+	"velocity": 14,
+	"tooltip": "50% chance to not consume ammo",
+	"rarity": 8,
+	"sell": [{ "value": 9, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Santa-NK1", "rate": "5.55 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Santa-NK1", "rate": "12.5 - 50", "type": "Boss" }
+		]
+	}
+}

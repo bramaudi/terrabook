@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"The Book of Skulls is a magic weapon that fires slow flaming skull projectiles. Each skull can pierce twice, dissipating on its third enemy impact. The skulls do not ricochet, and disappear upon colliding with objects, but they have a fairly strong homing ability on the Desktop version, Console version, and Mobile version. They also emit a fair amount of light. The Book of Skulls has a 36/343 (10.5%) / [e=1/3 (33.33%)] chance to drop from Skeletron.",
+
+		"A Shadowflame variant of the Book of Skulls is used by the Clothier NPC to protect himself on the Desktop version, Console version, Mobile version, Switch version, and tModLoader version.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"tips": [
+		"Due to its high damage and piercing ability, the Book of Skulls remains a viable weapon through early Hardmode.",
+    "The skulls tend to hit the same enemy multiple times, giving it both good crowd control and single target damage."
+	],
+
+	"title": "Book of Skulls",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 29, "tip": "Magic" }],
+	"knockback": 3.5,
+	"mana": 18,
+	"critical_chance": 4,
+	"use_time": 26,
+	"velocity": 3.5,
+	"tooltip": "Shoots a skull",
+	"rarity": 2,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Skeletron", "rate": 10.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Skeletron)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

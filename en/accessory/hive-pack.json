@@ -1,0 +1,25 @@
+{
+	"overview": [
+		"The Hive Pack is an Expert Mode accessory found in the Treasure Bag dropped by the Queen Bee.",
+		"When equipped, half of all friendly bees created by the caster will appear as larger, more damaging versions. As opposed to a normal bee's potential 1 bonus damage, these more damaging bees can deal up to 1-4 extra damage, and fly noticeably faster. Stronger bees also deal 0.5 knockback (with a 1.1× multiplier), can pierce 3 enemies (instead of normal bees' 2), and last 11 seconds instead of 10. Note that since all sources of strong bees have 0 knockback, the multiplier is never effective.",
+		"It also allows the Bee Gun, Bee Keeper, Honey Comb and its derivative accessories an extra 33% chance to summon an additional bee when used."
+	],
+
+	"notes": [
+		"The Wasp Gun does not receive any benefits from the Hive Pack. This is probably because it fires wasps, not bees, as its name suggests.",
+    "The Hornet Staff does not receive any benefits from the Hive Pack. This is probably because it summons hornets, not bees, as its name suggests."
+	],
+
+	"title": "Hive Pack",
+	"max_stack": 1,
+	"tooltip": "Increases the strength of friendly bees",
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

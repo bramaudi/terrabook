@@ -1,0 +1,175 @@
+{
+	"title": "Duke Fishron",
+	"env": ["Ocean"],
+	"damage": [
+		{ "value": 100 },
+		{ "value": 200, "tip": "when enraged" },
+		{ "value": 80, "tip": "Sharknado" },
+		{ "value": 100, "tip": "Detonating Bubble" }
+	],
+	"maxhp": 50000,
+	"defense": [
+		{ "value": 50 },
+		{ "value": 100, "tip":"when enraged" }
+	],
+	"kb_resist": 100,
+	"immune": ["Confused", "Stunned"],
+	"coins": [
+		{ "value": 25, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "One of the following 5 items will be dropped",
+			"items": [
+				{ "name": "Bubble Gun", "rate": 20, "type": "Weapon" },
+				{ "name": "Flairon", "rate": 20, "type": "Weapon" },
+				{ "name": "Razorblade Typhoon", "rate": 20, "type": "Weapon" },
+				{ "name": "Tempest Staff", "rate": 20, "type": "Weapon" },
+				{ "name": "Tsunami", "rate": 20, "type": "Weapon" }
+			]
+		},
+		{ "name": "Fishron Wings", "rate": 6.67, "type": "Wing" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Duke Fishron Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Duke Fishron Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 140 },
+			{ "value": 280, "tip": "when enraged" },
+			{ "value": 100, "tip": "Sharknado" },
+			{ "value": 150, "tip": "Detonating Bubble" }
+		],
+		"maxhp": 60000,
+		"coins": [
+			{ "value": 62, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"inflict": [
+			{
+				"debuff": "Bleeding",
+				"tooltip": "Cannot regenerate life",
+				"chance": "33%",
+				"duration": [
+					{ "value": "3-10", "tip": "seconds" }
+				]
+			},
+			{
+				"debuff": "Feral Bite",
+				"tooltip": "Increased damage, Decreased life regen, Causes status effects",
+				"chance": "33%",
+				"duration": [
+					{ "value": "3-10", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{ "name": "Duke Fishron Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Duke Fishron)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Shrimpy Truffle", "rate": 100, "type": "Mount" },
+					{ "name": "Duke Fishron Mask", "rate": 14.29, "type": "Vanity" },
+					{
+						"note": "One of the following 5 items will be dropped",
+						"items": [
+							{ "name": "Bubble Gun", "rate": 20, "type": "Weapon" },
+							{ "name": "Flairon", "rate": 20, "type": "Weapon" },
+							{ "name": "Razorblade Typhoon", "rate": 20, "type": "Weapon" },
+							{ "name": "Tempest Staff", "rate": 20, "type": "Weapon" },
+							{ "name": "Tsunami", "rate": 20, "type": "Weapon" }
+						]
+					},
+					{ "name": "Fishron Wings", "rate": 10, "type": "Wing" },
+					{ "name": "Gold Coin", "qty": 25, "rate": 100, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 210 },
+			{ "value": 420, "tip": "when enraged" },
+			{ "value": 150, "tip": "Sharknado" },
+			{ "value": 225, "tip": "Detonating Bubble" }
+		],
+		"maxhp": 76500,
+		"drops": [
+			{ "name": "Pork of the Sea", "rate": 25, "type": "Pet" },
+			{ "name": "Duke Fishron Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"damage": [
+				{ "value": 120, "tip": "second stage" },
+				{ "value": "n/a", "tip": "third stage" },
+				{ "value": 200, "tip": "when enraged" },
+				{ "value": 160, "tip": "Cthulunado" }
+			],
+			"maxhp": [
+				{ "value": 25000, "tip": "start phase2" },
+				{ "value": 50000 }
+			],
+			"defense": [
+				{ "value": 40, "tip": "second stage" },
+				{ "value": "n/a", "tip": "third stage" },
+				{ "value": 100, "tip": "when enraged" }
+			],
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Acid Venom", "On Fire!", "Confused", "Frostburn", "Stunned"],
+
+			"expert": {
+				"damage": [
+					{ "value": 201, "tip": "second stage" },
+					{ "value": 184, "tip": "third stage" },
+					{ "value": 280, "tip": "when enraged" },
+					{ "value": 200, "tip": "Cthulunado" }
+				],
+				"maxhp": [
+					{ "value": 30000, "tip": "start phase2" },
+					{ "value": 60000 }
+				],
+				"defense": [
+					{ "value": 40, "tip": "second stage" },
+					{ "value": 0, "tip": "third stage" },
+					{ "value": 100, "tip": "when enraged" }
+				],
+				"inflict": [
+					{
+						"debuff": "Bleeding",
+						"tooltip": "Cannot regenerate life",
+						"chance": "33%",
+						"duration": [
+							{ "value": "3-10", "tip": "seconds" }
+						]
+					},
+					{
+						"debuff": "Feral Bite",
+						"tooltip": "Increased damage, Decreased life regen, Causes status effects",
+						"chance": "33%",
+						"duration": [
+							{ "value": "3-10", "tip": "seconds" }
+						]
+					}
+				]
+			},
+			"master": {
+				"damage": [
+					{ "value": 302, "tip": "second stage" },
+					{ "value": 277, "tip": "third stage" },
+					{ "value": 420, "tip": "when enraged" },
+					{ "value": 300, "tip": "Cthulunado" }
+				],
+				"maxhp": [
+					{ "value": 38250, "tip": "start phase2" },
+					{ "value": 76500 }
+				]
+			}
+		}
+	]
+}

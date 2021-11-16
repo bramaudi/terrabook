@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Stake Launcher is a Hardmode, post-Plantera repeater-like weapon which auto-fires Stakes as ammunition. Stakes are not affected by gravity, pierce through 9 enemies, hitting a total of 10 enemies, and travel faster than most arrows. On the Desktop version, the Stake Launcher applies a 10% damage penalty to the next hit for each enemy a projectile pierces. The Stake Launcher has a base 14% critical strike chance as opposed to the usual 4%. Additionally, it receives a substantial damage boost of 1000% against Vampires.",
+
+		"The Stake Launcher is dropped by Mourning Wood during the Pumpkin Moon event, and is always accompanied by 30 to 60 Stakes. The rate at which they drop scales based on the wave, starting at 2% from wave 4 and reaching a maximum of 20% during wave 15. Additional stakes are sold by the Witch Doctor and Arms Dealer while the Stake Launcher is in the player's inventory.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+    "The Stake Launcher is considered an arrow-type weapon by the Magic Quiver, Shroomite armor, and Archery Potion, and the Stakes it fires cannot be retrieved. However, it is considered a gun by the Rifle Scope and its upgrades, allowing it to use the zoom function.",
+    "The 1000% damage boost against Vampires is applied to the combined damage of Stake Launcher and Stake after all damage calculations (e.g. armor, accessories, buffs, randomized deviation, etc.) have been completed. However, it is applied before the damage is reduced by the enemy's defense.",
+    "Because of the absurdly high damage dealt to Vampires, the Stake Launcher is prone to setting off anti-cheat measures when used in some multiplayer servers."
+	],
+
+	"tips": [
+		"The Stake Launcher is easily one of the most powerful ranged weapons obtainable, given its extremely high damage (base of 100 with the Stakes), powerful knockback, high velocity, automatic fire, cheap ammunition, and the fact that said ammunition can pierce up to nine times and is not affected by gravity.",
+		["[i:UI:Console version] [i:UI:Mobile version] The only downside would be the fire rate, which is relatively slow in comparison to other high-tier ranged weapons, like the Megashark."],
+		"With the correct setup, the Stake Launcher can deal up to about 5000 damage to vampires. (In 1.4, it can theoretically reach up to 26,000 damage.)",
+		"This weapon is very effective against multi-segmented enemies like worms, as its piercing effect can damage multiple segments."
+	],
+
+	"title": "Stake Launcher",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 75, "tip": "Ranged" }],
+	"ammo": "Stake",
+	"knockback": 6.5,
+	"critical_chance": 14,
+	"use_time": 12,
+	"velocity": 9,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Mourning Wood", "rate": "2-20", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Mourning Wood", "rate": "5-20", "type": "Boss" }
+		]
+	}
+}

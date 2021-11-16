@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Christmas Tree Sword is a Hardmode sword that fires ornament projectiles when swung. It has a chance to drop from Everscreams during the Frost Moon event.",
+
+		"On the Desktop version, Console version, and Mobile version, swinging the Christmas Tree Sword hurls a star ornament projectile in a straight line in the direction of the cursor which releases four randomly colored ornaments on its way. These ornaments move a few tiles, linger in the air for 50 ticks (0.83 seconds), and then become affected by gravity and drop to the ground. They break upon contact with enemies or blocks. All projectiles deal [i:UI:Desktop version] 75% / [i:UI:Console version] [i:UI:Mobile version] 50% of the sword's damage ([i:UI:Desktop version] 64 / [i:UI:Console version] [i:UI:Mobile version] 43 base damage), and the colored ornaments only inflict a quarter of the sword's knockback (1.75 (Very weak)).",
+		
+		"On the Old-gen console version, 3DS version, Switch version, and tModLoader version, swinging the Christmas Tree Sword launches a single ornament in the direction of the cursor which is affected by gravity. It deals 50% of the sword's damage and breaks upon contact with enemies or blocks. Unlike most other late-game swords, the Christmas Tree Sword is not capable of autoswing in these versions.",
+		
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The range of the star projectile is 18.58 tiles. It releases an ornament every 10 ticks (0.167 seconds) and breaks 100 ticks (1.67 seconds) after firing. Unlike the four other ornaments, it does not drop to the ground and instead vanishes in place.",
+    "The first and third ornaments will be released to the right (in the direction of flight) and the second and fourth to the left. Since each consecutive ornament has slightly less range, the five projectiles usually align in a roughly triangular shape.",
+    "[i:UI:Desktop version] Like the North Pole, the Christmas Tree Sword can be used to carpet bomb areas with projectiles. Unlike the North Pole, this sword's projectiles are not affected by wind and do not have a projectile cap. An effective strategy for many events is to use Flasks and rain down projectiles from up high.",
+    "Since most of this sword's damage comes from many smaller projectiles, its damage is significantly enhanced by Ichor or Betsy's Wrath debuffs."
+	],
+
+	"tips": [
+		"The ability to drop Ornaments can be useful during events."
+	],
+
+	"title": "Christmas Tree Sword",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 86,
+	"knockback": 7,
+	"critical_chance": 4,
+	"use_time": 23,
+	"velocity": 5,
+	"tooltip": "Shoots Christmas ornaments",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Everscream", "rate": "3.11 - 7.78", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Everscream", "rate": "6.22 - 31.11", "type": "Boss" }
+		]
+	}
+}

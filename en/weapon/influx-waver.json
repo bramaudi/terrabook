@@ -1,0 +1,64 @@
+{
+	"overview": [
+		"The Influx Waver is a Hardmode, post-Golem broadsword. It fires a sword projectile in a straight line towards the cursor as it is swung. After the projectile successfully makes contact with an enemy or another hostile projectile, it will disappear, but can return up to two more times to attack a nearby enemy, or the same enemy.",
+
+		"The Influx Waver has a 1/6 (16.67%) chance of being dropped by a Martian Saucer during the Martian Madness Event.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The Influx Waver's projectile has the following properties:",
+		[
+			"It travels at about 55 mph and has a maximum range of 5500 tiles. It appears to fluctuate in size and becomes much smaller as it gains distance.",
+			"After hitting an enemy or another projectile, it teleports to three nearby enemies, prioritizing the original target. It does not track teleporting enemies like the Necromancer, nor does it target critters.",
+			"As with all projectiles, it slows down significantly in honey. However, if it hits an enemy in the honey, the returning projectiles travel at normal speed."
+		],
+		"Some fast enemies and bosses are fast enough to move out of the way of the secondary slashes and thus drastically lowering their DPS. This is especially noticeable against the Empress of Light and the second phase of Moon Lord."
+	],
+
+	"tips": [
+		"The sword projectile's teleportation makes the Influx Waver a versatile weapon, suitable for both high-health targets and crowd control."
+	],
+
+	"title": "Influx Waver",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 110,
+	"knockback": 4.5,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 11,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Martian Saucer", "rate": 16.66, "type": "Boss" }
+	],
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

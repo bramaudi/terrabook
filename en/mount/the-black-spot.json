@@ -1,0 +1,47 @@
+{
+	"overview": [
+		"The Black Spot is a mount-summoning item dropped by the Flying Dutchman in Master Mode with a 1/4 (25%) chance. It summons a rideable Pirate Ship Mount which can fly infinitely.",
+
+		"The Pirate Ship Mount has a max horizontal flight speed of [i:UI:Desktop version] 36 mph / [i:UI:Console version] [i:UI:Mobile version] 81 mph, a diagonal speed of [i:UI:Desktop version] 54 mph / [i:UI:Console version] [i:UI:Mobile version] 91 mph, and a vertical speed of 41 mph. In the Desktop version, it moves slightly slower (30 mph) when in a body of water. Upon achieving [i:UI:Desktop version] 20 mph / [i:UI:Console version] [i:UI:Mobile version] 64 mph, a ring of gold particles appears around the player and trails behind the mount, imitating the visual of a sonic boom. Once these particles are displayed, the Pirate Ship Mount begins dealing damage upon ramming enemies."
+	],
+
+	"notes": [
+		"The Pirate Ship Mount deals 100 base summon damage. Like other mounts, this damage can be boosted by items that boost summon damage.",
+    "The Flying Dutchman can be fought before beating any of the mechanical bosses, making the Pirate Ship Mount the only mount with infinite flight obtainable before any Hardmode boss fights.",
+    "While most other mounts are four tiles tall, the Pirate Ship Mount is five tiles tall."
+	],
+
+	"tips": [
+		"[i:UI:Console version] [i:UI:Mobile version] The Pirate Ship Mount is often considered to be among the best mounts in the game, despite being obtainable before any of the mechanical bosses have been defeated. With its high speed, it is a very useful mobility aid, e.g. during boss fights. This speed is only matched by Cute Fishron when boosted.",
+		[
+			"However, its acceleration, turning, and stopping rates are relatively slow, making it less agile than other flying mounts. The acceleration also makes its ramming capabilities difficult to utilize. Other mounts, such as the Witch's Broom or UFO Mount (both have an acceleration of 49 mph/second, compared to the Pirate Ship Mount's 37 mph/second), may be more suited e.g. for dodging incoming attacks.",
+			["One can also quickly dismount then remount to dodge attacks, as vertical acceleration by falling is rather high."]
+		],
+		"Obtaining The Black Spot prior to defeating a mechanical boss is a challenging (given the difficulty of the Master Mode, early-Hardmode Pirate Invasion) but rewarding task. See Pirate Invasion § Tips and Guide:Defending against events for tips.",
+		"It is advisable to remove mobility accessories when using the mount, as they will not boost its movement."
+	],
+
+	"title": "The Black Spot",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons the Black Spot mount",
+		"'Arrr! This be mutiny!'"
+	],
+	"summon": "Pirate Ship Mount",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Pirate Ship Mount",
+			"tooltip": "You're the captain now"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Flying Dutchman", "rate": 25, "type": "Boss" }
+		]
+	}
+}

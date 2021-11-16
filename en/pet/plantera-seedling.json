@@ -1,0 +1,31 @@
+{
+	"overview": [
+		"The Plantera Seedling is a Master Mode-exclusive pet dropped by Plantera with a 1/4 (25%) chance. Upon use, it summons a Plantera Seedling pet.",
+
+		"It is not to be confused with the Mud Bud, which spawns a different pet and is instead sold by the Zoologist after defeating Plantera."
+	],
+
+	"title": "Plantera Seedling",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a newly sprouted Plantera",
+		"'Get to the root of the problem.'"
+	],
+	"summon": "Plantera Seedling",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Plantera Seedling",
+			"tooltip": "What exactly does it eat, anyway?"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Plantera", "rate": 25, "type": "Boss" }
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"overview": [
+		"The Bone Rattle is a pet item which summons a Baby Face Monster. The Bone Rattle has a 5% (1/20) chance of being dropped by Brain of Cthulhu or its Treasure Bag in Expert Mode. When the player is flying or far away, the baby Face Monster will appear to hold onto a flying Crimera-like creature to catch up to the player."
+	],
+
+	"title": "Bone Rattle",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a Baby Face Monster",
+	"summon": "Baby Face Monster",
+	"rarity": 3,
+	"sell": [{ "value": 7, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Baby Face Monster",
+			"tooltip": "A baby face monster is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Brain of Cthulhu", "rate": 5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Brain of Cthulhu)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

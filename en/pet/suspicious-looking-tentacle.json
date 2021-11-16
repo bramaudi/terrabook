@@ -1,0 +1,39 @@
+{
+	"overview": [
+		"The Suspicious Looking Tentacle is a Hardmode light pet summoning item obtained from the Moon Lord's Treasure Bag in Expert Mode. It summons the Suspicious Looking Eye, a small tentacled eye that provides light and follows the player.",
+
+		"In addition to providing light, the Suspicious Looking Tentacle senses nearby NPCs, enemies, treasure (Pots, Chests, etc.), and ores within a 17-tile radius. This is shown via its pupil and iris pointing in the direction of the entity sensed, as well as expanding for treasure and contracting for enemies. The eye will also sparkle when nearby ores and treasure are detected."
+	],
+
+	"notes": [
+		"The Suspicious Looking Tentacle cannot detect any enemy in an invulnerable period or state. This includes Granite Golems, Jellyfish, Granite Elementals, and Biome Mimics."
+	],
+
+	"tips": [
+		"The Suspicious Looking Tentacle is one of the three light pets that provide the most light, the others being the Wisp in a Bottle and Fairy Princess. The Suspicious Looking Tentacle is generally considered better since it exposes nearby treasure and enemies. However, it lacks the Wisp's ability to move around the screen based on the player's direction input. Furthermore, it may have a hard time keeping up with the player at high speeds, whereas the Wisp can teleport to the player."
+	],
+
+	"title": "Suspicious Looking Tentacle",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Calls upon a suspicious looking eye to provide light",
+		"'I know what you're thinking....'"
+	],
+	"summon": "Suspicious Looking Eye",
+	"rarity": "rainbow",
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Suspicious Looking Eye",
+			"tooltip": "A suspicious looking eye that provides light"
+		}
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

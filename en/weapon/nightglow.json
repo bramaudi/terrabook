@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Nightglow is a Hardmode, post-Plantera magic weapon that has a 1/4 (25%) chance to be dropped by the Empress of Light. When fired, four rainbow crystals emerge from the player and home in on nearby enemies.",
+
+		"Each of the rainbow crystals can pierce enemies and hit three times, resulting in high potential damage, but loses 20% of damage for each enemy struck.[1] However, since they spawn in random directions from the player and are destroyed if they collide with obstacles, it can be difficult to use this weapon in confined spaces.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"The weapon is visibly held by the player when selected, and provides light."
+	],
+
+	"title": "Nightglow",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 50, "tip": "Magic" }],
+	"knockback": 2.5,
+	"mana": 23,
+	"critical_chance": 4,
+	"use_time": 36,
+	"velocity": 34,
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

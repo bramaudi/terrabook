@@ -1,0 +1,70 @@
+{
+	"overview": [
+		"The Lesser Healing Potion is a healing item that restores 50 health when used. As its name suggests, it heals the least amount of health of all Healing Potions.",
+
+		"In addition to being crafted, Lesser Healing Potions can also be found naturally in pots (only before Hardmode), generated chests, and dropped by most pre-Hardmode bosses.",
+
+		"Lesser Healing Potions can also be purchased for 3 Silver Coins from the Merchant, or from the Skeleton Merchant during moon phases 2, 4, 6, and 8: Moon phase 2 (Waning Gibbous) Moon phase 4 (Waning Crescent) Moon phase 6 (Waxing Crescent) Moon phase 8 (Waxing Gibbous)",
+
+		"Naturally-placed Lesser Healing Potions appear frequently on platforms in the Dungeon (along with Lesser Mana Potions). When encountered in placed form, they function as Placed Bottle crafting stations. They also show the \"bottle\" tooltip on the map. They can be freed with a pickaxe or drill and retrieved, but they cannot be placed by the player."
+	],
+
+	"title": "Lesser Healing Potion",
+	"heals": 50,
+	"max_stack": 30,
+	"use_time": 17,
+	"rarity": 0,
+	"buy": [
+		{ "value": 3, "type": "silver" }
+	],
+	"sell": [
+		{ "value": 60, "type": "copper" }
+	],
+	"research": 30,
+
+	"dropped_by": [
+		{ "name": "Brain of Cthulhu", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Chest", "qty": "3-5", "rate": 50, "type": "Furniture" },
+		{ "name": "Eater of Worlds", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Eye of Cthulhu", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "King Slime", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Pearlwood Crate", "qty": "5-15", "rate": 16.67, "type": "Bag" },
+		{ "name": "Skeletron", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Wooden Crate", "qty": "5-15", "rate": 16.67, "type": "Bag" }
+	],
+
+	"craft": {
+		"recipe": [
+			{
+				"result": {
+					"name": "Lesser Healing Potion", "qty": 2, "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Mushroom", "type": "Potion" },
+					{ "name": "Gel", "qty": 2, "type": "Material" },
+					{ "name": "Bottle", "qty": 2, "type": "Furniture" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		],
+
+		"used": [
+			{
+				"result": {
+					"name": "Healing Potion", "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Lesser Healing Potion", "qty": 2, "type": "Potion" },
+					{ "name": "Glowing Mushroom", "type": "Block" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

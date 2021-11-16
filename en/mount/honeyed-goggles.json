@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Honeyed Goggles is a mount-summoning item that summons a friendly Bee Mount that the player can ride. It has a 5% / 11% chance to drop from Queen Bee.",
+
+		"While the Bee Mount is slow on the ground, it is capable of flying and will greatly increase in speed while doing so. While flying, the player's vertical speed is kept constant. It can fly in the air for 10 seconds before it enters a \"tired\" state, during which it slows and glides down. The glide can be accelerated using the <kbd>▼ Down</kbd> key. Afterwards, it requires a 3-second rest period on the ground in order to begin flying at full speed again. If the player takes off again immediately after landing an exhausted bee, it will fly, but much slower than usual. Its rest period is indicated by a \"heavy breathing\" animation that stops when the Bee Mount is fully recovered."
+	],
+
+	"notes": [
+		"Like the UFO mount summoned by the Cosmic Car Key, the bee will disappear if submerged in liquid, and cannot be re-summoned until the liquid is exited.",
+    "If the player has any item that allows them to walk on water, the mount will be able to walk on water as well.",
+    "The bee's flight time is increased by boosts to the players' remaining flight/jump time. This includes additional jumps such as those added by the Bundle of Balloons.",
+    "The bee's flying speed reaches 31 mph when flying forward, 41 mph flying upwards and 51 mph flying diagonally, according to the Stopwatch. Its walking speed is only 10 mph.",
+    "This mount can be equipped and unequipped for longer flight time."
+	],
+
+	"tips": [
+		"If combined with several accessories that increase flight time (like Cloud in a Balloon), it is capable of reaching Floating Islands, even on large worlds.",
+    "The Honeyed Goggles is an incredibly useful mount to acquire early in the game as the flight can help traverse the terrain and help in avoiding damage from bosses and other enemies.",
+    "Paired with a Featherfall Potion, the Honeyed Goggles can be an equivalent to pre-Hardmode wings for traversing, especially useful for boss fights."
+	],
+
+	"title": "Honeyed Goggles",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a rideable Bee mount",
+	"summon": "Bee Mount",
+	"rarity": 8,
+	"sell": [{ "value": 8, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Bee Mount",
+			"tooltip": "BzzzBzzBZZZZBzzz"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 11, "type": "Bag" }
+		]
+	}
+}

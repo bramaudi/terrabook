@@ -1,0 +1,94 @@
+{
+	"overview": [
+		"Crystal Assassin armor is an armor set which consists of the Crystal Assassin Hood, Crystal Assassin Shirt, and the Crystal Assassin Pants. The armor set grants non-class-specific bonuses. It is obtained from Queen Slime; she always drops one piece / two pieces upon defeat.",
+
+		"A full set of Crystal Assassin armor provides the following benefits:",
+
+		[
+			"+36 defense",
+			"+15% damage",
+			"+15% critical strike chance",
+			"[i:UI:Desktop_version] +20% / [i:UI:Console_version] [i:UI:Mobile_version] +25% movement speed",
+			"[i:UI:Desktop_version] -10% mana cost",
+			"[i:UI:Desktop_version] +10% ammo conservation",
+			"[i:UI:Desktop_version] +10% melee speed",
+			"[i:UI:Desktop_version] Ability to dash"
+		]
+	],
+
+	"tips": [
+		"Due to its respectable defense and stat bonuses, this is a viable alternative to Hardmode ore sets, especially for those who do not wish to grind for resources.",
+    "It works well with the Nimbus Rod, Clinger Staff, and Queen Spider Staff since it boosts their damage output without sacrificing bonuses to melee or ranged weapons.",
+    "In Classic Mode, Crystal Assassin armor's dash is the only dash effect that is accessible before defeating Plantera.",
+    "In Expert Mode, the dash may be used as a replacement for the Shield of Cthulhu or Master Ninja Gear, freeing up an accessory slot. If this slot is used for an offensive accessory like an emblem, Crystal Assassin armor effectively provides higher offensive bonuses than Adamantite or Titanium armor, which cannot achieve the same level of offense without sacrificing the dash. However, the lack of maximum mana bonus might make this a less attractive choice for mages.",
+    "The dash provided by Crystal Assassin armor is often better than the Shield of Cthulhu's dash, since it covers a greater distance and will not be interrupted by contact with an enemy if a Cobalt Shield is equipped. There are many situations where accidentally bumping into an enemy can be extremely undesirable, notably when fighting Plantera or Skeletron Prime.",
+    "On the Console version and Mobile version, Crystal Assassin armor is statistically similar to the melee variant of Mythril armor, though it provides slightly higher critical strike chance and movement speed."
+	],
+
+	"title": "Crystal Assassin armor",
+	"max_stack": 1,
+	"defense": 36,
+	"set_bonus": [
+		"Allows the ability to dash",
+		"10% increased damage and critical strike chance"
+	],
+	"rarity": 5,
+	"sell": [
+		{ "value": 6, "type": "gold", "tip": "(set)" }
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Slime", "qty": 1, "rate": 33.33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Slime)", "qty": 1, "rate": 67, "type": "Bag" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Crystal Assassin Hood",
+			"defense": 12,
+			"slot": "Helmet",
+			"tooltip": [
+				"5% increased critical strike chance",
+				"Reduces mana usage by 10%"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Crystal Assassin Shirt",
+			"defense": 14,
+			"slot": "Shirt",
+			"tooltip": [
+				"5% increased damage",
+				"Reduces ammo usage by 10%"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Crystal Assassin Pants",
+			"defense": 10,
+			"slot": "Pants",
+			"tooltip": [
+				"20% increased movement speed",
+				"10% increased melee speed"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		}
+	]
+}

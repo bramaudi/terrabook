@@ -1,0 +1,22 @@
+<article>
+	{% for post in postslist | reverse %}
+		<div class="post">
+			<div class="meta">
+				{% for tag in post.data.tags | filterTagList %}
+					{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+					<a href="{{ tagUrl | url }}">{{ tag }}</a>
+				{% endfor %}
+				<time class="time" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+			</div>
+			<h2 class="title" rel="bookmark" title="{% if post.data.title %}{{ post.data.title }}{% else %}{{ post.url }}{% endif %}">
+				<a href="{{ post.url | url }}">
+					{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+				</a>
+			</h2>
+			<div class="content">
+				<p>{{ post.data.description }}</p>
+				{# <a href="#" class="comment-link">0 Komentar</a>  #}
+			</div>
+		</div>
+	{% endfor %}
+</article>

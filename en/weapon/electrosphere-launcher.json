@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Electrosphere Launcher is a Hardmode, post-Golem launcher that fires rockets to the position of the cursor, then forms an energy-emanating ball of constant damage for approximately 8 seconds. An infinite number of electrospheres can be summoned, but they cannot overlap.",
+
+		"The Electrosphere Launcher has a 1/6 (16.67%) chance to be dropped by the Martian Saucer during the Martian Madness event.",
+		
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The Electrosphere Launcher will only inherit the stats of the rocket used and not any special effect.",
+    "The rocket explodes at either the location of the cursor when fired, at any block in between the player and that location, or at any enemy it hits."
+	],
+
+	"tips": [
+		"The Electrosphere Launcher is very good for handling large groups of enemies, like often encountered during events, or stationary opponents.",
+    "This weapon is comparable to the Sky Dragon's Fury. While the Sky Dragon's Fury fires more rings of electricity and does not use ammunition, the Electrosphere Launcher does more damage and lasts longer."
+	],
+
+	"title": "Electrosphere Launcher",
+	"max_stack": 1,
+	"damage": [{ "value": 60, "tip": "Ranged" }],
+	"ammo": "Rockets",
+	"knockback": 2,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 12,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Martian Saucer", "rate": 16.66, "type": "Boss" }
+	]
+}

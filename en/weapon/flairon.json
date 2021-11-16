@@ -1,0 +1,47 @@
+{
+	"overview": [
+		"The Flairon is a Hardmode melee weapon that auto-fires a ball-and-chain that is shaped like a Duke Fishron head about 25 tiles from the player, and releases homing bubble projectiles that damage enemies. The Flairon has a 1/5 (20%) chance of being dropped by Duke Fishron.",
+
+		"The Flairon is a launched flail, and while it has the appearance of a normal flail, it is more similar in function to the Chain Knife, the KO Cannon, or the Golem Fist. It is not affected by gravity, does not remain deployed when holding the <kbd>⚒ Use / Attack</kbd> button, and cannot be swung around. Rather, holding the <kbd>⚒ Use / Attack</kbd> button causes it to auto-fire repeatedly, returning and re-firing when it impacts or reaches its maximum range.",
+		
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"The Flairon will emit a bubble every 1/15th of a second while it is out.",
+    "Like most projectiles, the Flairon moves slower in liquids. However, as it emits bubbles while deployed, increasing the time it remains extended also increases its damage output.",
+    "In the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, the Flairon's bubbles will not inflict debuffs, do not carry fire effects from the Magma Stone, its derivatives, or the Frost armor set bonus, and do not trigger the Hallowed armor's set bonus. The head, however, will carry all of these.",
+    "Without modifiers, the head travels at a speed of 102 mph. This can be seen by using a Mechanical Cart (which travels at 102 mph according to the Stopwatch), and firing the direction opposite of where the player is going.",
+    "The Flairon and its projectiles can go through one-block-thick walls. By flying against the wall in an up-and-down pattern and holding the <kbd>⚒ Use / Attack</kbd> button, the Flairon will sometimes go through the wall.",
+		["Simply standing right against the wall and firing as straight as possible into it will also work. This is best accomplished in the Console version, as it has a \"non-cursor mode\", which makes projectiles automatically home."]
+	],
+
+	"tips": [
+		"In order to maximize the damage output, it is beneficial to try and run away from the direction the Flairon is thrown in.",
+    "Because the Flairon produces the bubbles while it is being swung, it is more effective if aimed slightly away from desired targets. The bubbles do the same amount of damage as the main projectile but have the additional bonus of homing and frequency.",
+    "On the Old-gen console version and 3DS version, the Flairon is one of most powerful melee weapons available. On the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, it is outclassed by the Solar Eruption, although its homing abilities make it useful in the endgame. On the Desktop version, Console version, and Mobile version, it is heavily outclassed by the Zenith, the final weapon in the game."
+	],
+
+	"title": "Flairon",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": 66,
+	"knockback": 4.5,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 14,
+	"tooltip": "Spews homing bubbles",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "rate": 20, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Duke Fishron)", "rate": 20, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"overview": [
+		"The Hive Wand places Hives as blocks, which otherwise cannot be placed. Hives must be in the player's inventory in order to place them. It has a 1/3 (33.33%) chance to be dropped by Queen Bee.",
+
+		"Mining a Hive block placed with the Hive Wand is the same as mining a naturally generated one, hence it can spawn Bees or honey."
+	],
+
+	"title": "Hive Wand",
+	"max_stack": 1,
+	"auto_use": true,
+	"placeable": true,
+	"use_time": 15,
+	"tooltip": "Places Hives",
+	"rarity": 1,
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 1
+}

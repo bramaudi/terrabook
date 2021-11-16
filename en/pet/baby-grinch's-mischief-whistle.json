@@ -1,0 +1,29 @@
+{
+	"overview": [
+		"The Baby Grinch's Mischief Whistle is a pet summoning item which summons a pet Baby Grinch that follows the player around. Baby Grinch's Mischief Whistle has a 1/15 (6.67%) chance of being dropped by Ice Queen during the later waves of the Frost Moon event."
+	],
+
+	"title": "Baby Grinch's Mischief Whistle",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a Baby Grinch",
+	"summon": "Baby Grinch",
+	"rarity": 3,
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Baby Grinch",
+			"tooltip": "A baby grinch is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Ice Queen", "rate": "0.95 - 1.67", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ice Queen", "rate": "3.33 - 6.67", "type": "Boss" }
+		]
+	}
+}

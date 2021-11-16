@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Nettle Burst is a Hardmode magic weapon that fires a 24-tile-long snaking vine projection that lingers for several seconds, traveling through blocks and infinitely piercing enemies. It is an upgrade of the Vilethorn and Crystal Vile Shard, having a 1/7 (14.29%) chance to be dropped by Plantera.",
+
+		"The Nettle Burst scores a rapid succession of up to 9 hits on enemies (compared to the Vilethorn's 7 hits). Each hit delivers the weapon's full damage, or over 250 damage total on any enemy that remains in its affected area for its full duration.",
+
+		"Like the Vilethorn, the Nettle Burst produces minuscule knockback for each of its rapid hits. This tends to have the effect of nearly freezing enemies in place for the duration of each swing. Enemies that are immune to knockback do not have their movement impeded.",
+
+		"[i:UI:Desktop_version] Like the Crystal Vile Shard, the Nettle Burst ignores up to 10 of the target's defense.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"tips": [
+		"Its ability to pass through solid blocks and pierce unlimited enemies allows players to wall themselves off from most threats and still deal damage, or hit worm-type enemies while they are inside walls. Its infinite piercing property is also useful against enemies with multiple parts or minions, such as The Destroyer.",
+    "Compared to the Vilethorn, the Nettle Burst deals a little over twice damage, affects an area twice as long, lingers for a slightly longer period, and has a slightly faster use time. Due to the way defense and damage reduction work, however, this doubling in damage results in significantly more damage against Hardmode enemies that would otherwise reduce the Vilethorn's damage to 1."
+	],
+
+	"title": "Nettle Burst",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 35, "tip": "Magic" }],
+	"knockback": 1,
+	"mana": 12,
+	"critical_chance": 4,
+	"use_time": 25,
+	"velocity": 32,
+	"tooltip": "Ignores 10 points of enemy Defense",
+	"rarity": 7,
+	"sell": [{ "value": 4, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

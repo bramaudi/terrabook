@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Laser Rifle is a Hardmode magic weapon that auto-fires violet lasers which penetrate up to two enemies and emit moderate light. It has a 1/8 (12.5%) / [e=1/4 (25%)] chance to be dropped by the Wall of Flesh. Despite its name, it does not count as a gun, cannot receive ranged weapon modifiers, and will not fulfill the requirements for the Arms Dealer to move in. The Laser Rifle can be considered an upgrade of the Space Gun, although the set effect of Meteor armor does not apply to it.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"tips": [
+		"The Laser Rifle is a fairly powerful weapon against worms due to its penetration abilities and high fire rate, making good use of the time worms spend above ground, though the Megashark with endgame bullets will have higher DPS.",
+    "This weapon is fairly mana-efficient.",
+    "While it deals relatively low damage, its high fire rate can allow it to remain useful even until mid-Hardmode."
+	],
+
+	"title": "Laser Rifle",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 29, "tip": "Magic" }],
+	"knockback": 2.5,
+	"mana": 8,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 85,
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 12.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

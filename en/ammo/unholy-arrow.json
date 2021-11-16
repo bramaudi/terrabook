@@ -1,0 +1,58 @@
+{
+	"overview": [
+		"Unholy Arrows are a type of arrow. Compared to the Wooden Arrows used to craft them, they are stronger and have a piercing effect, allowing each arrow to hit up to five enemies. Against multi-section monsters, a single Unholy Arrow can damage multiple sections.",
+
+		"In addition to being crafted, Unholy Arrows are dropped by the Eye of Cthulhu, but only in worlds that generated with Corruption. Furthermore, they can be purchased from the Arms Dealer at night for 40 Copper Coins once the Eater of Worlds or Brain of Cthulhu has been defeated. After activating Hardmode, they become available during the day as well."
+	],
+
+	"notes": [
+		"The Unholy Arrow's piercing is weaker than the Jester's Arrow, which can pierce an unlimited amount of enemies.",
+
+		[
+			"The damage penalty after each piercing is smaller in the case of Unholy Arrows (5% as opposed to 10%).",
+			"Unlike the Jester's Arrow, Unholy Arrows do not automatically break after a certain amount of air time."
+		],
+
+		"Due to requiring Worm Teeth, which only drop from Devourers and have no Crimson equivalent, Unholy Arrows are not possible to craft in worlds that generate with Crimson without transferring materials (ideally Worm Teeth) from a world with The Corruption. However, it is possible to purchase them from the Arms Dealer even on Crimson worlds.",
+
+		[
+			"The Dryad sells Corrupt Seeds in a Graveyard biome, letting players create an artificial Corruption on Crimson worlds. By spreading Corruption, it is possible to obtain Worm Teeth. However, this method might be impractical, as it could be bought anyway from the Arms Dealer."
+		]
+	],
+
+	"title": "Unholy Arrow",
+	"max_stack": 999,
+	"damage": 12,
+	"knockback": 3,
+	"velocity": 3.4,
+	"rarity": 1,
+	"buy": [{ "value": 40, "type": "copper" }],
+	"sell": [{ "value": 8, "type": "copper" }],
+	"research": 99,
+
+	"dropped_by": [
+		{ "name": "Eye of Cthulhu", "qty": "20-50", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "qty": "20-50", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Unholy Arrow", "qty": 5, "type": "Ammunition" },
+				"ingredient": [
+					{ "name": "Wooden Arrow", "qty": 5, "type": "Ammunition" },
+					{ "name": "Worm Tooth", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Iron Anvil", "type": "Furniture" },
+					{ "name": "Lead Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

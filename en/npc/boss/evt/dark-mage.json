@@ -1,0 +1,138 @@
+{
+	"title": "Dark Mage",
+	"env": ["Old One's Army"],
+	"damage": [
+		{ "value": 40 },
+		{ "value": 80, "tip": "Dark Energy" }
+	],
+	"maxhp": 800,
+	"defense": 18,
+	"kb_resist": 100,
+	"immune": ["Confused"],
+	"drops": [
+		{
+			"note": "One of the following 2 items may be dropped",
+			"items": [
+				{ "name": "War Table", "rate": 10, "type": "Furniture" },
+				{ "name": "War Table Banner", "qty": 4, "rate": 10, "type": "Furniture" }
+			]
+		},
+		{
+			"note": "One of the following 2 items may be dropped",
+			"items": [
+				{ "name": "Dragon Egg", "rate": 16.67, "type": "Pet" },
+				{ "name": "Gato Egg", "rate": 16.67, "type": "Pet" }
+			]
+		},
+		{ "name": "Dark Mage Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Dark Mage Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 80 },
+			{ "value": 160, "tip": "Dark Energy" }
+		],
+		"maxhp": 1600,
+		"drops": [
+			{
+				"note": "One of the following 2 items may be dropped",
+				"items": [
+					{ "name": "War Table", "rate": 10, "type": "Furniture" },
+					{ "name": "War Table Banner", "qty": 4, "rate": 10, "type": "Furniture" }
+				]
+			},
+			{
+				"note": "One of the following 2 items may be dropped",
+				"items": [
+					{ "name": "Dragon Egg", "rate": 25, "type": "Pet" },
+					{ "name": "Gato Egg", "rate": 25, "type": "Pet" }
+				]
+			},
+			{ "name": "Dark Mage Mask", "rate": 14.29, "type": "Vanity" },
+			{ "name": "Dark Mage Trophy", "rate": 10, "type": "Furniture" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 120 },
+			{ "value": 240, "tip": "Dark Energy" }
+		],
+		"maxhp": 2040,
+		"drops": [
+			{ "name": "Dark Mage's Tome", "rate": 25, "type": "Mount" }
+		]
+	},
+
+	"tier": [1,2],
+	"phase": [
+		{
+			"title": "Dark Mage",
+			"damage": [
+				{ "value": 90 },
+				{ "value": 80, "tip": "Dark Energy" }
+			],
+			"maxhp": 4000,
+			"defense": 38,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+			"drops": [
+				{
+					"note": "One of the following 2 items may be dropped",
+					"items": [
+						{ "name": "War Table", "rate": 5, "type": "Furniture" },
+						{ "name": "War Table Banner", "qty": 4, "rate": 5, "type": "Furniture" }
+					]
+				},
+				{
+					"note": "One of the following 2 items may be dropped",
+					"items": [
+						{ "name": "Dragon Egg", "rate": 8.33, "type": "Pet" },
+						{ "name": "Gato Egg", "rate": 8.33, "type": "Pet" }
+					]
+				},
+				{ "name": "Dark Mage Mask", "rate": 7.14, "type": "Vanity" },
+				{ "name": "Dark Mage Trophy", "rate": 10, "type": "Furniture" }
+			],
+
+			"expert": {
+				"damage": [
+					{ "value": 180 },
+					{ "value": 160, "tip": "Dark Energy" }
+				],
+				"maxhp": 8000,
+				"drops": [
+					{
+						"note": "One of the following 2 items may be dropped",
+						"items": [
+							{ "name": "War Table", "rate": 5, "type": "Furniture" },
+							{ "name": "War Table Banner", "qty": 4, "rate": 5, "type": "Furniture" }
+						]
+					},
+					{
+						"note": "One of the following 2 items may be dropped",
+						"items": [
+							{ "name": "Dragon Egg", "rate": 8.33, "type": "Pet" },
+							{ "name": "Gato Egg", "rate": 8.33, "type": "Pet" }
+						]
+					},
+					{ "name": "Dark Mage Mask", "rate": 7.14, "type": "Vanity" },
+					{ "name": "Dark Mage Trophy", "rate": 10, "type": "Furniture" }
+				]
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 270 },
+					{ "value": 240, "tip": "Dark Energy" }
+				],
+				"maxhp": 10200,
+				"drops": [
+					{ "name": "Dark Mage's Tome", "rate": 25, "type": "Mount" },
+					{ "name": "Dark Mage Relic", "rate": 100, "type": "Furniture" }
+				]
+			}
+		}
+	]
+}

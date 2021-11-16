@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Venus Magnum is a Hardmode gun dropped by Plantera with a 1/7 (14.29%) chance. Musket Balls and Silver/Tungsten Bullets fired from this weapon gain the properties of High Velocity Bullets, but retain their original damage. While it cannot be autofired, the Venus Magnum's use time is lower than most semiautomatic weapons, allowing it to be manually fired at a similar rate.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The Venus Magnum can be considered a direct upgrade of the Uzi, as it also fires bullets as though they were High Velocity Bullets, and has minor improvements in almost all stats. However, the Uzi can autofire whereas the Venus Magnum cannot. It can also be seen as a direct upgrade to the Phoenix Blaster, as both do not autofire and the Venus Magnum has vastly improved stats.",
+    "3DS version All weapons autofire, making this a very strong gun. Also, the Mobile version gives players the option to enable autofire for all weapons, giving the weapon similar power if the option is enabled."
+	],
+
+	"title": "Venus Magnum",
+	"max_stack": 1,
+	"damage": [{ "value": 50, "tip": "Ranged" }],
+	"ammo": "Bullets",
+	"knockback": 5.5,
+	"critical_chance": 4,
+	"use_time": 8,
+	"velocity": 13.5,
+	"tooltip": "Shoots a powerful, high velocity bullet",
+	"rarity": 7,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

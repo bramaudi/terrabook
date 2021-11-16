@@ -1,0 +1,54 @@
+{
+	"overview": [
+		"The Shield of Cthulhu is an Expert Mode shield accessory obtained from the Treasure Bag dropped by the Eye of Cthulhu. Equipping it allows the player to perform a dash attack by double-tapping either the <kbd>◀ Left</kbd> or <kbd>▶ Right</kbd> key. Dashing into an enemy deals 30 damage, and grants momentary invincibility."
+	],
+
+	"notes": [
+		"Unlike most shields, the Shield of Cthulhu does not grant knockback immunity.",
+		"The Solar Flare armor set will cancel the Shield of Cthulhu's dash ability. The Master Ninja Gear and Tabi will only cancel it if they are equipped in an accessory slot below the Shield of Cthulhu.",
+		"The Shield's dash works when Cursed. This is because the debuff only applies to items from the inventory, not the accessories.",
+		"Dash damage increases drastically while in Psycho Knife's stealth mode.",
+		"The damage done by the Shield is not subject to the usual ±15% randomization – barring critical hits, it will always do the same amount of damage to enemies with the same defense rating.",
+		"Players gain invulnerability from melee attacks when striking an enemy with the Shield of Cthulhu (they can still get hit if they miss the attack).",
+		"The player's invulnerability timer resets after they hit something with the Shield, meaning an enemy can hit the player again right after they have dashed into something.",
+		"Enemy kills made with the Shield of Cthulhu's dash will not be counted by the Tally Counter (or its upgrades).",
+		"The Shield of Cthulhu's dash does not gain the Frostburn bonus from Frost armor or the On Fire! bonus from the Magma Stone."
+	],
+
+	"tips": [
+		"Players can dash to boost themselves to the maximum sprint speed provided by their sprinting accessories. This also works with mounts, like the Unicorn Mount, if the mount is summoned immediately following the dash.",
+		"Getting this shield early and using the dash defensively will greatly increase a player's survival during boss battles. It remains a very valuable defensive tool until replaced with the Tabi.",
+		["However, it should be noted that the Tabi is not a direct replacement for the Shield, since it does not provide any invincibility frames while dashing – one of the Shield's greatest strengths."],
+		"When dashing below a 1-block-wide hole and using the <kbd>▲ Up</kbd> key (or otherwise, a hole below and pressing the <kbd>▼ Down</kbd> key), the Shield of Cthulhu allows the player to move through 1-block-wide holes. This seems similar to a hoik effect and can be useful where there are a lot of these gaps, e.g. in the Dungeon.",
+		"The Shield can be used to effectively defend oneself while fishing, as it is not a weapon that needs to be switched to in the hotbar to use.",
+		"One should use caution around terrain hazards as one wrong push of the movement key can send the player hurling straight into that hazard.",
+		"The Shield can be used as a form of reducing damage. Similar to the Slime Mount, dashing and hitting an enemy will grant the player temporary invincibility.",
+		"Players can deal higher damage if they dash at an enemy and hit it with a weapon at the same time.",
+		"The Shield of Cthulhu can synergize with the Brand of the Inferno to block attacks, granting the Striking Moment buff.",
+		"While dashing towards any solid wall, the player can tap the opposite direction at the exact moment their character comes in contact to perform a wall bounce, conserving speed and instantly changing directions. This also works with the Tabi and the Master Ninja Gear.",
+		"The Shield can allow players to use the Jousting Lance and its upgrades relatively safely without a mount, since they will bounce before taking damage.",
+		"The Guide To Critter Companionship is a good complement to the shield, as it will allow the player to dash through critters without bumping into them.",
+		"Dashing into a Caster AI projectile will completely nullify it; this is a useful tactic against the fireballs shot by Goblin Sorcerers, Dark Casters in the Dungeon, and Fire Imps.",
+		"Unlike most accessories, the Shield of Cthulhu deals melee damage. Therefore it will be affected by melee damage buffs."
+	],
+
+	"title": "Shield of Cthulhu",
+	"max_stack": 1,
+	"damage": 30,
+	"knockback": 9,
+	"defense": 2,
+	"critical_chance": 2,
+	"tooltip": [
+		"Allows the player to dash into the enemy",
+		"Double tap a direction"
+	],
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

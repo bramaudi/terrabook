@@ -1,0 +1,154 @@
+{
+	"overview": [
+		"The Soul of Sight is one of the six souls that can be obtained in Hardmode. It is a crafting material dropped by The Twins.",
+
+		"Crafting all Soul of Sight-related items requires [i:UI:Desktop_version] 89 / [i:UI:Console_version] [i:UI:Mobile_version] 69 souls, meaning the player must defeat The Twins 2–4 ([e=2–3]) times."
+	],
+
+	"tips": [
+		"All types of souls are very useful for selling as profit once the necessary items have been crafted."
+	],
+
+	"title": "Soul of Sight",
+	"max_stack": 999,
+	"tooltip": "'The essence of omniscient watchers'",
+	"rarity": 5,
+	"sell": [{ "value": 80, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "The Twins", "qty": "25-40", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (The Twins)", "qty": "25-40", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Soul of Sight in a Bottle", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Bottle", "type": "Furniture" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "By Hand", "type": "UI" }
+				]
+			},
+			{
+				"result": { "name": "Drax", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 8
+			},
+			{
+				"result": { "name": "Fairy Bell", "type": "Pet" },
+				"ingredient": [
+					{ "name": "Bell", "type": "Material" },
+					{ "name": "Pixie Dust", "qty": 25, "type": "Material" },
+					{ "name": "Soul of Light", "qty": 8, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 10, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Logic Sensor (Player Above)", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Soul of Sight", "type": "Material" },
+					{ "name": "Any Iron Bar", "type": "Bar" },
+					{ "name": "Wire", "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Magical Harp", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Harp", "type": "Material" },
+					{ "name": "Crystal Shard", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Night", "qty": 8, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 15, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Optic Staff", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Black Lens", "type": "Material" },
+					{ "name": "Lens", "qty": 2, "type": "Material" },
+					{ "name": "Hallowed Bar", "qty": 12, "type": "Bar" },
+					{ "name": "Soul of Sight", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Pickaxe Axe", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Rainbow Rod", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Crystal Shard", "qty": 10, "type": "Material" },
+					{ "name": "Unicorn Horn", "qty": 2, "type": "Material" },
+					{ "name": "Pixie Dust", "qty": 10, "type": "Material" },
+					{ "name": "Soul of Light", "qty": 8, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 15, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "True Night's Edge", "type": "Weapon", "tip": "([i:UI:Desktop_version])" },
+				"ingredient": [
+					{ "name": "Night's Edge", "type": "Weapon" },
+					{ "name": "Soul of Fright", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Might", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Avenger Emblem", "type": "Accessory" },
+				"result_rowspan": 4,
+				"ingredient": [
+					[
+						{ "name": "Ranger Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Sorcerer Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Summoner Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Warrior Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					]
+				],
+				"station": [
+					{ "name": "Tinkerer's Workshop", "type": "Furniture" }
+				],
+				"station_rowspan": 4
+			}
+		]
+	}
+}

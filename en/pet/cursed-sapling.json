@@ -1,0 +1,34 @@
+{
+	"overview": [
+		"The Cursed Sapling item is used to summon the Cursed Sapling pet, the item itself drops from the Mourning Wood in the Pumpkin Moon event.",
+
+		"The pet appears as a small dark blue tree stump with a jagged head, a jack-o-lantern face, and roots which it walks on.",
+
+		"If the sapling gains too much distance from the player, it will propel itself towards the player on a flame trail, ignoring blocks and giving off a decent amount of light. If it can't reach a stable spot to stand on, it will start flying around the player in circles. This is a useful feature as a pet, as the light it provides when flying helps find nearby caves. It can, however, make fishing more difficult as the sound the sapling makes when hitting water is identical to that of a bobbing line, forcing the player to rely on sight to determine whether anything has been hooked."
+	],
+
+	"title": "Cursed Sapling",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a cursed sapling to follow you",
+	"summon": "Cursed Sapling",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Cursed Sapling",
+			"tooltip": "A cursed sapling is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Mourning Wood", "rate": "2 - 20", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Mourning Wood", "rate": "5 - 20", "type": "Boss" }
+		]
+	}
+}

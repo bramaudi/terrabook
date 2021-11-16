@@ -1,0 +1,83 @@
+{
+	"overview": [
+		"Beetle Husk is a Hardmode, post-Golem crafting material dropped by Golem.",
+
+		"Crafting all current Beetle items requires 34 Beetle Husks. Crafting one full set of Beetle armor (without wings) requires 18 Husks, meaning the player will have to fight Golem 3–5 times / [e=1 time] to get at least the full set."
+	],
+
+	"tips": [
+		"Selling the Beetle Wings instead of the individual components will be more profitable. The wings sell for 8 Gold Coins, whereas the components sell for a collective 4 Gold Coins 40 Silver Coins. It is not profitable to sell any piece of Beetle armor, the ingredients are worth more."
+	],
+
+	"title": "Beetle Husk",
+	"max_stack": 99,
+	"rarity": 8,
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Golem", "qty": "4-8", "rate": 100, "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "qty": "18-23", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Beetle Minecart", "type": "Minecart" },
+				"ingredient": [
+					{ "name": "Minecart", "type": "Minecart" },
+					{ "name": "Beetle Husk", "qty": 8, "type": "Material" }
+				],
+				"station": [
+					{ "name": "Iron Anvil", "type": "Furniture" },
+					{ "name": "Lead Anvil", "type": "Furniture" }
+				]
+			},
+			{
+				"result": { "name": "Beetle Helmet", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Beetle Husk", "qty": 4, "type": "Material" },
+					{ "name": "Turtle Helmet", "type": "Armor" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 5
+			},
+			{
+				"result": { "name": "Beetle Leggings", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Beetle Husk", "qty": 6, "type": "Material" },
+					{ "name": "Turtle Leggings", "type": "Armor" }
+				]
+			},
+			{
+				"result": { "name": "Beetle Scale Mail", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Beetle Husk", "qty": 8, "type": "Material" },
+					{ "name": "Turtle Scale Mail", "type": "Armor" }
+				]
+			},
+			{
+				"result": { "name": "Beetle Shell", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Beetle Husk", "qty": 8, "type": "Material" },
+					{ "name": "Turtle Scale Mail", "type": "Armor" }
+				]
+			},
+			{
+				"result": { "name": "Beetle Wings", "type": "Wing" },
+				"ingredient": [
+					{ "name": "Soul of Flight", "qty": 20, "type": "Material" },
+					{ "name": "Beetle Husk", "qty": 8, "type": "Material" }
+				]
+			}
+		]
+	}
+}

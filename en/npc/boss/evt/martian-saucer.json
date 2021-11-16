@@ -1,0 +1,140 @@
+{
+	"title": "Martian Saucer",
+	"env": ["Martian Madness"],
+	"damage": [
+		{ "value": 50  },
+		{ "value": 100, "tip": "Martian Deathray" },
+		{ "value": 160, "tip": "Martian Deathray berserk" },
+		{ "value": 60, "tip": "Saucer Scrap" }
+	],
+	"maxhp": [
+		{ "value": 27000, "tip": "all parts" }
+	],
+	"defense": 100,
+	"kb_resist": 100,
+	"immune": [],
+	"drops": [
+		{
+			"note": "One of the 6 following items will always drop",
+			"items": [
+				{ "name": "Xenopopper", "rate": "16.66", "type": "Weapon" },
+				{ "name": "Xeno Staff", "rate": "16.66", "type": "Weapon" },
+				{ "name": "Laser Machinegun", "rate": "16.66", "type": "Weapon" },
+				{ "name": "Electrosphere Launcher", "rate": "16.66", "type": "Weapon" },
+				{ "name": "Influx Waver", "rate": "16.66", "type": "Weapon" },
+				{ "name": "Cosmic Car Key", "rate": "16.66", "type": "Mount" }
+			]
+		},
+		{ "name": "Anti-Gravity Hook", "rate": "0.56 - 0.83", "type": "Hook" },
+		{ "name": "Laser Drill", "rate": "0.56 - 0.83", "type": "Tool" },
+		{ "name": "Charged Blaster Cannon", "rate": "0.56 - 0.83", "type": "Weapon" },
+		{ "name": "Martian Saucer Trophy", "rate": "10", "type": "Furniture" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": "100", "type": "Potion" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 100  },
+			{ "value": 200, "tip": "Martian Deathray" },
+			{ "value": 320, "tip": "Martian Deathray berserk" },
+			{ "value": 100, "tip": "Saucer Scrap" }
+		],
+		"maxhp": [
+			{ "value": 54000, "tip": "all parts" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 150  },
+			{ "value": 300, "tip": "Martian Deathray" },
+			{ "value": 480, "tip": "Martian Deathray berserk" },
+			{ "value": 150, "tip": "Saucer Scrap" }
+		],
+		"maxhp": [
+			{ "value": 81000, "tip": "all parts" }
+		],
+		"drops": [
+			{ "name": "Martian Saucer Relic", "rate": "100", "type": "Furniture" },
+			{ "name": "Cosmic Skateboard", "rate": "25", "type": "Pet" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Martian Saucer Cannon",
+			"damage": [
+				{ "value": 60 },
+				{ "value": 100, "tip": "Martian Rocket" }
+			],
+			"maxhp": 3500,
+			"defense": 20,
+			"kb_resist": 100,
+			"immune_except": "Whip debuffs",
+			"immune": [],
+
+			"expert": {
+				"damage": [
+					{ "value": 120 },
+					{ "value": 148, "tip": "Martian Rocket" }
+				],
+				"maxhp": 7000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 180 },
+					{ "value": 222, "tip": "Martian Rocket" }
+				],
+				"maxhp": 10500
+			}
+		},
+		{
+			"title": "Martian Saucer Turret",
+			"damage": [
+				{ "value": 60 },
+				{ "value": 70, "tip": "Saucer Laser" }
+			],
+			"maxhp": 5000,
+			"defense": 20,
+			"kb_resist": 100,
+			"immune_except": "Whip debuffs",
+			"immune": [],
+
+			"expert": {
+				"damage": [
+					{ "value": 120 },
+					{ "value": 120, "tip": "Saucer Laser" }
+				],
+				"maxhp": 10000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 180 },
+					{ "value": 180, "tip": "Saucer Laser" }
+				],
+				"maxhp": 15000
+			}
+		},
+		{
+			"title": "Martian Saucer Core",
+			"damage": 80,
+			"maxhp": 10000,
+			"defense": 0,
+			"kb_resist": 100,
+			"immune_except": "Whip debuffs",
+			"immune": [],
+
+			"expert": {
+				"damage": 160,
+				"maxhp": 20000
+			},
+
+			"master": {
+				"damage": 240,
+				"maxhp": 30000
+			}
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Necromantic Scroll is a Hardmode, post-Plantera accessory dropped by Mourning Wood during the Pumpkin Moon event. It increases the player's maximum number of minions by one and increases the damage of all summon weapons by 10%."
+	],
+
+	"notes": [
+		"Despite the tooltip implying that the accessory boosts the damage of minions only, it also affects sentries and whips."
+	],
+
+	"tips": [
+		"The Squire's Shield, Monk's Belt, Apprentice's Scarf, and Huntress's Buckler are identical to this accessory, except they increase the maximum number of sentries. They can be considered an alternative, as the additional sentries may be more useful in events, while the Necromantic Scroll's max minion boost is generally better during exploration and fights against a single target or boss."
+	],
+
+	"title": "Necromantic Scroll",
+	"max_stack": 1,
+	"tooltip": [
+		"Increases your max number of minions by 1",
+		"Increases minion damage by 10%"
+	],
+	"rarity": 8,
+	"sell": [{ "value": 4, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Mourning Wood", "rate": "2 - 20", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Mourning Wood", "rate": "5 - 20", "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Papyrus Scarab", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Necromantic Scroll", "type": "Accessory" },
+					{ "name": "Hercules Beetle", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

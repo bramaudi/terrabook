@@ -1,0 +1,54 @@
+{
+	"overview": [
+		"Crimtane Ore is a pre-Hardmode ore. It is The Crimson counterpart to The Corruption's Demonite Ore, and will not appear naturally in Corruption worlds. It can be found very rarely in small veins Underground in worlds that contain Crimson, however larger quantities can be obtained from the Brain of Cthulhu boss, and from the Eye of Cthulhu (only in worlds containing Crimson). Crimtane Ore emits a faint red glow when placed, similar to Demonite Ore.",
+
+		"The pickaxe power required to mine Crimtane Ore changes with location. When below 0ft in elevation, a Gold Pickaxe or better is needed, otherwise any pickaxe can be used."
+	],
+
+	"notes": [
+		"Crimtane Ore does not spread the Crimson. This rule applies both to the pre-Hardmode and Hardmode stages.",
+		"While Demonite Ore can be found in large groups in Corrupt chasms, Crimtane Ore does not have a boosted rate in Crimson chasms."
+	],
+
+	"title": "Crimtane Ore",
+	"auto_use": true,
+	"max_stack": 999,
+	"pickaxe_power": 55,
+	"placeable": { "wide": 1, "high": 1 },
+	"use_time": 15,
+	"rarity": 1,
+	"sell": [{ "value": 13, "type": "silver" }],
+	"research": 100,
+
+	"dropped_by": [
+		{ "name": "Brain of Cthulhu", "qty": "40-90", "rate": 100, "type": "Boss" },
+		{ "name": "Creeper", "qty": "5-12", "rate": 66.67, "type": "Enemy" },
+		{ "name": "Eye of Cthulhu", "qty": "30-90", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Creeper", "qty": "11-25", "rate": 66.67, "type": "Enemy" },
+			{ "name": "Treasure Bag (Brain of Cthulhu)", "qty": "40-90", "rate": 100, "type": "Bag" },
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "qty": "30-90", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Crimtane Bar", "type": "Bar" },
+				"ingredient": [{ "name": "Crimtane Ore", "qty": 3, "type": "Ore" }],
+				"station": [{ "name": "Furnace", "type": "Furniture" }],
+				"station_rowspan": 2
+			},
+			{
+				"result": { "name": "Crimtane Brick", "qty": 5, "type": "Block" },
+				"ingredient": [
+					{ "name": "Crimtane Ore", "type": "Ore" },
+					{ "name": "Crimstone Block", "qty": 5, "type": "Block" }
+				]
+			}
+		]
+	}
+}

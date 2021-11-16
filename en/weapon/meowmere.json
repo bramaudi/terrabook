@@ -1,0 +1,65 @@
+{
+	"overview": [
+		"The Meowmere is a Hardmode, post-Moon Lord, autoswinging melee weapon. When swung, it fires a projectile trailed by a rainbow and shaped like a cat's head, and consumes no mana or ammunition. The projectile is affected by gravity, pierces multiple enemies, and ricochets off of blocks. Each ricochet emits an explosion that damages nearby enemies. The projectile disappears after piercing four enemies (hitting the fifth one) or after ricocheting four times (hitting a block for the fifth time). The Meowmere has a 1/9 (11.11%) chance to be dropped by the Moon Lord.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The cat projectile makes a \"meow\" sound and produces a small rainbow explosion every time it ricochets. This explosion deals damage to all enemies within a 3×3-tile rectangle centered on the point of impact, and grows by half a tile each ricochet, up to a 5×5-tile rectangle on the final explosion.",
+    "The cat projectile travels at 61 mph."
+	],
+
+	"tips": [
+		"It can be very useful in close-range situations, for instance inside the Hardmode post-Plantera Dungeon. The bouncing projectiles with area-of-effect damage are highly effective against the large crowds of enemies in small chambers.",
+    "The cat projectiles can be reflected by enemies like the Selenian. Care should be taken around those enemies, especially at close range.",
+    "If the player is annoyed by the Meowmere's sound, they can alter the game's sound files to remove or change it: The relevant files are <code>Item_57.xnb</code> and <code>Item_58.xnb</code> in the sounds folder (<code>&lt;Steam folder>\\steamapps\\common\\Terraria\\Content\\Sounds</code>). They can be deleted or alternatively be replaced with copies of <code>Item_8.xnb</code>, a hardly noticeable sound."
+	],
+
+	"title": "Meowmere",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 200,
+	"knockback": 6.5,
+	"critical_chance": 4,
+	"use_time": 16,
+	"velocity": 12,
+	"rarity": 10,
+	"sell": [{ "value": 20, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

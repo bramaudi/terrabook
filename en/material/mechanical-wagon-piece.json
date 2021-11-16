@@ -1,0 +1,34 @@
+{
+	"overview": [
+		"The Mechanical Wagon Piece is one of three parts of the Mechanical Cart, obtained from a Treasure Bag by killing The Destroyer in Expert Mode."
+	],
+
+	"title": "Mechanical Wagon Piece",
+	"max_stack": 99,
+	"rarity": "rainbow",
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (The Destroyer)", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Mechanical Cart", "type": "Minecart" },
+				"ingredient": [
+					{ "name": "Mechanical Wheel Piece", "type": "Material" },
+					{ "name": "Mechanical Wagon Piece", "type": "Material" },
+					{ "name": "Mechanical Battery Piece", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

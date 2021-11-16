@@ -1,0 +1,16 @@
+---
+permalink: /tags/
+layout: layout.html
+---
+<div class="info">
+  <h1>Tags</h1>
+</div>
+
+<div class="categories">
+  <ul>
+  {% for tag in collections.tagList %}
+    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+    <li><a href="{{ tagUrl | url }}">{{ tag }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

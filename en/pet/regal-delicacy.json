@@ -1,0 +1,29 @@
+{
+	"overview": [
+		"The Regal Delicacy is a pet-summoning item which is dropped by Queen Slime in Master Mode with a 1/4 (25%) chance. It summons a pet Slime Princess which follows the player around. The pet resembles a miniature Queen Slime with blush, small dotted eyes and a pinpoint mouth."
+	],
+
+	"title": "Regal Delicacy",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a Slime Princess",
+		"'A dessert fit for a queen!'"
+	],
+	"summon": "Slime Princess",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Slime Princess",
+			"tooltip": "She is the higher authority"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Queen Slime", "rate": 25, "type": "Boss" }
+		]
+	}
+}

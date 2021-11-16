@@ -1,0 +1,49 @@
+{
+	"overview": [
+		"The North Pole is a Hardmode, post-Plantera spear dropped by the Ice Queen during the Frost Moon event. It fires a deadly icy spear projectile with no mana or ammo cost, similar to the Daybreak. The projectile travels straight and is then affected by gravity. It leaves a trail of snowflakes that deal damage, effectively \"carpet bombing\" the area between the player and the landing point of the projectile. The projectile fired will break upon contact with any enemy or block, and the weapon does not have autoswing.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"There can only be 180 snowflakes on the screen at any given time. After reaching this cap the spear projectiles will not produce anymore until the snowflakes start disappearing.",
+    ["Additionally, every snowflake after 100 will spawn with progressively lower damage. This can make them deal extremely low damage if the Spear projectiles are launched high into the air."],
+		"The spear projectile deals approximately 80% of the weapon's damage (about 60 base damage) while the snowflakes deal approximately 63% of the weapon's damage (about 45 base damage)",
+		"Traveling horizontally, the projectiles move at 57 mph.",
+		"The snowflakes are affected by the direction of the wind, so make sure to adjust aim to compensate.",
+		"The projectiles are affected by liquids; when used underwater they travel half the normal distance before being affected by gravity and arc downwards very sharply. This does not reduce the number of snowflakes spawned per projectile, however, leading to a denser cluster of flakes.",
+		"Holding this weapon will reduce the melee speed boost by half, which reduces the velocity increasing of the projectile from the melee speed boost.",
+		"The spear projectile will pierce two enemies, dissipating upon impacting a third enemy.",
+		"Sometimes when used from a high point, it may trigger anti-cheat Sometimes when used from a high point, it may trigger anti-cheat systems in servers due to a large amount of projectiles"
+	],
+
+	"tips": [
+		"Fighting enemies out in the open gives a huge advantage.",
+    "Aim it straight up and launch the missile upwards to allow all the snowflakes to descend and rain damage against large targets. This has a much higher rate of damage than even the Solar Eruption or Daybreak and can destroy weaker bosses or immobile targets like the Celestial Pillars with ease.",
+    "It can be very useful for Events due to the snowflakes falling over multiple enemies at once.",
+    "This spear can easily take care of worm enemies, including The Destroyer. Fire it up in the air to create snowflakes which can damage the body all at once.",
+    "Using the [i:UI:Desktop version] Feral Claws / [i:UI:Console version] [i:UI:Mobile version] Titan Glove or any of their upgrades will provide autoswing, making this weapon much easier to use."
+	],
+
+	"title": "North Pole",
+	"max_stack": 1,
+	"damage": 73,
+	"knockback": 6.7,
+	"critical_chance": 4,
+	"use_time": 25,
+	"velocity": 4.75,
+	"tooltip": "Shoots an icy spear that rains snowflakes",
+	"rarity": 7,
+	"sell": [{ "value": 9, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Ice Queen", "rate": "4.44 - 7.78", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ice Queen", "rate": "15.56 - 31.11", "type": "Boss" }
+		]
+	}
+}

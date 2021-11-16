@@ -1,0 +1,17 @@
+{
+	"overview": [
+		"Badger's Hat is a Hardmode vanity item dropped by the Eye of Cthulhu or the Wall of Flesh when they are both defeated on the same day (from 7:30 PM to 7:30 PM the next day)."
+	],
+
+	"title": "Badger's Hat",
+	"max_stack": 1,
+	"tooltip": "You seem to have a problem with your green screen 'Great for impersonating streamers!'",
+	"rarity": 9,
+	"sell": [{ "value": 30, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Eye of Cthulhu", "rate": 100, "type": "Boss", "tip": "when defeated on the same day as the Wall of Flesh" },
+		{ "name": "Wall of Flesh", "rate": 100, "type": "Boss", "tip": "when defeated on the same day as the Eye of Cthulhu" }
+	]
+}

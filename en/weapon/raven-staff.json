@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Raven Staff is a Hardmode, post-Plantera summon weapon. It spawns a Raven minion that chases enemies and deals contact damage. Like other minions, the summoned Raven is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, or cancels the buff. It is dropped from Pumpking during the Pumpkin Moon event with a chance of 1.79% – 14.29%, depending on the wave.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Raven Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"The Ravens attack notably quickly. As they are also able to fly, this makes them potent melee minions.",
+    "Ravens physically pierce through multiple enemies, but do not deal piercing damage.",
+    "The Raven's dark color makes it hard to see at night. This can be remedied by using the Critter Shampoo with a bright, glowing dye.",
+    "Ravens will reset immunity frames upon hitting enemies. This causes some weapons like the Kraken, The Eye of Cthulhu, and the Charged Blaster Cannon's laser to attack much faster when paired with a flock of Ravens."
+	],
+
+	"title": "Raven Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 55, "tip": "Summon" }],
+	"knockback": 3,
+	"mana": 10,
+	"use_time": 28,
+	"velocity": 10,
+	"tooltip": "Summons a raven to fight for you",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Ravens",
+			"tooltip": "The ravens will attack your enemies"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

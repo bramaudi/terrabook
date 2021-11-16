@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Pwnhammer is a Hardmode hammer that is able to destroy Demon Altars and Crimson Altars, blessing the world with one of the six Hardmode ores. It is always dropped by the Wall of Flesh. It has a sparkle effect when used, giving off a good deal of light even in total darkness.",
+
+		"Its best modifier is Legendary. While Light may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+	],
+
+	"notes": [
+		"While the tooltip states that it can break them, Altars can only be destroyed in Hardmode worlds, i.e. worlds where the Wall of Flesh has been defeated."
+	],
+
+	"title": "Pwnhammer",
+	"hammer_power": 80,
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 26,
+	"knockback": 7.5,
+	"critical_chance": 4,
+	"use_time": 27,
+	"toolspeed": 14,
+	"tooltip": "Strong enough to destroy Demon Altars",
+	"rarity": 4,
+	"sell": [{ "value": 78, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

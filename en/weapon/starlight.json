@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Starlight is a Hardmode shortsword that has a 1/4 (25%) chance to be dropped by the Empress of Light boss. While the <kbd>⚒ Use / Attack</kbd> button is held, short-range light beams fire rapidly, at no mana or ammo cost.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The beams are not able to deal damage to enemies through blocks, unless the enemy itself is able to pass through blocks.",
+    "Despite being able to get speed modifiers, it is completely unaffected by those and melee speed bonuses.",
+    "The weapon itself bears a striking resemblance to Asuna’s rapier from the anime Sword Art Online"
+	],
+
+	"tips": [
+		"The quick attack speed and infinite piercing of the weapon allow it to quickly defeat hordes of enemies on the ground.",
+    "The Starlight is an efficient weapon for farming slow-moving bosses like Plantera, Ogre, and Golem, killing them in seconds.",
+		["However, it is not reliable as a main weapon against bosses because of its short range. It should be used alongside a powerful projectile melee weapon."],
+    "With the Legendary modifier, and when used against a single target, it is able to reach a DPS of around 1,100 with no additional equipment.",
+    "With the Legendary modifier, and when used against a single target, it is able to reach around 18 damage per frame with no extra equipment.",
+    "Due to its rapid attack rate, it is an effective weapon for killing the Dungeon Guardian.",
+    "It is roughly as powerful as the Solar Eruption within its effective range, though its range is much shorter."
+	],
+
+	"title": "Starlight",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": 80,
+	"knockback": 4,
+	"critical_chance": "14% [i:UI:Desktop_version] / 4% [i:UI:Console_version] [i:UI:Mobile_version]",
+	"use_time": 18,
+	"velocity": 15,
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

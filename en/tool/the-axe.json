@@ -1,0 +1,40 @@
+{
+	"overview": [
+		"The Axe is a Hardmode, post-Plantera hamaxe, a combination of a hammer and an axe. It produces an overdriven electric guitar sound when swung, which changes in tone depending on the distance from the cursor to the player. The Axe has a 1/50 (2%) chance of being dropped by Plantera.",
+
+		"Its best modifier is Legendary. While Light may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+	],
+
+	"notes": [
+		"The Axe is capable of breaking Demon and Crimson Altars.",
+    "In PvP, it seems to be able to hit a player twice in one swing.",
+    "While autoswinging, the player will be unable to change direction.",
+    "It has the highest axe power of any item in the game (175%), even surpassing that of the Luminite Hamaxes (all 150%). It also has 12 more base damage, but its range is shorter by 3 tiles.",
+    "Despite the lower axe power, the Luminite Hamaxes are recommended for building as they have a higher tile reach than The Axe."
+	],
+
+	"title": "The Axe",
+	"hammer_power": 100,
+	"axe_power": 175,
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 72,
+	"knockback": 7.25,
+	"bonus": "+1 range",
+	"critical_chance": 4,
+	"use_time": 23,
+	"toolspeed": 7,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 2, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

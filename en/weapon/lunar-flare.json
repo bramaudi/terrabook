@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Lunar Flare is a Hardmode, post-Moon Lord magic weapon that has a 1/9 (11.11%) chance to be dropped by the Moon Lord. It summons three projectiles that rain down from above the game screen for each firing. These projectiles appear as turquoise streaks, and create small explosions on impact.",
+
+		"Unlike most weapons that summon projectiles from above (e.g. Starfury, Meteor Staff), Lunar Flare projectiles pass through any blocks necessary to arrive at the target point, making it a viable weapon even in enclosed areas.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"The Lunar Flare's projectiles emit a significant amount of light, but not when passing through solid blocks."
+	],
+
+	"tips": [
+		"The Lunar Flare is a formidable weapon, but its high mana cost may be difficult to manage without the use of a Mana Flower or any of its upgrades."
+	],
+
+	"title": "Lunar Flare",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 100, "tip": "Magic" }],
+	"knockback": 4.5,
+	"mana": 13,
+	"critical_chance": 4,
+	"use_time": 10,
+	"velocity": 60,
+	"tooltip": "Rains down lunar flares",
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

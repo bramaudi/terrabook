@@ -1,0 +1,85 @@
+{
+	"title": "Lunatic Cultist",
+	"env": ["Dungeon Entrance"],
+	"damage": [
+		{ "value": 50 },
+		{ "value": 36, "tip": "Shadow Fireball" },
+		{ "value": 70, "tip": "Ice Mist" },
+		{ "value": 60, "tip": "Fireball" },
+		{ "value": 90, "tip": "Lightning Orb" },
+		{ "value": 120, "tip": "Ancient Light" },
+		{ "value": 30, "tip": "Ancient Doom" },
+		{ "value": 60, "tip": "Prophecy's End" }
+	],
+	"maxhp": 32000,
+	"defense": [
+		{ "value": 42 },
+		{ "value": 27, "tip": "≤50% health" }
+	],
+	"kb_resist": 100,
+	"immune": [],
+	"immune_except": "Whip debuffs",
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"chance": "100% (Fireball)",
+			"duration": [
+				{ "value": "0.5-2.5", "tip": "seconds" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 10, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Ancient Manipulator", "rate": 100, "type": "Furniture" },
+		{ "name": "Lunatic Cultist Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Lunatic Cultist Trophy", "rate": 10, "type": "Furniture" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 75, "tip": "melee" },
+			{ "value": 72, "tip": "Shadow Fireball" },
+			{ "value": 100, "tip": "Ice Mist" },
+			{ "value": 80, "tip": "Fireball" },
+			{ "value": 120, "tip": "Lightning Orb" },
+			{ "value": 160, "tip": "Ancient Light" },
+			{ "value": 45, "tip": "Ancient Doom" },
+			{ "value": 180, "tip": "Prophecy's End" }
+		],
+		"maxhp": 40000,
+		"coins": [
+			{ "value": 25, "type": "gold" }
+		],
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Cannot regenerate life",
+				"duration": [
+					{ "value": "1-5", "tip": "seconds" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 112, "tip": "melee" },
+			{ "value": 72, "tip": "Shadow Fireball" },
+			{ "value": 100, "tip": "Ice Mist" },
+			{ "value": 80, "tip": "Fireball" },
+			{ "value": 120, "tip": "Lightning Orb" },
+			{ "value": 160, "tip": "Ancient Light" },
+			{ "value": 67, "tip": "Ancient Doom" },
+			{ "value": 402, "tip": "Prophecy's End" }
+		],
+		"maxhp": 51000,
+		"drops": [
+			{ "name": "Tablet Fragment", "rate": 25, "type": "Pet" },
+			{ "name": "Lunatic Cultist Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}

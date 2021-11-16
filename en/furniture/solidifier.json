@@ -1,0 +1,217 @@
+{
+	"overview": [
+		"The Solidifier is a themed crafting station which crafts blocks and furniture related to slime. It is dropped by King Slime (100% chance) on the Desktop version, Console version, Mobile version, Switch version, and tModLoader version. On the Old-gen console version and 3DS version, it can only be purchased from the Steampunker for 10, during the day. It is used to craft slime-themed furniture; as well as Frozen Slime Blocks, which are special friction-less blocks, and Pink Slime Blocks, which cancel fall damage and cause players to bounce."
+	],
+
+	"title": "Solidifier",
+	"type": ["Furniture", "Crafting Station"],
+	"max_stack": 99,
+	"auto_use": true,
+	"placeable": { "wide": 3, "high": 3 },
+	"use_time": 15,
+	"tooltip": "Used to craft objects",
+	"rarity": 0,
+	"sell": [
+		{ "value": 2, "type": "gold" }
+	],
+	"research": 1,
+	"dropped_by": [
+		{ "name": "King Slime", "qty": 1, "rate": 100, "type": "Boss" }
+	],
+	"craft": {
+		"used": [
+			{
+				"result": {
+					"name": "Frozen Slime Block", "type": "Block"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "type": "Block" },
+					{ "name": "Ice Block", "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Pink Slime Block", "type": "Block"
+				},
+				"ingredient": [
+					{ "name": "Pink Gel", "type": "Material" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Bathtub", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 14, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Bed", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 15, "type": "Block" },
+					{ "name": "Silk", "qty": 5, "type": "Material" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Block", "type": "Block"
+				},
+				"ingredient": [
+					{ "name": "Gel", "type": "Material" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Bookcase", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 20, "type": "Block" },
+					{ "name": "Book", "qty": 10, "type": "Furniture" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Candelabra", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 5, "type": "Block" },
+					{ "name": "Torch", "qty": 3, "type": "Furniture" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Candle", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 4, "type": "Block" },
+					{ "name": "Torch", "qty": 1, "type": "Furniture" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Chair", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 4, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Chandelier", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 4, "type": "Block" },
+					{ "name": "Torch", "qty": 4, "type": "Furniture" },
+					{ "name": "Chain", "type": "Material" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Chest", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 8, "type": "Block" },
+					{ "name": "Any Iron Bar", "qty": 2, "type": "Bar" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Clock", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Any Iron Bar", "qty": 3, "type": "Bar" },
+					{ "name": "Glass", "qty": 6, "type": "Block" },
+					{ "name": "Slime Block", "qty": 10, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Door", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 6, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Dresser", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 16, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Lamp", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Torch", "type": "Furniture" },
+					{ "name": "Slime Block", "qty": 3, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Lantern", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 6, "type": "Block" },
+					{ "name": "Torch", "type": "Furniture" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Piano", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Bone", "qty": 4, "type": "Material" },
+					{ "name": "Slime Block", "qty": 15, "type": "Block" },
+					{ "name": "Book", "type": "Furniture" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Sink", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 6, "type": "Block" },
+					{ "name": "Water Bucket", "type": "Tool" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Sofa", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 5, "type": "Block" },
+					{ "name": "Silk", "qty": 2, "type": "Material" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Table", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 8, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Toilet", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 6, "type": "Block" }
+				]
+			},
+			{
+				"result": {
+					"name": "Slime Work Bench", "type": "Furniture"
+				},
+				"ingredient": [
+					{ "name": "Slime Block", "qty": 10, "type": "Block" }
+				]
+			}
+		]
+	}
+}

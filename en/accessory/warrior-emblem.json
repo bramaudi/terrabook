@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Warrior Emblem is a Hardmode accessory that increases melee damage by 15%. It has a 1/8 (12.5%) / [e=1/4 (25%)] chance to drop from the Wall of Flesh."
+	],
+
+	"title": "Warrior Emblem",
+	"max_stack": 1,
+	"tooltip": "15% increased melee damage",
+	"rarity": 4,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 12.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 25, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Avenger Emblem", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Warrior Emblem", "type": "Accessory" },
+					{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 5, "type": "Material" },
+					{ "name": "Soul of Fright", "qty": 5, "type": "Material" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

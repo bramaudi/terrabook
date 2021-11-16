@@ -1,0 +1,29 @@
+{
+	"overview": [
+		"The Cosmic Skateboard is a pet-summoning item that has a 1/4 (25%) chance of dropping from the Martian Saucer in Master Mode. It summons an Alien Skater that will follow the player around."
+	],
+
+	"title": "Cosmic Skateboard",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons an alien skater",
+		"'Kickflips are a lot easier in Zero-G!'"
+	],
+	"summon": "Alien Skater",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Alien Skater",
+			"tooltip": "How do you do, fellow humans?"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Martian Saucer", "rate": 25, "type": "Boss" }
+		]
+	}
+}

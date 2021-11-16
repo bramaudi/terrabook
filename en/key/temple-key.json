@@ -1,0 +1,25 @@
+{
+	"overview": [
+		"The Temple Key is dropped by Plantera and is used to unlock the door to the Jungle Temple. It is consumed upon use, like Golden Keys."
+	],
+
+	"notes": [
+		"On the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, this item is useless after it is used to unlock the Jungle Temple, as it cannot be used to craft anything and has no value when sold."
+	],
+
+	"title": "Temple Key",
+	"max_stack": 99,
+	"tooltip": "Opens the jungle temple door",
+	"rarity": 7,
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

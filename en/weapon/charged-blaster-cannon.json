@@ -1,0 +1,50 @@
+{
+	"overview": [
+		"The Charged Blaster Cannon is a Hardmode, post-Golem magic weapon that fires electric spheres and beams. In the Desktop version, Console version, and Mobile version, it has a 1/800 (0.13%) chance to drop from all basic enemies in the Martian Madness event. In the Switch version and tModLoader version, it has a 1/9 (11.11%) chance to be dropped by the Martian Saucer during the Martian Madness event.",
+
+		"The Charged Blaster Cannon has multiple firing modes:",
+
+		[
+			"A single tap of the <kbd>⚒ Use / Attack</kbd> button fires a small non-piercing orb.",
+			"Holding <kbd>⚒ Use / Attack</kbd> rapid-fires the small orbs at a rate of 6 orbs per second with a max of 6 small orbs shot per charge. Mana is only consumed on the first orb that is fired.",
+			"After holding <kbd>⚒ Use / Attack</kbd> for one second, a larger orb with infinite piercing and 2.5× the damage (250 base damage) will be fired.",
+			"Continuing to hold <kbd>⚒ Use / Attack</kbd> fires the larger orbs at a rate of 2 orbs per second up to a max of 3 large orbs per charge. Mana is only consumed on the first large orb that is fired. (The players mana would have only been drained of two times the listed mana cost upon reaching this point in the attack cycle)",
+			"Holding <kbd>⚒ Use / Attack</kbd> for two more seconds and continuing to hold it fires a large, solid beam. It deals 1.5× the damage (150 base damage) and hits all enemies in its path repeatedly, about five times per second. Mana is consumed every time the weapon's damage ticks (five times a second) while channeling the laser. [i:UI:Console version] [i:UI:Mobile version] The firing angle cannot be adjusted while the continuous beam is firing."
+		],
+
+		"The attack is terminated when mana is depleted, the <kbd>⚒ Use / Attack</kbd> button is released, or 5 seconds of firing the beam have passed.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"Due to the high damage output and infinite piercing of the charged laser, this weapon is extremely useful for horizontal crowd control or against segmented bosses such as the Destroyer.",
+    "The fully charged laser's range is 300 tiles. Orbs travel much farther.",
+    "The fully charged laser is comparable to the Last Prism's condensed super beam, but with a lot less damage. (it deals about 10% of Last Prism's DPS: 150 damage per hit instead of 600 and 5 hits a second compared to 12 times a second which equates to 5/48th of last prism theoretical DPS)",
+    "Due to how the Charged Blaster Cannon only consumes mana on the first shot of each of the orb bursts, but consumes mana on each damage tick of channeling the laser, the player may wish to only charge the weapon up to the point of it firing the third large orb and stop charging the weapon before it fires the laser if they wish to use mana as resourcefully as possible.",
+		["Channeling the laser will however in most cases reward higher DPS compared to only shooting the orbs and then restarting the attack cycle repeatedly."]
+	],
+
+	"title": "Charged Blaster Cannon",
+	"max_stack": 1,
+	"damage": [{ "value": 100, "tip": "Magic" }],
+	"knockback": 2,
+	"mana": 14,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 28,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Brain Scrambler", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Gigazapper", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Gray Grunt", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Martian Engineer", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Martian Officer", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Martian Saucer", "rate": 11.11, "type": "Boss" },
+		{ "name": "Martian Walker", "rate": 0.13, "type": "Enemy" },
+		{ "name": "Ray Gunner", "rate": 0.13, "type": "Enemy" }
+	]
+}

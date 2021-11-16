@@ -1,0 +1,342 @@
+{
+	"overview": [
+		"Hooks are a class of tools which aid the player in traversing terrain. When used, hooks fire a chain that latches to a surface or platform and pulls the player towards it. A hook is an essential tool which offers significant freedom from terrain height restrictions as well as being a fast movement option, and will often be the first major mobility tool a player acquires. A variety of hooks are available at all stages of the game (see table below).",
+
+		"The <kbd>Grapple</kbd> hotkey activates the equipped hook in the player's equipment slot, or the first hook from the inventory (read from left→right, top→bottom) without requiring it to be in the player's hotbar.",
+
+		"Several higher-tier hooks, like the Ivy Whip, allow the player to grapple multiple surfaces simultaneously. If the character grapples one surface, then fires the hook a second time, another chain extends from the player without dislodging the first. Upon grappling a second surface, the player will be suspended in midair at a point midway between the two surfaces. This allows players more freedom during construction, or for navigating hazardous areas, such as above lava or Meteorite.",
+
+		"All Journey Mode characters will spawn with the basic Grappling Hook already in their inventory.",
+
+		"When the player first acquires a hook, a small tutorial box will pop up telling the player how to use it."
+	],
+
+	"types": [
+		"Hooks vary in range, velocity, number of deployable hooks, and number of hooks that can remain latched simultaneously.",
+
+		"All crafted hooks are crafted at the Iron Anvil or Lead Anvil, with the exception of the Lunar Hook, crafted at the Ancient Manipulator.",
+		
+		"Single hooks dislodge immediately if fired again while already latched to a surface.",
+
+		"Multi-hooks without simultaneous latching (Dual Hook; also the Fish Hook prior to 1.3) can fire a second chain before the first latches to a surface, but will dislodge the first chain when the second latches a surface.",
+
+		"A multi-hook can be fired again only after the previous chain latched a surface or fully retracted. The Fish Hook, Dual Hook, Web Slinger, and Lunar Hook are exceptions, and can be fired very rapidly; nearly as fast as the player can press the button."
+	],
+
+	"pre": [
+		{
+			"name": "Grappling Hook",
+			"source": [
+				"Crafted: 3 [i:Material:Chain] + [i:Material:Hook]",
+				"or Goblin Tinkerer (2 Gold Coins)"
+			],
+			"reach": 18.75,
+			"velocity": 11.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Amethyst Hook",
+			"source": "Crafted: 15 [i:Gem:Amethyst]",
+			"reach": 18.75,
+			"velocity": 10,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Squirrel Hook",
+			"source": "Zoologist (2 Gold Coins)",
+			"reach": 19,
+			"velocity": 11.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1,
+			"notes": "Can grapple onto trees."
+		},
+		{
+			"name": "Topaz Hook",
+			"source": "Crafted: 15 [i:Gem:Topaz]",
+			"reach": 20.625,
+			"velocity": 10.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Sapphire Hook",
+			"source": "Crafted: 15 [i:Gem:Sapphire]",
+			"reach": 22.5,
+			"velocity": 11,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Emerald Hook",
+			"source": "Crafted: 15 [i:Gem:Emerald]",
+			"reach": 24.375,
+			"velocity": 11.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Ruby Hook",
+			"source": "Crafted: 15 [i:Gem:Ruby]",
+			"reach": 26.25,
+			"velocity": 12,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Amber Hook",
+			"source": "Crafted: 15 [i:Gem:Amber]",
+			"reach": 27.5,
+			"velocity": 12.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Diamond Hook",
+			"source": "Crafted: 15 [i:Gem:Diamond]",
+			"reach": 29.125,
+			"velocity": 12.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 1
+		},
+		{
+			"name": "Web Slinger",
+			"source": "[i:Furniture:Web Covered Chest] Web Covered Chests",
+			"reach": 15.625,
+			"velocity": 10,
+			"hooks": 8,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 2,
+			"notes": [
+				"Can fire all hooks in rapid succession, regardless of whether the initial hook hits a block. This distinguishes it from most simultaneous hooks.",
+				"Shortest range of any hook."
+			]
+		},
+		{
+			"name": "Skeletron Hand",
+			"source": "Skeletron (12.24%)",
+			"reach": 21.875,
+			"velocity": 15,
+			"hooks": 2,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 90, "type": "silver" }],
+			"rarity": 2,
+			"notes": "Pulls in the user faster than any other non-seasonal pre-Hardmode hook."
+		},
+		{
+			"name": "Slime Hook",
+			"source": "King Slime (33.33%)",
+			"reach": 18.75,
+			"velocity": 13,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 3,
+			"notes": "Translucent."
+		},
+		{
+			"name": "Fish Hook",
+			"source": "Angler (1.7%)",
+			"reach": 25,
+			"velocity": 13,
+			"hooks": 2,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 3,
+			"notes": "Can fire 3 times in rapid succession."
+		},
+		{
+			"name": "Ivy Whip",
+			"source": "Crafted: 12 [i:Material:Jungle Spores] + 3 [i:Material:Vine]",
+			"reach": 28,
+			"velocity": 13,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 40, "type": "silver" }],
+			"rarity": 3
+		},
+		{
+			"name": "Bat Hook",
+			"source": "[i:Bag:Goodie Bag] Goodie Bags (0.67%)",
+			"reach": 31.25,
+			"velocity": 13.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+			"rarity": 3,
+			"notes": "Pulls in the user faster than any other hook."
+		},
+		{
+			"name": "Candy Cane Hook",
+			"source": "[i:Bag:Present] Presents (0.63%)",
+			"reach": 25,
+			"velocity": 11.5,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 2, "type": "gold" }],
+			"rarity": 7
+		}
+	],
+
+	"hm": [
+		{
+			"name": "Dual Hook",
+			"source": "Mimics (14.29%)",
+			"reach": 27.5,
+			"velocity": 14,
+			"hooks": 2,
+			"latching": "Individual",
+			"sell": [{ "value": 3, "type": "gold" }],
+			"rarity": 4,
+			"notes": [
+				"Glowing ends (red and light blue).",
+				"Can fire 2 times in rapid succession.",
+				"Two hooks can be fired, but only one may be latched at a time."
+			]
+		},
+		{
+			"name": "Hook of Dissonance",
+			"source": "Queen Slime (33.33%)",
+			"reach": 30,
+			"velocity": 16,
+			"hooks": 1,
+			"latching": "Single",
+			"sell": [{ "value": 5, "type": "gold" }],
+			"rarity": 5,
+			"notes": [
+				"Teleports the player to the hooked location.",
+				"Will not teleport the player through blocks."
+			]
+		},
+		{
+			"name": "Thorn Hook",
+			"source": "Plantera (10%)",
+			"reach": 30,
+			"velocity": 16,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 6, "type": "gold" }],
+			"rarity": 6
+		},
+		{
+			"name": "Illuminant Hook",
+			"source": "Hallowed Mimic (25%)",
+			"reach": 30,
+			"velocity": 15,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 6, "type": "gold" }],
+			"rarity": 6,
+			"notes": ["Glowing ends."]
+		},
+		{
+			"name": "Worm Hook",
+			"source": "Corrupt Mimic (20%)",
+			"reach": 30,
+			"velocity": 15,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 6, "type": "gold" }],
+			"rarity": 6
+		},
+		{
+			"name": "Tendon Hook",
+			"source": "Crimson Mimic (20%)",
+			"reach": 30,
+			"velocity": 15,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 6, "type": "gold" }],
+			"rarity": 6
+		},
+		{
+			"name": "Anti-Gravity Hook",
+			"source": "Martian Saucer (11.11%) All enemies in the Martian Madness event",
+			"reach": 31.25,
+			"velocity": 14,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 2, "type": "gold" }, { "value": 50, "type": "silver" }],
+			"rarity": 7,
+			"notes": [
+				"Suspends user 12 tiles from latch point in any direction.",
+				"Allows player to orbit around the latch point."
+			]
+		},
+		{
+			"name": "Spooky Hook",
+			"source": "Mourning Wood (2% – 20%)",
+			"reach": 34.375,
+			"velocity": 15.5,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 4, "type": "gold" }],
+			"rarity": 7
+		},
+		{
+			"name": "Christmas Hook",
+			"source": "Everscream (5.19% – 7.78%)",
+			"reach": 34.375,
+			"velocity": 15.5,
+			"hooks": 3,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 4, "type": "gold" }],
+			"rarity": 7,
+			"notes": ["Glowing chain and ends."]
+		},
+		{
+			"name": "Lunar Hook",
+			"source": "Crafted: 6 [i:Material:Nebula Fragment] + 6 [i:Material:Solar Fragment] + 6 [i:Material:Stardust Fragment] + 6 [i:Material:Vortex Fragment]",
+			"reach": 34.375,
+			"velocity": 18,
+			"hooks": 4,
+			"latching": "Simultaneous",
+			"sell": [{ "value": 10, "type": "gold" }],
+			"rarity": 10,
+			"notes": [
+				"Crafted at Ancient Manipulator.",
+				"Glowing chain & ends.",
+				"Each chain glows its respective color.",
+				"Can fire all hooks in rapid succession, regardless of whether the initial hook hits a block.",
+				"This distinguishes it from most simultaneous hooks."
+			]
+		},
+		{
+			"name": "Static Hook",
+			"source": "Steampunker (50)",
+			"reach": 37.5,
+			"velocity": 16,
+			"hooks": 2,
+			"latching": "Individual",
+			"sell": [{ "value": 10, "type": "gold" }],
+			"rarity": 10,
+			"notes": [
+				"Two hooks can be fired, but only one is latched at a time.",
+				"Latching does not pull the player, unlike other hooks.",
+				"Players can adjust their distance from the latched point.",
+				"Players will not move while latching to a different point.",
+				"Longest range of any hook."
+			]
+		}
+	]
+}

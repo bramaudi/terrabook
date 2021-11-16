@@ -1,0 +1,56 @@
+{
+	"overview": [
+		"The Dark Harvest is a Hardmode whip dropped by the Pumpking during the Pumpkin Moon event. Like other whips, it causes minions to focus on the last-struck enemy.",
+
+		"Striking an enemy with Dark Harvest applies a \"dark energy\" aura to the target. Every time a minion attacks that enemy, the dark aura flares out and damages nearby enemies for 10 damage, ignoring 50 enemy defense and not affected by damage bonuses (similar to Cool Whip's special minion). The original target takes no additional damage.",
+
+		"Hitting an enemy with Dark Harvest will grant the Harvest Time buff, which increases attack speed (by 50%) similar to Snapthorn and Durendal.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+    "Like the Firecracker and Cool Whip, the Dark Harvest forgoes summon tag damage for an on-hit special effect. This results in it being more effective as a direct weapon, but prevents it from enhancing minion damage.",
+    "[i:UI:Console version] [i:UI:Mobile version] Mourning Wood and Pumpking are immune to the Dark Harvest's whip debuff."
+	],
+
+	"tips": [
+		"Dark Harvest's high attack speed grant it the third highest DPS of any of the whips behind the Morning Star and Kaleidoscope. With melee speed-boosting accessories, the Dark Harvest is capable of competing with the Morning Star and surpassing it, though this requires specialized builds.",
+    "This is one of the best post-Plantera whips the player can obtain before killing the Empress of Light. However, the Morning Star may be better for a single target, due to its buffs to minion damage and critical strike chance.",
+    "Dark Harvest is an excellent choice for events, as the player can focus on mini-bosses while the dark energy kills nearby, weaker enemies.",
+    "Dark Harvest works better with rapidly-attacking minions like the Xeno Staff or Blade Staff than with slower minions.",
+    "Due to the nature of Dark Harvest's Harvest Time buff, switching to another whip while the buff is active will increase its speed for a brief period."
+	],
+
+	"title": "Dark Harvest",
+	"max_stack": 1,
+	"damage": [{ "value": 100, "tip": "Summon" }],
+	"knockback": 3,
+	"use_time": 30,
+	"velocity": 12,
+	"tooltip": [
+		"Your summons will focus struck enemies",
+		"Strike enemies with dark energy to gain attack speed",
+		"Dark energy jumps from enemies hit by summons"
+	],
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Harvest Time",
+			"tooltip": "Melee speed is increased",
+			"duration": [{ "value": 3, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

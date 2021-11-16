@@ -1,0 +1,93 @@
+{
+	"title": "Wall of Flesh",
+	"damage": 50,
+	"maxhp": 8000,
+	"defense": 12,
+	"kb_resist": 100,
+	"immune": ["On Fire!", "Confused", "Hellfire"],
+	"inflict": [
+		{
+			"debuff": "Horrified",
+			"tooltip": "You have seen something nasty, there is no escape",
+			"duration": "While the player is within 1800 feet (900 blocks) from the boss"
+		},
+		{
+			"debuff": "The Tongue",
+			"tooltip": "You are being sucked into the mouth",
+			"duration": "When the player is within 1800 feet (900 blocks) behind the boss"
+		}
+	],
+	"coins": [
+		{ "value": 8, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Pwnhammer", "rate": 100, "type": "Tool" },
+		{
+			"note": "One of the following 8 items will be dropped",
+			"items": [
+				{ "name": "Breaker Blade", "rate": 12.5, "type": "Weapon" },
+				{ "name": "Clockwork Assault Rifle", "rate": 12.5, "type": "Weapon" },
+				{ "name": "Laser Rifle", "rate": 12.5, "type": "Weapon" },
+				{ "name": "Firecracker", "rate": 12.5, "type": "Weapon" },
+				{ "name": "Warrior Emblem", "rate": 12.5, "type": "Accessory" },
+				{ "name": "Ranger Emblem", "rate": 12.5, "type": "Accessory" },
+				{ "name": "Sorcerer Emblem", "rate": 12.5, "type": "Accessory" },
+				{ "name": "Summoner Emblem", "rate": 12.5, "type": "Accessory" }
+			]
+		},
+		{ "name": "Healing Potion", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "Badger's Hat", "rate": 100, "type": "Vanity", "tip": "when defeated on the same day as the Eye of Cthulhu" },
+		{ "name": "Wall of Flesh Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Wall of Flesh Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": 150,
+		"maxhp": 11200,
+		"defense": 18,
+		"coins": [
+			{ "value": 20, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Badger's Hat", "rate": 100, "type": "Vanity", "tip": "when defeated on the same day as the Eye of Cthulhu" },
+			{ "name": "Wall of Flesh Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Wall of Flesh)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Demon Heart", "rate": 100, "type": "Accessory", "tip": "when no Demon Heart used yet" },
+					{ "name": "Wall of Flesh Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Pwnhammer", "rate": 100, "type": "Tool" },
+					{
+						"note": "One of the following 4 weapons will be dropped",
+						"items": [
+							{ "name": "Breaker Blade", "rate": 25, "type": "Weapon" },
+							{ "name": "Clockwork Assault Rifle", "rate": 25, "type": "Weapon" },
+							{ "name": "Laser Rifle", "rate": 25, "type": "Weapon" },
+							{ "name": "Firecracker", "rate": 25, "type": "Weapon" }
+						]
+					},
+					{
+						"note": "One of the following 4 emblems will be dropped",
+						"items": [
+							{ "name": "Warrior Emblem", "rate": 25, "type": "Accessory" },
+							{ "name": "Ranger Emblem", "rate": 25, "type": "Accessory" },
+							{ "name": "Sorcerer Emblem", "rate": 25, "type": "Accessory" },
+							{ "name": "Summoner Emblem", "rate": 25, "type": "Accessory" }
+						]
+					},
+					{ "name": "Gold Coin", "rate": 100, "qty": "8", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": 225,
+		"maxhp": 14280,
+		"drops": [
+			{ "name": "Goat Skull", "rate": 25, "type": "Mount" },
+			{ "name": "Wall of Flesh Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}

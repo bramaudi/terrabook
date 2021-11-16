@@ -1,0 +1,32 @@
+{
+	"overview": [
+		"The Gato Egg is a pet-summoning item which summons a Propeller Gato to follow the player around. It has a Tier 1: 16.67% / [e=25%] T2/3: 8.33% chance of being dropped by the Dark Mage during the Old One's Army event."
+	],
+
+	"title": "Gato Egg",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a pet gato",
+	"summon": "Propeller Gato",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Propeller Gato",
+			"tooltip": "A propeller gato is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Dark Mage", "rate": 16.67, "type": "Boss", "tip": "(Tier 1)" },
+		{ "name": "Dark Mage", "rate": 8.33, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Dark Mage", "rate": 25, "type": "Boss", "tip": "(Tier 1)" },
+			{ "name": "Dark Mage", "rate": 8.33, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"title": "Everscream",
+	"env": ["Frost Moon"],
+	"damage": [
+		{ "value": 110 },
+		{ "value": 86, "tip": "Pine Needle" },
+		{ "value": 114, "tip": "Ornament" },
+		{ "value": 80, "tip": "Ornament shrapnel" }
+	],
+	"maxhp": 13000,
+	"defense": 38,
+	"kb_resist": 100,
+	"immune": ["Frostburn", "Confused", "Poisoned", "Frostbite"],
+	"coins": [
+		{ "value": 1, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "One of the following 4 items may be dropped, Higher item drop chances in later waves",
+			"items": [
+				{ "name": "Christmas Tree Sword", "rate": "3.11 - 7.78", "type": "Weapon" },
+				{ "name": "Christmas Hook", "rate": "3.11 - 7.78", "type": "Hook" },
+				{ "name": "Razorpine", "rate": "3.11 - 7.78", "type": "Weapon" },
+				{ "name": "Festive Wings", "rate": "0.67 - 1.67", "type": "Wing" }
+			]
+		},
+		{ "name": "Everscream Trophy", "rate": "4.17 - 12.5", "type": "Furniture", "tip": "During Wave 15 and up" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 165 },
+			{ "value": 172, "tip": "Pine Needle" },
+			{ "value": 228, "tip": "Ornament" },
+			{ "value": 160, "tip": "Ornament shrapnel" }
+		],
+		"maxhp": 16900,
+		"coins": [
+			{ "value": 2, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{
+				"note": "One of the following 4 items may be dropped, Higher item drop chances in later waves",
+				"items": [
+					{ "name": "Christmas Tree Sword", "rate": "6.22 - 31.11", "type": "Weapon" },
+					{ "name": "Christmas Hook", "rate": "6.22 - 31.11", "type": "Hook" },
+					{ "name": "Razorpine", "rate": "6.22 - 31.11", "type": "Weapon" },
+					{ "name": "Festive Wings", "rate": "1.33 - 6.67", "type": "Wing" }
+				]
+			},
+			{ "name": "Everscream Trophy", "rate": "27.27 - 60", "type": "Furniture", "tip": "During Wave 15 and up" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 247 },
+			{ "value": 258, "tip": "Pine Needle" },
+			{ "value": 342, "tip": "Ornament" },
+			{ "value": 240, "tip": "Ornament shrapnel" }
+		],
+		"maxhp": 21547,
+		"drops": [
+			{ "name": "Shrub Star", "rate": "5 - 25", "type": "Pet" },
+			{ "name": "Everscream Relic", "rate": "20 - 100", "type": "Furniture" }
+		]
+	}
+}

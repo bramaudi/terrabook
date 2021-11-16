@@ -1,0 +1,43 @@
+{
+	"overview": [
+		"The Binoculars are an item that can be held in order to shift the player's view based on the cursor location. They must be placed in the hotbar and selected. While highlighted in the hotbar, the screen view is scrolled a short distance away from the character, following the mouse pointer. The view becomes centered not on the player, but on a point almost halfway between the player and the cursor.",
+
+		"Binoculars have a 2.5% / <span class=expert>3.3%</span> (1/40 / <span class=expert>1/30</span>) chance of being dropped by the Eye of Cthulhu."
+	],
+
+	"notes": [
+		"The Binoculars operate similarly to the Recon Scope, Rifle Scope, Sniper Rifle and Sniper Scope, but without the need to press the <kbd>⚷ Open / Activate</kbd> button with a gun being held.",
+		"Viewing an adjacent biome can cause the music and background view to change to those of the adjacent biome. Shifting the view will also shift and update the minimap.",
+		"Holding the Binoculars will affect NPC spawning, increasing spawn range and the safe range. In other words, enemies will spawn further away from the player while holding the Binoculars. This effect does not occur when the item is in the inventory without being held and hovering over inventory slots while holding it will cancel this effect, much like Magic Missile-type weapons.",
+		"If the player stops holding the Binoculars, they can sometimes see enemies despawn while the camera moves back to the player.",
+		"On the 3DS version, the Binoculars, as well as the Rifle Scope, are obtainable, but they are not functional.",
+		[
+			"This means that the only items that can change the camera's position are the Sniper Rifle and Sniper Scope. Note that the same used to apply for the Mobile version Mobile version as well, but it is now functional since the 1.3 update.",
+
+			"However, the C-stick can be used to change the camera's position, making these items obsolete on the New Nintendo 3DS systems."
+		]
+	],
+
+	"tips": [
+		"If the player uses a Magic Missile, Flamelash or Rainbow Rod and then quickly switches to the binoculars while still holding down <kbd>⚒ Use / Attack</kbd>, the player will still be able to control the projectile but will also be able to move the camera around, greatly increasing the range of the projectile.",
+		"Binoculars can be used while the game is paused.",
+		"Binoculars are very helpful in locating rare enemies detected by the Lifeform Analyzer or its upgrades."
+	],
+
+	"title": "Binoculars",
+	"max_stack": 1,
+	"tooltip": "Increases view range when held",
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Eye of Cthulhu", "rate": 2.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "rate": 3.33, "type": "Bag" }
+		]
+	}
+}

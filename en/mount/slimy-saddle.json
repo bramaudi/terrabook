@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Slimy Saddle is a mount-summoning item. When used, it summons a friendly Slime Mount. The Slime offers increased jump height (21 tiles) and movement speed (20 mph), decreases fall damage by half, and enables floating on water surfaces and continuous auto-jump by holding the <kbd>↷ Jump key</kbd>. On the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, landing on enemies while riding this mount will deal 40 summon damage (excluding defense) to them in addition to pushing the player back up again. For this damage, the Slime Mount is considered a minion and benefits from effects that boost the damage of summons.",
+		"The Slimy Saddle has a 1/4 (25%) chance of being dropped by King Slime in normal mode, and a 1/2 (50%) chance of being found in a King Slime Treasure Bag in Expert Mode."
+	],
+	"notes": [
+		"The Slime Mount does not benefit from the critical strike chance bonus of banners.",
+		"The Slime Mount's damage is not variable (i.e., unaffected by the usual ±15% randomization), hence it is very useful for enemy defense tests in-game.",
+		"The Cloud in a Bottle's and its derivatives' and relatives' double jump ability works while riding the Slime Mount.",
+		"Damaging an enemy with the Slime Mount will reset the player's invincibility to 6 ticks (1/10 second), meaning that they cannot take damage immediately after jumping on an enemy. Also, note that the damaged enemy will get 10 ticks of invincibility.",
+		"Players move at double the normal vertical speed whilst riding the Slime Mount. Note that the Stopwatch and the Goblin Tech will still show the regular speed.",
+		"The Lucky Horseshoe, its derivatives, and wings will prevent fall damage while riding the mount."
+	],
+	
+	"title": "Slimy Saddle",
+	"max_stack": 1,
+	"auto_use": false,
+	"use_time": 20,
+	"tooltip": "Summons a rideable Slime mount",
+	"summon": "Slime Mount",
+	"rarity": 8,
+	"sell": [
+		{ "value": 5, "type": "gold" }
+	],
+	"research": 1,
+	"dropped_by": [
+		{ "name": "King Slime", "qty": 1, "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (King Slime)", "qty": 1, "rate": 50, "type": "Bag" }
+		]
+	}
+}

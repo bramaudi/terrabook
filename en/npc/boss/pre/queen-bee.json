@@ -1,0 +1,132 @@
+{
+	"title": "Queen Bee",
+	"damage": [
+		{ "value": 30, "tip": "melee" },
+		{ "value": 22, "tip": "stinger" }
+	],
+	"maxhp": 3400,
+	"defense": 8,
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused"],
+	"inflict": [
+		{
+			"debuff": "Poisoned",
+			"tooltip": "Slowly losing life",
+			"chance": "33.33%",
+			"duration": [
+				{ "value": "10", "tip": "seconds (stinger)" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 5, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "Only one of the following 3 items can drop at a time",
+			"items": [
+				{ "name": "Bee Gun", "rate": 33, "type": "Weapon" },
+				{ "name": "Bee Keeper", "rate": 33, "type": "Weapon" },
+				{ "name": "The Bee's Knees", "rate": 33, "type": "Weapon" }
+			]
+		},
+		{
+			"note": "Only one of the following 4 items can drop at a time",
+			"items": [
+				{ "name": "Hive Wand", "rate": 33, "type": "Tool" },
+				{ "name": "Bee Hat", "rate": 11, "type": "Vanity" },
+				{ "name": "Bee Shirt", "rate": 11, "type": "Vanity" },
+				{ "name": "Bee Pants", "rate": 11, "type": "Vanity" }
+			]
+		},
+		{ "name": "Honey Comb", "rate": 33, "type": "Accessory" },
+		{ "name": "Nectar", "rate": 6.7, "type": "Pet" },
+		{ "name": "Honeyed Goggles", "rate": 5, "type": "Mount" },
+		{ "name": "Beenade", "qty": "10-30", "rate": 75, "type": "Weapon" },
+		{ "name": "Bottled Honey", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "Queen Bee Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Queen Bee Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 54, "tip": "melee" },
+			{ "value": 44, "tip": "stinger" }
+		],
+		"maxhp": 4760,
+		"defense": [
+			{ "value": "8-28", "tip": "depending on health" }
+		],
+		"inflict": [
+			{
+				"debuff": "Poisoned",
+				"tooltip": "Slowly losing life",
+				"chance": "100%",
+				"duration": [
+					{ "value": "2-20", "tip": "seconds (stinger)" },
+					{ "value": "2-8", "tip": "seconds" }
+				]
+			}
+		],
+		"coins": [
+			{ "value": 12, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Bottled Honey", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Queen Bee Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Queen Bee)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Hive Pack", "rate": 100, "type": "Accessory" },
+					{ "name": "Queen Bee Mask", "rate": 14.29, "type": "Vanity" },
+					{
+						"note": "One of the following 3 items will be dropped",
+						"items": [
+							{ "name": "Bee Gun", "rate": 33, "type": "Weapon" },
+							{ "name": "Bee Keeper", "rate": 33, "type": "Weapon" },
+							{ "name": "The Bee's Knees", "rate": 33, "type": "Weapon" }
+						]
+					},
+					{ "name": "Honey Comb", "rate": 33, "type": "Accessory" },
+					{ "name": "Nectar", "rate": 11, "type": "Pet" },
+					{ "name": "Honeyed Goggles", "rate": 11, "type": "Mount" },
+					{ "name": "Hive Wand", "rate": 100, "type": "Tool" },
+					{
+						"note": "One of the following 3 items will be dropped",
+						"items": [
+							{ "name": "Bee Hat", "rate": 33, "type": "Vanity" },
+							{ "name": "Bee Shirt", "rate": 33, "type": "Vanity" },
+							{ "name": "Bee Pants", "rate": 33, "type": "Vanity" }
+						]
+					},
+					{ "name": "Beenade", "qty": "10-29", "rate": 100, "type": "Weapon" },
+					{ "name": "Bee Wax", "qty": "17-29", "rate": 100, "type": "Material" },
+					{ "name": "Gold Coin", "rate": 100, "qty": "10", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 81, "tip": "melee" },
+			{ "value": 66, "tip": "stinger" }
+		],
+		"maxhp": 6069,
+		"inflict": [
+			{
+				"debuff": "Poisoned",
+				"tooltip": "Slowly losing life",
+				"duration": [
+					{ "value": "2.5-25", "tip": "seconds (stinger)" },
+					{ "value": "2.5-10", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Sparkling Honey", "rate": 25, "type": "Pet" },
+			{ "name": "Queen Bee Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}

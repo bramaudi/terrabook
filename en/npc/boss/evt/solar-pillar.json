@@ -1,0 +1,24 @@
+{
+	"title": "Solar Pillar",
+	"env": ["Lunar Events"],
+	"damage": [
+		{ "value": 0 },
+		{ "value": 120, "tip": "Solar Fragment" }
+	],
+	"maxhp": 20000,
+	"defense": 20,
+	"kb_resist": 100,
+	"immune_except": "Whip debuffs",
+	"immune": [],
+
+	"drops": [
+		{ "name": "Solar Fragment", "qty": "12-60", "rate": 100, "type": "Material" }
+	],
+
+	"expert": {
+		"drops": [
+			{ "name": "Solar Fragment", "qty": "24-100", "rate": 100, "type": "Material" }
+		]	
+	},
+	"master": {}
+}

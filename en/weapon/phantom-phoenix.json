@@ -1,0 +1,49 @@
+{
+	"overview": [
+		"The Phantom Phoenix is a Hardmode bow dropped by the Ogre mini-boss during the Old One's Army event. It fires two arrows at a time, spreading randomly similarly to the Chlorophyte Shotbow, and also fires a large phoenix with a waving arc every third shot. The phoenix deals double the weapon's damage, and explodes when colliding with a wall. It also converts regular Wooden Arrows into Flaming Arrows, similar to the Molten Fury.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"tips": [
+		"The Phantom Phoenix has lower base damage than the repeaters available during early Hardmode. However, it fires two arrows at once, doubling total damage done, and converts normal arrows into Flaming Arrows, making the Endless Quiver more powerful. This makes it compete with or exceed the repeaters for DPS when using normal arrows.",
+		[
+			"With Holy Arrows, the double-shooting of the Phantom Phoenix makes it operate like the Daedalus Stormbow, with slightly fewer arrows per shot but easier to aim.",
+			"On the other hand, using piercing arrows such as Jester's or Unholy Arrows will make enemies only take damage from one of the arrows, cutting the damage output in half."
+		],
+		"The flaming phoenix is destroyed by liquids, making the Phantom Phoenix significantly less effective underwater."
+	],
+
+	"title": "Tome of Infinite Wisdom",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 32, "tip": "Ranged" }],
+	"knockback": 2,
+	"critical_chance": 4,
+	"use_time": 18,
+	"velocity": 20,
+	"tooltip": "Harnesses the power of undying flames",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"chance": "100%",
+			"duration": [{ "value": 8, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Ogre", "rate": 6.67, "type": "Boss", "tip": "(Tier 2)" },
+		{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ogre", "rate": 10, "type": "Boss", "tip": "(Tier 2)" },
+			{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

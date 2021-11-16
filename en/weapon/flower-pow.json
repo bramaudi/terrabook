@@ -1,0 +1,33 @@
+{
+	"overview": [
+		"The Flower Pow is a Hardmode flail which is dropped by Plantera with a 1/7 (14.29%) chance. In addition to the usual flail mechanics, it has the unique ability to shoot petals toward enemies. It will launch the petals at a steady, rapid pace for as long as the fire button is held and there are unobstructed targets to shoot at. Dropping the flail head to the ground mid-throw will cause the fire rate of its petals to increase drastically. It is heavily affected by gravity, but holding the mouse can allow it to be held and dragged.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"When pressed against a 1 block wide wall, a player can launch their Flower Pow through the wall (this goes for every wall, above or beneath the player), making it helpful for attacking enemies from safety."
+	],
+
+	"title": "Leaf Blower",
+	"max_stack": 1,
+	"damage": 130,
+	"knockback": 6.5,
+	"critical_chance": 4,
+	"use_time": 40,
+	"velocity": 15.9,
+	"tooltip": "Shoots razor sharp flower petals at nearby enemies",
+	"rarity": 7,
+	"sell": [{ "value": 6, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

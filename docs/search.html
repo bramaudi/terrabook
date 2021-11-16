@@ -1,0 +1,35 @@
+---
+layout: layout.html
+---
+<style type="text/css">
+	#search {
+		padding: 10px;
+		border: 1px solid #ddd;
+	}
+</style>
+
+<div class="info">
+	<input id="search" type="text" placeholder="Search by title" value="" />
+</div>
+<div id="alert" style="display: none;" class="message">No post found</div>
+<div id="postslist">
+	{% set postslist = collections.posts | head(-3) %}
+	{% set postslistCounter = collections.posts | length %}
+	<article>
+		{% for post in postslist | reverse %}
+			<div class="post">
+				<h2 class="title" rel="bookmark" title="{% if post.data.title %}{{ post.data.title }}{% else %}{{ post.url }}{% endif %}">
+					<a href="{{ post.url | url }}">
+						{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+					</a>
+				</h2>
+				<div class="content">
+					{{ post.data.description }}
+				</div>
+			</div>
+		{% endfor %}
+	</article>
+</div>
+
+<script src="{{ '/assets/fuzzysort.min.js' }}"></script>
+<script src="{{ '/assets/search.js' }}"></script>

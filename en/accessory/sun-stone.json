@@ -1,0 +1,51 @@
+{
+	"overview": [
+		"The Sun Stone is a Hardmode, post-Golem accessory which has a 1/7 (14.29%) chance to drop from Golem. It grants the same stat bonuses as the Moon Stone; however, these bonuses only activate during the day.",
+
+		"The stat bonuses are:",
+
+		[
+			"+10% melee speed",
+			"+10% damage (all types)",
+			"+2% critical strike chance",
+			"+1 HP/s health regeneration",
+			"+4 defense",
+			"+15% mining speed",
+			"+0.5 minion knockback"
+		]
+	],
+
+	"tips": [
+		"When worn with the Avenger Emblem, the damage bonus can be increased to +22% damage. When worn with the Ranger, Sorcerer, Summoner, or Warrior Emblems, the damage of that particular class will be increased by 25%. In addition, a Wrath Potion increases damage of all classes by 10%. Finally, if reforged to menacing, your damage increases by 4% more per accessory."
+	],
+
+	"title": "Sun Stone",
+	"max_stack": 1,
+	"tooltip": "If worn during the day, grants minor increase to damage, melee speed, critical strike chance, life regeneration, defense, mining speed, and minion knockback",
+	"rarity": 7,
+	"sell": [{ "value": 6, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Celestial Stone", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Sun Stone", "type": "Accessory" },
+					{ "name": "Moon Stone", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

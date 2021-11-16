@@ -1,0 +1,250 @@
+{
+	"title": "The Twins",
+	"env": ["Surface", "Space", "Night"],
+	"maxhp": [
+		{ "value": 43000, "tip":"total" }
+	],
+	"defense": 10,
+	"kb_resist": 100,
+	"immune": [
+		"Poisoned",
+		"Confused"
+	],
+	"coins": [
+		{ "value": 12, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Soul of Sight", "qty": "25-40", "rate": 100, "type": "Material" },
+		{ "name": "Hallowed Bar", "qty": "15-30", "rate": 100, "type": "Bar" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Twin Mask", "rate": 14.29, "type": "Vanity" }
+	],
+
+	"expert": {
+		"maxhp": [
+			{ "value": 64500, "tip":"total" }
+		],
+		"coins": [
+			{ "value": 30, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{
+				"name": "Treasure Bag (The Twins)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Mechanical Wheel Piece", "rate": 100, "type": "Material" },
+					{ "name": "Twin Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Soul of Sight", "qty": "25-40", "rate": 100, "type": "Material" },
+					{ "name": "Hallowed Bar", "qty": "15-30", "rate": 100, "type": "Bar" },			
+					{ "name": "Gold Coin", "rate": 100, "qty": 12, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"maxhp": [
+			{ "value": 82237, "tip":"total" }
+		],
+		"drops": [
+			{ "name": "Pair of Eyeballs", "rate": 25, "type": "Pet" },
+			{ "name": "Twins Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"maxhp": [
+				{ "value": 43000, "tip":"total" }
+			],
+			"defense": 10,
+			"kb_resist": 100,
+			"expert": {
+				"maxhp": [
+					{ "value": 64500, "tip":"total" }
+				]
+			},
+			"master": {
+				"maxhp": [
+					{ "value": 82237, "tip":"total" }
+				]
+			}
+		}
+	],
+
+	"part": [
+		{
+			"title": "Spazmatism",
+			"damage": [
+				{ "value": 50 },
+				{ "value": 50, "tip": "Cursed Flame" }
+			],
+			"maxhp": 23000,
+			"defense": 10,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+			"inflict": [
+				{
+					"debuff": "Cursed Inferno",
+					"tooltip": "Losing life",
+					"chance": "68.75%",
+					"duration": [
+						{ "value": "2-3", "tip": "seconds" }
+					]
+				}
+			],
+			"drops": [
+				{ "name": "Spazmatism Trophy", "rate": 10, "type": "Furniture" }
+			],
+
+			"expert": {
+				"damage": [
+					{ "value": 85 },
+					{ "value": 88, "tip": "Cursed Flame" }
+				],
+				"maxhp": 34500,
+				"inflict": [
+					{
+						"debuff": "Cursed Inferno",
+						"tooltip": "Losing life",
+						"duration": [
+							{ "value": "4-6", "tip": "seconds" }
+						]
+					}
+				],
+				"drops": [
+					{ "name": "Spazmatism Trophy", "rate": 10, "type": "Furniture" }
+				]
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 127 },
+					{ "value": 132, "tip": "Cursed Flame" }
+				],
+				"maxhp": 43987,
+				"inflict": [
+					{
+						"debuff": "Cursed Inferno",
+						"tooltip": "Losing life",
+						"duration": [
+							{ "value": "5-7.5", "tip": "seconds" }
+						]
+					}
+				]
+			},
+
+			"phase": [
+				{
+					"damage": [
+						{ "value": 75 },
+						{ "value": 60, "tip": "Eye Fire" }
+					],
+					"maxhp": [
+						{ "value": 9200, "tip": "start phase2" },
+						{ "value": 23000 }
+					],
+					"defense": 28,
+					"kb_resist": 100,
+					"immune": ["Poisoned", "Confused"],
+					"inflict": [
+						{
+							"debuff": "Cursed Inferno",
+							"tooltip": "Losing life",
+							"chance": "68.75%",
+							"duration": [
+								{ "value": "2–3", "tip": "seconds" }
+							]
+						}
+					],
+
+					"expert": {
+						"damage": [
+							{ "value": 127 },
+							{ "value": 108, "tip": "Eye Fire" }
+						],
+						"maxhp": [
+							{ "value": 13800, "tip": "start phase2" },
+							{ "value": 34500 }
+						],
+						"inflict": [
+							{
+								"duration": [
+									{ "value": "4–6", "tip": "seconds" }
+								]
+							}
+						]
+					},
+
+					"master": {
+						"damage": [
+							{ "value": 190 },
+							{ "value": 162, "tip": "Eye Fire" }
+						],
+						"maxhp": [
+							{ "value": 17594, "tip": "start phase2" },
+							{ "value": 43987 }
+						],
+						"inflict": [
+							{
+								"duration": [
+									{ "value": "5–7.5", "tip": "seconds" }
+								]
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "Retinazer",
+			"damage": [
+				{ "value": 45 },
+				{ "value": 40, "tip": "Eye Laser" }
+			],
+			"maxhp": 20000,
+			"defense": 10,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+			"drops": [
+				{ "name": "Retinazer Trophy", "rate": 10, "type": "Furniture" }
+			],
+
+			"expert": {
+				"damage": [
+					{ "value": 76 },
+					{ "value": 76, "tip": "Eye Laser" }
+				],
+				"maxhp": 30000,
+				"drops": [
+					{ "name": "Retinazer Trophy", "rate": 10, "type": "Furniture" }
+				]
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 114 },
+					{ "value": 114, "tip": "Eye Laser" }
+				],
+				"maxhp": 38250
+			},
+
+			"phase": [
+				{
+					"damage": [
+						{ "value": 67 },
+						{ "value": 50, "tip": "Death Laser" },
+						{ "value": 36, "tip": "rapid fire" }
+					],
+					"maxhp": [
+						{ "value": 8000, "tip": "start phase2" },
+						{ "value": 20000 }
+					],
+					"defense": 20,
+					"kb_resist": 100,
+					"immune": ["Poisoned", "Confused"]
+				}
+			]
+		}
+	]
+}

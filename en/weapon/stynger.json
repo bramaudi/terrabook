@@ -1,0 +1,49 @@
+{
+	"overview": [
+		"The Stynger is a Hardmode ranged weapon which has a 1/7 (14.29%) chance to be dropped by Golem. It auto-fires Stynger Bolts, which are initially dropped by Golem along with the weapon, and can also later be purchased from the Witch Doctor or Arms Dealer when the Stynger is in the player's inventory.",
+
+		"The Stynger Bolts explode on impact, dealing damage to anything in the explosion radius. Arching shrapnel is thrown from the explosion, each causing additional smaller explosions that inflict the same base damage.",
+		
+		"The initial bolt does double damage on direct hits to a single target. This does not apply to the fragments.",
+		
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The Stynger counts as a rocket weapon for the purposes of Shroomite armor.",
+    "The shrapnel explosion doesn't damage the shooter, allowing it to be used even at point-blank range.",
+    "Stynger bolts are affected by gravity, but fire at a high enough velocity that the changes in height are negligible."
+	],
+
+	"tips": [
+		"Due to its explosive attacks, the Stynger can often finish enemies without the need for precision aiming. This is very convenient in stressful situations, such as when a target's location is unknown (i.e. dark areas).",
+    "When paired with full Shroomite armor, the right accessories, and a flat stretch of land, the Stynger can easily take one up to wave 15 and 20 of the Pumpkin and Frost Moon."
+	],
+
+	"title": "Stynger",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 45, "tip": "Ranged" }],
+	"ammo": "Stynger Bolt",
+	"knockback": 5,
+	"critical_chance": 4,
+	"use_time": 22,
+	"velocity": 9,
+	"tooltip": [
+		"Shoots an explosive bolt",
+		"Does extra damage on a direct hit"
+	],
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"overview": [
+		"The Xeno Staff is a Hardmode, post-Golem summon weapon. It summons a UFO minion that teleports to nearby enemies and fires lasers at them. The UFO is capable of moving through blocks when far away from the character. It is dropped by the Martian Saucer during the Martian Madness event.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Xeno Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"Take into consideration that they cannot attack omnidirectionally unlike the Tempest Staff. This is usually a problem in tight spaces but not when in open spaces.",
+    "The attacks of the UFOs hit instantly, and thus never miss, similar to the Magnet Sphere.",
+    "Prior to the 1.3.5 update the Xeno Staff had an extremely low value, making reforging it to a desired modifier very cheap and easy."
+	],
+
+	"tips": [
+		"Despite having lower damage than the Tempest Staff, it is superior to Sharknados regarding attack speed and accuracy."
+	],
+
+	"title": "Xeno Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 36, "tip": "Summon" }],
+	"knockback": 2,
+	"mana": 10,
+	"use_time": 36,
+	"velocity": 10,
+	"tooltip": "Summons a UFO to fight for you",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "UFO",
+			"tooltip": "The UFO will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Martian Saucer", "rate": 16.66, "type": "Boss" }
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"overview": [
+		"The Bee's Knees is a bow which has a 33% (1/3) chance of being dropped by Queen Bee. When fired using Wooden Arrows, the bow instead emits a special projectile resembling a line of bees. On impact with an enemy or solid block, the projectile will break apart, spawning 3 to 6 bees which quickly break formation and begin to home in on nearby enemies. Similar to Meteor Shots, the individual bees can each pierce one enemy or ricochet off a solid block once, but not both.",
+
+		"Its best modifier is Unreal. "
+	],
+
+	"notes": [
+		"Because of how closely the burst of bees are packed and how quickly they move, an enemy will almost never take damage from all six in the first shot. Passing through an enemy in this way will not count as a piercing shot, but the bees will still scatter and begin homing.",
+		"This is a very powerful weapon for archers, and it can be obtained fairly quickly even if it is not obtained on the first try.",
+		"Like other bee-based weapons, bees fired by this weapon dissipate immediately on contact with water or lava, and are affected by the Hive Pack.",
+		"Because of their more limited number of ricochets, the individual bees fired from The Bee's Knees generally have less longevity than the other bee weapons. However, the weapon's main shots deal much more damage in comparison.",
+		"When shooting at a 1-tile thick wall on the left, or 1-tile thick floor above the player, one bee from the initial burst will usually pass through the block and roam free on the other side until it dissipates. Bees will never pass through blocks to the right or below them, however.",
+		"The bee projectile is unaffected by gravity, meaning it doesn't dip after being shot, like normal arrows do.",
+		"Modifiers with speed penalties such as Annoying, will cause the weapon to fire 2 times in one attack."
+	],
+
+	"tips": [
+		"The Bee's Knees works well with the Endless Quiver. However, due to the fact that the Endless Quiver can only be made in a Hardmode world (unless the player has brought in a Crystal Ball from a hardmode world), and since either the Palladium or Cobalt Repeater can be obtained early into Hardmode as well, The Bee's Knees quickly loses its effectiveness. However, it can still be used if one does not yet wish to destroy a Demon Altar as not to risk a potentially early and underprepared Mechanical Boss fight.",
+    "Unlike many bows that convert arrows for special shots, The Bee's Knees can be used to fire special arrows normally. In this capacity, it is an above-average bow, second only in pre-Hardmode to the Molten Fury but accessible much earlier. However, its special shots can never inherit the higher damage of a superior arrow type.",
+    "In close quarters, The Bee's Knees can be used to do trick shots, striking the projectile against a surface to send bees into an area without requiring the player to leave cover. However, bees will ricochet more often in confined spaces as well, causing them to die off faster and deal less damage overall.",
+		["If a target is difficult to hit out of the air, it may be viable to fire shots at the ground and let the bees home in on enemies."],
+    "The bees summoned by the Bee's Knees always only pierce one enemy, even if they are enhanced by the Hive Pack.",
+    "The bees the bow summons are able to deliver near-constant damage to enemies, essentially stun-locking them through knockback. This makes The Bee's Knees viable even into early Hardmode.",
+    "The Bee's Knees is a great weapon against the Wall of Flesh due to the fact that the bees can easily take care of The Hungry in a short amount of time and build a swarm to take out the Wall of Flesh itself."
+	],
+
+	"title": "The Bee's Knees",
+	"max_stack": 1,
+	"damage": [{ "value": 23, "tip": "Ranged" }],
+	"knockback": 3,
+	"ammo": "Arrows",
+	"critical_chance": 4,
+	"use_time": 24,
+	"velocity": 8,
+	"tooltip": "Wooden arrows turn into a column of bees",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

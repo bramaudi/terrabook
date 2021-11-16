@@ -1,0 +1,48 @@
+{
+	"overview": [
+		"The Bee Gun is a magic weapon which fires 1-6 piercing bee projectiles. These projectiles can pierce enemies or ricochet up to three times before dissipating, and home in on enemies within close enough range. They do not deal any knockback, unless enhanced by the Hive Pack. The Bee Gun has a 33% chance to be dropped by Queen Bee.",
+
+		"Its best modifier is Demonic or Deadly for damage output, or Mystic for mana conservation because it cannot get modifiers that affect knockback."
+	],
+
+	"notes": [
+		"Bees will dissipate on contact with water or lava, but not honey. Bees will not home in on enemies in water or lava.",
+		"The Bee Gun is not affected by the Bee armor, despite the achievement.",
+		"Like all homing weapons, the bees will not attack players in PvP, but will knockback other players if hit directly.",
+		"The bees deal 9 base damage normally, and 10-13 base damage when enhanced by the Hive Pack.",
+		"The Bee Gun will spawn 1-4 bees by default, with two extra 16% chances to summon another bee. With the Hive Pack, there is also an extra 33% chance to summon a final bee. The average amount of bees summoned is 2.82, or 3.15 with the Hive Pack equipped."
+	],
+
+	"tips": [
+		"Despite having a base damage of only 9, the Bee Gun can easily overwhelm enemies if the right gear is used.",
+		"The Bee Gun provides excellent crowd control especially when focusing the bees against enemies in a confined space, such as the Dungeon.",
+		"It is effective for making money when combined with the Lucky Coin.",
+		"The Hive Pack slightly increases the damage and knockback of the bees, possibly keeping the Bee Gun viable until Hardmode.",
+		"The Bee Gun can be convenient in the Underground Jungle because the bees clear vines when bouncing around, aiding player vision. Note that they will likely also break Beehives.",
+		"Due to the relatively low base damage of the Bee Gun, the Shark Tooth Necklace can be extremely useful in conjunction with it."
+	],
+
+	"title": "Bee Gun",
+	"auto_use": false,
+	"max_stack": 1,
+	"damage": [{ "value": 9, "tip": "Magic" }],
+	"knockback": 0,
+	"mana": 5,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 32,
+	"tooltip": "Shoots bees that will chase your enemy",
+	"rarity": 2,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

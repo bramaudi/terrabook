@@ -1,0 +1,94 @@
+{
+	"overview": [
+		"The Greater Healing Potion is a Hardmode that restores 150 health. Consumption will trigger the Potion Sickness debuff.",
+
+		"Greater Healing Potions can be crafted or obtained from Hardmode bosses. On the Old-gen console version, 3DS version, Switch version, and tModLoader version, they can be obtained from Golden Crates, but on the Desktop version, Console version, and Mobile version, they cannot be obtained outside of Hardmode."
+	],
+
+	"notes": ["Unlike the Super Healing Potion and Healing Potion, it is not made from the lower-tier potion."],
+
+	"title": "Greater Healing Potion",
+	"heals": 150,
+	"max_stack": 30,
+	"use_time": 17,
+	"rarity": 3,
+	"sell": [
+		{ "value": 10, "type": "silver" }
+	],
+	"research": 30,
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Empress of Light", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Golem", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Lunatic Cultist", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Martian Saucer", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Corrupt Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+		{ "name": "Crimson Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+		{ "name": "Hallowed Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+		{ "name": "Jungle Mimic", "qty": "5-10", "rate": 100, "type": "Enemy", "tip": "(<strong>Celebrationmk10</strong> [i:UI:Desktop_version] world seed variant)" },
+		{ "name": "Moon Lord", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Plantera", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Queen Slime", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "Skeletron Prime", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "The Destroyer", "qty": "5-15", "rate": 100, "type": "Boss" },
+		{ "name": "The Twins", "qty": "5-15", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Empress of Light", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Golem", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Lunatic Cultist", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Martian Saucer", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Corrupt Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+			{ "name": "Crimson Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+			{ "name": "Hallowed Mimic", "qty": "5-10", "rate": 100, "type": "Enemy" },
+			{ "name": "Jungle Mimic", "qty": "5-10", "rate": 100, "type": "Enemy", "tip": "(<strong>Celebrationmk10</strong> [i:UI:Desktop_version] world seed variant)" },
+			{ "name": "Moon Lord", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Plantera", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Queen Slime", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "Skeletron Prime", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "The Destroyer", "qty": "5-15", "rate": 100, "type": "Boss" },
+			{ "name": "The Twins", "qty": "5-15", "rate": 100, "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"recipe": [
+			{
+				"result": {
+					"name": "Greater Healing Potion", "qty": 3, "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Bottled Water", "qty": 3, "type": "Potion" },
+					{ "name": "Pixie Dust", "qty": 3, "type": "Material" },
+					{ "name": "Crystal Shard", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		],
+
+		"used": [
+			{
+				"result": {
+					"name": "Super Healing Potion", "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Greater Healing Potion", "qty": 4, "type": "Potion" },
+					{ "name": "Nebula Fragment", "type": "Material" },
+					{ "name": "Solar Fragment", "type": "Material" },
+					{ "name": "Stardust Fragment", "type": "Material" },
+					{ "name": "Vortex Fragment", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"overview": [
+		"Corrupt Seeds are seeds which can be planted on Dirt Blocks to create Corrupt grass and will then spread The Corruption in all directions. They drop from the Eye of Cthulhu and can be purchased from the Dryad for 5 each during a Blood Moon in a Corrupt world or from the Dryad while in a Graveyard for 5each in a Hardmode Crimson world.",
+
+		"Corrupt Seeds can be used to farm Vile Mushrooms and may be used to spread Corruption in Crimson worlds. In versions of the game before 1.4, Corrupt Seeds cannot be obtained within Crimson worlds and must instead be brought over from a Corrupt world."
+	],
+
+	"notes": [
+		"Thorny bushes will grow on player-planted Corrupt grass and are able to grow up to 4 tiles across and upwards, spreading Corruption to anything it touches, potentially creating unwanted areas of corruption."
+	],
+
+	"tips": [
+		"Corrupt grass may also be obtained by planting regular grass and using Purple Solution or Vile Powder on it."
+	],
+
+	"title": "Corrupt Seeds",
+	"auto_use": true,
+	"placeable": true,
+	"use_time": 15,
+	"max_stack": 999,
+	"rarity": 0,
+	"buy": [{ "value": 5, "type": "silver" }],
+	"sell": [{ "value": 1, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Eye of Cthulhu", "qty": "1-3", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "qty": "1-3", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Unholy Water", "qty": 10, "type": "Miscellaneous" },
+				"ingredient": [
+					{ "name": "Bottled Water", "qty": 10, "type": "Potion" },
+					{ "name": "Ebonsand Block", "type": "Block" },
+					{ "name": "Corrupt Seeds", "type": "Seeds" }
+				]
+			}
+		]
+	}
+}

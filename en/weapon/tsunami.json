@@ -1,0 +1,51 @@
+{
+	"overview": [
+		"The Tsunami is a Hardmode bow that auto-fires five closely-grouped arrows per shot, while only consuming one arrow from the player's inventory each time. It has a 1/5 (20%) chance of being dropped by Duke Fishron.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"Unlike the Chlorophyte Shotbow, each shot always fires five arrows parallel to each other, which do not spread apart over distance.",
+    "Because of how pierce damage works, damage is maximized by using non-piercing arrows. Piercing projectiles can add an invincibility time to the enemy (normally 1/6th of a second). So if the five arrows are expected to strike one target, one should use non-piercing arrows to avoid the effect.",
+    "This bow can easily deal 300 damage per shot if all arrows hit a single target. This works best against large targets, such as bosses from the Frost Moon or Pumpkin Moon.",
+    "When fired at the correct angle and distance, up to 2 of 5 of the Tsunami's arrows can be shot through closed doors."
+	],
+
+	"tips": [
+		"This very lethal weapon can be obtained as soon as Hardmode is activated. If this weapon is acquired before killing Golem, Plantera or any of the mechanical bosses, it can speed up game progression tremendously. However, characters playing in Expert Mode or Master Mode worlds may have much more difficulty beating Duke Fishron at such an early stage, so it may be advised to gear up beforehand.",
+		"With the right modifier, damage-boosting accessories, Vortex armor, Holy Arrows and Archery Potion, this weapon can deal tremendous amounts of damage very fast, destroying most end-game bosses in seconds.",
+		"Holy Arrows and Ichor Arrows synergize well with this weapon because of the \"five straight\" shot pattern Tsunami possesses. If all five arrows hit, Holy Arrows rain down 10 stars to the target location, and Ichor Arrows can lower defense with the first arrow while the other four do even more damage resulting from it.",
+		"It is unadvised to use Jester's arrows or Unholy arrows when using the Tsunami, as those piercing arrows provide hit enemies with invincibility frames that prevent more than one instance of damage, crippling the DPS of the Bow to 1/5 of its capabilities",
+		"Prior to 1.3.0.1, using Hellfire Arrows could be highly hazardous, as the wall of arrows could easily damage the player when shot at certain angles."
+	],
+
+	"title": "Tsunami",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": "53 [i:UI:Desktop version] / 60 [i:UI:Console version] [i:UI:Mobile version]", "tip": "Ranged" }],
+	"knockback": 2,
+	"critical_chance": 4,
+	"use_time": 24,
+	"velocity": 10,
+	"tooltip": "Shoots 5 arrows at a time",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Sharknado",
+			"tooltip": "The sharknado will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "rate": 20, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Duke Fishron)", "rate": 20, "type": "Bag" }
+		]
+	}
+}

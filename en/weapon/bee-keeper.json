@@ -1,0 +1,82 @@
+{
+	"overview": [
+		"The Bee Keeper is a pre-Hardmode broadsword that has a 33% chance to drop from the Queen Bee. Upon attacking an enemy, it summons friendly Bees (1-3, or 1-4 with a Hive Pack equipped), and has a 90% chance of inflicting the Confused debuff on the struck enemy.",
+
+		"It is capable of autoswing.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The Bees summoned by the Bee Keeper deal 8-9 damage, with Hive Pack bees dealing 1-4 extra damage. The Hive Pack also grants an additional 33% chance for an extra bee to be summoned.",
+		"The Bees can pierce enemies a number of times and can home in on the same one many times.",
+		"The Bees may be destroyed upon hitting liquids or solid blocks.",
+		"Each time the Bees bounce off a wall or enter liquid, they lose one \"point\" towards piercing enemies.",
+		"Armor penetration effects (from both the Shark Tooth Necklace and the Sharpening Station) also affect the damage done by the summoned bees, granting bonus damage to all hits from them too.",
+		"Despite the Falcon Blade having a higher rarity, the Bee Keeper is superior to the Falcon Blade in all ways, including sell price."
+	],
+
+	"tips": [
+		"Using the Bee Keeper on the Eater of Worlds and The Destroyer will release many bees if it moves right through the sword's swinging area.",
+		"The Bee Keeper can be useful even in Hardmode because of its ability to cause Confusion and deal decent damage at the same time, especially with the bees.",
+		"The Bees are very helpful for crowd control, as they can not only finish off enemies damaged by the sword, but hurt or kill any other enemies in the vicinity."
+	],
+
+	"title": "Bee Keeper",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 26,
+	"knockback": 5.3,
+	"critical_chance": 4,
+	"use_time": 20,
+	"tooltip": [
+		"Summons killer bees after striking your foe",
+		"Small chance to cause confusion"
+	],
+	"rarity": 3,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Confused",
+			"tooltip": "Movement is reversed",
+			"chance": "90%",
+			"duration": [{ "value": 2, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 33, "type": "Boss" }
+	],
+
+	"expert" : {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

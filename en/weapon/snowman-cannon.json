@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Snowman Cannon is a Hardmode, post-Plantera launcher. It has a low chance (4.4% – 7.52%) to be dropped by the Ice Queen during the Frost Moon event. It can be considered an upgraded, homing version of the Rocket Launcher, firing rockets that will track the nearest enemy and detonate on contact.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"[i:UI:Console version] [i:UI:Mobile version] When using the Cluster Rocket I or Cluster Rocket II as ammunition, the secondary explosions caused by the shrapnel will deal no damage."
+	],
+
+	"tips": [
+		"When using against large hordes of enemies, especially The Destroyer and other worms, the Snowman Cannon will deal massive amounts of damage, sometimes more than the Coin Gun with Platinum Coin(s).",
+    "If a rocket fails to hit an enemy, it will usually turn back and continue the chase, though the wide turning radius often prevents this from happening outside of open spaces. This may lead to accidents that will destroy blocks.",
+    "If a rocket loses its current target, it will track the next closest enemy, otherwise it will continue on its flight path.",
+    "In PvP, it can do immense amounts of damage if used with accessories boosting ranged damage and the Shroomite armor (with Helmet), dealing around 250 damage per shot only using Rocket III. However, rockets do not home on players, meaning that careful aim is required."
+	],
+
+	"title": "Snowman Cannon",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 67, "tip": "Ranged" }],
+	"ammo": "Rockets",
+	"knockback": 4,
+	"critical_chance": 4,
+	"use_time": 15,
+	"velocity": 15,
+	"tooltip": "Launches homing missiles",
+	"rarity": 8,
+	"sell": [{ "value": 9, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Ice Queen", "rate": "4.44 - 7.78", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ice Queen", "rate": "15.56 - 31.11", "type": "Boss" }
+		]
+	}
+}

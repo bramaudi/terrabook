@@ -1,0 +1,112 @@
+{
+	"title": "Skeletron",
+	"damage": [
+		{ "value": 32 },
+		{ "value": 1000, "tip": "during the day" }
+	],
+	"maxhp": 4400,
+	"defense": [
+		{ "value": 10 },
+		{ "value": 0, "tip": "while spinning" },
+		{ "value": 9999, "tip": "during the day" }
+	],
+	"kb_resist": 100,
+	"immune": ["Poisoned","Confused","Penetrated"],
+	"coins": [
+		{ "value": 5, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Lesser Healing Potion", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "Skeletron Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Skeletron Hand", "rate": 12.24, "type": "Hook" },
+		{ "name": "Book of Skulls", "rate": 10.5, "type": "Weapon" },
+		{ "name": "Skeletron Trophy", "rate": 10, "type": "Furniture" },
+		{ "name": "Chippy's Couch", "rate": 14.29, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 70 },
+			{ "value": 1000, "tip": "during the day" }
+		],
+		"maxhp": 8800,
+		"defense": [
+			{ "value": 10, "tip": "(+25 per hand alive)" },
+			{ "value": 0, "tip": "(+25 per hand alive) while spinning" },
+			{ "value": 9999, "tip": "during the day" }
+		],
+		"inflict": [
+			{
+				"debuff": "Bleeding",
+				"tooltip": "Cannot regenerate life",
+				"chance": "100%",
+				"duration": [{ "value": "6-10", "tip": "seconds" }]
+			}
+		],
+		"coins": [
+			{ "value": 10, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Lesser Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Skeletron Trophy", "rate": 10, "type": "Furniture" },
+			{ "name": "Chippy's Couch", "rate": 14.29, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Skeletron)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Bone Glove", "rate": 100, "type": "Accessory" },
+					{
+						"note": "Two of the following 3 items will be dropped",
+						"items": [
+							{ "name": "Skeletron Mask", "rate": 33, "type": "Vanity" },
+							{ "name": "Skeletron Hand", "rate": 33, "type": "Hook" },
+							{ "name": "Book of Skulls", "rate": 33, "type": "Weapon" }
+						]
+					},
+					{ "name": "Gold Coin", "rate": 100, "qty": "5", "type": "Ammunition" }
+				]
+			}	
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 105 },
+			{ "value": 1000, "tip": "during the day" }
+		],
+		"maxhp": 11220,
+		"drops": [
+			{ "name": "Possessed Skull", "rate": 25, "type": "Pet" },
+			{ "name": "Skeletron Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Skeletron Hand",
+			"damage": 20,
+			"maxhp": 600,
+			"defense": 14,
+			"kb_resist": 100,
+			"immune": ["Confused", "Poisoned"],
+
+			"expert": {
+				"damage": 44,
+				"maxhp": 1560,
+				"inflict": [
+					{
+						"debuff": "Slow",
+						"tooltip": "Movement speed is reduced",
+						"chance": "50%",
+						"duration": [{ "value": "1-2", "tip": "seconds" }]
+					}
+				]
+			},
+
+			"master": {
+				"damage": 66,
+				"maxhp": 1989
+			}
+		}
+	]
+}

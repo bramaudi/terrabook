@@ -1,0 +1,61 @@
+{
+	"overview": [
+		"The Lucky Coin is an extremely rare Hardmode accessory that while equipped causes enemies to drop extra coins when damaged. The Lucky Coin is dropped by pirates during a Pirate Invasion at a rate of 1/4000 (0.025%), from the Pirate Captain at a rate of 1/1000 (0.1%) or from the Flying Dutchman at a rate of 1/200 (0.5%). It is not dropped by Parrots.",
+
+		"With the Lucky Coin equipped, there is a 1/5 (20%) chance that 1 to 10 extra coins will drop each time the player damages an enemy. Each time extra coins drop, the following probabilities determine the coin type:",
+
+		[
+			"89.1% chance for Copper Coins Copper Coin",
+			"9.9% chance for Silver Coins Silver Coin",
+			"1% chance for Gold Coins Gold Coin"
+		]
+	],
+
+	"notes": [
+		"On average, 1 Silver Coins 22 Copper Coins will drop each time the player strikes an enemy. This represents a limit to how much extra money can be extracted from any given enemy. For example, using a Slime Staff (see below) against a Mimic will do 1 damage/hit due to defense, minions deal no critical hits, and the Mimic has 500 health. Thus the Lucky Coin can only add about 6 Gold Coins (on average) to the Mimic's normal drops.",
+    "Extra coins can drop from damage caused by player-placed traps in singleplayer, but cannot in multiplayer.",
+    "Extra coins will not drop from damage return effects, such as those provided by Turtle armor or Thorns Potion.",
+    "In Celebrationmk10 [i:UI:Desktop version] worlds, the Lucky Coin can be purchased from the Princess for 5 Gold Coins after a Pirate Invasion has been defeated."
+	],
+
+	"tips": [
+		"The Lucky Coin is very rare. It could take 33–34 complete Pirate Invasions before it drops.",
+    "Farming Lucky Coin/Discount Card/Gold Ring is most efficient from Flying Dutchman, rather than from common pirates. After getting event progress to 50%, 10 Flying Dutchmen per event can be ensured by getting high enough above ground (using small platform or flying mount), but not too high, so that spawned enemies will be in \"Active Rectangle\" and will despawn after 12.5 seconds, and then spawn again. Until a Flying Dutchman will eventually (usually it takes a short time) spawn. After killing it, repeat the process till event ends. Parrots could reach the player this way too, but they can be killed safely; they do not count towards event progress.",
+    "This item is generally considered to be the best way to make money in-game, when paired with a very weak weapon, usually a Slime Staff with the Broken modifier.",
+    "To maximize profits, use the Slime Staff and Tiki armor together. Against stronger enemies (like Mimics), the Baby Slime summoned by the staff will attack rapidly, but only do 1 damage per hit. And with the Tiki armor, the player can summon even more baby slimes to hasten the process. This offers more chances for coins to drop. Using this tactic during a Pirate Invasion can easily produce 2–3 Platinum Coins per invasion, and during a Solar Eclipse can produce 4–5 Platinum Coins per eclipse.",
+    "After defeating the Golem, his chamber in the Jungle Temple is also a good place to farm a steady stream of weak enemies, with the occasional Mimic adding to the haul.",
+    "In Expert Mode, enemies have increased health which means the amount of Platinum Coins can skyrocket anywhere from 10–15 Platinum Coins. However, enemies also pick up coins in Expert mode, so letting anything escape can reduce the amount gathered dramatically.",
+    "Fight weaker bosses such as the Wall of Flesh, as they will not deal much damage but have lots of health.",
+    "Try using a Minishark. Its damage is low enough that it will usually only do one damage per hit to stronger enemies. Paired with its fire rate, the amount of coin drops increase drastically. To further decrease damage (and therefore increase how many hits can be achieved), consider a modifier that decreases damage. Frenzying can be a good choice, as it both decreases damage and increases speed.",
+    "A Chain Gun can be good for maximizing hits against enemies that are too strong to approach with a Minishark."
+	],
+
+	"title": "Lucky Coin",
+	"max_stack": 1,
+	"tooltip": "Hitting enemies will sometimes drop extra coins",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 0.5, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 0.1, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.025, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.025, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.025, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.025, "type": "Enemy" }
+	],
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Coin Ring", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Gold Ring", "type": "Accessory" },
+					{ "name": "Lucky Coin", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"title": "Queen Slime",
+	"env": ["The Hallow"],
+	"damage": [
+		{ "value": 60 },
+		{ "value": 80, "tip": "Queenly Smash" },
+		{ "value": 60, "tip": "Regal Gel" }
+	],
+	"maxhp": 18000,
+	"defense": 26,
+	"kb_resist": 100,
+	"immune": [
+		"Poisoned",
+		"Confused"
+	],
+	"coins": [
+		{ "value": 6, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Sparkle Slime Balloon", "qty": "25-75", "rate": 100, "type": "Miscellaneous" },
+		{
+			"note": "One of the following 3 items will always be dropped",
+			"items": [
+				{ "name": "Crystal Assassin Hood", "rate": 33.33, "type": "Armor" },
+				{ "name": "Crystal Assassin Shirt", "rate": 33.33, "type": "Armor" },
+				{ "name": "Crystal Assassin Pants", "rate": 33.33, "type": "Armor" }
+			]
+		},
+		{ "name": "Blade Staff", "rate": 25, "type": "Weapon" },
+		{ "name": "Gelatinous Pillion", "rate": 25, "type": "Mount" },
+		{ "name": "Hook of Dissonance", "rate": 33.33, "type": "Hook" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Queen Slime Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Queen Slime Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 120 },
+			{ "value": 160, "tip": "Queenly Smash" },
+			{ "value": 120, "tip": "Regal Gel" }
+		],
+		"maxhp": 28800,
+		"coins": [
+			{ "value": 15, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "rate": 100, "qty": "5-15", "type": "Potion" },
+			{ "name": "Queen Slime Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Queen Slime)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Volatile Gelatin", "rate": 100, "type": "Accessory" },
+					{ "name": "Sparkle Slime Balloon", "qty": "25-74", "rate": 100, "type": "Miscellaneous" },
+					{ "name": "Queen Slime Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Gelatinous Pillion", "rate": 50, "type": "Mount" },
+					{ "name": "Hook of Dissonance", "rate": 50, "type": "Hook" },
+					{ "name": "Blade Staff", "rate": 33, "type": "Weapon" },
+					{
+						"note": "Two of the following three items will be dropped",
+						"items": [
+							{ "name": "Crystal Assassin Hood", "rate": 67, "type": "Armor" },
+							{ "name": "Crystal Assassin Shirt", "rate": 67, "type": "Armor" },
+							{ "name": "Crystal Assassin Pants", "rate": 67, "type": "Armor" }
+						]
+					},
+					{ "name": "Gold Coin", "rate": 100, "qty": 6, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 180 },
+			{ "value": 240, "tip": "Queenly Smash" },
+			{ "value": 180, "tip": "Regal Gel" }
+		],
+		"maxhp": 36720,
+		"drops": [
+			{ "name": "Regal Delicacy", "rate": 25, "type": "Pet" },
+			{ "name": "Queen Slime Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"maxhp": [
+				{ "value": 9000, "tip": "start phase2" },
+				{ "value": 18000 }
+			],
+
+			"expert": {
+				"maxhp": [
+					{ "value": 14400, "tip": "start phase2" },
+					{ "value": 288000 }
+				]
+			},
+			"master": {
+				"maxhp": [
+					{ "value": 18360, "tip": "start phase2" },
+					{ "value": 36720 }
+				]
+			}
+		}
+	]
+}

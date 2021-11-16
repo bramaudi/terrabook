@@ -1,0 +1,31 @@
+{
+	"overview": [
+		"The Cutlass is a rare Hardmode sword that has a 0.5% (1 in 200) chance to be dropped by Pirate enemies in a Pirate Invasion. It has a higher chance to drop from Pirate Captains and the Flying Dutchman (2% and 10% respectively). The Cutlass deals good damage and can be swung continuously at very high speed.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"Assuming the player never kills a Pirate Captain or Flying Dutchman, the odds of getting at least one Cutlass over the course of a Pirate Invasion are about 45%."
+],
+
+	"title": "Cutlass",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 49,
+	"knockback": 4,
+	"critical_chance": 4,
+	"use_time": 18,
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }, { "value": 60, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 10, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 2, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.5, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.5, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.5, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.5, "type": "Enemy" }
+	]
+}

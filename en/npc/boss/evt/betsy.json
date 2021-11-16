@@ -1,0 +1,97 @@
+{
+	"title": "Betsy",
+	"env": ["Old One's Army"],
+	"damage": [
+		{ "value": 80 },
+		{ "value": 70, "tip": "Betsy's Fireball" },
+		{ "value": 70, "tip": "Betsy's Breath" }
+	],
+	"maxhp": 50000,
+	"defense": 38,
+	"kb_resist": 100,
+	"immune": ["On Fire!", "Confused", "Hellfire"],
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"chance": "100% (Betsy's Breath)",
+			"duration": [
+				{ "value": "7-10", "tip": "seconds" }
+			]
+		}
+	],
+	"drops": [
+		{
+			"note": "One of the following 4 weapons will always be dropped",
+			"items": [
+				{ "name": "Aerial Bane", "rate": 25, "type": "Weapon" },
+				{ "name": "Sky Dragon's Fury", "rate": 25, "type": "Weapon" },
+				{ "name": "Betsy's Wrath", "rate": 25, "type": "Weapon" },
+				{ "name": "Flying Dragon", "rate": 25, "type": "Weapon" }
+			]
+		},
+		{ "name": "Betsy's Wings", "rate": 25, "type": "Wing" },
+		{ "name": "Betsy Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Betsy Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 104 },
+			{ "value": 140, "tip": "Betsy's Fireball" },
+			{ "value": 140, "tip": "Betsy's Breath" }
+		],
+		"maxhp": 75000,
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Slowly losing life",
+				"duration": [
+					{ "value": "14-20", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Betsy Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Betsy)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Defender Medal", "qty": "30-49", "rate": 100, "type": "UI" },
+					{
+						"note": "One of the following 4 weapons will always be dropped",
+						"items": [
+							{ "name": "Aerial Bane", "rate": 25, "type": "Weapon" },
+							{ "name": "Sky Dragon's Fury", "rate": 25, "type": "Weapon" },
+							{ "name": "Betsy's Wrath", "rate": 25, "type": "Weapon" },
+							{ "name": "Flying Dragon", "rate": 25, "type": "Weapon" }
+						]
+					},
+					{ "name": "Betsy's Wings", "rate": 25, "type": "Wing" },
+					{ "name": "Betsy Mask", "rate": 14.29, "type": "Vanity" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 156 },
+			{ "value": 210, "tip": "Betsy's Fireball" },
+			{ "value": 210, "tip": "Betsy's Breath" }
+		],
+		"maxhp": 95625,
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Slowly losing life",
+				"duration": [
+					{ "value": "17.5-25", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Betsy's Egg", "rate": 25, "type": "Pet" },
+			{ "name": "Betsy Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}

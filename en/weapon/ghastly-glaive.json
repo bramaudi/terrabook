@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Ghastly Glaive is a Hardmode spear which is dropped by the Ogre mini-boss during the Old One's Army event. Unlike most spears, the Ghastly Glaive wobbles when swung, causing its head to \"slash\" across a semi-randomized width. Upon striking an enemy, a yellow dragon-head ghost appears next to a random nearby enemy and flies in a straight line through it, damaging all enemies it passes through before vanishing after one second.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"tips": [
+		"Like other light-producing spears, the Ghastly Glaive is useful for finding ore deposits or other treasures underground by stabbing it into walls."
+	],
+
+	"title": "Ghastly Glaive",
+	"max_stack": 1,
+	"damage": 45,
+	"knockback": 7,
+	"critical_chance": 4,
+	"use_time": 27,
+	"velocity": 42,
+	"tooltip": "Summons ghosts as it hits enemies",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Ogre", "rate": 6.67, "type": "Boss", "tip": "(Tier 2)" },
+		{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ogre", "rate": 10, "type": "Boss", "tip": "(Tier 2)" },
+			{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

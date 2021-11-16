@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Gold Ring is a Hardmode accessory that rarely drops from enemies exclusive to the Pirate Invasion, with the exception of Parrots. It has a 0.4% (1 in 250) drop chance from the Pirate Captain and a 2% (1 in 50) drop chance from the Flying Dutchman. Every other enemy has a 0.1% (1 in 1000) chance to drop it.",
+
+		"Equipping the Gold Ring increases the player's coin pickup radius to 25 blocks, instead of the normal 3 block radius. This item works similarly to the Celestial Magnet, Treasure Magnet and Heartreach."
+	],
+
+	"notes": [
+		"The Gold Ring can be useful for picking up dropped coins from flying enemies, collecting coins from an enemy farm, and more.",
+    "It is the least rare of the ingredients for the Greedy Ring, so it is mostly likely to be obtained farming for the Lucky Coin or the Discount Card."
+	],
+
+	"tips": [
+    "Farming Lucky Coin/Discount Card/Coin Ring is most efficient from Flying Dutchman, rather than from common pirates. After getting event progress to 50%, you can ensure 10 Flying Dutchmen per event by getting high enough above ground (using small platform or flying mount), but not too high, so that spawned enemies will be in \"Active Rectangle\" and will despawn after 12.5 seconds, and then spawn again. Until Flying Dutchman eventually (usually it takes a short time) will spawn. After killing it, repeat the process till event ends. Parrots could reach you this way too, but you can kill them safely, they do not count towards event progress.",
+    "This item and its upgrades can be useful for mining large areas, as they help prevent the buildup of excess coins."
+	],
+
+	"title": "Gold Ring",
+	"max_stack": 1,
+	"tooltip": "Increases coin pickup range",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 2, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 0.4, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.1, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.1, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.1, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.1, "type": "Enemy" }
+	],
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Coin Ring", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Gold Ring", "type": "Accessory" },
+					{ "name": "Lucky Coin", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Shiny Stone is an Expert Mode accessory that increases the rate of health regeneration slowly over time when the player is not moving or using any tools or weapons. The Shiny Stone is found in the Treasure Bag dropped by Golem in Expert mode.",
+
+		"The health regeneration slowly increases from roughly 10 health gained per second to roughly 40 health gained per second (for players with enough health capacity to recover for that long). A yellow particle effect over the player signifies that the boost is engaged, which also emits a good deal of light from the player onto the surrounding area."
+	],
+
+	"notes": [
+		"Taking damage, using most items, moving or Bleeding will all reset the health regeneration's acceleration. Using a Fishing Pole or Health Potions will not.",
+    "If the player is moving at a very low speed, it can still take effect.",
+    "Health regeneration is still possible if the player is sitting still while riding a mount or minecart, or while grappled.",
+    "If you have any damage-dealing debuff other than Poisoned (such as On Fire!), the Shiny Stone will reduce or stop the damage gained from the debuff instead of healing you.",
+    "If the player has a positive healing rate, it will give an additional 0.5 HP/s healing effect.",
+    "See Health Regeneration page for more details about its mechanism.",
+    "Rod of Discord does not count as a movement but will reset the timer if the player is damaged by it.",
+    "Teleporters do not count as movement, as such, the player can constantly teleport from point to point while keeping the health regeneration and dodging attacks.",
+    "The stone will slightly amplify the effects of some other healing items or buffs, as well as increasing base healing speed, even when the player is in motion and/or using items.",
+    "It takes 34.3 seconds of not moving or being damaged to reach the Stone's top healing speed. Of course, even with the Lifeforce buff any player is likely to be completely healed by then.",
+    "Surprisingly, the stone synergizes well with Crimson armor, the latter increasing the Stone's regeneration effect by 50% and speeding its buildup by 20%.",
+    "It also synergizes well with honey, the latter increasing the Stone's buildup by 40%.",
+    "In Desktop version, Console version, and Mobile version, it also synergizes well with a chair, the latter increasing the Stone's regeneration effect by 50% and speeding its buildup by 200%."
+	],
+
+	"tips": [
+		"This item synergizes well with Volatile Gelatin and the Spore Sac, giving the player a passive attack while not moving.",
+    "It also synergizes well with the Sniper Rifle and Shroomite Armor, Giving both increased life regen and damage while keeping a long range."
+	],
+
+	"title": "Shiny Stone",
+	"max_stack": 1,
+	"tooltip": "Greatly increases life regen when not moving",
+	"rarity": "rainbow",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

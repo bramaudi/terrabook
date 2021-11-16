@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Bat Scepter is a Hardmode, post-Plantera magic weapon that auto-fires 2–3 homing bat projectiles per shot. The projectiles will not bounce off blocks, but will dissipate upon contact instead, unlike the Bee Gun and Wasp Gun. The Bat Scepter is dropped by Pumpking during the Pumpkin Moon event.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"Though the Bat Scepter is superior to the Wasp Gun in terms of base damage and has higher DPS against a single target, the Wasp Gun may be prefered in enclosed places, (such as the Dungeon), or against big hordes of enemies, (such as an event).",
+    "Bats will not start homing in on an enemy immediately; they must travel a certain distance first. Since they are fired in a random cone pattern and disappear rather than ricochet on contact with blocks, this restricts the number of bats that can hit an enemy in confined areas like the Dungeon.",
+    "The projectiles cannot enter water or lava, but can enter honey."
+	],
+
+	"tips": [
+		"It can be considered the \"Halloween version\" of the Bee Gun and Wasp Gun.",
+		"The Bat Scepter makes the same sound as wings when fired."
+	],
+
+	"title": "Bat Scepter",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 45, "tip": "Magic" }],
+	"knockback": 3,
+	"mana": 6,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 10,
+	"tooltip": "Summons bats to attack your enemies",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert" : {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

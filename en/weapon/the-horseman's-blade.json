@@ -1,0 +1,71 @@
+{
+	"overview": [
+		"The Horseman's Blade is a Hardmode, post-Plantera sword which summons homing pumpkin heads upon hitting an enemy. Despite it being called Horseman's Blade, it drops from Pumpking, a boss from the Pumpkin Moon event, not the Headless Horseman.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The player is unable to turn while swinging the sword, similar to the Excalibur, Night's Edge, Keybrand, or Falcon Blade.",
+		"The pumpkins will do 1.5× the amount of damage of the sword's swing and can also critically hit.",
+		"The sword can be seen in darkness, but casts no light on other objects.",
+		"Pumpkins may spawn and follow Spike Balls, enemy projectiles, and even bound NPCs.",
+		"The pumpkins will not spawn or home in on other players in PvP, but can damage other players if they are already spawned and happen to make contact.",
+		"Wearing full Frost armor or a Fire Gauntlet, or using one of the many Flasks that generate light on weapon swings will cause pumpkin projectiles to glow as well. This and the homing, wall-ignoring projectiles, make it excellent for exploration or resource gathering once obtained."
+	],
+
+	"tips": [
+		"Attacking large segmented enemies such as The Destroyer or Wyverns with the blade will cause many pumpkins to spawn and attack, as each segment can be attacked, therefore counting them as different targets.",
+    "Using an automatic statue farm, it is possible to kill the statue-spawned enemies with the Horseman's Blade to make pumpkins spawn and attack other foes, which is especially useful while fighting bosses and enemies during the Pumpkin Moon and Frost Moon.",
+		["When doing this, make sure to use the respective banner of the statue enemy, as its buff will directly apply to the pumpkins. This will double the DPS in Expert Mode."],
+    "Because the pumpkins home in on enemies, this weapon is useful in many situations, such as attacking large groups of enemies in the Hardmode Dungeon or during events.",
+    "When comparing to the Terra Blade, the Horseman's Blade's very strong knockback and homing projectiles compensate for its slower, less-damaging swing."
+	],
+
+	"title": "The Horseman's Blade",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 75,
+	"knockback": 7.5,
+	"critical_chance": 4,
+	"use_time": 26,
+	"tooltip": "Summons Pumpkin heads to attack your enemies",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert" : {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

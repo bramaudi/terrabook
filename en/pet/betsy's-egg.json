@@ -1,0 +1,29 @@
+{
+	"overview": [
+		"Betsy's Egg is a pet-summoning item that drops from Betsy in Master Mode with a 1/4 (25%) chance. It summons Itsy Betsy, which will follow the player around."
+	],
+
+	"title": "Betsy's Egg",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons Itsy Betsy",
+		"'No fire sacrifices required!'"
+	],
+	"summon": "Itsy Betsy",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Itsy Betsy",
+			"tooltip": "Itsy Betsy is following you"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Betsy", "rate": 25, "type": "Boss" }
+		]
+	}
+}

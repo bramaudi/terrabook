@@ -1,0 +1,47 @@
+{
+	"overview": [
+		"Super Healing Potion is a potion that heals 200 health. Consumption will trigger the Potion Sickness debuff. Though their crafting cost is fairly significant, they are the highest tier of healing potion in the game. They are also dropped by the Moon Lord."
+	],
+
+	"tips": [
+		"Getting the Alchemy Table is highly suggested before creating these potions due to the high material cost (the Alchemy Table has a 33% chance to not consume potion crafting ingredients).",
+    "These potions are obtainable before breaking the fourth Celestial Pillar by crafting the fragments dropped by the remaining tower with the other three types of fragments.",
+    "The Super Healing Potion can be very valuable for extended fights, especially in Expert, where the player must seize every advantage given to them.",
+    "They are a good use for the fragments after the Moon Lord has been defeated and all of the other gear has been attained, and, if gathered quickly after the destruction of the pillars, they can come in handy during the player's first encounter with him."
+	],
+
+	"title": "Super Healing Potion",
+	"heals": 200,
+	"max_stack": 30,
+	"use_time": 17,
+	"rarity": 7,
+	"sell": [
+		{ "value": 30, "type": "silver" }
+	],
+	"research": 30,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "qty": "5-15", "rate": 100, "type": "Boss" }
+	],
+
+	"craft": {
+		"recipe": [
+			{
+				"result": {
+					"name": "Greater Healing Potion", "qty": 4, "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Greater Healing Potion", "qty": 4, "type": "Potion" },
+					{ "name": "Nebula Fragment", "type": "Material" },
+					{ "name": "Solar Fragment", "type": "Material" },
+					{ "name": "Stardust Fragment", "type": "Material" },
+					{ "name": "Vortex Fragment", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

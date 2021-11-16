@@ -1,0 +1,53 @@
+{
+	"overview": [
+		"The Staff of Earth is a Hardmode, post-Golem magic weapon which has a 1/7 (14.29%) chance to be dropped by Golem. When used, it launches a Jungle Temple-style boulder that is affected by gravity, bounces off of tiles and rolls on the floor, and can pierce enemies five times before breaking upon the sixth hit. It continues damaging enemies on contact while it rolls on the ground. The boulder's base damage and knockback depend on its velocity (see details below).",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"The base damage and knockback of the boulder vary based on its velocity (in any direction).",
+
+		"There are two velocity thresholds:",
+
+		{
+			"meta": ["Velocity", "Damage", "Knockback"],
+			"rows": [
+				["< 8 mph", 0, "0 (No knockback)"],
+				["8 mph - 18 mph", 62, "3.75 (Weak)"],
+				["> 18 mph", 125, "7.5 (Very strong)"]
+			]
+		},
+
+		"Boulders can be cast through one-block walls when standing directly adjacent to them."
+	],
+
+	"tips": [
+		"One way to achieve top velocity for maximum damage is to fire boulders from above, downward.",
+    "The boulder's high damage and piercing, along with its ability to roll on the ground, makes it extremely effective when deployed as ground-based crowd control.",
+		["The quick use time also makes it a viable weapon for inflicting high single-target damage."]
+	],
+
+	"title": "Staff of Earth",
+	"max_stack": 1,
+	"damage": [{ "value": 125, "tip": "Magic" }],
+	"knockback": 7.5,
+	"mana": 18,
+	"critical_chance": 24,
+	"use_time": 24,
+	"velocity": 24,
+	"tooltip": "Summons a powerful boulder",
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

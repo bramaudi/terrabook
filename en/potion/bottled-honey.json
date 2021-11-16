@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"Bottled Honey is a health-restoring item and crafting material. It restores 80 health on use and causes Potion Sickness like other healing potions. Bottled Honey is dropped by the Queen Bee boss found in Bee Hives, and can be crafted."
+	],
+
+	"title": "Bottled Honey",
+	"max_stack": 30,
+	"heals": 80,
+	"use_time": 17,
+	"rarity": 0,
+	"sell": [{ "value": 8, "type": "copper" }],
+	"research": 30,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "qty": "5-15", "rate": 100, "type": "Boss" }
+	],
+
+	"craft": {
+		"recipe": [
+			{
+				"result": { "name": "Bottled Honey", "type": "Potion" },
+				"ingredient": [{ "name": "Bottle", "type": "Furniture" }],
+				"station": [{ "name": "Honey", "type": "UI" }]
+			}
+		],
+		"used": [
+			{
+				"result": { "name": "Abeemination", "type": "Boss_Summon" },
+				"ingredient": [
+					{ "name": "Honey Block", "qty": 5, "type": "Block" },
+					{ "name": "Stinger", "type": "Material" },
+					{ "name": "Hive", "qty": 5, "type": "Block" },
+					{ "name": "Bottled Honey", "type": "Potion" }
+				]
+			}
+		]
+	}
+}

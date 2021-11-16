@@ -1,0 +1,33 @@
+{
+	"overview": [
+		"The Soaring Insignia is a Hardmode accessory obtained from the Empress of Light's Treasure Bag. It grants increased jump height and flight ascent speed, similarly to the Frog Leg. It also grants unlimited flight time with wings or Rocket Boots, and greatly increases the player's acceleration when flying, running (+2 mph), or falling; the player will reach maximum speed much more easily, and will be able to stop, change directions and go from flying upwards to falling or vice versa very quickly."
+	],
+
+	"notes": [
+		"None of the Soaring Insignia's bonuses apply while the player is using a mount (Bee, Pigron, Winged Slime, Rudolph, and Book). The mounts that already grant infinite flight still have infinite flight.",
+    "The Soaring Insignia is not a wing-type accessory and does not inherently grant the ability to fly. The player must equip it alongside wings or Rocket Boots in order to receive its infinite flight time bonus.",
+		["The Soaring Insignia will not grant infinite flight for the Flying Carpet, although mobility is still increased."],
+    "While granting infinite flight to Rocket Boots, it does not prevent fall damage."
+	],
+
+	"tips": [
+		"The Jetpack's downside of low flight time is negated by this item, allowing the player to fully utilize its quick vertical acceleration.",
+    "If paired with the Celestial Starboard and its hover feature, it is possible to reach a horizontal speed of 84 mph."
+	],
+
+	"title": "Soaring Insignia",
+	"max_stack": 1,
+	"tooltip": [
+		"Grants infinite wing and rocket boot flight",
+		"Increases flight and jump mobility"
+	],
+	"rarity": "rainbow",
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

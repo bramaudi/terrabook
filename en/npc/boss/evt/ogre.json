@@ -1,0 +1,158 @@
+{
+	"title": "Ogre",
+	"env": ["Old One's Army"],
+	"damage": [
+		{ "value": 70 },
+		{ "value": 122, "tip": "club swing" },
+		{ "value": 120, "tip": "Ogre's Stomp" },
+		{ "value": 80, "tip": "Ogre Spit" }
+	],
+	"maxhp": 5000,
+	"defense": 34,
+	"kb_resist": 100,
+	"immune": ["Confused"],
+	"inflict": [
+		{
+			"debuff": "Oozed",
+			"tooltip": "Movement is significantly reduced",
+			"chance": "100% (Ogre Split)",
+			"duration": [
+				{ "value": 15, "tip": "seconds" }
+			]
+		}
+	],
+	"drops": [
+		{
+			"note": "One of the following 4 items may be dropped",
+			"items": [
+				{ "name": "Apprentice's Scarf", "rate": 8.33, "type": "Accessory" },
+				{ "name": "Squire's Shield", "rate": 8.33, "type": "Accessory" },
+				{ "name": "Huntress's Buckler", "rate": 8.33, "type": "Accessory" },
+				{ "name": "Monk's Belt", "rate": 8.33, "type": "Accessory" }
+			]
+		},
+		{
+			"note": "One of the following 5 items may be dropped",
+			"items": [
+				{ "name": "Tome of Infinite Wisdom", "rate": 6.67, "type": "Weapon" },
+				{ "name": "Phantom Phoenix", "rate": 6.67, "type": "Weapon" },
+				{ "name": "Brand of the Inferno", "rate": 6.67, "type": "Weapon" },
+				{ "name": "Sleepy Octopod", "rate": 6.67, "type": "Weapon" },
+				{ "name": "Ghastly Glaive", "rate": 6.67, "type": "Weapon" }
+			]
+		},
+		{ "name": "Creeper Egg", "rate": 20, "type": "Pet" },
+		{ "name": "Ogre Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Ogre Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 140 },
+			{ "value": 245, "tip": "club swing" },
+			{ "value": 160, "tip": "Ogre's Stomp" },
+			{ "value": 120, "tip": "Ogre Spit" }
+		],
+		"maxhp": 10000,
+		"drops": [
+			{
+				"note": "One of the following 4 items may be dropped",
+				"items": [
+					{ "name": "Apprentice's Scarf", "rate": 12.5, "type": "Accessory" },
+					{ "name": "Squire's Shield", "rate": 12.5, "type": "Accessory" },
+					{ "name": "Huntress's Buckler", "rate": 12.5, "type": "Accessory" },
+					{ "name": "Monk's Belt", "rate": 12.5, "type": "Accessory" }
+				]
+			},
+			{
+				"note": "One of the following 5 items may be dropped",
+				"items": [
+					{ "name": "Tome of Infinite Wisdom", "rate": 10, "type": "Weapon" },
+					{ "name": "Phantom Phoenix", "rate": 10, "type": "Weapon" },
+					{ "name": "Brand of the Inferno", "rate": 10, "type": "Weapon" },
+					{ "name": "Sleepy Octopod", "rate": 10, "type": "Weapon" },
+					{ "name": "Ghastly Glaive", "rate": 10, "type": "Weapon" }
+				]
+			},
+			{ "name": "Creeper Egg", "rate": 25, "type": "Pet" },
+			{ "name": "Ogre Mask", "rate": 14.29, "type": "Vanity" },
+			{ "name": "Ogre Trophy", "rate": 10, "type": "Furniture" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 210 },
+			{ "value": 367, "tip": "club swing" },
+			{ "value": 240, "tip": "Ogre's Stomp" },
+			{ "value": 180, "tip": "Ogre Spit" }
+		],
+		"maxhp": 12750
+	},
+
+	"tier": [2, 3],
+	"phase": [
+		{
+			"title": "Ogre",
+			"damage": [
+				{ "value": 90 },
+				{ "value": 157, "tip": "club swing" },
+				{ "value": 120, "tip": "Ogre's Stomp" },
+				{ "value": 80, "tip": "Ogre Spit" }
+			],
+			"maxhp": 13000,
+			"defense": 40,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+
+			"drops": [
+				{
+					"note": "One of the following 4 items may be dropped",
+					"items": [
+						{ "name": "Apprentice's Scarf", "rate": 4.17, "type": "Accessory" },
+						{ "name": "Squire's Shield", "rate": 4.17, "type": "Accessory" },
+						{ "name": "Huntress's Buckler", "rate": 4.17, "type": "Accessory" },
+						{ "name": "Monk's Belt", "rate": 4.17, "type": "Accessory" }
+					]
+				},
+				{
+					"note": "One of the following 5 items may be dropped",
+					"items": [
+						{ "name": "Tome of Infinite Wisdom", "rate": 3.33, "type": "Weapon" },
+						{ "name": "Phantom Phoenix", "rate": 3.33, "type": "Weapon" },
+						{ "name": "Brand of the Inferno", "rate": 3.33, "type": "Weapon" },
+						{ "name": "Sleepy Octopod", "rate": 3.33, "type": "Weapon" },
+						{ "name": "Ghastly Glaive", "rate": 3.33, "type": "Weapon" }
+					]
+				},
+				{ "name": "Creeper Egg", "rate": 10, "type": "Pet" },
+				{ "name": "Ogre Mask", "rate": 8.33, "type": "Vanity" },
+				{ "name": "Ogre Trophy", "rate": 10, "type": "Furniture" }
+			],
+
+			"expert": {
+				"damage": [
+					{ "value": 180 },
+					{ "value": 315, "tip": "club swing" },
+					{ "value": 160, "tip": "Ogre's Stomp" },
+					{ "value": 120, "tip": "Ogre Spit" }
+				],
+				"maxhp": 26000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 270 },
+					{ "value": 472, "tip": "club swing" },
+					{ "value": 240, "tip": "Ogre's Stomp" },
+					{ "value": 180, "tip": "Ogre Spit" }
+				],
+				"maxhp": 33150,
+				"drops": [
+					{ "name": "Ogre's Club", "rate": 25, "type": "Pet" },
+					{ "name": "Ogre Relic", "rate": 100, "type": "Furniture" }
+				]
+			}
+		}
+	]
+}

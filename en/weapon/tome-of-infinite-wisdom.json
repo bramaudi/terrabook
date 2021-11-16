@@ -1,0 +1,43 @@
+{
+	"overview": [
+		"The Tome of Infinite Wisdom is a Hardmode magic weapon which is dropped by Ogre mini-boss during the Old One's Army event. When fired, it auto-fires four high-velocity pages that do not pierce. <kbd>⚷ Open / Activate</kbd> summons a tornado which can pierce enemies, travels through one-block low roofs, lasts four seconds, and will be stopped by a wall. If used while moving on a flying mount, its pages spread out.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"tips": [
+		"The right-click attack's whirlwind is great for clearing out plants and thorns in the Evil Biomes and Jungle. This can help with flower collection or finding Life Fruit.",
+    "Although it uses a lot of mana, the Tome is able to do a lot of damage in small bursts with quick projectiles, making it useful for the Hardmode Jungle's high-health enemies. It is useful even against bosses.",
+    "The standard attack is great for single enemies, while the tornado attack is good for multiple targets.",
+    "This weapon can defeat The Destroyer with ease even in Master Mode, making it a viable weapon choice, however requires at least one of the Mechanical bosses be defeated."
+	],
+
+	"title": "Tome of Infinite Wisdom",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 32, "tip": "Magic" }],
+	"knockback": 9,
+	"mana": 20,
+	"critical_chance": 4,
+	"use_time": 25,
+	"velocity": 22,
+	"tooltip": [
+		"Gotta wonder who stuck a tome of infinite wisdom on a stick...",
+		"Right click to cast a powerful tornado"
+	],
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Ogre", "rate": 6.67, "type": "Boss", "tip": "(Tier 2)" },
+		{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ogre", "rate": 10, "type": "Boss", "tip": "(Tier 2)" },
+			{ "name": "Ogre", "rate": 3.33, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"The Worm Scarf is an Expert Mode accessory that reduces incoming damage by 17%. The Worm Scarf is always obtained from the Eater of Worlds' Treasure Bag.",
+
+		"This damage reduction from this item is calculated after defense is applied:",
+
+		"Damage_taken = ( Raw_damage - (Defense * (.5 or .75 or 1 for normal/expert/master modes respectively)) ) * (1 - .17)",
+
+		"Visually, it appears to be piercing through the player’s shoulder."
+	],
+
+	"notes": [
+		"Beetle armor at its 45% state, Worm Scarf (17%) and Endurance Potion (10%) will reduce damage by nearly 60%.",
+    ["(100%-45%) * (100%-(17%+10%)) = 40.15% damage taken = 59.85% damage reduction"],
+    "Frozen Turtle Shell (25%) will further increase it to almost 74%.",
+    ["(100%-45%) * (100%-(25%+17%+10%)) = 26.4% damage taken = 73.6% damage reduction"]
+	],
+
+	"tips": [
+		"Percent damage reduction on accessories/potions apply first, then damage reduction on set bonuses are applied (e.g. Beetle armor, Solar Flare armor).",
+    "When fighting the Dungeon Guardian, the Worm Scarf (when combined with a few potions or accessories) can allow the player to survive a hit from the Dungeon Guardian without the use of too many accessories and buffs.",
+    "As the game progresses, enemies will start hitting well into the 300-400 damage range. The Worm Scarf thus becomes valuable in reducing damage and making massive hits tolerable.",
+    "Since the Worm Scarf can be taken into non-expert worlds, it is often a good idea to level a character up to near or post-Hardmode gear, create an Expert world, and easily defeat the Eater of Worlds for its Worm Scarf, which remains useful even at endgame."
+	],
+
+	"title": "Worm Scarf",
+	"max_stack": 1,
+	"tooltip": "Reduces damage taken by 17%",
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eater of Worlds)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

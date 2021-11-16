@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Stellar Tune is a Hardmode magic weapon with a 1/50 (2%) / 1/20 (5%) chance to be dropped by the Empress of Light. It fires pairs of star-shaped projectiles that travel in a wave-like pattern towards the cursor. Said projectiles home on enemies, pass through solid blocks, and explode in a small radius on impact.",
+
+		"It plays an acoustic guitar chord when fired, based on the distance between the player and the cursor (in a similar fashion to the Magical Harp). There are a total of six chords: each one spans about a four-block distance from the player, except for the last one, which is played at a distance of 21 blocks or more.",
+
+		"The distance from the player to the cursor also controls the speed at which projectiles are fired. However, if the projectiles are seeking an enemy, they will instead determine their speed based on the distance to that enemy. The Stellar Tune has similarities to Ocram's second form laser attacks.",
+
+		"Its best modifier is Demonic or Deadly for damage output, or Mystic for mana conservation because it cannot get modifiers that affect knockback."
+	],
+
+
+	"title": "Stellar Tune",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": "85 [i:UI:Desktop_version] / 75 [i:UI:Console_version] [i:UI:Mobile_version]", "tip": "Magic" }],
+	"knockback": 0,
+	"mana": 12,
+	"critical_chance": 24,
+	"use_time": 12,
+	"velocity": 3,
+	"tooltip": "'These chords are out of this world'",
+	"rarity": 5,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 2, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

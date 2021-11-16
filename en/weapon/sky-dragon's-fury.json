@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"The Sky Dragon's Fury is a Hardmode Melee weapon dropped by Betsy during the Old One's Army event. When left clicking, it spins in a 360-degree radius around the player, leaving behind an energy trail. Any enemy that comes into contact with the staff as it spins will take damage and get knocked back. However, when right-clicking, it begins to swing around in front of the player subtly, randomly shooting 3 projectiles which, after traveling a certain distance or coming into contact with any solid block or enemy, burst into damaging rings of electricity.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"The origin of the right-click projectiles is quite far from the player. This allows firing through 2 to 3 blocks wide walls.",
+    "Both the primary spinning attack and the secondary can autoswing by default.",
+    "The Secondary Attack from this weapon seems to be affected by ranged modifiers. (eg. being in stealth from Shroomite Armour heavily influences the crit chance of the projectiles)",
+    "With a high enough attack speed, only 2 projectiles spawn when using the right-click attack.",
+    "It cannot get speed modifiers."
+	],
+
+	"title": "Sky Dragon's Fury",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": "140 [i:UI:Desktop version] / 70 [i:UI:Console version] [i:UI:Mobile version]",
+	"knockback": 5,
+	"critical_chance": 4,
+	"use_time": 30,
+	"velocity": 24,
+	"tooltip": "Right click while holding for an alternate attack!",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Betsy", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Betsy)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

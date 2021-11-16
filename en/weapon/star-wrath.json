@@ -1,0 +1,70 @@
+{
+	"overview": [
+		"The Star Wrath is a Hardmode, post-Moon Lord sword which causes three pink projectiles to fall at the cursor whenever it is swung, each dealing double the sword's damage. It can be considered an upgrade of the Starfury. The Star Wrath has 1/9 (11.11%) chance to be dropped by the Moon Lord.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"With the Star Wrath being an autoswing weapon, waves of falling stars can very easily be accumulated, rendering this weapon highly effective for clearing large groups of enemies or bosses.",
+    "Like the Starfury, the Star Wrath's stars can pass through blocks on the way down. Unlike the Starfury, however, the stars do not become solid the moment they reach empty space — rather, they become solid once they are about ten blocks above the player, or at the cursor's altitude. This means that multiple open spaces will not hinder the stars, but a low ceiling will block them even if there are open spaces above.",
+    "Also like the Starfury, the speed of the falling stars increases with the wielder's melee speed.",
+    "Because of the high amount of piercing stars, some stars can pierce through an enemy without damaging them because of enemies becoming invulnerable after they get hit by a piercing attack.",
+		["Using the Star Wrath in a liquid slows the stars, potentially causing additional pierces."]
+	],
+
+	"tips": [
+		"Once this weapon is obtained, the Moon Lord can be killed on a sky bridge quite easily. The same goes for the sword Meowmere.",
+    "As the three stars do double the damage the sword does, it is extremely important to hit enemies with the projectiles, not just with the sword. The DPS of the sword alone is only about 400-500 while adding the stars (on a single target) brings it up to around 1200. On several targets, the DPS can exceed 2500 as the stars pierce enemies.",
+    "The Star Wrath can be used for exploring the map easily, since the stars it sends down produce light at the maximum light level.",
+    "The projectiles summoned by the use of the Star Wrath can inflict effects from flasks such as Ichor.",
+    "Compared to the Star Wrath, the Meowmere has much higher base damage, but the Star Wrath's projectiles have a higher DPS than the Meowmere's, and they can pass through ceilings. This makes the Star Wrath better for a hybrid ranged play style, where the projectiles are the main damage dealer with the sword itself serving as more of a contingency weapon, and the opposite is true for the Meowmere."
+	],
+
+	"title": "Star Wrath",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 110, "tip": "(sword)" }, { "value": 220, "tip": "(projectiles)" }],
+	"knockback": 6.5,
+	"critical_chance": 4,
+	"use_time": 16,
+	"velocity": 16,
+	"rarity": 9,
+	"sell": [{ "value": 20, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"overview": [
+		"The Possessed Skull is a pet item that is dropped by Skeletron in Master Mode with a 1/4 (25%) chance. When used, it summons Skeletron Jr. who will follow the player around.",
+
+		"If the player is too far away, Skeletron Jr. will start spinning like Skeletron in order to catch up."
+	],
+
+	"title": "Possessed Skull",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a small Skeletron",
+		"'A skull with unimaginable power dulled.'"
+	],
+	"summon": "Skeletron Jr.",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Skeletron Jr.",
+			"tooltip": "Skeletron Jr. Is following you"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Skeletron", "rate": 25, "type": "Boss" }
+		]
+	}
+}

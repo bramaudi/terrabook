@@ -1,0 +1,430 @@
+{
+	"overview": [
+		"The Vortex Fragment is a Hardmode, post-Lunatic Cultist crafting material. It is one of the four Lunar Fragments, dropped from the Vortex Pillar during the Lunar Events in stacks of 12–60 / [e=24–100]. Vortex Fragments can be used to craft Vortex armor, an end-game armor set that benefits all types of ranged weapons, as well as Vortex-themed tools, weapons, wings, etc.",
+
+		"Crafting all items requires 121 Vortex Fragments and 68 Luminite Bars (272 Luminite), which necessitates defeating the Vortex Pillar at least 3–11 / [e=2–8] times (note that the Vortex Fragment can also be crafted from the other fragments) and fighting the Moon Lord at least 4 / [e=3–4] times."
+	],
+
+	"title": "Vortex Fragment",
+	"max_stack": 999,
+	"tooltip": "'Swirling energies emanate from this fragment'",
+	"rarity": 9,
+	"sell": [{ "value": 20, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Vortex Pillar", "qty": "12-60", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Vortex Pillar", "qty": "24-100", "rate": 100, "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"recipe": [
+			{
+				"result": { "name": "Vortex Fragment", "type": "Material" },
+				"ingredient": [
+					{ "name": "Solar Fragment", "type": "Material" },
+					{ "name": "Nebula Fragment", "type": "Material" },
+					{ "name": "Stardust Fragment", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Ancient Manipulator", "type": "Furniture" }
+				]
+			}
+		],
+
+		"used": [
+			{
+				"result": {
+					"name": "Celestial Sigil",
+					"type": "Boss_Summon"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 20,
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Ancient Manipulator",
+						"type": "Furniture"
+					}
+				],
+				"station_rowspan": 17
+			},
+			{
+				"result": {
+					"name": "Lunar Hook",
+					"type": "Hook"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Solar Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 6,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Phantasm",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Beater",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Booster",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Brick",
+					"type": "Block",
+					"qty": 10
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Fragment Block",
+					"type": "Block",
+					"qty": 5
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Dye",
+					"type": "Dye"
+				},
+				"ingredient": [
+					{
+						"name": "Bottled Water",
+						"type": "Potion"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 10,
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Dye Vat",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Super Healing Potion",
+					"type": "Potion",
+					"qty": 4
+				},
+				"ingredient": [
+					{
+						"name": "Greater Healing Potion",
+						"qty": 4,
+						"type": "Potion"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Placed Bottle",
+						"type": "Furniture"
+					},
+					{
+						"name": "Alchemy Table",
+						"type": "Furniture"
+					}
+				]
+			}
+		]
+	}
+}

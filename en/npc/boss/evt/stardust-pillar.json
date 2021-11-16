@@ -1,0 +1,21 @@
+{
+	"title": "Stardust Pillar",
+	"env": ["Lunar Events"],
+	"damage": 0,
+	"maxhp": 20000,
+	"defense": 20,
+	"kb_resist": 100,
+	"immune_except": "Whip debuffs",
+	"immune": [],
+
+	"drops": [
+		{ "name": "Stardust Fragment", "qty": "12-60", "rate": 100, "type": "Material" }
+	],
+
+	"expert": {
+		"drops": [
+			{ "name": "Stardust Fragment", "qty": "24-100", "rate": 100, "type": "Material" }
+		]	
+	},
+	"master": {}
+}

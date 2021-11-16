@@ -1,0 +1,40 @@
+{
+	"overview": [
+		"The Candy Corn Rifle is a Hardmode post-Plantera gun that auto-fires Candy Corn as ammunition. It is dropped rarely (1.79–14.29% chance) by the Pumpking during the Pumpkin Moon event. Candy Corn drops along with the weapon, and can be purchased from the Arms Dealer when a Candy Corn Rifle is in the player's inventory.",
+
+		"Candy Corn shots pierce up to two enemies and ricochet up to four times, dissipating on their fifth impact or third enemy hit. The gun has a high fire rate, but unlike most guns, its projectiles are affected by gravity and do not remain airborne for long, though their ricochet ability helps them gain distance.",
+
+		"The Candy Corn Rifle has a base 10% critical strike chance as opposed to the usual 4%.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"tips": [
+		"Its piercing ability may help on worm-type enemies, such as The Destroyer, and crowds of enemies. It is also a good weapon to use against the Frost Moon.",
+    "It is especially useful on gun-only playthroughs. The second-best option, High Velocity Bullets, deal less damage to the second and third enemies hit on the Desktop version, and do not pierce enemies at all on the other versions."
+	],
+
+	"title": "Candy Corn Rifle",
+	"max_stack": 1,
+	"auto_use": true,
+	"ammo": "Candy Corn",
+	"damage": [{ "value": 44, "tip": "Ranged" }],
+	"knockback": 2,
+	"critical_chance": 10,
+	"use_time": 9,
+	"velocity": 10,
+	"tooltip": "33% chance to not consume ammo",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

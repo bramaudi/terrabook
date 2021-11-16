@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Hexxed Branch is a mount-summoning item which summons a rideable Tree Mount. It is dropped by the Mourning Wood in Master Mode with a 1/4 (25%) chance. The Tree Mount is a ground-based mount; it is unable to fly. While travelling at full speed, enemies in its path will be hit by 120 base summon damage."
+	],
+
+	"notes": [
+		"The top running speed of the Tree Mount is 82 mph, reached after 0.533 seconds. Its maximum diagonal speed is 96 mph, achieved by jumping off a ledge at full speed."
+	],
+
+	"tips": [
+		"The Tree Mount's acceleration is extraordinarily high. It achieves high speed very quickly without a dash (e.g. Tabi or Shield of Cthulhu) and can allow one to make sharp turns midair if it is summoned while falling, making it rather useful for boss fights."
+	],
+
+	"title": "Hexxed Branch",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a rideable tree mount",
+		"'A wand crafted from the branch of a cursed tree.'"
+	],
+	"summon": "Tree Mount",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Tree Mount",
+			"tooltip": "Run, forest, run!"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Mourning Wood", "rate": "6.25 - 25", "type": "Boss" }
+		]
+	}
+}

@@ -1,0 +1,130 @@
+{
+	"title": "Empress of Light",
+	"env": ["The Hallow"],
+	"damage": [
+		{ "value": 80 },
+		{ "value": 120, "tip": "dash" },
+		{ "value": 90, "tip": "Prismatic Bolt" },
+		{ "value": 100, "tip": "Sun Dance" },
+		{ "value": 90, "tip": "Everlasing Rainbow" },
+		{ "value": 100, "tip": "Ethereal Lance" }
+	],
+	"maxhp": 70000,
+	"defense": 60,
+	"kb_resist": 100,
+	"immune": ["Confused"],
+	"coins": [
+		{ "value": 25, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Nightglow", "rate": 25, "type": "Weapon" },
+		{ "name": "Starlight", "rate": 25, "type": "Weapon" },
+		{ "name": "Kaleidoscope", "rate": 25, "type": "Weapon" },
+		{ "name": "Eventide", "rate": 25, "type": "Weapon" },
+		{ "name": "Empress Wings", "rate": 6.67, "type": "Wing" },
+		{ "name": "Prismatic Dye", "rate": 25, "type": "Dye" },
+		{ "name": "Stellar Tune", "rate": 2, "type": "Weapon" },
+		{ "name": "Rainbow Cursor", "rate": 5, "type": "Accessory" },
+		{ "name": "Terraprisma", "rate": 100, "type": "Weapon", "tip": "if 100% of damage is dealt at daytime" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Empress of Light Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Empress of Light Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 110 },
+			{ "value": 165, "tip": "dash" },
+			{ "value": 120, "tip": "Prismatic Bolt" },
+			{ "value": 140, "tip": "Sun Dance" },
+			{ "value": 120, "tip": "Everlasing Rainbow" },
+			{ "value": 120, "tip": "Ethereal Lance" }
+		],
+		"maxhp": 98000,
+		"coins": [
+			{ "value": 15, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Terraprisma", "rate": 100, "type": "Weapon", "tip": "if 100% of damage is dealt at daytime" },
+			{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{ "name": "Empress of Light Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Empress of Light)", "rate": 100, "type": "Bag",
+				"children": [
+					{
+						"note": "One of the following 4 items will always be dropped",
+						"items": [
+							{ "name": "Nightglow", "rate": 25, "type": "Weapon" },
+							{ "name": "Starlight", "rate": 25, "type": "Weapon" },
+							{ "name": "Kaleidoscope", "rate": 25, "type": "Weapon" },
+							{ "name": "Eventide", "rate": 25, "type": "Weapon" }
+						]
+					},
+					{ "name": "Soaring Insignia", "rate": 100, "type": "Accessory" },
+					{ "name": "Empress of Light Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Empress Wings", "rate": 10, "type": "Wing" },
+					{ "name": "Stellar Tune", "rate": 5, "type": "Weapon" },
+					{ "name": "Rainbow Cursor", "rate": 5, "type": "Accessory" },
+					{ "name": "Prismatic Dye", "rate": 25, "type": "Dye" },
+					{ "name": "Gold Coin", "qty": 25, "rate": 100, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 165 },
+			{ "value": 248, "tip": "dash" },
+			{ "value": 180, "tip": "Prismatic Bolt" },
+			{ "value": 210, "tip": "Sun Dance" },
+			{ "value": 180, "tip": "Everlasing Rainbow" },
+			{ "value": 180, "tip": "Ethereal Lance" }
+		],
+		"maxhp": 124950,
+		"drops": [
+			{ "name": "Jewel of Light", "rate": 25, "type": "Pet" },
+			{ "name": "Empress of Light Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"damage": [
+				{ "value": 80 },
+				{ "value": 120, "tip": "dash" },
+				{ "value": 100, "tip": "Prismatic Bolt" },
+				{ "value": 120, "tip": "Sun Dance" },
+				{ "value": 100, "tip": "Everlasing Rainbow" },
+				{ "value": 120, "tip": "Ethereal Lance" },
+				{ "value": 130, "tip": "Ethereal Lance V2" }
+			],
+			"maxhp": 70000,
+
+			"expert": {
+				"damage": [
+					{ "value": 110 },
+					{ "value": 165, "tip": "dash" },
+					{ "value": 140, "tip": "Prismatic Bolt" },
+					{ "value": 160, "tip": "Sun Dance" },
+					{ "value": 140, "tip": "Everlasing Rainbow" },
+					{ "value": 140, "tip": "Ethereal Lance" },
+					{ "value": 120, "tip": "Ethereal Lance V2" }
+				],
+				"maxhp": 98000
+			},
+			"master": {
+				"damage": [
+					{ "value": 165 },
+					{ "value": 248, "tip": "dash" },
+					{ "value": 210, "tip": "Prismatic Bolt" },
+					{ "value": 240, "tip": "Sun Dance" },
+					{ "value": 210, "tip": "Everlasing Rainbow" },
+					{ "value": 210, "tip": "Ethereal Lance" },
+					{ "value": 180, "tip": "Ethereal Lance V2" }
+				],
+				"maxhp": 124950
+			}
+		}
+	]
+}

@@ -1,0 +1,430 @@
+{
+	"overview": [
+		"The Nebula Fragment is a Hardmode, post-Lunatic Cultist crafting material. It is one of the four Lunar Fragments, dropped from the Nebula Pillar during the Lunar Events in stacks of 12–60 / [e=24–100]. Nebula Fragments can be used to craft Nebula armor, an end-game armor set that benefits all types of magic weapons, as well as Nebula-themed tools, weapons, wings, etc.",
+
+		"Crafting all items requires 121 Nebula Fragments and 68 Luminite Bars (272 Luminite), which necessitates defeating the Nebula Pillar at least 3–11 / [e=2–8] times (note that the Nebula Fragment can also be crafted from the other fragments) and fighting the Moon Lord at least 4 / [e=3–4] times."
+	],
+
+	"title": "Nebula Fragment",
+	"max_stack": 999,
+	"tooltip": "'The power of a galaxy resides within this fragment'",
+	"rarity": 9,
+	"sell": [{ "value": 20, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Nebula Pillar", "qty": "12-60", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Nebula Pillar", "qty": "24-100", "rate": 100, "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"recipe": [
+			{
+				"result": { "name": "Nebula Fragment", "type": "Material" },
+				"ingredient": [
+					{ "name": "Solar Fragment", "type": "Material" },
+					{ "name": "Vortex Fragment", "type": "Material" },
+					{ "name": "Stardust Fragment", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Ancient Manipulator", "type": "Furniture" }
+				]
+			}
+		],
+
+		"used": [
+			{
+				"result": {
+					"name": "Celestial Sigil",
+					"type": "Boss_Summon"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 20,
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Ancient Manipulator",
+						"type": "Furniture"
+					}
+				],
+				"station_rowspan": 17
+			},
+			{
+				"result": {
+					"name": "Lunar Hook",
+					"type": "Hook"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Solar Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"qty": 6,
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"qty": 6,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Arcanum",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Blaze",
+					"type": "Weapon"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 18,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 20,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 16,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Brick",
+					"type": "Block",
+					"qty": 10
+				},
+				"ingredient": [
+					{
+						"name": "Stone Block",
+						"qty": 10,
+						"type": "Block"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Drill",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Fragment Block",
+					"type": "Block",
+					"qty": 5
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stone Block",
+						"qty": 5,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Hamaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 10,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 8,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 15,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 12,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Mantle",
+					"type": "Wing"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 14,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Monolith",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 15,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Pickaxe",
+					"type": "Tool"
+				},
+				"ingredient": [
+					{
+						"name": "Nebula Fragment",
+						"qty": 12,
+						"type": "Material"
+					},
+					{
+						"name": "Luminite Bar",
+						"qty": 10,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Solar Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Stardust Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Vortex Fragment",
+					"type": "Material"
+				},
+				"ingredient": [
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Nebula Dye",
+					"type": "Dye"
+				},
+				"ingredient": [
+					{
+						"name": "Bottled Water",
+						"type": "Potion"
+					},
+					{
+						"name": "Nebula Fragment",
+						"qty": 10,
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Dye Vat",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Super Healing Potion",
+					"type": "Potion",
+					"qty": 4
+				},
+				"ingredient": [
+					{
+						"name": "Greater Healing Potion",
+						"qty": 4,
+						"type": "Potion"
+					},
+					{
+						"name": "Nebula Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Solar Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Stardust Fragment",
+						"type": "Material"
+					},
+					{
+						"name": "Vortex Fragment",
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Placed Bottle",
+						"type": "Furniture"
+					},
+					{
+						"name": "Alchemy Table",
+						"type": "Furniture"
+					}
+				]
+			}
+		]
+	}
+}

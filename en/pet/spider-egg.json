@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Spider Egg summons the spider Pet. It behaves exactly like the Spider AI, as it will crawl on Walls if there are any. When the player jumps high enough or outruns the spider, it will ride on a white spiderweb, as if it were standing on a wall, to keep up with the player. The Spider Egg is dropped by Pumpking during the Pumpkin Moon event."
+	],
+
+	"notes": [
+		"If the Spider follows the player to an area with Fences nearby, the Spider will rapidly hop from the fences to the ground, causing a flickering effect.",
+    "If a red Dye is used on the Spider Egg, the spider resembles a Blood Crawler."
+	],
+
+	"title": "Spider Egg",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a pet spider",
+	"summon": "Spider",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Pet Spider",
+			"tooltip": "A spider is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

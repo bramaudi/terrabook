@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Razorpine is a post-Plantera magic weapon that rapid-fires 2-4 \"pine needle\" projectiles at high velocity. The projectiles drop off after a modest distance, much like Throwing Knives and the Magic Dagger, though with slightly longer range. The Razorpine has a 3.11% to 7.78% / [e=6.22% to 31.11%] chance of being dropped by Everscream.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"tips": [
+		"The DPS potential of the Razorpine beats out that of nearly every other magic weapon in the game, including the Nebula Blaze, however it is harder to aim than the Nebula Blaze due to its lack of a homing effect. This makes it a great option for quickly downing tanky enemies or bosses that are slow or otherwise easy to target.",
+		["It also does not do splash damage, meaning that it will be eventually replaced by endgame magic weapons with an area of effect, like Last Prism."],
+		"Projectiles spawn more than one block away from the caster. This allows the caster to effectively shoot through a 1-block thick barrier in any direction when positioned close enough to the barrier. A small fraction of projectiles will spawn far enough away to bypass a 5-block thick barrier. This also allows enemies to avoid some or all of Razorpine's projectiles when they are positioned too close to the caster."
+	],
+
+	"title": "Razorpine",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 48, "tip": "Magic" }],
+	"knockback": 3.25,
+	"mana": 5,
+	"critical_chance": 4,
+	"use_time": 8,
+	"velocity": 24,
+	"tooltip": "Shoots razor sharp pine needles",
+	"rarity": 8,
+	"sell": [{ "value": 9, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Everscream", "rate": "3.11 - 7.78", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Everscream", "rate": "6.22 - 31.11", "type": "Boss" }
+		]
+	}
+}

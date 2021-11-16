@@ -1,0 +1,611 @@
+{
+	"overview": [
+		"Wings are Hardmode (with the single exception of Fledgling Wings) accessories that allow the player to fly temporarily by pressing and holding the <kbd>↷ Jump</kbd> key. Flight time is reset when the player rests on solid objects, including both standing on blocks and using climbing items like Ropes, Hooks, Shoe Spikes, and Climbing Claws. Certain wing types also allow the player to hover at fixed heights by holding the <kbd>▼ Down</kbd> key during flight, and/or accelerate their ascent speed by holding the <kbd>▲ Up</kbd> key.",
+
+		"After flight time has been exhausted, a player can continue holding the <kbd>↷ Jump</kbd> key to glide. Gliding fall speed can be accelerated by holding the <kbd>▼ Down</kbd> key in addition.",
+
+		"Wings additionally grant immunity from fall damage (except when overridden by the Stoned debuff), rendering fall damage protection items like the Lucky Horseshoe unnecessary.",
+
+		"Flight is much more controlled with wings than with Rocket Boots, Spectre Boots, etc. alone, and they allow for much greater flight range. Equipping wings generally replaces jumps entirely with flight, rather than requiring a double-jump to activate. Double-jump accessories like the Cloud in a Bottle will still grant an additional jump, which is used after all flight time.",
+
+		"There are currently 47 unique wing types in total: 45 are available on Desktop version, Console version, and Mobile version, 39 on Switch version and tModLoader version, and 21 on Old-gen console version and 3DS version. Flight time and speed can vary by the version."
+	],
+
+	"types": [
+		"Wings have a variety of origins: Some can be crafted, a few can be purchased outright, one is an Angler reward, a few are dropped directly from bosses, and one is gifted to every new Journey Mode character or found in chests and crates.",
+
+		"In Expert Mode, more wings can come as part of Treasure Bags: Each Hardmode Treasure Bag has a 1/20 (5%) chance to drop a random set of developer items, and all sets include wings (with the exception of Aaron's set).",
+
+		"Most craftable wings are crafted at a Hardmode Anvil: Each requires 20 Souls of Flight plus a \"key\" item determining the wing type. This key can be a rare enemy drop with no other use, or a quantity of material representing a new stage of the game.",
+
+		"The four lunar wings (Solar Wings, Vortex Booster, Nebula Mantle, and Stardust Wings) are instead crafted like other endgame equipment: At the Ancient Manipulator from Luminite Bars and Lunar Fragments; they do not require Souls of Flight.",
+
+		"All wings can be sold for 8 Gold Coins, except for the Leaf Wings (15 Gold Coins) and Steampunk Wings (60 Gold Coins)."
+	],
+
+	"wings": [
+		{
+			"name": "Fledgling Wings",
+			"source": "Obtained upon creation of a Journey Mode character or from Skyware Chests, Sky Crates and Azure Crates on the Desktop version.",
+			"time": 0.42,
+			"height": 18,
+			"speed_x": 15,
+			"speed_y": 150,
+			"rarity": 0,
+			"notes": "The only Pre-Hardmode wings."
+		},
+		{
+			"name": "Angel Wings",
+			"source": [
+				"[i:Material:Feather] Feather (10)",
+				"[i:Material:Soul_of_Flight] Soul of Flight (20)",
+				"[i:Material:Soul of Light] Soul of Light (25)"
+			],
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Demon Wings",
+			"source": [
+				"[i:Material:Feather] Feather (10)",
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Soul of Night] Soul of Night (25)"
+			],
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Leaf Wings",
+			"source": "Sold by Witch Doctor",
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Sold for 75 Gold Coins in Hardmode Jungle at night."
+		},
+		{
+			"name": "Fairy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Pixie Dust] Pixie Dust (100)"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Particle effect emits yellow light."
+		},
+		{
+			"name": "Fin Wings",
+			"source": "Quest reward from Angler",
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 4,
+			"notes": "1/70 chance for every quest after 10th quest in Hardmode only."
+		},
+		{
+			"name": "Frozen Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Ice Feather] Ice Feather"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Glows in the dark and particle effect emits particles of snow."
+		},
+		{
+			"name": "Harpy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Giant Harpy Feather] Giant Harpy Feather"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Jetpack",
+			"source": "Sold by Steampunker",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 33,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": [
+				"Sold for 40 Gold Coins during these Moon phases: [i:UI:Moon-new] [i:UI:Moon-6] [i:UI:Moon-7] [i:UI:Moon-8]",
+				"Quicker ascents using the <kbd>▲ Up key</kbd>.",
+				"Particle effect emits orange light and unique sound effects happen when used."
+			]
+		},
+		{
+			"name": "Red's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "D-Town's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Will's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Crowno's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Cenx's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Lazure's Barrier Platform",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Developer item",
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Emits faint purple light and glows in the dark.",
+				"Completely silent."
+			]
+		},
+		{
+			"name": "Yoraiz0r's Spell",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Developer item",
+				"Rocket particles from feet similar to Rocket Boots without any actual wing graphics.",
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Emits faint red light and gives player glowing red eyes.",
+				"Glow depends on accessory slot: bottom slot offers brightest glow, top slot disables glow.",
+				"Eyes dyed from pet dye slot, rocket effect dyed from accessory slot.",
+				"Completely silent."
+			]
+		},
+		{
+			"name": "Jim's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": ["Developer item", "Glows in the dark."]
+		},
+		{
+			"name": "Skiphs' Paws",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Developer item",
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>."
+			]
+		},
+		{
+			"name": "Loki's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": ["Developer item", "Glows in the dark."]
+		},
+		{
+			"name": "Arkhalis' Lightwings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Developer item",
+				"Particle effect emits white light, glows in the dark.",
+				"The color emitted from the wings depends on the player's shirt color."
+			]
+		},
+		{
+			"name": "Leinfors' Prehensile Cloak",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Ghostar's Infinity Eight",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Safeman's Blanket Cape",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "FoodBarbarian's Tattered Dragon Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Grox The Great's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Bat Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Broken Bat Wing] Broken Bat Wing"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Does not offer any horizontal flight speed bonus."
+		},
+		{
+			"name": "Bee Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Tattered Bee Wing] Tattered Bee Wing"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Tattered Bee Wing begins dropping after at least one Mechanical Boss has been defeated."
+		},
+		{
+			"name": "Butterfly Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Butterfly Dust] Butterfly Dust"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": [
+				"Particle effect emits pink light.",
+				"Butterfly Dust begins dropping after at least one Mechanical Boss has been defeated."
+			]
+		},
+		{
+			"name": "Flame Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Fire Feather] Fire Feather"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Particle effect emits orange light, glows in the dark and appears translucent."
+		},
+		{
+			"name": "Hoverboard",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Bar:Shroomite Bar] Shroomite Bar (18)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 33,
+			"speed_y": 166,
+			"rarity": 5,
+			"notes": [
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Bonus speed boosted to 233% while hovering.",
+				"Completely silent."
+			]
+		},
+		{
+			"name": "Bone Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Bone Feather] Bone Feather"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 5
+		},
+		{
+			"name": "Mothron Wings",
+			"source": "Dropped by Mothron",
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 8,
+			"notes": [
+				"Drop chance: 5% / [e=9.75%]. Dropped only post-Plantera.",
+				"Emits yellow light and glows in the dark."
+			]
+		},
+		{
+			"name": "Spectre Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Bar:Spectre Bar] Spectre Bar (10)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 8,
+			"notes": [
+				"Replaces the Ghost Wings from Old-gen console version and 3DS version.",
+				"Translucent."
+			]
+		},
+		{
+			"name": "Beetle Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Beetle Husk] Beetle Husk (8)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 7,
+			"notes": "Completely silent."
+		},
+		{
+			"name": "Festive Wings",
+			"source": "Dropped by Everscream",
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 5,
+			"notes": [
+				"Drop chance: 1.11% – 1.67%",
+				"Glows in the dark."
+			]
+		},
+		{
+			"name": "Spooky Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Spooky Twig] Spooky Twig"
+			],
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 7
+		},
+		{
+			"name": "Tattered Fairy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Black Fairy Dust] Black Fairy Dust"
+			],
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 7,
+			"notes": "Particle effect emits yellow light."
+		},
+		{
+			"name": "Steampunk Wings",
+			"source": "Sold by Steampunker",
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 8,
+			"notes": "Sold for 3 Platinum Coins, post-Golem."
+		},
+		{
+			"name": "Betsy's Wings",
+			"source": "Dropped by Betsy",
+			"time": 2.5,
+			"height": 119,
+			"speed_x": 36,
+			"speed_y": 250,
+			"rarity": 8,
+			"notes": [
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"x2 duration when hovering.",
+				"Hover speed boosted +300%, faster acceleration."
+			]
+		},
+		{
+			"name": "Empress Wings",
+			"source": "Dropped by Empress of Light",
+			"time": 2.5,
+			"height": 128,
+			"speed_x": 41,
+			"speed_y": 275,
+			"rarity": 9,
+			"notes": "Quicker ascents using the <kbd>▲ Up</kbd> key."
+		},
+		{
+			"name": "Fishron Wings",
+			"source": "Dropped by Duke Fishron",
+			"time": 3,
+			"height": 143,
+			"speed_x": 41,
+			"speed_y": 250,
+			"rarity": 8,
+			"notes": [
+				"Drop chance: 1/15 ([e=1/10])",
+				"Movement penalty in liquids is ignored.",
+				"Leaves behind a water bubble trail."
+			]
+		},
+		{
+			"name": "Nebula Mantle",
+			"source": [
+				"[i:Material:Nebula Fragment] Nebula Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 143,
+			"speed_x": 33,
+			"speed_y": 245,
+			"rarity": 10,
+			"notes": [
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Hover speed boosted +300%, faster acceleration.",
+				"x2 duration when hovering.",
+				"Glows in the dark.",
+				"Solid motion shadow with pulsate-effect when full Nebula armor set is worn."
+			]
+		},
+		{
+			"name": "Vortex Booster",
+			"source": [
+				"[i:Material:Vortex Fragment] Vortex Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 143,
+			"speed_x": 33,
+			"speed_y": 245,
+			"rarity": 10,
+			"notes": [
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Hover speed boosted +300%, faster acceleration.",
+				"x2 duration when hovering.",
+				"Emits a sky blue light and glows in the dark."
+			]
+		},
+		{
+			"name": "Solar Wings",
+			"source": [
+				"[i:Material:Solar Fragment] Solar Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 167,
+			"speed_x": 46,
+			"speed_y": 300,
+			"rarity": 10,
+			"notes": [
+				"50% extra max ascent speed, faster acceleration.",
+				"Glows in the dark and particle effect emits orange light."
+			]
+		},
+		{
+			"name": "Stardust Wings",
+			"source": [
+				"[i:Material:Stardust Fragment] Stardust Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 167,
+			"speed_x": 46,
+			"speed_y": 300,
+			"rarity": 10,
+			"notes": [
+				"50% extra max ascent speed, faster acceleration.",
+				"Glows in the dark.",
+				"Transparent motion shadow with trail-effect when full Stardust armor set is worn."
+			]
+		},
+		{
+			"name": "Celestial Starboard",
+			"source": "Dropped by Moon Lord in Expert Mode",
+			"time": 3,
+			"height": 201,
+			"speed_x": 41,
+			"speed_y": 450,
+			"rarity": 12,
+			"notes": [
+				"Slower ascent with quicker acceleration using the ▲ Up key.",
+				"Horizontal hovering with <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>."
+			]
+		}
+	]
+}

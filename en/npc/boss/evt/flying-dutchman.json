@@ -1,0 +1,71 @@
+{
+	"title": "Flying Dutchman",
+	"env": ["Pirate Invasion"],
+	"damage": 0,
+	"maxhp": [
+		{ "value": 50, "tip": "core" },
+		{ "value": 8000, "tip": "4 cannons" }
+	],
+	"defense": 100,
+	"kb_resist": 100,
+	"immune": [],
+	"drops": [
+		{ "name": "Coin Gun", "rate": 0.25, "type": "Weapon" },
+		{ "name": "Lucky Coin", "rate": 0.5, "type": "Accessory" },
+		{ "name": "Discount Card", "rate": 1, "type": "Accessory" },
+		{ "name": "Pirate Staff", "rate": 1, "type": "Weapon" },
+		{ "name": "Gold Ring", "rate": 2, "type": "Accessory" },
+		{ "name": "The Dutchman", "rate": 5, "type": "Minecart" },
+		{ "name": "Cutlass", "rate": 10, "type": "Weapon" },
+		{ "name": "Flying Dutchman Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"maxhp": [
+			{ "value": 100, "tip": "core" },
+			{ "value": 16000, "tip": "4 cannons" }
+		]
+	},
+
+	"master": {
+		"maxhp": [
+			{ "value": 150, "tip": "core" },
+			{ "value": 24000, "tip": "4 cannons" }
+		],
+		"drops": [
+			{ "name": "Flying Dutchman Relic", "rate": 100, "type": "Furniture" },
+			{ "name": "The Black Spot", "rate": 25, "type": "Mount" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Dutchman Cannon",
+			"damage": [
+				{ "value": 30 },
+				{ "value": 60, "tip": "ranged" }
+			],
+			"maxhp": 2000,
+			"defense": 20,
+			"kb_resist": 100,
+			"immune_except": "Whip debuffs",
+			"immune": [],
+
+			"expert": {
+				"damage": [
+					{ "value": 60 },
+					{ "value": 120, "tip": "ranged" }
+				],
+				"maxhp": 4000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 90 },
+					{ "value": 180, "tip": "ranged" }
+				],
+				"maxhp": 6000
+			}
+		}
+	]
+}

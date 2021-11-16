@@ -1,0 +1,54 @@
+{
+	"overview": [
+		"The Shrimpy Truffle is a mount-summon item that spawns Cute Fishron, a miniature rideable Duke Fishron-style mount. The mount can fly and hover indefinitely. It is obtained from Duke Fishron's Treasure Bag in Expert Mode.",
+
+		"Cute Fishron has a base flight speed of 40 mph.",
+
+		"Moving through liquids causes Cute Fishron to gain a drastic movement speed bonus of about +105% (to 82 mph, the fastest of any mount), as well as providing the rider with a +15% damage bonus. These boosts continue for 6 seconds after it leaves liquid, though during this time its speed boost drops to +100% (to 80 mph).",
+
+		"Liquid boosts also take effect when Cute Fishron gets \"wet\" by flying in the rain (), flying through Bubbles filled by liquids, splashes from a Water Bucket, or being hit by a Water Gun.",
+
+		"On the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, the +100% movement speed boost (80 mph) and +15% damage boost also take effect when the rider's health falls below half.",
+
+		"During contact with any blocks, Cute Fishron's movement speed is drastically lowered to a very slow crawl (5 mph, or 10 if boosted). This speed penalty is removed as soon as it loses contact with the blocks."
+	],
+
+	"notes": [
+		"Any liquid triggers the boost, including lava and honey.",
+    "While Cute Fishron is boosted, its eyes display a glowing effect that fades as the boost expires. The color of the glow matches the water color in the present biome. If the water color in the area is changed via a Water Fountain, Cute Fishron's eyes will become that color. During a Blood Moon, Cute Fishron's eyes glow red everywhere, regardless of the biome.",
+    "Cute Fishron has a comparatively slow turning speed compared to other mounts when its speed bonus isn't activated."
+	],
+
+	"tips": [
+		"In addition to the standard intended methods, Cute Fishron's boost can be triggered in other creative ways:",
+		[
+			"Use a Water Bucket (or a Bottomless Water Bucket) to pour water over the character while on this mount in midair. The more immersed Cute Fishron is kept, the higher the boost, up to the maximum 80 mph. The water must be used on the player's own body; pouring it over the head or tail of the mount will not work. Note that the water will settle on the surface, creating many small pools.",
+			"Place Bubbles filled with liquid in the world. Ideally, place honey in these bubbles, as flying through honey with a Cute Fishron mount not only increases the player's speed and damage, but also health regeneration.",
+			"Have another player use the Water Gun on the character, inflicting the Wet debuff.",
+			"Repeatedly use a Rod of Discord to keep the character's health below 50%.",
+			"Waiting for rain to start falling before fighting difficult Bosses or Events."
+		],
+		"Due to its outstanding mobility and combat increases while boosted, the mount is highly effective for boss fights. An underwater arena with a Neptune's Shell is a solid setup for many fights.",
+		"While it has the ability of infinite flight, Cute Fishron has sluggish mobility as an aerial mount, as it takes a long time to turn when its speed bonus isn't active. If air mobility is preferred (such as during a boss fight), it is recommended to use Wings or the UFO Mount instead (or in Expert Mode, the Witch's Broom). On the Console version and Mobile version The Black Spot is also a viable alternative.",
+		["If the player has an equipped accessory or full armor gear that enables dashing, quick and sharp turns can be done by dismounting mid-air, dashing to the opposite direction and re-equipping the mount."],
+		"Although the UFO Mount is slightly faster (41 mph vs. 40 mph), it cannot be used in liquids, whereas Cute Fishron has an advantage in them.",
+		"Because of the speed penalty for touching blocks, Cute Fishron is not suited for confined spaces.",
+		"Its speed while touching blocks is well suited for placing a line of blocks in front of the player.",
+		"On the Desktop version, Console version, and Mobile version, this mount works well with the Frozen Turtle Shell, as it allows the player to stay at or below 50% life for the damage and speed boost much more safely."
+	],
+
+	"title": "Shrimpy Truffle",
+	"max_stack": 1,
+	"tooltip": "Attracts a legendary creature which flourishes in water & combat",
+	"summon": "Cute Fishron Mount",
+	"rarity": "rainbow",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{ "buff": "Cute Fishron Mount", "tooltip": "Just don't make it crawl." }
+	],
+
+	"dropped_by": [
+		{ "name": "Treasure Bag (Duke Fishron)", "rate": 100, "type": "Bag" }
+	]
+}

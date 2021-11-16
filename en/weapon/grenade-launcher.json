@@ -1,0 +1,39 @@
+{
+	"overview": [
+		"The Grenade Launcher is a Hardmode, post-Plantera launcher that consumes rockets and launches a grenade with a timed fuse. The grenade explodes when the fuse expires, or if it comes into contact with an enemy. The Grenade Launcher has a 1/7 (14.29%) to be dropped from Plantera, and on non-Expert or Master Mode worlds, it is guaranteed to drop the first time Plantera is defeated. In addition, 50–149 Rocket Is will be dropped alongside the Grenade Launcher.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The grenades fired from the Grenade Launcher are strongly affected by gravity and can inflict massive self-damage. For this reason, using it in any tight area requires exceptional care to avoid it bouncing back to the player.",
+    "Selenians cannot reflect the grenade as it will instantly explode on contact."
+	],
+
+	"tips": [
+		"Compared to the Rocket Launcher, the Grenade Launcher can be obtained much earlier but has an arc and will not explode on contact with blocks right away. The Grenade Launcher also deals 33.33% more damage."
+	],
+
+	"title": "Grenade Launcher",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 60, "tip": "Ranged" }],
+	"ammo": "Rockets",
+	"knockback": 4,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 10,
+	"rarity": 8,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

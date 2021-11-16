@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Cosmic Car Key is a Hardmode mount-summoning item. When used, it summons a rideable UFO that allows the player to fly and hover indefinitely. It has 1/6 (16.67%) chance to be dropped by the Martian Saucer mini-boss during the Martian Madness event."
+	],
+
+	"notes": [
+		"The UFO mount does not work in liquids. When attempting to fly through them, the player will automatically be dismounted.",
+    "The mount has a top speed of 41 mph when flying up/down or east/west. When flying diagonally, however, it can reach 58 mph max.",
+		["Because of this, one can fly at the same speed as, if not faster, than the Dungeon Guardian (41 mph consistently)."],
+    "When ascending the UFO, it can travel upwards through a one block gap while also moving east or west.",
+    "The UFO cannot fly downwards through \"bottom\" platforms (that is, hammered to the lower half of the block), and will instead bounce off them. Other platforms can be passed downward with only a slight delay.",
+    "Falling from maximum speed and mounting the UFO allows it to fly at 51 mph.",
+		["Similarly, it is possible to fall from a height at max speed and then mount the UFO and fly diagonally. This reaches a speed of 66 mph."]
+	],
+
+	"tips": [
+		"When using this mount, it may be useful to replace other mobility accessories such as any Wings or Boots with damage- or defense-based accessories.",
+    "While they lack infinite flight time (unless the Soaring Insignia is used), using wings with hovering abilities in tandem with Lightning/Frostspark/Terraspark Boots can provide more speed and mobility.",
+    "Using wings with a fast ascent speed such as Jetpack, it is possible to fly upwards with the wings, deploy the mount and maintain the speed of the wings beyond the duration of the wings.",
+    "Using the Rod of Discord can be a great way to travel while using this mount, as you can teleport through tight areas rather than dismounting the UFO.",
+    "It's possible to give this mount to another player while mounted and still keep using the UFO.",
+    "The mobility of this mount and the ability to use items while riding it make it a good mount for construction.",
+    "If one needs to have an infinite flight mount underwater, the Cute Fishron Mount or the Witch's Broom are good replacements for the UFO.",
+    "This mount may not be the best to use in an arena for intense boss fights (such as the Empress of Lightand Moon Lord), as its infinite flight time is overshadowed by its not very fast speed, lack of dashing ability, and slow turning speed. It may be preferable to use the Cute Fishron with Honey and Water bubbles (which has a very fast speed along with boosting damage by 15% when in and shortly after leaving liquids) or to not use mounts at all and instead have the Soaring Insignia, the Expert mode-exclusive drop from the Empress of Light, which provides infinite flight time."
+	],
+
+	"title": "Cosmic Car Key",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a rideable UFO mount",
+	"summon": "UFO Mount",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{ "buff": "UFO Mount", "tooltip": "It's a good thing you had a MAC" }
+	],
+
+	"dropped_by": [
+		{ "name": "Martian Saucer", "rate": 16.66, "type": "Boss" }
+	]
+}

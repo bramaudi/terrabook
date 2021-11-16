@@ -1,0 +1,58 @@
+{
+	"overview": [
+		"The Firecracker is a Hardmode whip that is dropped by the Wall of Flesh with a 1/8 (12.5%) / [e=1/4 (25%)] chance.",
+
+		"Like other whips, it causes minions to focus on the last-struck enemy. It also inflicts the On Fire! debuff to all targets.",
+
+		"When a minion attacks an enemy marked by the Firecracker, a small explosion will occur, and the enemy takes [i:UI:Desktop version] 2.75 / [i:UI:Console version] [i:UI:Mobile version] 3 times the damage from the minion's attack. The explosion will not repeat itself until the enemy is struck again. The explosion does not damage multiple enemies.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"[i:UI:Console version] [i:UI:Mobile version] The Firecracker's explosion effect cannot be triggered on enemies that are immune to all debuffs, such as The Destroyer and the Flying Dutchman."
+	],
+
+	"tips": [
+		"Like the Cool Whip and Dark Harvest, the Firecracker forgoes summon tag damage for a special on-hit effect. Its effect is very different from the other two whips, as it scales with the minion's base damage and its own attack speed rather than the attack speed of the minion. This makes it more potent than the Cool Whip when actively attacking, but unlike the Spinal Tap or Snapthorn, it does not provide lingering damage bonuses.",
+    "With attack speed buffs, e.g. via Titan Glove upgrades, this whip can achieve very high DPS with most minions. However, due to its relatively low range and summoners' generally poor defense, it will require more skill on dodging attacks to use it as a main weapon.",
+    "Due to its unique tag multiplier effect, the whip can remain viable even after Moon Lord has been defeated.",
+    "It pairs well with other whips that temporarily increase melee speed on hit, such as Snapthorn and Durendal, as higher attack speed means it can re-apply its tag more often.",
+    "This weapon produces light when swung, making it helpful for revealing caves and ores through walls.",
+    "Because the Firecracker's effect multiplies damage dealt instead of giving an additive tag damage increase, it works best with minions that have high base damage. It is particularly effective when paired with the Desert Tiger Staff or the Stardust Dragon Staff, due to their unique ability to increase minion damage based on the number of slots invested in them.",
+		["On the contrary, minions that hit rapidly with low base damage such as Enchanted Daggers and UFOs pair poorly with this whip."]
+	],
+
+	"title": "Firecracker",
+	"max_stack": 1,
+	"damage": [{ "value": 40, "tip": "Summon" }],
+	"knockback": 2,
+	"use_time": 30,
+	"velocity": 8,
+	"tooltip": [
+		"Your summons will focus struck enemies",
+		"Strike enemies with blazing energy",
+		"Blazing energy explodes from enemies hit by summons"
+	],
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"duration": [{ "value": 4, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 12.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

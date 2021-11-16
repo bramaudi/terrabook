@@ -1,0 +1,44 @@
+{
+	"overview": [
+		"The Jack 'O Lantern Launcher is a Hardmode, post-Plantera launcher that fires Explosive Jack 'O Lanterns and drops from Pumpking during the Pumpkin Moon event. The player can buy Explosive Jack 'O Lanterns from the Arms Dealer for 15 each if they have the launcher in their inventory.",
+
+		"The Jack 'O Lantern Launcher has a base 10% critical strike chance as opposed to the usual 4%.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The weapon type is classified as rocket by Shroomite armor set bonuses.",
+    "Despite being explosive, it does not damage the player who fired the weapon.",
+    "The explosive Jack 'O Lanterns are extraordinarily bouncy, as much as Spiky Balls, if not more, allowing for bouncing them up into crevices where normal grenades cannot reach.",
+    "The Jack 'O Lanterns last for about 7 seconds each, or 420 ticks."
+	],
+
+	"tips": [
+		"With relatively cheap ammo, this can easily turn into a replacement for the Grenade Launcher if the player uses non-destructive rockets.",
+    "It is especially useful for close encounters with large numbers of enemies."
+	],
+
+	"title": "Jack 'O Lantern Launcher",
+	"max_stack": 1,
+	"auto_use": true,
+	"ammo": "Candy Corn",
+	"damage": [{ "value": 65, "tip": "Ranged" }],
+	"knockback": 5,
+	"critical_chance": 10,
+	"use_time": "25 [i:UI:Desktop version] / 30 [i:UI:Console version] [i:UI:Mobile version]",
+	"velocity": 7,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

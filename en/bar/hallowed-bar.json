@@ -1,0 +1,75 @@
+{
+	"overview": [
+		"Hallowed Bars are bars used to craft mid-Hardmode armor/weapons. They are dropped by all three mechanical bosses: The Twins, The Destroyer, and Skeletron Prime.",
+
+		"Crafting all Hallowed items on Desktop version, Console version, Mobile version, Switch version Switch, and tModLoader version, including all 5 Light Discs and excluding a Pumpkin Moon Medallion, costs 182 Hallowed Bars. The Pumpkin Moon Medallion requires an additional 10 Hallowed Bars, for a total of 192. "
+	],
+
+	"tips": [
+		"99 bars will sell for 39 Gold Coins 60 Silver Coins.",
+    "It is slightly more profitable to make Helmets and sell them rather than the bars required to craft them. (41 Silver Coins 66 Copper Coins per bar, a 4% gain.)",
+    "A slightly better way to sell them off is to make Excaliburs. Unmodified Excalibur sells for slightly less than the Hallowed Bars required to make it (4 Gold Coins 60 Silver Coins vs. 4 Gold Coins 80 Silver Coins), but the random modifiers increase a melee weapon price by 11.2% on average, so crafting and selling the swords in bulk is still about 6.6% more profitable than selling the bars.",
+		[
+			"[i:UI:Console_version] [i:UI:Mobile_version] If the player has surplus Broken Hero Swords, profits can be raised further by selling the good swords as-is, but upgrading the worse ones into True Excaliburs, selling for 10 Gold Coins plus a new chance at modifiers."
+		],
+    "Before 1.4, crafting Light Discs was vastly profitable due to their old price of 10 Gold Coins. With their price reduced to 6 Gold Coins, the craft gains only a few silver over the materials (which are dominated by the Souls of Might anyway).",
+    "The Pumpkin Moon Medallion allows summoning the Pumpkin Moon event, which can be vastly profitable."
+	],
+
+	"title": "Hallowed Bar",
+	"auto_use": true,
+	"max_stack": 999,
+	"placeable": { "wide": 1, "high": 1 },
+	"use_time": 15,
+	"rarity": 4,
+	"sell": [{ "value": 40, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Skeletron Prime", "qty": "15-30", "rate": 100, "type": "Boss" },
+		{ "name": "The Destroyer", "qty": "15-30", "rate": 100, "type": "Boss" },
+		{ "name": "The Twins", "qty": "15-30", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Skeletron Prime)", "qty": "15-30", "rate": 100, "type": "Bag" },
+			{ "name": "Treasure Bag (The Destroyer)", "qty": "15-30", "rate": 100, "type": "Bag" },
+			{ "name": "Treasure Bag (The Twins)", "qty": "15-30", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Ancient Hallowed Greaves", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" }],
+				"station": [
+					{ "name": "Demon Altar", "type": "Crafting_Station" },
+					{ "name": "Crimson Altar", "type": "Crafting_Station" }
+				],
+				"station_rowspan": 6
+			},
+			{
+				"result": { "name": "Ancient Hallowed Headgear", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 12, "type": "Bar" }]
+			},
+			{
+				"result": { "name": "Ancient Hallowed Helmet", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 12, "type": "Bar" }]
+			},
+			{
+				"result": { "name": "Ancient Hallowed Hood", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 12, "type": "Bar" }]
+			},
+			{
+				"result": { "name": "Ancient Hallowed Mask", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 12, "type": "Bar" }]
+			},
+			{
+				"result": { "name": "Ancient Hallowed Plate Mail", "type": "Armor" },
+				"ingredient": [{ "name": "Hallowed Bar", "qty": 24, "type": "Bar" }]
+			}
+		]
+	}
+}

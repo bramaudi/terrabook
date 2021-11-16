@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Pirate Staff is a Hardmode, pre-mechanical boss summon weapon. It spawns a pirate minion that attacks enemies by slashing them with a sword. Like other minions, the summoned pirate is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, or cancels the buff. The Pirate Staff is dropped with a 1/2000 (0.05%) chance by pirates or with a 1/100 (1%) chance by the Flying Dutchman.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Pirate Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"The Pirate Staff has a damage cooldown of 0.3 seconds per enemy. It does not trigger invulnerability frames.",
+    "The item is quite rare. On average, it will take 6–7 complete Pirate Invasions before this item drops (assuming the player can kill two Flying Dutchmen and 200 pirates per invasion).",
+    "In Celebrationmk10 [i:UI:Desktop version] worlds, the Pirate Staff can be purchased from the Princess for 5 Gold Coins after a Pirate Invasion has been defeated."
+	],
+
+	"tips": [
+		"The Pirate Staff is exceptionally deadly against ground-based enemies and bosses, or enemies with multiple segments such as The Destroyer, as each pirate will deal its full listed damage on every segment.",
+    "Because the pirates are grounded minions with a limited jump height, the Pirate Staff is ineffective against flying enemies and bosses with very high mobility, such as The Twins."
+	],
+
+	"title": "Pirate Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 40, "tip": "Summon" }],
+	"knockback": 6,
+	"mana": 10,
+	"use_time": 36,
+	"velocity": 10,
+	"tooltip": "Summons pirates to fight for you",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Pirate",
+			"tooltip": "The pirate will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 1, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 0.2, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.05, "type": "Enemy" }
+	]
+}

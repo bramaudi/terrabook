@@ -1,0 +1,123 @@
+{
+	"overview": [
+		"Shadow Scales are a crafting material dropped from the Eater of Worlds. They can be used in conjunction with Demonite Bars to create Demonite tools and the Shadow armor set.",
+
+		"A total of (Desktop version) 121 / (Console version, Mobile version) 101 Shadow Scales are required to craft one of each item."
+	],
+
+	"title": "Shadow Scale",
+	"max_stack": 999,
+	"rarity": 1,
+	"sell": [{ "value": 1, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Eater of Worlds", "qty": "0-134 / 0-100", "rate": 100, "type": "Boss" },	
+		{ "name": "Eater of Worlds Head", "qty": "1-2", "rate": 50, "type": "Boss" },
+		{ "name": "Eater of Worlds Body", "qty": "1-2", "rate": 50, "type": "Boss" },
+		{ "name": "Eater of Worlds Tail", "qty": "1-2", "rate": 50, "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Eater of Worlds Head", "qty": "2-3", "rate": 50, "type": "Boss" },
+			{ "name": "Eater of Worlds Body", "qty": "2-3", "rate": 50, "type": "Boss" },
+			{ "name": "Eater of Worlds Tail", "qty": "2-3", "rate": 50, "type": "Boss" },
+			{ "name": "Treasure Bag (Eater of Worlds)", "qty": "10-19", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Void Bag", "type": "Bag" },
+				"ingredient": [
+					{ "name": "Bone", "qty": 30, "type": "Material" },
+					{ "name": "Jungle Spores", "qty": 15, "type": "Material" },
+					{ "name": "Shadow Scale", "qty": 30, "type": "Material" }
+				],
+				"station": [
+					{ "name": "Demon Altar", "type": "Crafting_Station" },
+					{ "name": "Crimson Altar", "type": "Crafting_Station" }
+				],
+				"station_rowspan": 2
+			},
+			{
+				"result": { "name": "Void Vault", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Bone", "qty": 15, "type": "Material" },
+					{ "name": "Jungle Spores", "qty": 8, "type": "Material" },
+					{ "name": "Shadow Scale", "qty": 15, "type": "Material" }
+				]
+			},
+
+			{
+				"result": { "name": "Obsidian Longcoat", "tip": "([i:UI:Desktop version])", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Silk", "qty": 10, "type": "Material" },
+					{ "name": "Obsidian", "qty": 20, "type": "Ore" },
+					{ "name": "Shadow Scale", "qty": 10, "type": "Material" }
+				],
+				"station": [{ "name": "Hellforge", "type": "Furniture" }],
+				"station_rowspan": 3
+			},
+			{
+				"result": { "name": "Obsidian Outlaw Hat", "tip": "([i:UI:Desktop version])", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Silk", "qty": 10, "type": "Material" },
+					{ "name": "Obsidian", "qty": 20, "type": "Ore" },
+					{ "name": "Shadow Scale", "qty": 5, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Obsidian Pants", "tip": "([i:UI:Desktop version])", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Silk", "qty": 10, "type": "Material" },
+					{ "name": "Obsidian", "qty": 20, "type": "Ore" },
+					{ "name": "Shadow Scale", "qty": 5, "type": "Material" }
+				]
+			},
+
+			{
+				"result": { "name": "Nightmare Pickaxe", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Demonite Bar", "qty": 12, "type": "Bar" },
+					{ "name": "Shadow Scale", "qty": 6, "type": "Material" }
+				],
+				"station": [
+					{ "name": "Iron Anvil", "type": "Furniture" },
+					{ "name": "Lead Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 5
+			},
+			{
+				"result": { "name": "Shadow Greaves", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Demonite Bar", "qty": 20, "type": "Bar" },
+					{ "name": "Shadow Scale", "qty": 15, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Shadow Helmet", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Demonite Bar", "qty": 15, "type": "Bar" },
+					{ "name": "Shadow Scale", "qty": 10, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Shadow Greaves", "type": "Armor" },
+				"ingredient": [
+					{ "name": "Demonite Bar", "qty": 25, "type": "Bar" },
+					{ "name": "Shadow Scale", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "The Breaker", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Demonite Bar", "qty": 10, "type": "Bar" },
+					{ "name": "Shadow Scale", "qty": 5, "type": "Material" }
+				]
+			}
+		]
+	}
+}

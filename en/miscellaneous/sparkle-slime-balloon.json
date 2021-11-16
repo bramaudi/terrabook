@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"The Sparkle Slime Balloon is a Hardmode novelty consumable item. When thrown at players, enemies, and NPCs, it will inflict the Sparkle Slime debuff for 30 seconds. This debuff is only cosmetic and deals no damage.",
+
+		"Queen Slime always drops 25–75 balloons upon her defeat."
+	],
+
+	"title": "Sparkle Slime Balloon",
+	"max_stack": 99,
+	"consumable": true,
+	"use_time": 15,
+	"tooltip": "'Filled with Party Girl bathwater'",
+	"rarity": 0,
+	"sell": [
+		{ "value": 40, "type": "copper" }
+	],
+	"research": 50,
+	"inflict": [
+		{
+			"debuff": "Sparkle Slime",
+			"tooltip": "You are slimy and sparkly",
+			"duration": [
+				{ "value": 30, "tip": "seconds" }
+			]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Slime", "qty": "25-75", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Slime)", "qty": "25-74", "rate": 100, "type": "Bag" }
+		]
+	}
+}

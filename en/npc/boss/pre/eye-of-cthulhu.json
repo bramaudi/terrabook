@@ -1,0 +1,116 @@
+{
+	"title": "Eye of Cthulhu",
+	"damage": 15,
+	"maxhp": 2800,
+	"defense": 12,
+	"kb_resist": 100,
+	"immune": ["Confused"],
+	"coins": [
+		{ "value": 3, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "Only in Corrupt world",
+			"items": [
+				{ "name": "Demonite Ore", "rate": 100, "qty": "30-90", "type": "Ore" },
+				{ "name": "Unholy Arrow", "rate": 100, "qty": "20-50", "type": "Ammunition" },
+				{ "name": "Corrupt Seeds", "rate": 100, "qty": "1-3", "type": "Seeds" }
+			]
+		},
+		{
+			"note": "Only in Crimson world",
+			"items": [
+				{ "name": "Crimtane Ore", "rate": 100, "qty": "30-90", "type": "Ore" },
+				{ "name": "Crimson Seeds", "rate": 100, "qty": "1-3", "type": "Seeds" }
+			]
+		},
+		{ "name": "Binoculars", "rate": 2.5, "type": "Tool" },
+		{ "name": "Lesser Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Badger's Hat", "rate": 100, "type": "Vanity", "tip": "When defeated on the same day as the Wall of Flesh" },
+		{ "name": "Eye of Cthulhu Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Eye of Cthulhu Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": 30,
+		"maxhp": 3640,
+		"coins": [
+			{ "value": 7, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Lesser Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{ "name": "Badger's Hat", "rate": 100, "type": "Vanity", "tip": "When defeated on the same day as the Wall of Flesh" },
+			{ "name": "Eye of Cthulhu Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Eye of Cthulhu)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Shield of Cthulhu", "rate": 100, "type": "Accessory" },
+					{ "name": "Eye of Cthulhu Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Binoculars", "rate": 3.33, "type": "Tool" },
+					{
+						"note": "Only in Corrupt world",
+						"items": [
+							{ "name": "Demonite Ore", "rate": 100, "qty": "30-90", "type": "Ore" },
+							{ "name": "Unholy Arrow", "rate": 100, "qty": "20-50", "type": "Ammunition" },
+							{ "name": "Corrupt Seeds", "rate": 100, "qty": "1-3", "type": "Seeds" }
+						]
+					},
+					{
+						"note": "Only in Crimson world",
+						"items": [
+							{ "name": "Crimtane Ore", "rate": 100, "qty": "30-90", "type": "Ore" },
+							{ "name": "Crimson Seeds", "rate": 100, "qty": "1-3", "type": "Seeds" }
+						]
+					},
+					{ "name": "Gold Coin", "rate": 100, "qty": "3", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": 45,
+		"maxhp": 4641,
+		"drops": [
+			{ "name": "Suspicious Grinning Eye", "rate": 25, "type": "Pet" },
+			{ "name": "0x33's Aviators", "rate": 100, "type": "Vanity" },
+			{ "name": "Eye of Cthulhu Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"damage": 23,
+			"maxhp": [
+				{ "value": 1400, "tip": "start phase2" },
+				{ "value": 2800 }
+			],
+			"defense": 0,
+		
+			"expert": {
+				"damage": [
+					{ "value": 36 },
+					{ "value": 40, "tip": "when below 145 health" }
+				],
+				"maxhp": [
+					{ "value": 2366, "tip": "start phase2" },
+					{ "value": 3640 }
+				],
+				"defense": 0
+			},
+		
+			"master": {
+				"damage": [
+					{ "value": 54 },
+					{ "value": 60, "tip": "when below 185 health" }
+				],
+				"maxhp": [
+					{ "value": 3016, "tip": "start phase2" },
+					{ "value": 4641 }
+				],
+				"defense": 0
+			}
+		}
+	]
+}

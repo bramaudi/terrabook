@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Jewel of Light is a Master Mode-exclusive light pet-summoning item that has a 25*1/4 (25%) chance to be dropped by the Empress of Light. When used, it will summon a pet Fairy Princess that provides pink-colored light. It is fast and will always position itself slightly elevated behind the player."
+	],
+
+	"notes": [
+		"Despite being exclusive to Master Mode, the fairy does not possess any unique abilities, such as the Wisp in a Bottle's manual repositioning or the Suspicious Looking Tentacle's treasure sensing. This, combined with the fact that it still has the same brightness as those items (120%) might render its usefulness rather limited.",
+		[
+			"However, one might prefer the fairy for its lighting color and static positioning behind the player's back."
+		]
+	],
+
+	"title": "Jewel of Light",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a fairy princess to provide light",
+		"'A glowing gemstone that houses a powerful fairy.'"
+	],
+	"summon": "Fairy Princess",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Fairy Princess",
+			"tooltip": "The light of the fair folk illuminates all"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+		]
+	}
+}

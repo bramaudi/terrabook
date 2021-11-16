@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"Betsy's Wrath is a Hardmode magic weapon which is dropped by Betsy during the Old One's Army event. Using the weapon fires 3 fireballs that arc through the air, exploding upon impact. Any enemies hit will receive the Betsy's Curse debuff for 10 seconds, lowering defense by 40. The debuff cannot be applied to other players.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+    "The debuff does not reduce an enemy's defense below 0.",
+    "The fireballs themselves do not pass through tiles, but their resulting explosions can.",
+    "Betsy's Wrath can be considered an upgrade to the Golden Shower, as its debuff, compared to Ichor, reduces defense by more than twice as much and has much higher base damage. Ichor stacks with Betsy's Curse, reducing 55 [i:UI:Desktop version] / 60 [i:UI:Console version] [i:UI:Mobile version] defense from an enemy.",
+    "Betsy herself is not immune to the debuff, removing her 38 defense completely as a result."
+	],
+
+	"title": "Betsy's Wrath",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": "100 [i:UI:Desktop version] / 65 [i:UI:Console version] [i:UI:Mobile version]", "tip": "Magic" }],
+	"knockback": 7,
+	"mana": 14,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 28,
+	"tooltip": "Splashes defense reducing miasma!",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Betsy's Curse",
+			"tooltip": "Defense is lowered",
+			"duration": [{ "value": 10, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Betsy", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Betsy)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

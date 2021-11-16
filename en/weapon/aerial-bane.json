@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Aerial Bane is a Hardmode, post-Golem bow which is dropped by Betsy during the Old One's Army event. It converts any type of arrow into six special arrows every time the bow is fired, and deals 50% bonus damage to airborne enemies.",
+
+		"The special arrows drop off sharply and will disappear in midair if they fall enough distance. Upon hitting an enemy, an arrow splits into five, angled downward in a symmetrical 90-degree spread with the center arrow firing straight downward, regardless of what angle the enemy was hit at. These five new arrows will not split again when they hit an enemy.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The bow determines whether an enemy is airborne or not by checking if there is a solid block within 12 tiles below the point of impact. As such, if a \"non-airborne\" enemy is more than 12 tiles above a solid block, it will be considered airborne and the bow will deal extra damage."
+	],
+
+	"tips": [
+		"It is a good alternative to other powerful bows like the Pulse Bow, Tsunami, and Phantasm because of its unique ability.",
+    "This bow should be angled somewhat upward to maximize range and DPS. It generally will not reach enemies off the screen.",
+    "Using wings can help compensate for the bow's lack of range and sharp drop-off.",
+    "The Aerial Bane is very useful against most bosses, as they are typically airborne. It is particularly efficient during events, where there are a lot of ground enemies that can be hit by the additional projectiles.",
+    "On Console versions (citation needed), both the splitting and special arrows can hit the same target, resulting in absurdly high damage. For the best results, fire from an upwards position."
+	],
+
+	"title": "Aerial Bane",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 55, "tip": "Ranged" }],
+	"ammo": "Arrows",
+	"knockback": 4.5,
+	"critical_chance": 7,
+	"use_time": 30,
+	"velocity": 22,
+	"tooltip": "Shoots splitting arrows, deals more damage to airborne enemies",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Betsy", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Betsy)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

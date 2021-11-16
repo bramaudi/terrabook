@@ -1,0 +1,61 @@
+{
+	"overview": [
+		"Demonite Ore is a pre-Hardmode ore. It is the Corruption counterpart to the Crimson's Crimtane Ore, and will not appear naturally in Crimson worldss. It can be found very rarely in small veins underground in worldss that contain Corruption, however the only usable quantities come from bosses, namely Eater of Worldss, and from the Eye of Cthulhu in worldss naturally containing Corruption. Demonite Ore emits a faint blue glow when placed, similar to Crimtane Ore's faint red glow.",
+		
+		"The pickaxe power required to mine Demonite Ore changes with location. When below 0ft in elevation, a Gold Pickaxe or better is needed, otherwise any pickaxe can be used."
+	],
+
+	"notes": [
+		"Demonite Ore does not spread the Corruption whatsoever.",
+		"Unlike its Crimson counterpart, Demonite Ore can be found in increased amounts within Corruption cave systems.",
+		"Demonite Ore and its counterpart Crimtane Ore can be mined extremely early-game with Bombs, though because they are both very rare this is not a very viable method to gather any appreciable amount.",
+		"Very rarely, Demonite Ore can spawn extremely close to the surface."
+	],
+
+	"title": "Demonite Ore",
+	"auto_use": true,
+	"max_stack": 999,
+	"pickaxe_power": 55,
+	"placeable": { "wide": 1, "high": 1 },
+	"use_time": 15,
+	"tooltip": "Pulsing with dark energy",
+	"rarity": 1,
+	"sell": [{ "value": 10, "type": "silver" }],
+	"research": 100,
+
+	"dropped_by": [
+		{ "name": "Eater of Worlds", "qty": "20–395 / 20–310", "rate": 100, "type": "Boss" },
+		{ "name": "Eater of Worlds Head", "qty": "2-5", "rate": 50, "type": "Boss" },
+		{ "name": "Eater of Worlds Body", "qty": "2-5", "rate": 50, "type": "Boss" },
+		{ "name": "Eater of Worlds Tail", "qty": "2-5", "rate": 50, "type": "Boss" },
+		{ "name": "Eye of Cthulhu", "qty": "30-90", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Eater of Worlds Head", "qty": "2-5", "rate": 50, "type": "Boss" },
+			{ "name": "Eater of Worlds Body", "qty": "2-5", "rate": 50, "type": "Boss" },
+			{ "name": "Eater of Worlds Tail", "qty": "2-5", "rate": 50, "type": "Boss" },
+			{ "name": "Treasure Bag (Eater of Worlds)", "qty": "30-59", "rate": 100, "type": "Bag" },
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "qty": "30-90", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Demonite Bar", "type": "Bar" },
+				"ingredient": [{ "name": "Demonite Ore", "qty": 3, "type": "Ore" }],
+				"station": [{ "name": "Furnace", "type": "Furniture" }],
+				"station_rowspan": 2
+			},
+			{
+				"result": { "name": "Demonite Brick", "qty": 5, "type": "Block" },
+				"ingredient": [
+					{ "name": "Demonite Ore", "type": "Ore" },
+					{ "name": "Ebonstone Block", "qty": 5, "type": "Block" }
+				]
+			}
+		]
+	}
+}

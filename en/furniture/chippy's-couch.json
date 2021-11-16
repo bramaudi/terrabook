@@ -1,0 +1,27 @@
+{
+	"overview": [
+		"Chippy's Couch is a furniture item dropped by Skeletron, with a 1/7 (14.29%) chance."
+	],
+
+	"notes": [
+		"It counts as a valid comfort item for housing.",
+    "Similar to Sofas and Chairs, it provides a boost to health regeneration when sitting in it."
+	],
+
+	"title": "Chippy's Couch",
+	"max_stack": 99,
+	"auto_use": true,
+	"placeable": { "wide": 3, "high": 2 },
+	"use_time": 15,
+	"tooltip": [
+		"Heeellllllo Terraria enthusiasts!",
+		"'Great for chilling like a streamer!'"
+	],
+	"rarity": 9,
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Skeletron", "rate": 14.29, "type": "Boss" }
+	]
+}

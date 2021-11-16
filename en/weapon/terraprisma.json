@@ -1,0 +1,54 @@
+{
+	"overview": [
+		"The Terraprisma is a Hardmode, post-Plantera summon weapon. It spawns a detached copy of itself that rapidly attacks nearby enemies. It is a guaranteed drop from the Empress of Light when all damage dealt to the Empress occurs during the day.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Terraprisma has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"When summoned, the sword will be spawned at the cursor, but will instantly teleport behind the player. It will also hover behind the player when idle. If more than one sword is summoned, they will arrange themselves in a wing-like configuration.",
+    "The Terraprisma's attack pattern consists of an extremely quick stab, before constantly attacking with a spinning motion similar to the Zenith until the target is dead. This pattern will repeat each time the sword changes targets.",
+    "Terraprisma's minion have custom immunity frames, allowing them to hit more often than other piercing attacks.",
+    "Unlike most minions, the sword will immediately return to the user's side, preventing it from getting stuck behind blocks and blocking its field of vision.",
+    "The Terraprisma swords will not move/attack through blocks by default, but if they attack an enemy in direct line of sight, they will then continue to attack any other nearby enemies, ignoring blocks, before returning to the player.",
+    "The minions leave a rainbow trail while moving.",
+    "If dyed with Critter Shampoo, most basic and gradient dyes will have little effect on the sword's colors due to its bright coloration. Bright dyes will work properly as they override the sword's color completely.",
+    "When dyed with Critter Shampoo, certain dyes will change the visual size and shape of the sword. Living Ocean, Living Flame, and Twilight dye will do this."
+	],
+
+	"tips": [
+		"Like the Blade Staff and Sanguine Staff, the Terraprisma's precise movement, tracking and fixed idle position make it an ideal choice for assisting the player with faster bosses and for crowd control.",
+    "If the player's back is against a wall, door, or other solid block, the Terraprisma will phase through the solid block, attacking any enemies within range.",
+    "As it will always attack the enemy closest to the player, the user should always stay close to the intended target since marked enemies (via a whip or <kbd>⚷ Open / Activate</kbd> with the Terraprisma) will not be prioritized.",
+    "It is the best summon weapon in Terraria in terms of DPS. A disadvantage, however, is its short range.",
+    "Because the Terraprisma does not move through blocks, while arguably the best/highest damage summon weapon available, some players might opt for minions that ignore blocks altogether, such as Xeno Staff's UFO's. This is especially useful when AFK farming, specifically in the Dungeon, as enemies will often teleport in and attack through blocks."
+	],
+
+	"title": "Terraprisma",
+	"max_stack": 1,
+	"damage": [{ "value": 90, "tip": "Summon" }],
+	"knockback": 4,
+	"mana": 10,
+	"use_time": 36,
+	"velocity": 10,
+	"tooltip": "Summons an Enchanted Sword to fight for you",
+	"rarity": 5,
+	"sell": [{ "value": 20, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Terraprisma",
+			"tooltip": "The Blades of the Empress will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 100, "type": "Boss", "tip": "if 100% of damage is dealt at daytime" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 100, "type": "Bag", "tip": "if 100% of damage is dealt at daytime" }
+		]
+	}
+}

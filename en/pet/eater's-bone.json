@@ -1,0 +1,32 @@
+{
+	"overview": [
+		"The Eater's Bone is a pet-summoning item which summons a Baby Eater pet that follows the player around. The Eater's Bone has a 1/20 (5%) chance of being dropped by the Eater of Worlds.",
+
+		"The Baby Eater pet will not teleport to the player when it is far away, unlike most other pets."
+	],
+
+	"title": "Eater's Bone",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a Baby Eater of Souls",
+	"summon": "Baby Eater",
+	"rarity": 3,
+	"sell": [{ "value": 7, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Baby Eater",
+			"tooltip": "A baby Eater of Souls is following you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Eater of Worlds", "rate": 5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eater of Worlds)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Eventide is a Hardmode, post-Plantera bow that auto-fires five rainbow-colored Twilight Lance projectiles if Wooden Arrows are used as ammunition. One of the lances will do double base damage. When using other ammunition, one of the five shots fired by the bow will be converted into a Twilight Lance and do double the base damage. All lances or arrows are aimed at the cursor. The lances can pierce up to four enemies. The Eventide has a 1/4 (25%) chance of being dropped by the Empress of Light.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"Much like the bullets of the Xenopopper, the Twilight Lances fired from this bow will focus on where the cursor is. Thus, when fired when the cursor is close to the player, it will fire in a spread, similar to a shotgun. Pointing the cursor farther away from the player, however, causes the projectiles to hit enemies at a distance more accurately.",
+    "Twilight Lances cannot be reflected by Biome Mimics in Expert Mode, Selenians, and the Dreadnautilus."
+	],
+
+	"tips": [
+		"The Twilight Lance projectiles travel at a quicker rate compared to regular arrows and have a limited range. Using a Magic Quiver or any of its upgrades will further boost their velocity.",
+    "Since most arrows are affected by gravity and have different trajectories than the lance projectiles, long-range fights with this weapon can be less effective. Using an Endless Quiver can help to get the maximum potential out of this weapon.",
+    "The Twilight Lances can damage enemies on the other side of one block thick walls, provided that the player is not too close to the wall."
+	],
+
+	"title": "Eventide",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 50, "tip": "Ranged" }],
+	"ammo": "Arrows",
+	"knockback": 2,
+	"critical_chance": 4,
+	"use_time": 30,
+	"velocity": 10,
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

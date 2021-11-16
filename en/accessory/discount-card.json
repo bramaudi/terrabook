@@ -1,0 +1,57 @@
+{
+	"overview": [
+		"The Discount Card is a rare Hardmode accessory that, when equipped, causes item prices in NPC inventories to be discounted by 1/5 (20%). The discount also applies to reforge costs. It has a 1/2000 (0.05%) chance to be dropped by pirates (except Parrots) during Pirate Invasions. It also has a 1/100 (1%) chance to be dropped by the Flying Dutchman.",
+
+		"The card must be equipped before talking to an NPC in order to trigger discounts.",
+
+		"The Discount Card does not affect the following:",
+
+		[
+			"Sell prices (when selling items to NPCs).",
+			"Items repurchased after selling them (e.g. selling a Titan Glove for 2 Gold Coins will still cost 2 Gold Coins to take back).",
+			"Items sold by the Tavernkeep for Defender Medals, like his sentry summon weapons.",
+			"Costs for healing at the Nurse."
+		]
+	],
+
+	"notes": [
+    "This item is quite rare. It takes an average of 16–17 complete Pirate Invasions before it drops.",
+    "The discount does not stack with the Greedy Ring's discount.",
+    "Un-equipping the Discount Card while with an NPC's shop window open will not cancel the discount until the shop window is closed. However, this does not apply to reforging; un-equipping the Discount Card or its upgrades will instantly affect reforge prices.",
+    "The effect of the Discount Card multiplicatively stacks with the effects of NPC happiness, effectively allowing the player to buy items at up to 40% off.",
+    "In Celebrationmk10 [i:UI:Desktop version] worlds, the Discount Card can be purchased from the Princess for 5 Gold Coins after a Pirate Invasion has been defeated."
+	],
+
+	"tips": [
+		"Farming Lucky Coin/Discount Card/Gold Ring is most efficient from Flying Dutchman, rather than from common pirates. After getting event progress to 50%, you can ensure 10 Flying Dutchmen per event by getting high enough above ground (using small platform or flying mount), but not too high, so that spawned enemies will be in \"Active Rectangle\" and will despawn after 12.5 seconds, and then spawn again. Until Flying Dutchman eventually (usually it takes a short time) will spawn. The only other enemy capable of reaching you in this case is the Parrot, which will not count toward event progress anyways and can be killed safely."
+	],
+
+	"title": "Discount Card",
+	"max_stack": 1,
+	"tooltip": "Shops prices lowered by 20%",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Flying Dutchman", "rate": 1, "type": "Boss" },
+		{ "name": "Pirate Captain", "rate": 0.2, "type": "Enemy" },
+		{ "name": "Pirate Corsair", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Crossbower", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Deadeye", "rate": 0.05, "type": "Enemy" },
+		{ "name": "Pirate Deckhand", "rate": 0.05, "type": "Enemy" }
+	],
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Greedy Ring", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Coin Ring", "type": "Accessory" },
+					{ "name": "Discount Card", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

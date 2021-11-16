@@ -1,0 +1,39 @@
+{
+	"overview": [
+		"The Terrarian is a Hardmode, post-Moon Lord yoyo which has a reach of 25 tiles and can stay in the air indefinitely. Similarly to the Flairon, it fires short-lived projectiles at a rapid rate which will home in on nearby enemies and bounce off of walls. The Terrarian has a 1/9 (11.11%) chance to drop from the Moon Lord. It is currently the most powerful yoyo in the game.",
+
+		"On the Desktop version, Console version, and Mobile version, its best modifier is Legendary. Although yoyos cannot normally obtain the Legendary modifier, the Terrarian is an exception and receives a unique set of boosts from the Legendary modifier: +17% damage, +8% critical strike chance, and +17% knockback.",
+
+		"On the Switch version and tModLoader version, its best modifier is Godly, consistent with all other yoyos."
+	],
+
+	"notes": [
+		"Striking an enemy with the Terrarian's projectiles will activate an equipped counterweight, even if the yoyo itself does not hit. Counterweights deal damage equal to the Terrarian itself, but do not feature the projectile effect.",
+    "When paired with the Yoyo Bag or Yoyo Glove accessories, a second Terrarian will circle the first. They are identical in every way, including the green projectiles that the Terrarian shoots."
+	],
+
+	"tips": [
+		"Single-target DPS of the Terrarian is limited by penetrating weapon immunity frames. On every registered hit, immunity frames that lasts for 1/6th of a second will be gained by the target. In other words, the Terrarian is only capable of damaging a single target 6 times a second at most. Using a Yoyo Bag or Yoyo Glove does not improve the damage output against a single target, because a single normal Terrarian is already capable of hitting a target 6 times a second."
+	],
+
+	"title": "Terrarian",
+	"max_stack": 1,
+	"damage": 190,
+	"knockback": 6.5,
+	"critical_chance": 14,
+	"use_time": 25,
+	"velocity": 16,
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

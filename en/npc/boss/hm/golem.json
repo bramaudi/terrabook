@@ -1,0 +1,222 @@
+{
+	"title": "Golem",
+	"env": ["Jungle Temple"],
+	"maxhp": [
+		{ "value": 39000, "tip": "total" },
+		{ "value": 15000, "tip": "head" },
+		{ "value": 9000, "tip": "body" },
+		{ "value": 7000, "tip": "each fist" }
+	],
+	"immune": ["Poisoned", "Acid Venom", "On Fire!", "Confused"],
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"chance": "50% (Fireball)",
+			"duration": [
+				{ "value": "5-7", "tip": "seconds" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 15, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Picksaw", "rate": 25, "type": "Tool" },
+		{ "name": "Beetle Husk", "qty": "4-8", "rate":100, "type": "Material" },
+		{
+			"note": "One of the following 7 items will always be dropped",
+			"items": [
+				{ "name": "Stynger", "rate": 14.29, "type": "Weapon", "ammo": { "name": "Stynger Bolt", "qty": "60-99" } },
+				{ "name": "Possessed Hatchet", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Sun Stone", "rate": 14.29, "type": "Accessory" },
+				{ "name": "Eye of the Golem", "rate": 14.29, "type": "Accessory" },
+				{ "name": "Heat Ray", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Staff of Earth", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Golem Fist", "rate": 14.29, "type": "Weapon" }
+			]
+		},
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Golem Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Golem Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"maxhp": [
+			{ "value": 58500, "tip": "total" },
+			{ "value": 24000, "tip": "head" },
+			{ "value": 13500, "tip": "body" },
+			{ "value": 10500, "tip": "each fist" }
+		],
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Slowly losing life",
+				"duration": [
+					{ "value": "10–14", "tip": "seconds" }
+				]
+			}
+		],
+		"coins": [
+			{ "value": 37, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{ "name": "Golem Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Golem)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Shiny Stone", "rate": 100, "type": "Accessory" },
+					{ "name": "Golem Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Picksaw", "rate": 33.33, "type": "Tool" },
+					{
+						"note": "One of the following 7 items will always be dropped",
+						"items": [
+							{ "name": "Stynger", "rate": 14.29, "type": "Weapon", "ammo": { "name": "Stynger Bolt", "qty": "60-99" } },
+							{ "name": "Possessed Hatchet", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Sun Stone", "rate": 14.29, "type": "Accessory" },
+							{ "name": "Eye of the Golem", "rate": 14.29, "type": "Accessory" },
+							{ "name": "Heat Ray", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Staff of Earth", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Golem Fist", "rate": 14.29, "type": "Weapon" }
+						]
+					}
+				]
+			},
+			{ "name": "Beetle Husk", "qty": "18-23", "rate": 100, "type": "Material" },
+			{ "name": "Gold Coin", "qty": 12, "rate": 100, "type": "Ammunition" }
+		]
+	},
+
+	"master": {
+		"maxhp": [
+			{ "value": 74586, "tip": "total" },
+			{ "value": 30600, "tip": "head" },
+			{ "value": 17212, "tip": "body" },
+			{ "value": 13387, "tip": "each fist" }
+		],
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Slowly losing life",
+				"duration": [
+					{ "value": "15-21", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Guardian Golem", "rate": 25, "type": "Pet" },
+			{ "name": "Golem Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Golem Head",
+			"damage": [
+				{ "value": 64 },
+				{ "value": "36-58", "tip": "Fireball, depending on health" },
+				{ "value": 56, "tip": "Eye Beam" }
+			],
+			"maxhp": 16000,
+			"defense": 20,
+			"kb_resist": 100,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": [
+					{ "value": 102 },
+					{ "value": "72–116", "tip": "Fireball, depending on health" },
+					{ "value": 112, "tip": "Eye Beam" }
+				],
+				"maxhp": 24000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 153 },
+					{ "value": "108–174", "tip": "Fireball, depending on health" },
+					{ "value": 168, "tip": "Eye Beam" }
+				],
+				"maxhp": 30600
+			}
+		},
+		{
+			"title": "Left Golem Fist",
+			"damage": 59,
+			"maxhp": 7000,
+			"defense": 28,
+			"kb_resist": 0,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": 94,
+				"maxhp": 10500,
+				"kb_resist": 10
+			},
+
+			"master": {
+				"damage": 141,
+				"maxhp": 13387,
+				"kb_resist": 20
+			}
+		},
+		{
+			"title": "Right Golem Fist",
+			"damage": 59,
+			"maxhp": 7000,
+			"defense": 28,
+			"kb_resist": 0,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": 94,
+				"maxhp": 10500,
+				"kb_resist": 10
+			},
+
+			"master": {
+				"damage": 141,
+				"maxhp": 13387,
+				"kb_resist": 20
+			}
+		},
+		{
+			"title": "Golem Core",
+			"damage": 72,
+			"maxhp": 9000,
+			"defense": 26,
+			"kb_resist": 100,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": 115,
+				"maxhp": 13500
+			},
+
+			"master": {
+				"damage": 172,
+				"maxhp": 17212
+			}
+		},
+		{
+			"title": "Free Golem Head",
+			"damage": 80,
+			"maxhp": 11000,
+			"defense": 32,
+			"kb_resist": 100,
+			"immune": ["On Fire!", "Confused", "Poisoned", "Hellfire"],
+
+			"expert": {
+				"damage": 128,
+				"maxhp": 16500
+			},
+
+			"master": {
+				"damage": 192,
+				"maxhp": 21037
+			}
+		}
+	]
+}

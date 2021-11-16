@@ -1,0 +1,123 @@
+{
+	"title": "Ice Queen",
+	"env": ["Frost Moon"],
+	"damage": [
+		{ "value": 120 },
+		{ "value": 84, "tip": "Frost Wave" },
+		{ "value": "70-74", "tip": "Frost Shard" }
+	],
+	"maxhp": 34000,
+	"defense": 38,
+	"kb_resist": 100,
+	"immune": ["Frostburn", "Confused", "Poisoned", "Frostbite"],
+	"inflict": [
+		{
+			"debuff": "Chilled",
+			"tooltip": "Your movement speed has been reduced",
+			"chance": [
+				{ "value": 100, "tip": "Frost Wave" },
+				{ "value": 66.67, "tip": "Frost Shard" }
+			],
+			"duration": [
+				{ "value": "5-10", "tip": "seconds" }
+			]
+		},
+		{
+			"debuff": "Frozen",
+			"tooltip": "You can't move!",
+			"chance": [
+				{ "value": 16.54, "tip": "Frost Wave" }
+			],
+			"duration": [
+				{ "value": "≤ 1", "tip": "seconds" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 5, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "One of the following 4 items may be dropped, Higher item drop chances in later waves",
+			"items": [
+				{ "name": "Blizzard Staff", "rate": "4.44 - 7.78", "type": "Weapon" },
+				{ "name": "Snowman Cannon", "rate": "4.44 - 7.78", "type": "Weapon" },
+				{ "name": "North Pole", "rate": "4.44 - 7.78", "type": "Weapon" },
+				{ "name": "Baby Grinch's Mischief Whistle", "rate": "0.95 - 1.67", "type": "Pet" }
+			]
+		},
+		{ "name": "Reindeer Bells", "rate": "0.56 - 0.83", "type": "Mount", "tip": "During Wave 15 and up" },
+		{ "name": "Ice Queen Trophy", "rate": "4.17 - 12.5", "type": "Furniture", "tip": "During Wave 15 and up" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 180 },
+			{ "value": 168, "tip": "Frost Wave" },
+			{ "value": "140-148", "tip": "Frost Shard" }
+		],
+		"maxhp": 44200,
+		"inflict": [
+			{
+				"debuff": "Chilled",
+				"tooltip": "Your movement speed has been reduced",
+				"duration": [
+					{ "value": "10-20", "tip": "seconds" }
+				]
+			},
+			{
+				"debuff": "Frozen",
+				"tooltip": "You can't move!",
+				"duration": [
+					{ "value": "≤ 2", "tip": "seconds" }
+				]
+			}
+		],
+		"coins": [
+			{ "value": 12, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{
+				"note": "One of the following 4 items may be dropped, Higher item drop chances in later waves",
+				"items": [
+					{ "name": "Blizzard Staff", "rate": "15.56 - 31.11", "type": "Weapon" },
+					{ "name": "Snowman Cannon", "rate": "15.56 - 31.11", "type": "Weapon" },
+					{ "name": "North Pole", "rate": "15.56 - 31.11", "type": "Weapon" },
+					{ "name": "Baby Grinch's Mischief Whistle", "rate": "3.33 - 6.67", "type": "Pet" }
+				]
+			},
+			{ "name": "Reindeer Bells", "rate": "3.33", "type": "Mount", "tip": "During Wave 15 and up" },
+			{ "name": "Ice Queen Trophy", "rate": "27.27 - 60", "type": "Furniture", "tip": "During Wave 15 and up" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 270 },
+			{ "value": 252, "tip": "Frost Wave" },
+			{ "value": "210-222", "tip": "Frost Shard" }
+		],
+		"maxhp": 56355,
+		"inflict": [
+			{
+				"debuff": "Chilled",
+				"tooltip": "Your movement speed has been reduced",
+				"duration": [
+					{ "value": "12.5-25", "tip": "seconds" }
+				]
+			},
+			{
+				"debuff": "Frozen",
+				"tooltip": "You can't move!",
+				"duration": [
+					{ "value": "≤ 2.5", "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Frozen Crown", "rate": "12.5 - 25", "type": "Pet" },
+			{ "name": "Ice Queen Relic", "rate": "50 - 100", "type": "Furniture" }
+		]
+	}
+}

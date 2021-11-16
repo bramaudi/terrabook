@@ -1,0 +1,68 @@
+{
+	"title": "Santa-NK1",
+	"env": ["Frost Moon"],
+	"damage": [
+		{ "value": 120 },
+		{ "value": 72, "tip": "Chain Gun" },
+		{ "value": 160, "tip": "Spiky Ball" },
+		{ "value": 84, "tip": "Missile" },
+		{ "value": 100, "tip": "Present" }
+	],
+	"maxhp": 18000,
+	"defense": 56,
+	"kb_resist": 100,
+	"immune": ["Frostburn", "Confused", "Poisoned", "Frostbite"],
+	"coins": [
+		{ "value": 1, "type": "gold" }
+	],
+	"drops": [
+		{
+			"note": "One of the following 2 items may be dropped, Higher item drop chances in later waves",
+			"items": [
+				{ "name": "Elf Melter", "rate": "5.55 - 12.5", "type": "Weapon" },
+				{ "name": "Chain Gun", "rate": "5.55 - 12.5", "type": "Weapon" }
+			]
+		},
+		{ "name": "Santa-NK1 Trophy", "rate": "4.17 - 12.5", "type": "Furniture", "tip": "During Wave 15 and up" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 180 },
+			{ "value": 144, "tip": "Chain Gun" },
+			{ "value": 320, "tip": "Spiky Ball" },
+			{ "value": 168, "tip": "Missile" },
+			{ "value": 200, "tip": "Present" }
+		],
+		"maxhp": 23400,
+		"coins": [
+			{ "value": 2, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{
+				"note": "One of the following 2 items may be dropped, Higher item drop chances in later waves",
+				"items": [
+					{ "name": "Elf Melter", "rate": "12.5 - 50", "type": "Weapon" },
+					{ "name": "Chain Gun", "rate": "12.5 - 50", "type": "Weapon" }
+				]
+			},
+			{ "name": "Santa-NK1 Trophy", "rate": "27.27 - 60", "type": "Furniture", "tip": "During Wave 15 and up" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 270 },
+			{ "value": 216, "tip": "Chain Gun" },
+			{ "value": 480, "tip": "Spiky Ball" },
+			{ "value": 252, "tip": "Missile" },
+			{ "value": 300, "tip": "Present" }
+		],
+		"maxhp": 29835,
+		"drops": [
+			{ "name": "Toy Tank", "rate": "6.25 - 25", "type": "Mount" },
+			{ "name": "Santa-NK1 Relic", "rate": "25 - 100", "type": "Furniture" }
+		]
+	}
+}

@@ -1,0 +1,189 @@
+{
+	"title": "Moon Lord",
+	"env": ["Lunar Events"],
+	"maxhp": [
+		{ "value": 145000, "tip": "total" }
+	],
+	"kb_resist": 100,
+	"immune": ["Confused"],
+	"inflict": [
+		{
+			"debuff": "Moon Bite",
+			"tooltip": "You are unable to absorb healing effects",
+			"duration": [
+				{ "value": "14", "tip": "seconds" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 1, "type": "platinum" }
+	],
+	"drops": [
+		{ "name": "Portal Gun", "rate": 100, "type": "Tool" },
+		{ "name": "Luminite", "qty": "70-90", "rate": 100, "type": "Ore" },
+		{
+			"note": "One of the following 9 weapons will always drop",
+			"items": [
+				{ "name": "Meowmere", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Terrarian", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Star Wrath", "rate": 11.1, "type": "Weapon" },
+				{ "name": "S.D.M.G.", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Last Prism", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Lunar Flare", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Rainbow Crystal Staff", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Lunar Portal Staff", "rate": 11.1, "type": "Weapon" },
+				{ "name": "Celebration Mk2", "rate": 11.1, "type": "Weapon" }
+			]
+		},
+		{ "name": "Meowmere Minecart", "rate": 10, "type": "Minecart" },
+		{ "name": "Super Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Moon Lord Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Moon Lord Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"maxhp": [
+			{ "value": 217500, "tip": "total" }
+		],
+		"coins": [
+			{ "value": 2, "type": "platinum" },
+			{ "value": 50, "type": "gold" }
+		],
+		"inflict": [
+			{
+				"debuff": "On Fire!",
+				"tooltip": "Cannot regenerate life",
+				"duration": [
+					{ "value": 16, "tip": "seconds" }
+				]
+			}
+		],
+		"drops": [
+			{ "name": "Super Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+			{ "name": "Moon Lord Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Moon Lord)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Gravity Globe", "rate": 100, "type": "Accessory" },
+					{ "name": "Suspicious Looking Tentacle", "rate": 100, "type": "Pet" },
+					{ "name": "Celestial Starboard", "rate": 100, "type": "Wing" },
+					{ "name": "Moon Lord Mask", "rate": 14.29, "type": "Vanity" },
+					{
+						"note": "One of the following 9 weapons will always drop",
+						"items": [
+							{ "name": "Meowmere", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Terrarian", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Star Wrath", "rate": 11.1, "type": "Weapon" },
+							{ "name": "S.D.M.G.", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Last Prism", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Lunar Flare", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Rainbow Crystal Staff", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Lunar Portal Staff", "rate": 11.1, "type": "Weapon" },
+							{ "name": "Celebration Mk2", "rate": 11.1, "type": "Weapon" }
+						]
+					},
+					{ "name": "Portal Gun", "rate": 100, "type": "Tool", "tip": "when no Portal Gun in inventory" },
+					{ "name": "Luminite", "qty": "70-90", "rate": 100, "type": "Ore" },
+					{ "name": "Meowmere Minecart", "rate": 10, "type": "Minecart" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"maxhp": [
+			{ "value": 277311, "tip": "total" }
+		],
+		"drops": [
+			{ "name": "Piece of Moon Squid", "rate": 25, "type": "Pet" },
+			{ "name": "Moon Lord Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Moon Lord's Hand",
+			"damage": [
+				{ "value": 0 },
+				{ "value": 80, "tip": "open eye socket" },
+				{ "value": 100, "tip": "Phantasmal Sphere" },
+				{ "value": 60, "tip": "Phantasmal Eye" },
+				{ "value": 60, "tip": "Phantasmal Bolt" }
+			],
+			"maxhp": 25000,
+			"defense": 40,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+
+			"expert": {
+				"damage": [
+					{ "value": 0 },
+					{ "value": 80, "tip": "open eye socket" },
+					{ "value": 200, "tip": "Phantasmal Sphere" },
+					{ "value": 120, "tip": "Phantasmal Eye" },
+					{ "value": 120, "tip": "Phantasmal Bolt" }
+				],
+				"maxhp": 37500
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 0 },
+					{ "value": 80, "tip": "open eye socket" },
+					{ "value": 300, "tip": "Phantasmal Sphere" },
+					{ "value": 180, "tip": "Phantasmal Eye" },
+					{ "value": 180, "tip": "Phantasmal Bolt" }
+				],
+				"maxhp": 47812
+			}
+		},
+		{
+			"title": "Moon Lord's Head",
+			"damage": [
+				{ "value": 0 },
+				{ "value": 150, "tip": "Phantasmal Deathray" },
+				{ "value": 60, "tip": "Phantasmal Bolt" }
+			],
+			"maxhp": 45000,
+			"defense": 50,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+
+			"expert": {
+				"damage": [
+					{ "value": 0 },
+					{ "value": 300, "tip": "Phantasmal Deathray" },
+					{ "value": 120, "tip": "Phantasmal Bolt" }
+				],
+				"maxhp": 67500
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 0 },
+					{ "value": 450, "tip": "Phantasmal Deathray" },
+					{ "value": 180, "tip": "Phantasmal Bolt" }
+				],
+				"maxhp": 86062
+			}
+		},
+		{
+			"title": "Moon Lord's Core",
+			"damage": 0,
+			"maxhp": 50000,
+			"defense": 70,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+
+			"expert": {
+				"damage": 0,
+				"maxhp": 75000
+			},
+
+			"master": {
+				"damage": 0,
+				"maxhp": 95625
+			}
+		}
+	]
+}

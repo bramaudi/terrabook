@@ -1,0 +1,124 @@
+{
+	"title": "Eater of Worlds",
+	"maxhp": 10050,
+	"kb_resist": 100,
+	"immune": [
+		"Confused"
+	],
+	"coins": [
+		{ "value": 10, "type": "silver" }
+	],
+	"drops": [
+		{ "name": "Shadow Scale", "rate": 100, "qty": "0-134", "type": "Material" },
+		{ "name": "Demonite Ore", "rate": 100, "qty": "20-395", "type": "Ore" },
+		{ "name": "Eater's Bone", "rate": 5, "type": "Pet" },
+		{ "name": "Lesser Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+		{ "name": "Eater of Worlds Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Eater of Worlds Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"maxhp": 15120,
+		"coins": [
+			{ "value": 20, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Lesser Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Eater of Worlds Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Eater of Worlds)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Worm Scarf", "rate": 100, "type": "Accessory" },
+					{ "name": "Eater of Worlds Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Demonite Ore", "rate": 50, "qty": "30-59", "type": "Ore" },
+					{ "name": "Shadow Scale", "rate": 50, "qty": "10-19", "type": "Material" },
+					{ "name": "Eater's Bone", "rate": 5, "type": "Pet" },
+					{ "name": "Gold Coin", "rate": 100, "qty": "3", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"maxhp": 19224,
+		"drops": [
+			{ "name": "Writhing Remains", "rate": 25, "type": "Pet" },
+			{ "name": "Eater of Worlds Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Eater of Worlds Head",
+			"maxhp": 150,	
+			"damage": 22,
+			"defense": 2,
+			"drops": [
+				{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+				{ "name": "Shadow Scale", "rate": 50, "qty": "1-2", "type": "Material" }
+			],
+
+			"expert": {
+				"maxhp": 210,
+				"damage": 48,
+				"defense": 4,
+				"drops": [
+					{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+					{ "name": "Shadow Scale", "rate": 50, "qty": "2-3", "type": "Material" }
+				]
+			},
+			"master": {
+				"maxhp": 267,
+				"damage": 72
+			}
+		},
+		{
+			"title": "Eater of Worlds Body",
+			"maxhp": 150,	
+			"damage": 13,	
+			"defense": 4,
+			"drops": [
+				{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+				{ "name": "Shadow Scale", "rate": 50, "qty": "1-2", "type": "Material" }
+			],
+
+			"expert": {
+				"maxhp": 210,
+				"damage": 20,
+				"defense": 6,
+				"drops": [
+					{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+					{ "name": "Shadow Scale", "rate": 50, "qty": "2-3", "type": "Material" }
+				]
+			},
+			"master": {
+				"maxhp": 267,
+				"damage": 31
+			}
+		},
+		{
+			"title": "Eater of Worlds Tail",
+			"maxhp": 150,	
+			"damage": 11,	
+			"defense": 8,
+			"drops": [
+				{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+				{ "name": "Shadow Scale", "rate": 50, "qty": "1-2", "type": "Material" }
+			],
+			
+			"expert": {
+				"maxhp": 210,
+				"damage": 17,
+				"defense": 10,
+				"drops": [
+					{ "name": "Demonite Ore", "rate": 50, "qty": "2-5", "type": "Ore" },
+					{ "name": "Shadow Scale", "rate": 50, "qty": "2-3", "type": "Material" }
+				]
+			},
+			"master": {
+				"maxhp": 267,
+				"damage": 26
+			}
+		}
+	]
+}

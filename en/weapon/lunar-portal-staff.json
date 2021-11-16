@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Lunar Portal Staff is a Hardmode, post-Moon Lord sentry summon weapon that summons a floating Lunar Portal. The player cannot interact with it; it instead fires a continuous beam at enemies within its 60-tile range. The Lunar Portal is a sentry-style minion, similar to the Frost Hydra, only lasting two minutes, remaining stationary, and not counting against the player's minion capacity. The Lunar Portal Staff has a 1/9 (11.11%) chance of being dropped by the Moon Lord boss.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Lunar Portal Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"The Lunar Portal cannot target or attack enemies through blocks.",
+    "The portal gives off light and has no restrictions where it can be placed, allowing the player to find caves easily.",
+    "By default, only one sentry can be placed at a time, and attempting to place another will remove the previous sentry unless the player is wearing an accessory or a piece of armor that increases sentry capacity."
+	],
+
+	"tips": [
+		"The portal fires a beam that will sweep across enemies in a wide arc, so it should be positioned in a way that allows it to sweep the beam across a large section of the ground. This facilitates hitting large numbers of enemies, inflicting high DPS to enemies and bosses made up of segments like The Destroyer. Generally, this means making sure to place it fairly high over head, although of course it varies based on terrain."
+	],
+
+	"title": "Lunar Portal Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 50, "tip": "Summon" }],
+	"knockback": 7.5,
+	"mana": 10,
+	"use_time": 30,
+	"velocity": 14,
+	"tooltip": [
+		"Summons a sentry",
+		"Summons a lunar portal to shoot lasers at your enemies"
+	],
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"overview": [
+		"The Rainbow Crystal Staff is a Hardmode, post-Moon Lord summon weapon. It summons a sentry-style minion that lasts for two minutes, remains stationary, and does not count against the player's minion capacity. The Rainbow Crystal Staff has a 1/9 chance (11.11%) to be dropped by the Moon Lord.",
+
+		"The Rainbow Crystal Staff summons a temporary crystal that deals high damage to enemies within its 60-tile range. Unlike other sentry summons, the crystal floats in midair at the cursor position when summoned, rather than falling to the ground. Attacks are animated as a spread of colored light beams targeting the closest enemy. The beams themselves do not do damage; damage is dealt only by delayed explosions at the end of the beams.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Rainbow Crystal Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"The crystal may sporadically attack through blocks, though this does not occur often.",
+    "The light beams from the crystal will detect enemies that have not appeared on-screen yet. This is useful for detecting which direction new enemies will appear from.",
+    "Pressing <kbd>⚷ Open / Activate</kbd> while aiming at an enemy will focus fire on that enemy until killed, or the target has been switched.",
+    "As with all sentry summons, summoning another sentry will cause the crystal to disappear, unless the player has an accessory to increase the limit."
+	],
+
+	"tips": [
+		"This weapon has massive range and can target enemies far off-screen, though it prefers to aim at closer targets. As such, it is recommended to place this sentry high in the air to provide it with the widest view; its accuracy will not improve if it is close to its target.",
+		"Because it does an immense amount of damage upon contact with players in PvP and can be placed in midair, most regulated PvP servers ban the use of this weapon."
+	],
+
+	"title": "Rainbow Crystal Staff",
+	"max_stack": 1,
+	"damage": [{ "value": "130 [i:UI:Desktop version] / 80 [i:UI:Console version] [i:UI:Mobile version]", "tip": "Summon" }],
+	"knockback": 7.5,
+	"mana": 10,
+	"use_time": 30,
+	"velocity": 14,
+	"tooltip": [
+		"Summons a sentry",
+		"Summons a radiant crystal that banishes your enemies",
+		"'The colors, Duke, the colors!'"
+	],
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

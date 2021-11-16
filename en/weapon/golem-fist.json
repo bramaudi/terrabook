@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"The Golem Fist is a Hardmode, post-Golem flail-type weapon that has a 1/7 (14.29%) chance of being dropped by the Golem. It fires a large fist attached to a chain that retracts on impact, similar to the one Golem uses. It fires forward at a rapid rate, similar to the KO Cannon and Harpoon. Firing at closer targets causes its fire rate to increase. The Golem Fist is one of the few flail-type weapons which contributes a gun-firing mechanism.",
+
+		"It has the second highest knockback of all weapons, beaten only by the Slap Hand.",
+
+		"The Golem Fist has a very short cool down period; therefore its auto-fire rate is dependent only on the distance to its impact, meaning that an enemy or object in close range will cause a faster autofire rate.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"Although technically a flail, the Golem Fist's projectile has no difficulty passing through terrain on its return trip."
+	],
+
+	"title": "Golem Fist",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": 90,
+	"knockback": 12,
+	"critical_chance": 4,
+	"use_time": 24,
+	"velocity": 28,
+	"tooltip": "Punches with the force of a golem",
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

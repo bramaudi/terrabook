@@ -1,0 +1,44 @@
+{
+	"overview": [
+		"The Possessed Hatchet is a Hardmode, post-Golem boomerang-type melee weapon that flies very fast and homes in on enemies, then returns to the player. It also emits a certain amount of light when thrown. It has a 1/7 (14.29%) chance to be dropped from the Golem.",
+
+		"On the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, the weapon acts similarly to stacked Light Discs, capable of throwing out multiple hatchets even though the weapon cannot stack, with no limit to the number of hatchets that can be out at once. On the Old-gen console version and 3DS version, it acts as a singular boomerang, only firing one at a time. When it has no enemy to home in on, the Hatchet returns to the player after flying a relatively short distance of only 25 tiles.",
+
+		"Its best modifier is Godly or Demonic. Both modifiers increase the average damage output by the same amount."
+	],
+
+	"notes": [
+		"If aimed correctly, the player can attack enemies from behind a wall.",
+    "If the player dies while this item is out, it will hover at their death point until they respawn, then it will fly to them.",
+    "It homes in on the tail segment of all worms.",
+    "It will not home in on players during PvP."
+	],
+
+	"tips": [
+		"Due to the weapon being fast and capable of throwing multiple hatchets, it can be fired at a very rapid rate and be quite effective against certain bosses, especially Duke Fishron.",
+    "It is fairly effective against Crawltipedes since it always targets the tail and can take it out in a few hits."
+	],
+
+	"title": "Stynger",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": 80,
+	"knockback": 5,
+	"critical_chance": 4,
+	"use_time": 14,
+	"velocity": 24,
+	"tooltip": "Chases after your enemy",
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

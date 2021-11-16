@@ -1,0 +1,33 @@
+{
+	"overview": [
+		"The Squire's Shield is a Hardmode shield accessory that increases the player's maximum number of sentries by one and increases summon damage by 10%. It is dropped by the Ogre during the Old One's Army event with an 8.33% / [e=12.5%] (T2) or 4.17% (T3) chance."
+	],
+
+	"notes": [
+		"Despite the tooltip implying that the accessory boosts the damage of minions only, it also affects sentries and whips.",
+    "Neither of its bonuses stack with the Apprentice's Scarf, Huntress's Buckler, or Monk's Belt.",
+    "Like most other shields, the Squire's Shield synergizes with the Brand of the Inferno to block an attack."
+	],
+
+	"title": "Squire's Shield",
+	"max_stack": 1,
+	"tooltip": [
+		"Increase your max number of sentries by 1",
+		"Increases minion damage by 10%"
+	],
+	"rarity": 5,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Ogre", "rate": 8.33, "type": "Boss", "tip": "(Tier 2)" },
+		{ "name": "Ogre", "rate": 4.17, "type": "Boss", "tip": "(Tier 3)" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ogre", "rate": 12.5, "type": "Boss", "tip": "(Tier 2)" },
+			{ "name": "Ogre", "rate": 4.17, "type": "Boss", "tip": "(Tier 3)" }
+		]
+	}
+}

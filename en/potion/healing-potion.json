@@ -1,0 +1,63 @@
+{
+	"overview": [
+		"The Healing Potion is a healing item that restores 100 health when used.",
+
+		"In addition to being crafted, Healing Potions can be found naturally in pots after Hardmode activation and pots in the Underworld before Hardmode. Several are also dropped by the Wall of Flesh.",
+
+		"It is the second tier of healing potions, the first being the Lesser Healing Potion, the third being the Greater Healing Potion and the fourth being the Super Healing Potion."
+	],
+
+	"title": "Lesser Healing Potion",
+	"heals": 100,
+	"max_stack": 30,
+	"use_time": 17,
+	"rarity": 1,
+	"sell": [{ "value": 2, "type": "silver" }],
+	"research": 30,
+
+	"dropped_by": [
+		{ "name": "Azure Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Boreal Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Bramble Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Corrupt Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Crimson Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Defiled Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Divine Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Dungeon Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Frozen Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Golden Crate", "qty": "5-20", "rate": 25, "type": "Bag" },
+		{ "name": "Hallowed Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Hellstone Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Hematic Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Iron Crate", "qty": "5-15", "rate": 25, "type": "Bag" },
+		{ "name": "Jungle Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Mirage Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Mythril Crate", "qty": "5-15", "rate": 25, "type": "Bag" },
+		{ "name": "Oasis Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Obsidian Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Ocean Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Seaside Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Sky Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Stockade Crate", "qty": "5-17", "rate": 25, "type": "Bag" },
+		{ "name": "Titanium Crate", "qty": "5-20", "rate": 25, "type": "Bag" },
+		{ "name": "Wall of Flesh", "qty": "5-15", "rate": 100, "type": "Boss" }
+	],
+
+	"craft": {
+		"recipe": [
+			{
+				"result": {
+					"name": "Healing Potion", "type": "Potion"
+				},
+				"ingredient": [
+					{ "name": "Lesser Healing Potion", "qty": 2, "type": "Potion" },
+					{ "name": "Glowing Mushroom", "type": "Block" }
+				],
+				"station": [
+					{ "name": "Placed Bottle", "type": "Furniture" },
+					{ "name": "Alchemy Table", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

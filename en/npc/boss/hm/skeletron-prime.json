@@ -1,0 +1,155 @@
+{
+	"title": "Skeletron Prime",
+	"env": ["Surface", "Space", "Night"],
+	"damage": [
+		{ "value": 47 },
+		{ "value": 94, "tip": "while spinning" }
+	],
+	"maxhp": 28000,
+	"defense": [
+		{ "value": 24 },
+		{ "value": 48, "tip": "while spinning" }
+	],
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused", "Penetrated"],
+	"coins": [
+		{ "value": 12, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Soul of Fright", "qty": "25-40", "rate": 100, "type": "Material" },
+		{ "name": "Hallowed Bar", "qty": "15-30", "rate": 100, "type": "Bar" },
+		{ "name": "Greater Healing Potion", "qty": "5-15", "rate": 100, "type": "Potion" },
+		{ "name": "Skeletron Prime Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Skeletron Prime Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 78 },
+			{ "value": 158, "tip": "while spinning" }
+		],
+		"maxhp": 42000,
+		"coins": [
+			{ "value": 30, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Skeletron Prime Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Skeletron Prime)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Mechanical Battery Piece", "rate": 100, "type": "Material" },
+					{ "name": "Skeletron Prime Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Soul of Fright", "qty": "25-40", "rate": 100, "type": "Material" },
+					{ "name": "Hallowed Bar", "qty": "15-30", "rate": 100, "type": "Bar" },
+					{ "name": "Gold Coin", "rate": 100, "qty": 12, "type": "Ammunition" }
+				]
+			}	
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 119 },
+			{ "value": 238, "tip": "while spinning" }
+		],
+		"maxhp": 53550,
+		"drops": [
+			{ "name": "Robotic Skull", "rate": 25, "type": "Pet" },
+			{ "name": "Skeletron Prime Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Prime Cannon",
+			"damage": [
+				{ "value": 30 },
+				{ "value": 80, "tip": "Bomb" }
+			],
+			"maxhp": 7000,
+			"defense": 23,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": [
+					{ "value": 51 },
+					{ "value": 160, "tip": "Bomb" }
+				],
+				"maxhp": 10500
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 76 },
+					{ "value": 240, "tip": "Bomb" }
+				],
+				"maxhp": 13387
+			}
+		},
+		{
+			"title": "Prime Saw",
+			"damage": 56,
+			"maxhp": 9000,
+			"defense": 38,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": 95,
+				"maxhp": 13500
+			},
+
+			"master": {
+				"damage": 142,
+				"maxhp": 17212
+			}
+		},
+		{
+			"title": "Prime Vice",
+			"damage": 52,
+			"maxhp": 9000,
+			"defense": 34,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": 88,
+				"maxhp": 13500
+			},
+
+			"master": {
+				"damage": 132,
+				"maxhp": 17212
+			}
+		},
+		{
+			"title": "Prime Laser",
+			"damage": [
+				{ "value": 29 },
+				{ "value": 50, "tip": "Death Laser" }
+			],
+			"maxhp": 6000,
+			"defense": 20,
+			"kb_resist": 100,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": [
+					{ "value": 49 },
+					{ "value": 100, "tip": "Death Laser" }
+				],
+				"maxhp": 9000
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 73 },
+					{ "value": 150, "tip": "Death Laser" }
+				],
+				"maxhp": 11475
+			}
+		}
+	]
+}

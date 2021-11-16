@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Pygmy Staff is a Hardmode, post-Plantera summon weapon. It spawns a pygmy minion that follows the player and attacks enemies with a ranged spear attack. Like other minions, the summoned pygmy is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, or cancels the buff. The Pygmy Staff is dropped by Plantera with a 1/4 (25%) / [e=1/2 (50%)] chance.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Pygmy Staff has over a Ruthless one is knockback."
+	],
+
+	"notes": [
+		"Summoned pygmies do not deal damage themselves. Instead, they attack by throwing spears twice per second.",
+		[
+			"Spears do not pierce enemies, and vanish on the first target hit. On the Desktop version, Console version, Mobile version, Switch version, and tModLoader version, the first spear thrown per volley will pierce through enemies.",
+			"Spears do not prevent other spears from hitting the same target however, so overall damage per second increases linearly with the addition of more pygmies.",
+			"Spears have a 2/3 (66.67%) chance to inflict the Poisoned debuff for 10–20 seconds, and a 1/3 (33.33%) chance to inflict Acid Venom for 5–10 seconds. One of the two is always inflicted."
+		],
+		"Summoned pygmies' aim is somewhat inaccurate, so they might miss even relatively close and static targets, let alone moving ones."
+	],
+
+	"title": "Pygmy Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 34, "tip": "Summon" }],
+	"knockback": 3,
+	"mana": 10,
+	"use_time": 28,
+	"velocity": 10,
+	"tooltip": "Summons a Pygmy to fight for you",
+	"rarity": 7,
+	"sell": [{ "value": 7, "type": "gold" }],
+	"research": 1,
+
+	"grant": [
+		{
+			"buff": "Pygmies",
+			"tooltip": "The pygmies will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 50, "type": "Bag" }
+		]
+	}
+}

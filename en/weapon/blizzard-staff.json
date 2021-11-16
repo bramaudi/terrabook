@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Blizzard Staff is a Hardmode, post-Plantera magic weapon that summons a storm of non-piercing icicles from above that travel in the general direction of the cursor. Four projectiles are fired per \"swing\" (10 frames). The Blizzard Staff is dropped by the Ice Queen during the Frost Moon event.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"Projectiles spawned within blocks travel through them to an extent, similar to the Star Veil or Starfury, but not as reliably. The Blizzard Staff's projectiles are more likely to be obstructed by ceilings before they reach the player's depth. It is therefore much more effective in open areas.",
+    "The velocity of the projectiles is reduced when passing through liquids.",
+    "On the Console version, the Blizzard Staff's icicles fall over a slightly larger area, rendering it less effective against smaller targets.",
+    "On the Console version, due to the inability to bring the cursor farther than a few tiles away from the character, the icicles will go a lot farther in any given direction, and can make the icicles travel horizontally.",
+    "The Blizzard Staff can be considered an upgrade of the Meteor Staff, though the Blizzard Staff's projectiles do not pierce or explode. The Lunar Flare can be considered a direct upgrade of the Blizzard Staff, as its projectiles travel through blocks, are more precise, and have a higher DPS.",
+    "On the Mobile version, opening the inventory moves the player's screen up several tiles. If they tap the top-center of the screen while it is open, they are tapping at the exact point the icicles spawn and they will fly off on random directions. Because it is trying to reach anywhere near that point (within the margin of error of this weapon's accuracy), which is entirely surrounding the spawn point of the icicles, they can fly off in any direction.",
+    "Aiming lower increases this weapon's accuracy, although this is less noticeable the lower the player aims it."
+	],
+
+	"title": "Blizzard Staff",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 58, "tip": "Magic" }],
+	"knockback": 4.5,
+	"mana": 9,
+	"critical_chance": 4,
+	"use_time": 10,
+	"velocity": 20,
+	"tooltip": "Showers an area with icicles",
+	"rarity": 8,
+	"sell": [{ "value": 9, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Santa-NK1", "rate": "4.44 - 7.78", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Santa-NK1", "rate": "15.56 - 31.11", "type": "Boss" }
+		]
+	}
+}

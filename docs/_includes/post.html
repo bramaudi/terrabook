@@ -1,0 +1,29 @@
+---
+layout: layout.html
+templateClass: tmpl-post
+---
+<article>
+  <div class="post">
+  <div class="meta">
+    {% for tag in tags | filterTagList %}
+      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+      <a href="{{ tagUrl | url }}">{{ tag }}</a>
+    {% endfor %}
+    <time class="time" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+  </div>
+  <h2 class="title" rel="bookmark" title="{{ title }}">{{ title }}</h2>
+  <div class="content">
+    {{ content | safe }}
+    {%- if collections.posts %}
+    {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+    {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+    {%- if nextPost or previousPost %}
+    <hr/>
+    <ul>
+      {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+      {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+    </ul>
+    {%- endif %}
+    {%- endif %}
+  </div>
+</article>

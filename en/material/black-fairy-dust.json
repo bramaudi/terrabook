@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"Black Fairy Dust is a crafting material dropped by Pumpkings during the Pumpkin Moon. It is solely used to craft Tattered Fairy Wings."
+	],
+
+	"tips": [
+		"Selling the Tattered Fairy Wings instead of the individual components will be more profitable. The wings sell for 8 Gold Coins, whereas the components sell for a collective 2 Gold Coins 90 Silver Coins."
+	],
+
+	"title": "Black Fairy Dust",
+	"max_stack": 99,
+	"rarity": 5,
+	"sell": [{ "value": 2, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+	
+	"expert": {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Tattered Fairy Wings", "type": "Wing" },
+				"ingredient": [
+					{ "name": "Soul of Flight", "qty": 20, "type": "Material" },
+					{ "name": "Black Fairy Dust", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

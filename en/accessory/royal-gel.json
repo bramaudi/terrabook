@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"Royal Gel is an accessory obtained from the Treasure Bag dropped by King Slime in Expert Mode. While equipped, most slimes will become friendly, no longer pursuing the player, and will deal no contact damage or fire projectiles, even if the player deals damage to them.",
+
+		"This does not apply to the following slimes:",
+		[
+			"Hoppin' Jacks",
+			"Golden Slimes",
+			"King Slime and his Spiked Slimes, though the normal Blue Slimes that King Slime spawns remain docile.",
+			"Queen Slime and her Bouncy Slimes, Crystal Slimes, and Heavenly Slimes."
+		]
+	],
+
+	"notes": [
+		"Minions and NPCs will continue to attack all nearby slimes.",
+		"Since Gastropods and Toxic Sludges are slimes, they are affected by the Royal Gel as well."
+	],
+
+	"tips": [
+		"This accessory is particularly valuable during Slime Rain, as it allows the player to kill almost all enemies without worrying about taking damage."
+	],
+
+	"title": "Royal Gel",
+	"max_stack": 1,
+	"tooltip": "Slimes become friendly",
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (King Slime)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

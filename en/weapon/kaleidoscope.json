@@ -1,0 +1,47 @@
+{
+	"overview": [
+		"The Kaleidoscope is a post-Plantera whip that has a 1/4 (25%) chance of being dropped by the Empress of Light boss.",
+
+		"Like other whips, it causes minions to focus on the last-struck enemy and increases their damage against the target.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The Morning Star and Kaleidoscope have the unique ability to grant Minions the ability to deal critical hits. Though the boost is relatively low, it is nevertheless a noticeable increase in damage, especially with a large number of minions. The Kaleidoscope features the current highest summon tag critical chance at 10%."
+	],
+
+	"tips": [
+		"Due to its high base damage, range, tag damage, and extra summon tag critical strike chance, it is the most powerful whip in the game.",
+		[
+			"However, the speed boost and dark energy from the Dark Harvest may be preferable in certain situations.",
+			"The Firecracker can also outperform it against single targets, especially when used with the Stardust Dragon."
+		],
+		"The Kaleidoscope's large range and bright particles can make it useful for finding caves or exploring underground."
+	],
+
+	"title": "Kaleidoscope",
+	"max_stack": 1,
+	"damage": [{ "value": 180, "tip": "Summon" }],
+	"knockback": 4,
+	"use_time": 30,
+	"velocity": 12,
+	"tooltip": [
+		"20 summon tag damage",
+		"10% summon tag critical strike chance",
+		"Your summons will focus struck enemies"
+	],
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

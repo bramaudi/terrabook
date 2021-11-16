@@ -1,0 +1,125 @@
+{
+	"overview": [
+		"The Soul of Fright is a Hardmode crafting material dropped by Skeletron Prime.",
+
+		"Crafting all items requires [i:UI:Desktop_version] 53 / [i:UI:Console_version] [i:UI:Mobile_version] 33 souls, meaning the player must defeat Skeletron Prime [i:UI:Desktop_version] 2–3 / [i:UI:Console_version] [i:UI:Mobile_version] 1–2 times."
+	],
+
+	"tips": [
+		"All types of souls are very useful for selling as profit once the necessary items have been crafted."
+	],
+
+	"title": "Soul of Fright",
+	"max_stack": 999,
+	"tooltip": "'The essence of pure terror'",
+	"rarity": 5,
+	"sell": [{ "value": 80, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Skeletron Prime", "qty": "25-40", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Skeletron Prime)", "qty": "25-40", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Soul of Fright in a Bottle", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Bottle", "type": "Furniture" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "By Hand", "type": "UI" }
+				]
+			},
+			{
+				"result": { "name": "Drax", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 5
+			},
+			{
+				"result": { "name": "Flamethrower", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Any Iron Bar", "qty": 20, "type": "Bar" },
+					{ "name": "Illegal Gun Parts", "type": "Material" },
+					{ "name": "Soul of Fright", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Naughty Present", "type": "Event_Summon" },
+				"ingredient": [
+					{ "name": "Silk", "qty": 20, "type": "Material" },
+					{ "name": "Ectoplasm", "qty": 5, "type": "Material" },
+					{ "name": "Soul of Fright", "qty": 5, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Pickaxe Axe", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "True Night's Edge", "type": "Weapon", "tip": "([i:UI:Desktop_version])" },
+				"ingredient": [
+					{ "name": "Night's Edge", "type": "Weapon" },
+					{ "name": "Soul of Fright", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Might", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Avenger Emblem", "type": "Accessory" },
+				"result_rowspan": 4,
+				"ingredient": [
+					[
+						{ "name": "Ranger Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Sorcerer Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Summoner Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Warrior Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					]
+				],
+				"station": [
+					{ "name": "Tinkerer's Workshop", "type": "Furniture" }
+				],
+				"station_rowspan": 4
+			}
+		]
+	}
+}

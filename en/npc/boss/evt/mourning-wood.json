@@ -1,0 +1,83 @@
+{
+	"title": "Mourning Wood",
+	"env": ["Pumpkin Moon"],
+	"damage": [
+		{ "value": 120 },
+		{ "value": 100, "tip": "Flaming Wood, health ≥ 25%" },
+		{ "value": 150, "tip": "Flaming Wood, health < 25%" },
+		{ "value": 80, "tip": "Greek Fire, health ≥ 25%" },
+		{ "value": 100, "tip": "Greek Fire, health < 25%" }
+	],
+	"maxhp": 12000,
+	"defense": 28,
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused"],
+	"coins": [
+		{ "value": 1, "type": "gold" }
+	],
+	"drops": [
+		{
+			"name": "Spooky Wood", "qty": "30-50", "rate": 100, "type": "Block",
+			"tip": "Higher item drop chances in later waves"
+		},
+		{
+			"note": "One of the following 5 items may be dropped",
+			"items": [
+				{ "name": "Spooky Hook", "rate": "2 - 20", "type": "Hook" },
+				{ "name": "Spooky Twig", "rate": "2 - 20", "type": "Material" },
+				{ "name": "Stake Launcher", "rate": "2 - 20", "type": "Weapon", "ammo": { "name": "Stake", "qty": "30-60" } },
+				{ "name": "Cursed Sapling", "rate": "2 - 20", "type": "Pet" },
+				{ "name": "Necromantic Scroll", "rate": "2 - 20", "type": "Accessory" }
+			]
+		},
+		{ "name": "Mourning Wood Trophy", "rate": 100, "type": "Furniture", "tip": "During Wave 15 only" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 180 },
+			{ "value": 200, "tip": "Flaming Wood, health ≥ 25%" },
+			{ "value": 300, "tip": "Flaming Wood, health < 25%" },
+			{ "value": 160, "tip": "Greek Fire, health ≥ 25%" },
+			{ "value": 200, "tip": "Greek Fire, health < 25%" }
+		],
+		"maxhp": 15600,
+		"coins": [
+			{ "value": 2, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{
+				"name": "Spooky Wood", "qty": "30-50", "rate": 100, "type": "Block",
+				"tip": "Higher item drop chances in later waves"
+			},
+			{
+				"note": "One of the following 5 items may be dropped",
+				"items": [
+					{ "name": "Spooky Hook", "rate": "5 - 20", "type": "Hook" },
+					{ "name": "Spooky Twig", "rate": "5 - 20", "type": "Material" },
+					{ "name": "Stake Launcher", "rate": "5 - 20", "type": "Weapon", "ammo": { "name": "Stake", "qty": "30-60" } },
+					{ "name": "Cursed Sapling", "rate": "5 - 20", "type": "Pet" },
+					{ "name": "Necromantic Scroll", "rate": "5 - 20", "type": "Accessory" }
+				]
+			},
+			{ "name": "Mourning Wood Trophy", "rate": 100, "type": "Furniture", "tip": "During Wave 15 only" },
+			{ "name": "Witch's Broom", "rate": "5 - 20", "type": "Mount" }
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 270 },
+			{ "value": 300, "tip": "Flaming Wood, health ≥ 25%" },
+			{ "value": 450, "tip": "Flaming Wood, health < 25%" },
+			{ "value": 240, "tip": "Greek Fire, health ≥ 25%" },
+			{ "value": 300, "tip": "Greek Fire, health < 25%" }
+		],
+		"maxhp": 19890,
+		"drops": [
+			{ "name": "Hexxed Branch", "rate": "6.25 - 25", "type": "Mount" },
+			{ "name": "Mourning Wood Relic", "rate": "25 - 100", "type": "Furniture" }
+		]
+	}
+}

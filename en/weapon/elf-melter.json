@@ -1,0 +1,46 @@
+{
+	"overview": [
+		"The Elf Melter is a Hardmode ranged weapon dropped by Santa-NK1 during the Frost Moon. It is an indirect post-Plantera upgrade to the Flamethrower. Similar to its predecessor, one press of the <kbd>⚒ Use / Attack</kbd> button fires several successive streams of flame, each of which inflicts the On Fire! debuff. The Elf Melter consumes two Gel per use.",
+
+		"When an enemy is pierced by the projectile, a 15% damage penalty is applied to the next enemy hit by the projectile.",
+
+		"Its best modifier is Unreal. A modifier granting +10% speed will increase the number of flame streams per click from six to seven while still consuming 2 Gel. A modifier with added velocity will increase the range of each stream, i.e. by about 5 blocks for +15% and about 3 blocks for +10%."
+	],
+
+	"notes": [
+		"When the Elf Melter is held by the player, a reddish colored fuel tank appears on the player's back. This can interfere with the appearance of several accessories, such as wings. The Heat Ray and Clentaminator also have this feature.",
+    "The Elf Melter will fire into lava (when the player is not submerged), though it will be slowed by about half. Water and honey stop it completely. If the character is immersed in the lava, the Elf Melter will not fire at all."
+	],
+
+	"title": "Elf Melter",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 60, "tip": "Ranged" }],
+	"ammo": "Gel",
+	"knockback": 0.425,
+	"critical_chance": 4,
+	"use_time": 30,
+	"velocity": 25.5,
+	"tooltip": "Uses gel for ammo",
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "On Fire!",
+			"tooltip": "Slowly losing life",
+			"chance": "100%",
+			"duration": [{ "value": 20, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Santa-NK1", "rate": "5.55 - 12.5", "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Santa-NK1", "rate": "12.5 - 50", "type": "Boss" }
+		]
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"overview": [
+		"Beenades are consumable ranged weapons that can be dropped by the Queen Bee boss or crafted on the Desktop version, Console version, Mobile version, Switch version, and tModLoader version using Grenades and Bee Wax. They act similarly to regular Grenades, but release 15–25 friendly bee projectiles upon exploding that home in on enemies. Each bee can attack or ricochet a total of 3 times and each bee hit inflicts the total Beenade damage."
+	],
+
+	"notes": [
+		"Unlike some other bee-spawning items, the Hive Pack does not provide additional chances to spawn more bees for the Beenade.",
+    "Beenades that explode in water and lava will not spawn bees. Bees instantly despawn on contact with either. Bees do spawn in honey, though they move more slowly until they exit.",
+    "Bees spawned from Beenades act as entities, and therefore there can only be 400 in a world at any given time (likely fewer if there are other objects/coins floating around somewhere). Since each Beenade spawns 15–25 bees upon exploding, it would take 20 Beenades to completely exhaust the DPS output limit of bees, given that no other bee-spawning items are used, and given that there are no other entities in the world (<code>(400-&lt;number of loose entities>)/20=20</code>).",
+    "Bees spawned from Beenades do not home in on players in PvP."
+	],
+
+	"tips": [
+		"Beenades are perhaps best used in large, open spaces. Since tight spaces have a higher chance of having bees bouncing off surfaces, thereby reducing potential damage, the real damage is caused by the bee swarm.",
+    "Beenades are exceptionally effective against certain bosses. Against the Wall of Flesh, they swarm the Hungries, taking them out very quickly. It takes about 50–100 / [e=100–150] Beenades to kill the Wall of Flesh.",
+    "If there are a high number of loose entities in the world (objects/coins/blocks), be aware that spawning many bees can likely cause the oldest entities to despawn, causing the oldest objects to be lost forever. It may therefore be wise to collect all loose, valuable items before spamming bee-spawning items.",
+    "Equipping the Hive Pack will cause around half of the spawned bees to deal about 8% more damage and a small amount of knockback, in addition to flying noticeably faster."
+	],
+
+	"title": "Beenade",
+	"max_stack": 999,
+	"damage": [{ "value": "12 [i:UI:Desktop version] / 14 [i:UI:Mobile version]", "tip": "Ranged" }],
+	"knockback": 1,
+	"consumable": true,
+	"critical_chance": 4,
+	"use_time": 15,
+	"velocity": 6,
+	"tooltip": "Explodes into a swarm of bees",
+	"rarity": 0,
+	"sell": [{ "value": 40, "type": "copper" }],
+	"research": 99,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "qty": "10-30", "rate": 75, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "qty": "10-29", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"recipe": [
+			{
+				"result": { "name": "Beenade", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Grenade", "type": "Weapon" },
+					{ "name": "Bee Wax", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Iron Anvil", "type": "Furniture" },
+					{ "name": "Lead Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

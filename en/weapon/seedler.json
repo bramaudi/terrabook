@@ -1,0 +1,71 @@
+{
+	"overview": [
+		"The Seedler is a Hardmode sword that has a 1/7 (14.29%) / [e=2/7 (28.57%)] chance to be dropped by Plantera. It fires out grenade-like projectiles, which explode after a period of time (0.5-1 second) or when hitting an enemy, sending out 4 to 7, smaller and faster shards.",
+
+		"Its best modifier is Legendary."
+	],
+
+	"notes": [
+		"The player is able to turn while swinging, as you swing in the direction of the mouse cursor.",
+		"The Seedler could be considered as the Hardmode upgrade of the Blade of Grass, as it can be obtained from a source in the Jungle, it has a much better (by 7) swing speed, and it looks quite similar.",
+		"The sword, much like the Blade of Grass, does not emit any light itself, but its projectiles do when they explode.",
+		"Unlike the Terra Blade's projectile, melee speed modifiers do not increase the number of seeds thrown.",
+		"Each seed fires 4 to 7 projectiles upon exploding, with each individual seed targeting an enemy. Seeds that don't target enemies will go in random directions. This makes it a useful weapon against a huge number of enemies or worm-type ones.",
+		"The large projectile arcs downwards rather quickly, however, the smaller shards are unaffected by gravity."
+	],
+
+	"tips": [
+		"Despite having pretty low damage for a Hardmode weapon (especially at the stage of the game it is obtained), Seedler, due to its unique abilities, can sometimes surpass more powerful weapons, such as Terra Blade. Underestimating this sword is often a bad decision - with the proper modifier, it can deal with most Hardmode enemies with ease.",
+    "Attacking large segmented enemies such as The Destroyer can do immense amounts of damage due to the exploding projectiles.",
+    "It is also extremely effective for clearing out caves while taking next to no damage, as the seeds can be lobbed into a room, quickly clearing out enemies.",
+    "The seeds also prove very useful while fighting large numbers of enemies (perhaps during Events like Solar Eclipse)",
+    "Try to launch the initial projectile so that it explodes at a distance from any surface, otherwise the shards will hit the blocks, significantly reducing the weapons' damage potential."
+	],
+
+	"title": "Seedler",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": 50,
+	"knockback": 6,
+	"critical_chance": 4,
+	"use_time": 23,
+	"velocity": 12,
+	"rarity": 5,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

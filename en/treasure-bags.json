@@ -1,0 +1,22 @@
+{
+	"overview": [
+		"Treasure Bags are consumable items obtained in Expert Mode and Master Mode as a reward for defeating bosses. Its contents depend on the boss it comes from. It is opened by either right-clicking it inside the inventory or using it while it is in your hand. In multiplayer, each player that deals damage to the boss receives one Treasure Bag upon completion. Treasure Bags are client-side and will despawn upon exiting the world.",
+
+		"Each Treasure Bag contains the boss's usual drops from normal mode, along with one Expert Mode-exclusive item – with the exception of the Lunatic Cultist, Dark Mage, Betsy, and Ogre, who currently do not provide an Expert mode-exclusive item. Hardmode bosses' Treasure Bags additionally have a 5% chance to contain one random set of developer items (except for Queen Slime).",
+
+		"Expert mode-exclusive items all have the [i:UI:Rarity_color_rainbow] rarity, with the exception of 0x33's Aviators."
+	],
+
+	"notes": [
+		"In multiplayer, participation is based on damage dealt to the boss. Players who did not deal at least 1 point of damage to the boss will not receive a bag.",
+		["It is advisable to open bags on the ground in a quiet area if you have a full inventory as the delay in picking up the prizes can cause items to fall to other players."],
+		"Treasure yields are considerably higher in multiplayer - multiple bags are handed out, with each containing the entire reward of a kill, and drop rates on the boss's unique items are often doubled.",
+		"Trophies are not obtained from Treasure Bags. Instead, they are dropped separately from the boss itself."
+	],
+
+	"title": "Treasure Bag",
+	"max_stack": 999,
+	"tooltip": "[i:UI:Desktop version] Right click to open / [i:UI:Mobile version] Double tap to open",
+	"rarity": "rainbow",
+	"research": 3
+}

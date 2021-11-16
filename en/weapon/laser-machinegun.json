@@ -1,0 +1,38 @@
+{
+	"overview": [
+		"The Laser Machinegun is a Hardmode, post-Golem magic weapon that has a 1/6 (16.67%) chance to be dropped by the Martian Saucer from the Martian Madness event. Before reaching full firing speed, the Laser Machinegun will spin up for roughly two seconds. Like the Razorpine, the projectiles do not pierce through enemies.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"The Laser Machinegun is not affected by attack speed modifiers.",
+    "At full speed, the weapon fires every 6 ticks. This means the weapon fires 20 shots every second."
+	],
+
+	"tips": [
+		"Due to its long wind-up time, it is much more efficient to use Mana Potions with this weapon instead of Mana Regeneration Potions.",
+		["The Mana Flower or one of its upgrades can help the player to auto-use potions and provide a minor reduction to mana usage. Some players may prefer using the <kbd>Quick Mana</kbd> key to free up a slot for other accessories."],
+		"Try to wind up the Laser Machinegun while no enemies are nearby, as to avoid being damaged while waiting for the weapon to fully wind up.",
+		"This weapon's projectiles seem to continue traveling very far whilst off-screen. Thus, it can be used to slowly but safely destroy the Celestial Pillars whose barriers have been dropped.",
+		"It is possible to fire the Laser Machinegun through a one-block wall if the player is standing right next to it.",
+		"With three Mana Boosters from the Nebula armor's set bonus, mana will regenerate faster than the weapon can consume it.",
+		"Using this against Duke Fishron is very effective. Due to his size, all the projectiles of the machine gun can reliably hit. Its rapid fire also pops most of the bubble attacks which Duke Fishron uses."
+	],
+
+	"title": "Laser Machinegun",
+	"max_stack": 1,
+	"damage": [{ "value": 60, "tip": "Magic" }],
+	"knockback": 2,
+	"mana": 6,
+	"critical_chance": 4,
+	"use_time": 20,
+	"velocity": 20,
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Martian Saucer", "rate": 16.66, "type": "Boss" }
+	]
+}

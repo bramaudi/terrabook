@@ -1,0 +1,26 @@
+{
+	"overview": [
+		"The Demon Heart is an Expert Mode consumable item obtained from the Wall of Flesh's Treasure Bag. It permanently grants the player an extra accessory slot, for use only within Expert and Master worlds. This effect does not stack and may only be used once per player. If a player opens the Wall of Flesh's Treasure Bag after they have already consumed a Demon Heart, another one will not be obtained.",
+
+		"When a player who consumed a Demon Heart is in a Classic Mode world (a non-Expert/Master world), the extra accessory slot is disabled, removing any functional or display effects from items equipped there, and darkening the slot itself. Players in Classic worlds are also prevented from equipping items in the sixth or seventh slot, though an equipped item in the slot may still be removed from the slot."
+	],
+
+	"notes": [
+		"If a player equips wings in the extra slot(s) while in Expert/Master Mode, then goes back to a Classic world, the immunity to fall damage is still applied."
+	],
+
+	"title": "Demon Heart",
+	"consumable": true,
+	"max_stack": 99,
+	"use_time": 30,
+	"tooltip": "Permanently increases the number of accessory slots",
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 100, "type": "Bag", "tip": "when no Demon Heart used yet" }
+		]
+	}
+}

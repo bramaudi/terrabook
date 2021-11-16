@@ -1,0 +1,97 @@
+{
+	"title": "The Destroyer",
+	"env": ["Surface", "Space", "Night"],
+	"maxhp": 80000,
+	"kb_resist": 100,
+	"immune": [],
+	"coins": [
+		{ "value": 12, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Soul of Might", "rate": 100, "qty": "25-40", "type": "Material" },
+		{ "name": "Hallowed Bar", "rate": 100, "qty": "15-30", "type": "Bar" },
+		{ "name": "Greater Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+		{ "name": "Destroyer Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Destroyer Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"maxhp": 120000,
+		"coins": [
+			{ "value": 30, "type": "gold" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Destroyer Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (The Destroyer)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Mechanical Wagon Piece", "rate": 100, "type": "Material" },
+					{ "name": "Destroyer Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Soul of Might", "rate": 100, "qty": "25-40", "type": "Material" },
+					{ "name": "Hallowed Bar", "rate": 100, "qty": "15-30", "type": "Bar" },
+					{ "name": "Gold Coin", "rate": 100, "qty": 3, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"maxhp": 153000,
+		"drops": [
+			{ "name": "Deactivated Probe", "rate": 25, "type": "Pet" },
+			{ "name": "Destroyer Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"part": [
+		{
+			"title":"The Destroyer Head",
+			"damage": 70,
+			"defense": 0,
+
+			"expert": {
+				"damage": 280
+			},
+
+			"master": {
+				"damage": 420
+			}
+		},
+		{
+			"title":"The Destroyer Body",
+			"damage": [
+				{ "value": 55 },
+				{ "value": 44, "tip": "Death Laser" }
+			],
+			"defense": 30,
+
+			"expert": {
+				"damage": [
+					{ "value": 93 },
+					{ "value": 72, "tip": "Death Laser" }
+				]
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 140 },
+					{ "value": 108, "tip": "Death Laser" }
+				]
+			}
+		},
+		{
+			"title":"The Destroyer Tail",
+			"damage": 40,
+			"defense": 35,
+
+			"expert": {
+				"damage": 68
+			},
+
+			"master": {
+				"damage": 102
+			}
+		}
+	]
+}

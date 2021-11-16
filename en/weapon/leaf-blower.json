@@ -1,0 +1,35 @@
+{
+	"overview": [
+		"The Leaf Blower is a Hardmode magic weapon that fires a rapid barrage of leaf projectiles in a semi-random spread, which swerve slightly after about 15 tiles of travel. The leaves do not pierce enemies. The Leaf Blower has a 1/7 (14.29%) chance of being dropped by Plantera.",
+
+		"Its best modifier is either Masterful for mana conservation or Godly/Demonic for higher damage output. It cannot get the Mythical modifier due to its low mana cost."
+	],
+
+	"notes": [
+		"When wielding the weapon, a tank which appears to contain a small tree will appear on the player's back. If they have wings equipped, the wings will not be visible unless in use."
+	],
+
+	"title": "Leaf Blower",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": 48, "tip": "Magic" }],
+	"knockback": 4,
+	"mana": 4,
+	"critical_chance": 4,
+	"use_time": 7,
+	"velocity": 11,
+	"tooltip": "Rapidly shoots razor sharp leaves",
+	"rarity": 7,
+	"sell": [{ "value": 6, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Plantera", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Plantera)", "rate": 14.29, "type": "Bag" }
+		]
+	}
+}

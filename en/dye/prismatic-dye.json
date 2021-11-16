@@ -1,0 +1,21 @@
+{
+	"overview": [
+		"Prismatic Dye is a Hardmode, post-Plantera dye dropped by the Empress of Light with a 1/4 (25%) chance. The dye creates a prism-esque effect, making the equipped item seem transparent and glow in a cycling rainbow."
+	],
+
+	"title": "Prismatic Dye",
+	"max_stack": 99,
+	"rarity": 3,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 3,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

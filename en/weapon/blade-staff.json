@@ -1,0 +1,67 @@
+{
+	"overview": [
+		"The Blade Staff is a Hardmode summon weapon that summons an Enchanted Dagger minion suspended above the player's head, attacking enemies within range by flying toward and through them repeatedly at a fast pace. Its attacks ignore 25 enemy defense, making it more effective against Hardmode enemies than its damage stat would indicate. (Including the ignored enemy defense, the Blade Staff's effective base damage is around 18.)",
+
+		"On the Desktop version, the Blade Staff is dropped by Queen Slime with a drop rate of 1/4 (25%) / [e=1/3 (33.33%)], whereas on the Console version and Mobile version, it is dropped by Enchanted Swords with a drop rate of 1/35 (2.86%).",
+
+		"Its best modifiers are Demonic, Deadly, Mystic, or Hurtful. Unlike most minions, the Enchanted Dagger deals no knockback, so the weapon cannot obtain the Ruthless modifier. Due to its low base damage, all damage-improving modifiers improve its damage by the same amount."
+	],
+
+	"notes": [
+		"If the user has more than one summoned dagger, they will spin in a clockwise motion above their head, which becomes more pronounced the more daggers the user has.",
+    "The Blade Staff's minions attack at an incredibly fast rate compared to other summon weapons, hitting around five times per second. Each dagger triggers custom invulnerability frames on the target, maximizing damage output from the minions.",
+    "Unlike most minions, the daggers will immediately return to the user's side, preventing them from getting stuck behind blocks and blocking the minion's field of vision.",
+    "This weapon's defense-ignoring ability works by adding half the enemy's base defense (up to 12.5) to its damage, before being reduced by half of the enemy's actual defense. This means that it can deal more than its listed base damage against enemies that have had their defense reduced by Ichor and/or Betsy's Curse.",
+		[
+			"This ability also stacks with other defense-cutting buffs and accessories. In tandem with all possible options, the player can ignore an extra 70 defense with Ichor, Betsy's Curse, a Shark Tooth Necklace, and a Stinger Necklace, causing the daggers to ignore a total of 95 defense. While holding a weapon that deals melee damage, the Sharpening Station's buff will add an additional 12 armor penetration.",
+			"However, extra sources of armor penetration will increase damage output only if the target actually has that amount of defense. In other words, damage per hit cannot be increased by more than half of the enemy's base defense. This can ironically cause the Blade Staff to deal less damage to enemies with 0 defense, such as Duke Fishron in his third phase."
+		],
+    "Although it has no base knockback, it can gain knockback from accessories like the Papyrus Scarab or buffs like Well Fed. This drastically increases its effectiveness against enemies that are affected by knockback, as several daggers can lock an enemy in place."
+	],
+
+	"tips": [
+		"The Enchanted Daggers benefit massively from whips that increase minion damage, as most of them can more than double its DPS due to the low base damage but high attack rate. However, this also means it has very poor synergy with the Firecracker.",
+		["Daggers synergize very well with Dark Harvest due to Dark energy it applies, dealing high DPS against multiple targets."],
+		"Like the Sanguine Staff and Terraprisma, the Blade Staff's precise movement, tracking and fixed idle position make it an ideal choice for assisting the player with faster bosses and for crowd control.",
+		"Thanks to its ability to ignore a portion of enemy defense, the Blade Staff is a great weapon for summoners in early-to-mid Hardmode, as it is available as soon as Hardmode is initiated. However, considering the Blade Staff's difficulty to obtain as a summoner, the Spider Staff may be a better option to obtain first.",
+		"The Blade Staff does not benefit much from percentage-based damage bonuses, but it is still useful on dedicated summoner sets because it does not suffer from piercing invincibility frames and benefits greatly from whips. It is also a decent choice for melee users, who can passively increase its damage output with the Sharpened buff and Flask of Ichor. On the other hand, non-summoners will not be impressed with its damage output at all, though it can still be very useful for stun-locking enemies.",
+		"The Blade Staff's defense-cutting ability makes it very effective against the mechanical bosses, as the most defensive boss (The Destroyer) has only 30 defense. This also causes the daggers to lose very little DPS while Skeletron Prime's head is spinning, as they will ignore most of the additional defense the head gains during this phase (48 total defense).",
+		["On the other hand, the daggers fare poorly against certain bosses, as some of them feature very high defense levels and will lower the dagger's damage to 1 damage per hit even with access to other defense-lowering buffs. Some examples include the Flying Dutchman and Santa-NK1, which feature 100 and 56 defense, respectively."],
+		"Because of its rapid attack rate, it is an effective summon for killing a Dungeon Guardian. Note that despite its defense-ignoring abilities, the dagger will still do 1 damage per hit (as the Dungeon Guardian has 9999 defense, while the daggers ignore only 25 defense)."
+	],
+
+	"title": "Blade Staff",
+	"max_stack": 1,
+	"damage": 6,
+	"knockback": 0,
+	"mana": 10,
+	"use_time": 36,
+	"velocity": 10,
+	"tooltip": [
+		"Summons an Enchanted Dagger to fight for you",
+		"Ignores a substantial amount of enemy defense",
+		"'Don't let their small size fool you'"
+	],
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"grant": [
+		{
+			"buff": "Enchanted Daggers",
+			"tooltip": "Death by a thousand cuts"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Enchanted Sword", "rate": 2.86, "type": "Enemy" },
+		{ "name": "Queen Slime", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Enchanted Sword", "rate": 2.86, "type": "Enemy" },
+			{ "name": "Treasure Bag (Queen Slime)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

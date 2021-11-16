@@ -1,0 +1,44 @@
+{
+	"overview": [
+		"Crimson Seeds are seeds which can be planted on Dirt Blocks to create Crimson grass and will then spread The Crimson in all directions. They drop from the Eye of Cthulhu and can be purchased from the Dryad for 5 Silver Coins each during a Blood Moon in a Crimson world or from the Dryad while in a Graveyard for 5 Silver Coins each in a Hardmode Corrupt world.",
+
+		"Crimson Seeds can be used to farm Vicious Mushrooms and may be used to spread Crimson in Corrupt worlds. In versions of the game before 1.4, Crimson Seeds cannot be obtained within Corrupt worlds and must instead be brought over from a Crimson world."
+	],
+
+	"tips": [
+		"Crimson grass may also be obtained by planting regular grass and using Red Solution on it."
+	],
+
+	"title": "Crimson Seeds",
+	"auto_use": true,
+	"placeable": true,
+	"use_time": 15,
+	"max_stack": 999,
+	"rarity": 0,
+	"buy": [{ "value": 5, "type": "silver" }],
+	"sell": [{ "value": 1, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "Eye of Cthulhu", "qty": "1-3", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Eye of Cthulhu)", "qty": "1-3", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Blood Water", "qty": 10, "type": "Miscellaneous" },
+				"ingredient": [
+					{ "name": "Bottled Water", "qty": 10, "type": "Potion" },
+					{ "name": "Crimsand Block", "type": "Block" },
+					{ "name": "Crimson Seeds", "type": "Seeds" }
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Gravity Globe is an Expert Mode Accessory found in the Moon Lord's Treasure Bag. When worn, it allows the holder to flip gravity, so that the player falls up instead of down, and toggle gravity back to normal afterward. Once equipped, pressing the <kbd>▲ Up</kbd> key toggles the gravity direction. This only affects the player with the item equipped."
+	],
+
+	"notes": [
+		"If the character hit the upper limit of the map while gravity is reversed, gravity will revert to normal. This will not reset the flight timer.",
+		"Players falling upwards will not be stopped by platforms, and will instead fall through them.",
+		"The Gravity Globe doesn't change gravity while grappled, not even while gravity is flipped.",
+		"Mounts cannot be summoned while in reversed gravity.",
+		"The Wisp in a Bottle, as well as its controls, remains upside down if the player is in reversed gravity.",
+		"Fishing is possible on reverse gravity; the fishing bobber will fall \"upward\" into the water. However, golf cannot be done on reverse gravity; the player will not even be able to swing the club.",
+		"If the Gravity Globe is unequipped while in inverted gravity, gravity will return to normal."
+	],
+
+	"tips": [
+		"It is useful in the Dungeon for quick ascents up the zigzag corridors.",
+    "The Gravity Globe can be a useful accessory when fighting the Dungeon Guardian."
+	],
+
+	"title": "Gravity Globe",
+	"max_stack": 1,
+	"tooltip": [
+		"Allows the holder to reverse gravity",
+		"Press UP to change gravity"
+	],
+	"rarity": "rainbow",
+	"sell": [{ "value": 40, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

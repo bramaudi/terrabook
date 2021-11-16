@@ -1,0 +1,41 @@
+{
+	"overview": [
+		"The Reindeer Bells are a Hardmode, post-Plantera mount summon item. It summons the rideable Rudolph character which greatly speeds a player's movement and adds the ability to fly. It has a chance of between 0.56% and 0.83% to be dropped by the Ice Queen during or after wave 15 of the Frost Moon event.",
+
+		"Similar to the Hoverboard, flight height can be constrained by holding the <kbd>▼ Down</kbd> key in addition to the <kbd>↷ Jump</kbd> key, so movement will be horizontal only."
+	],
+
+	"notes": [
+		"When the buff is active, fall damage is canceled.",
+    "Flying left or right allows Rudolph to climb to much greater heights than flying directly upwards.",
+    "The top running speed of Rudolph is 61 mph, reached after 2.222 seconds.",
+    "Rudolph's nose gives off a little bit of light."
+	],
+
+	"tips": [
+		"Rudolph allows the character to run and fly faster than the maximum speed attainable from accessory items, and also stacks with them. It is faster than most wings, even when running on the ground.",
+    "Riding Rudolph causes slightly inconsistent behavior when interacting with ground tiles. While on Rudolph, the player will still trigger player-activated pressure plates, but the player will not travel nearly as fast on asphalt as the player would unmounted. In order to obtain maximum speed, the player would have to run down an asphalt runway with movement speed buffs, such as the Panic! buff and Lightning Boots. The runway would transition into a Frozen Slime Block slide where the player could then mount Rudolph and retain the extra movement speed."
+	],
+
+	"title": "Reindeer Bells",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": "Summons a rideable reindeer",
+	"summon": "Rudolph",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{ "buff": "Rudolph", "tooltip": "Riding the red nosed reindeer" }
+	],
+
+	"dropped_by": [
+		{ "name": "Ice Queen", "rate": "0.56 - 0.83", "type": "Boss", "tip": "During Wave 15 and up" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Ice Queen", "rate": 3.33, "type": "Boss", "tip": "During Wave 15 and up" }
+		]
+	}
+}

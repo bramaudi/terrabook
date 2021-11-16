@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"The Clockwork Assault Rifle is a Hardmode gun that fires in three-round bursts. It has a 1/8 (12.5%) / [e=1/4 (25%)] chance to be dropped by the Wall of Flesh. Only the first shot out of the three will consume ammunition. The <kbd>⚒ Use / Attack</kbd> button can be held for repeated fire.",
+
+		"Its best modifier is Demonic, as it does not have any knockback and thus cannot get modifiers that affect it. It can also get the Deadly modifier, which, while the Demonic modifier may provide the greatest damage per hit, grants a higher increase to the overall DPS."
+	],
+
+	"notes": [
+		"The Clockwork Assault Rifle fires three shots, each one with a delay of 4 ticks, for a total of 12 ticks. The delay between one burst and the next is 14 ticks. One complete use of the weapon (including the delay) takes 26 ticks."
+	],
+
+	"tips": [
+		"This weapon's high rate of fire and low ammo consumption make it ideal for crowd control. These same strengths also make it effective against bosses, especially for some of the mechanical bosses.",
+    "This weapon's low ammo consumption makes it ideal for people who use expensive ammo, even well into the late-game.",
+    "When using Crystal or Ichor Bullets as ammo, the player can easily defeat Plantera and even Golem.",
+    "Having the Rapid modifier will greatly increase its fire rate, making it fire faster than the Minishark and doing as much DPS as the Megashark."
+	],
+
+	"title": "Clockwork Assault Rifle",
+	"auto_use": true,
+	"max_stack": 1,
+	"ammo": "Bullets",
+	"damage": 17,
+	"knockback": 0,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 7.75,
+	"tooltip": [
+		"Three round burst",
+		"Only the first shot consumes ammo"
+	],
+	"rarity": 4,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Wall of Flesh", "rate": 12.5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Wall of Flesh)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

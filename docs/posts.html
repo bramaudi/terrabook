@@ -1,0 +1,14 @@
+---
+layout: layout.html
+permalink: /posts/
+eleventyNavigation:
+  key: Archive
+  order: 2
+---
+
+<div class="info">
+  <h1>Archive</h1>
+</div>
+
+{% set postslist = collections.posts %}
+{% include "postslist.html" %}

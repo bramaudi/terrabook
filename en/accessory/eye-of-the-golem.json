@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"The Eye of the Golem is a Hardmode, post-Golem accessory that grants +10% critical strike chance. It has a 1/7 (14.29%) chance of being dropped by the Golem."
+	],
+
+	"tips": [
+		"This accessory is helpful when fighting the Dungeon Guardian, as critical strikes deal more damage.",
+    "The accessory is also helpful when making AFK boss farms.",
+    "The critical hit chance of the Eye of the Golem can be combined with the Destroyer Emblem to get a total of 18% increased critical hit chance. This can be further increased to 26% if both accessories have the Lucky modifier.",
+    "By using other damage increasing accessories along with this one, like emblems and quivers, the player can massively increase their damage output."
+	],
+
+	"title": "Eye of the Golem",
+	"max_stack": 1,
+	"tooltip": "10% increased critical strike chance",
+	"rarity": 7,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 14.29, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 14.29, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Destroyer Emblem", "type": "Accessory" },
+				"ingredient": [
+					{ "name": "Avenger Emblem", "type": "Accessory" },
+					{ "name": "Eye of the Golem", "type": "Accessory" }
+				],
+				"station": [{ "name": "Tinkerer's Workshop", "type": "Furniture" }]
+			}
+		]
+	}
+}

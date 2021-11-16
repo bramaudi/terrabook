@@ -1,0 +1,214 @@
+{
+	"title": "Plantera",
+	"env": ["Underground Jungle"],
+	"damage": [
+		{ "value": 50 },
+		{ "value": 44, "tip": "Seed" },
+		{ "value": 54, "tip": "Poison Seed" },
+		{ "value": 62, "tip": "Thorn Ball" }
+	],
+	"maxhp": 30000,
+	"defense": 36,
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused"],
+	"inflict": [
+		{
+			"debuff": "Poisoned",
+			"tooltip": "Slowly losing life",
+			"chance": "50% (Poison Seed)",
+			"duration": [
+				{ "value": "3–7", "tip": "seconds" }
+			]
+		}
+	],
+	"coins": [
+		{ "value": 15, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Temple Key", "rate": 100, "type": "Key" },
+		{
+			"note": "One of the following 7 items will always be dropped",
+			"items": [
+				{
+					"name": "Grenade Launcher", "rate": 14.29, "type": "Weapon",
+					"tip": "will always drop the first time Plantera is defeated in a world that is neither in Expert nor Master Mode",
+					"ammo": { "name": "Rocket I", "qty": "50-149" }
+				},
+				{ "name": "Venus Magnum", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Nettle Burst", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Leaf Blower", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Flower Pow", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Wasp Gun", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Seedler", "rate": 14.29, "type": "Weapon" },
+				{ "name": "Pygmy Staff", "rate": 14.29, "type": "Weapon" }
+			]
+		},
+		{ "name": "Thorn Hook", "rate": 10, "type": "Hook" },
+		{ "name": "The Axe", "rate": 2, "type": "Tool" },
+		{ "name": "Seedling", "rate": 5, "type": "Pet" },
+		{ "name": "Greater Healing Potion", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "Plantera Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Plantera Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": [
+			{ "value": 100 },
+			{ "value": 76, "tip": "Seed" },
+			{ "value": 96, "tip": "Poison Seed" },
+			{ "value": 108, "tip": "Thorn Ball" }
+		],
+		"maxhp": 42000,
+		"inflict": [
+			{
+				"debuff": "Poisoned",
+				"tooltip": "Slowly losing life",
+				"chance": "100% (Poison Seed)",
+				"duration": [
+					{ "value": "2–9", "tip": "seconds" }
+				]
+			}
+		],
+		"coins": [
+			{ "value": 37, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Greater Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "Plantera Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Plantera)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Spore Sac", "rate": 100, "type": "Accessory" },
+					{ "name": "Plantera Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Temple Key", "rate": 100, "type": "Key" },
+					{
+						"note": "One of the following 7 items will always be dropped",
+						"items": [
+							{ "name": "Grenade Launcher", "rate": 14.29, "type": "Weapon", "ammo": { "name": "Rocket I", "qty": "50-149" } },
+							{ "name": "Venus Magnum", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Nettle Burst", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Leaf Blower", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Flower Pow", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Wasp Gun", "rate": 14.29, "type": "Weapon" },
+							{ "name": "Seedler", "rate": 14.29, "type": "Weapon" }
+						]
+					},
+					{ "name": "Seedling", "rate": 6.67, "type": "Pet" },
+					{ "name": "The Axe", "rate": 5, "type": "Tool" },
+					{ "name": "Pygmy Staff", "rate": 50, "type": "Weapon" },
+					{ "name": "Thorn Hook", "rate": 10, "type": "Hook" },
+					{ "name": "Gold Coin", "rate": 100, "qty": 15, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": [
+			{ "value": 150 },
+			{ "value": 114, "tip": "Seed" },
+			{ "value": 144, "tip": "Poison Seed" },
+			{ "value": 162, "tip": "Thorn Ball" }
+		],
+		"maxhp": 53550,
+		"drops": [
+			{ "name": "Plantera Seedling", "rate": 25, "type": "Pet" },
+			{ "name": "Plantera Relic", "rate": 100, "type": "Furniture" }
+		]
+	},
+
+	"phase": [
+		{
+			"damage": 70,
+			"maxhp": [
+				{ "value": 15000, "tip": "start phase2" },
+				{ "value": 30000 }
+			],
+			"defense": 10,
+			"kb_resist": 100,
+			"immune": ["Confused", "Poisoned", "Acid Venom"],
+
+			"expert": {
+				"damage": 140,
+				"maxhp": [
+					{ "value": 21000, "tip": "start phase2" },
+					{ "value": 42000 }
+				]
+			},
+
+			"master": {
+				"damage": 210,
+				"maxhp": [
+					{ "value": 26775, "tip": "start phase2" },
+					{ "value": 53550 }
+				]
+			}
+		}
+	],
+
+	"part": [
+		{
+			"title": "Plantera's Hook",
+			"damage": 60,
+			"maxhp": 4000,
+			"defense": 24,
+			"kb_resist": 0,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": 120,
+				"maxhp": 8000,
+				"kb_resist": 10
+			},
+
+			"master": {
+				"damage": 180,
+				"maxhp": 12000,
+				"kb_resist": 20
+			}
+		},
+		{
+			"title": "Plantera's Tentacle",
+			"damage": 60,
+			"maxhp": 1000,
+			"defense": 20,
+			"kb_resist": 0,
+			"immune": ["Poisoned", "Confused"],
+
+			"expert": {
+				"damage": 138,
+				"maxhp": 2000,
+				"kb_resist": 10
+			},
+
+			"master": {
+				"damage": 206,
+				"maxhp": 2550,
+				"kb_resist": 20
+			}
+		},
+		{
+			"title": "Spore",
+			"damage": 70,
+			"maxhp": 1,
+			"defense": 0,
+			"kb_resist": 100,
+			"immune": ["Confused"],
+
+			"expert": {
+				"damage": [
+					{ "value": 140, "tip": "Pre-Hardmode" },
+					{ "value": 126, "tip": "Hardmode" }
+				]
+			},
+
+			"master": {
+				"damage": [
+					{ "value": 210, "tip": "Pre-Hardmode" },
+					{ "value": 189, "tip": "Hardmode" }
+				]
+			}
+		}
+	]
+}

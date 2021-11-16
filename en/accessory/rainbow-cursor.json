@@ -1,0 +1,30 @@
+{
+	"overview": [
+		"The Rainbow Cursor is a Hardmode vanity accessory that drops from the Empress of Light with a 1/20 (5%) chance. It causes the player's cursor to continuously change colors."
+	],
+
+	"notes": [
+		"The accessory will only be active while in a world, not in the main menu."
+	],
+
+	"tips": [
+		"Because vanity accessories such as the Rainbow Cursor cannot be reforged to grant any benefits besides appearance, it is recommended to equip them in the player's social accessory slots."
+	],
+
+	"title": "Rainbow Cursor",
+	"max_stack": 1,
+	"tooltip": "Causes your mouse cursor to have shifting rainbow colors",
+	"rarity": 5,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Empress of Light", "rate": 5, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Empress of Light)", "rate": 5, "type": "Bag" }
+		]
+	}
+}

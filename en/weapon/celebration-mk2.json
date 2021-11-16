@@ -1,0 +1,55 @@
+{
+	"overview": [
+		"The Celebration Mk2 is a Hardmode, post-Moon Lord launcher that is an upgraded version of the Celebration. Upon use, it fires one of seven different special rocket types, regardless of the type of ammunition used. While it retains the destructive properties of its ammunition, it cannot place or delete liquids with liquid rockets. The weapon has a 1/9 (11.11%) chance to be dropped by the Moon Lord.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The seven different rocket types are distinguished by color. Although their damage, critical strike chance, and knockback is identical, they behave differently:",
+		[
+			"The red rocket pierces enemies that are not at point-blank range, and explodes when hitting a block.",
+			"The orange rocket fires in an arc which is affected by the relative position of the cursor vertically and has an area-of-effect damage hitbox along the ground in the form of a shockwave upon impact. It also increases in size as it flies.",
+			"The yellow rocket travels in a straight line (visually zig-zagging) until it begins to taper off due to gravity.",
+			"The green rocket homes into enemies similarly to Chlorophyte Bullets.",
+			"Two blue rockets are fired at once, in a helical pattern, traveling straight.",
+			"Three purple rockets are fired at once, in a shotgun-spread pattern.",
+			"The pink rocket appears to have no special behavior."
+		],
+		"All rocket types are affected by gravity to varying extents, unlike the Celebration's projectiles.",
+		"When the <kbd>⚒ Use / Attack</kbd> button is pressed, the type of rocket that is fired is determined randomly. When it is held, however, the rockets have a fixed cycle: Red → Orange → Yellow → Green → Blue → Purple → Pink → Red."
+	],
+
+	"tips": [
+		"Because of its fast use time, mining large areas out can be accomplished extremely quickly with Rocket II, Rocket IV, or Mini Nuke II as ammunition. Although it is faster at digging than alternatives, it might suffer in accuracy compared to more traditional tools such as the Shroomite Digging Claw and the Drill Containment Unit.",
+    "The erratic rockets in conjunction with the quick fire rate make the Celebration Mk2 excellent at clearing waves of ground enemies (such as in the Solar Eclipse or Pumpkin Moon).",
+		["It can take down mini-bosses such as the Ice Queen in seconds."]
+	],
+
+	"title": "Celebration Mk2",
+	"max_stack": 1,
+	"auto_use": true,
+	"ammo": "Rockets",
+	"damage": [{ "value": 40, "tip": "Ranged" }],
+	"knockback": 10,
+	"critical_chance": 4,
+	"use_time": 6,
+	"velocity": 17,
+	"tooltip": [
+		"50% chance to not consume ammo",
+		"'All good things end with a bang... or many!'"
+	],
+	"rarity": 10,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Moon Lord", "rate": 11.1, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Moon Lord)", "rate": 11.1, "type": "Bag" }
+		]
+	}
+}

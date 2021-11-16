@@ -1,0 +1,452 @@
+{
+	"overview": [
+		"Spooky Wood is a type of wood dropped by Splinterlings and Mourning Wood during the Pumpkin Moon event. It is used to craft Halloween-themed furnitures and Spooky armor."
+	],
+
+	"title": "Spooky Wood",
+	"max_stack": 999,
+	"auto_use": true,
+	"placeable": { "wide": 1, "high": 1 },
+	"use_time": 15,
+	"rarity": 0,
+	"research": 100,
+
+	"dropped_by": [
+		{ "name": "Mourning Wood", "qty": "30-50", "rate": 100, "type": "Boss" },
+		{ "name": "Splinterling", "qty": "1-4", "rate": 100, "type": "Enemy" }
+	],
+
+	"craft": {
+		"recipe": [
+			{
+				"result_rowspan": 2,
+				"result": { "name": "Spooky Wood", "type": "Block" },
+				"ingredient": [
+					{ "name": "Spooky Wood Platform", "qty": 2, "type": "Furniture" }
+				],
+				"station": [{ "name": "By Hand", "type": "UI" }]
+			},
+			{
+				"ingredient": [
+					{ "name": "Spooky Wood Wall", "type": "Furniture" }
+				],
+				"station": [{ "name": "Work Bench", "type": "Furniture" }]
+			}
+		],
+
+		"used": [
+			{
+				"result": {
+					"name": "Spooky Wood Platform",
+					"qty": 2,
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"type": "Block"
+					}
+				],
+				"station": [
+					{
+						"name": "By Hand",
+						"type": "UI"
+					}
+				],
+				"station_rowspan": 2
+			},
+			{
+				"result": {
+					"name": "Spooky Work Bench",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Chandelier",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 4,
+						"type": "Furniture"
+					},
+					{
+						"name": "Chain",
+						"type": "Material"
+					}
+				],
+				"station": [
+					{
+						"name": "Iron Anvil",
+						"type": "Furniture"
+					},
+					{
+						"name": "Lead Anvil",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Bathtub",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 14,
+						"type": "Block"
+					}
+				],
+				"station": [
+					{
+						"name": "Sawmill",
+						"type": "Furniture"
+					}
+				],
+				"station_rowspan": 8
+			},
+			{
+				"result": {
+					"name": "Spooky Bed",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 5,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Bookcase",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 20,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"qty": 10,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Clock",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Any Iron Bar",
+						"qty": 3,
+						"type": "Bar"
+					},
+					{
+						"name": "Glass",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Spooky Wood",
+						"qty": 10,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Dresser",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 16,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Piano",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Bone",
+						"qty": 4,
+						"type": "Material"
+					},
+					{
+						"name": "Spooky Wood",
+						"qty": 15,
+						"type": "Block"
+					},
+					{
+						"name": "Book",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Sofa",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Silk",
+						"qty": 2,
+						"type": "Material"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Toilet",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Breastplate",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 300,
+						"type": "Block"
+					}
+				],
+				"station": [
+					{
+						"name": "Work Bench",
+						"type": "Furniture"
+					}
+				],
+				"station_rowspan": 13
+			},
+			{
+				"result": {
+					"name": "Spooky Candelabra",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 5,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"qty": 3,
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Candle",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 4,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Chair",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 4,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Chest",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 8,
+						"type": "Block"
+					},
+					{
+						"name": "Any Iron Bar",
+						"qty": 2,
+						"type": "Bar"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Door",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 6,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Helmet",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 200,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Lamp",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					},
+					{
+						"name": "Spooky Wood",
+						"qty": 3,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Lantern",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Torch",
+						"type": "Furniture"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Leggings",
+					"type": "Armor"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 250,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Sink",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 6,
+						"type": "Block"
+					},
+					{
+						"name": "Water Bucket",
+						"type": "Tool"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Table",
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"qty": 8,
+						"type": "Block"
+					}
+				]
+			},
+			{
+				"result": {
+					"name": "Spooky Wood Wall",
+					"qty": 4,
+					"type": "Furniture"
+				},
+				"ingredient": [
+					{
+						"name": "Spooky Wood",
+						"type": "Block"
+					}
+				]
+			}
+		]
+	}
+}

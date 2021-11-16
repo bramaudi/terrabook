@@ -1,0 +1,76 @@
+{
+	"title": "King Slime",
+	"env": ["Forest", "Slime Rain"],
+	"damage": 40,
+	"maxhp": 2000,
+	"defense": 10,
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused"],
+	"coins": [
+		{ "value": 1, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Solidifier", "rate": 100, "type": "Furniture" },
+		{ "name": "Slimy Saddle", "rate": 25, "type": "Mount" },
+		{
+			"note": "One of the following 3 items will be dropped",
+			"items": [
+				{ "name": "Ninja Hood", "rate": 33.33, "type": "Armor" },
+				{ "name": "Ninja Shirt", "rate": 33.33, "type": "Armor" },
+				{ "name": "Ninja Pants", "rate": 33.33, "type": "Armor" }
+			]
+		},
+		{
+			"note": "One of the following 2 items will be dropped",
+			"items": [
+				{ "name": "Slime Hook", "rate": 33.33, "type": "Hook" },
+				{ "name": "Slime Gun", "rate": 66.67, "type": "Miscellaneous" }
+			]
+		},
+		{ "name": "Lesser Healing Potion", "qty": "5-10", "rate": 100, "type": "Potion" },
+		{ "name": "King Slime Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "King Slime Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": 64,
+		"maxhp": 2800,
+		"coins": [
+			{ "value": 2, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Lesser Healing Potion", "rate": 100, "qty": "5-10", "type": "Potion" },
+			{ "name": "King Slime Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (King Slime)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Royal Gel", "rate": 100, "type": "Accessory" },
+					{ "name": "King Slime Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Slimy Saddle", "rate": 50, "type": "Mount" },
+					{
+						"note": "Two of the following three items will be dropped",
+						"items": [
+							{ "name": "Ninja Hood", "rate": 67, "type": "Armor" },
+							{ "name": "Ninja Shirt", "rate": 67, "type": "Armor" },
+							{ "name": "Ninja Pants", "rate": 67, "type": "Armor" }
+						]
+					},
+					{ "name": "Slime Gun", "rate": 50, "type": "Miscellaneous" },
+					{ "name": "Slime Hook", "rate": 50, "type": "Hook" },
+					{ "name": "Solidifier", "rate": 100, "type": "Furniture" },
+					{ "name": "Gold Coin", "rate": 100, "qty": "1", "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": 96,
+		"maxhp": 3570,
+		"drops": [
+			{ "name": "Royal Delight", "rate": 25, "type": "Pet" },
+			{ "name": "King Slime Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}

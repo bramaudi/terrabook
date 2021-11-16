@@ -1,0 +1,43 @@
+{
+	"overview": [
+		"The Picksaw is a Hardmode pickaxe and axe that has a 1/4 (25%) or [e=1/3 (33.33%)] chance of being dropped by the Golem boss. It can mine all blocks in the game.",
+
+		"Its best modifier is Legendary. While Light may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+	],
+
+	"notes": [
+		"The Picksaw is usually the first pickaxe the player can obtain that will break Lihzahrd Bricks, as well as Lihzahrd Traps."
+	],
+
+	"tips": [
+		"It does slightly less damage to enemies than the Pickaxe Axe (which deals 35 damage, 2.9% more), Chlorophyte Pickaxe (which deals 40 damage, 17.6% more), and Shroomite Digging Claw (which deals 45 damage, 32.4% more). If the player has good weapons, this should not be too much of a concern.",
+    "The Picksaw has a lower range bonus than the Spectre Pickaxe (which has a +3 range).",
+    "It has a longer use time than the Shroomite Digging Claw (which has a use time of 12, i.e. is swung 25% faster). However, the Picksaw is able to mine Lihzahrd Bricks and has +1 range bonus.",
+		["Because the Picksaw has a use time close to the Shroomite Digging Claw, the use of full Mining armor along with other mining speed boosts can bring its speed exceptionally close to the Shroomite Digging Claw, with the added perk of more range, and the ability to mine Lihzahrd Bricks."]
+	],
+
+	"title": "Picksaw",
+	"pickaxe_power": 210,
+	"axe_power": 125,
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 34,
+	"knockback": 5.5,
+	"critical_chance": 4,
+	"use_time": 16,
+	"toolspeed": 6,
+	"tooltip": "Capable of mining Lihzahrd Bricks",
+	"rarity": 7,
+	"sell": [{ "value": 4, "type": "gold" }, { "value": 32, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Golem", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Golem)", "rate": 33.33, "type": "Bag" }
+		]
+	}
+}

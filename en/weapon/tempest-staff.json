@@ -1,0 +1,44 @@
+{
+	"overview": [
+		"The Tempest Staff is a Hardmode summon weapon. It spawns a small Sharknado minion that follows the player for an unlimited amount of time, and attacks enemies automatically by firing Mini Sharkron projectiles which splatter against enemies and blocks. Its attack is akin to a miniature version of Duke Fishron's tornado/shark attack. The Tempest Staff has a 20% chance of being dropped by Duke Fishron.",
+
+		"The Tempest Staff's tornado moves to intercept enemies at significant range, and can pass through blocks. The tornado itself also damages enemies on contact.",
+		
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Tempest Staff has over a Ruthless one is knockback."
+	],
+
+	"tips": [
+		"Even though the sharks deal a lot of damage, they are not very accurate due to slightly arcing mid-flight. They sometimes fail at hitting quick enemies. Despite this flaw, the Sharknado itself is non-solid (can pass through all blocks) and can attack enemies outside of the player's sight.",
+    "As the tornado itself deals damage to critters, take care when using the staff while catching them.",
+    ["The Guide to Critter Companionship will prevent this."],
+    "They are somewhat useless in small areas because they hover over the player's head. Consider using the Spider Staff or Blade Staff for these areas."
+	],
+
+	"title": "Tempest Staff",
+	"max_stack": 1,
+	"damage": [{ "value": 50, "tip": "Summon" }],
+	"knockback": 2,
+	"mana": 10,
+	"use_time": 36,
+	"velocity": 10,
+	"tooltip": "Summons sharknados to fight for you",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Sharknado",
+			"tooltip": "The sharknado will fight for you"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "rate": 20, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Duke Fishron)", "rate": 20, "type": "Bag" }
+		]
+	}
+}

@@ -1,0 +1,130 @@
+{
+	"overview": [
+		"The Soul of Might is one of the six souls. It is dropped by The Destroyer and also very rarely by Lepus, making it obtainable in pre-Hardmode on 3DS version.",
+
+		"Crafting all items, including a full stack of five Light Discs, requires [i:UI:Desktop_version] 53 / [i:UI:Console_version] [i:UI:Mobile_version] 33 Souls of Might, meaning the player must defeat The Destroyer [i:UI:Desktop_version] 3–4 / [i:UI:Console_version] [i:UI:Mobile_version] 2–3 times."
+	],
+
+	"notes": [
+		"Unlike souls obtained from the other mechanical bosses, the Souls of Might are relatively easy to collect because, rather than dropping far away or high in the air, they drop from the body segment of The Destroyer that is closest to the player, often so close to the player that they may be instantly picked up."
+	],
+
+	"tips": [
+		"All types of souls are very useful for selling as profit once the necessary items have been crafted."
+	],
+
+	"title": "Soul of Might",
+	"max_stack": 999,
+	"tooltip": "'The essence of the destroyer'",
+	"rarity": 5,
+	"sell": [{ "value": 80, "type": "silver" }],
+	"research": 25,
+
+	"dropped_by": [
+		{ "name": "The Destroyer", "qty": "25-40", "rate": 100, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (The Destroyer)", "qty": "25-40", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Soul of Might in a Bottle", "type": "Furniture" },
+				"ingredient": [
+					{ "name": "Bottle", "type": "Furniture" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "By Hand", "type": "UI" }
+				]
+			},
+			{
+				"result": { "name": "Drax", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 5
+			},
+			{
+				"result": { "name": "Light Disc", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 4, "type": "Bar" },
+					{ "name": "Soul of Light", "qty": 3, "type": "Material" },
+					{ "name": "Soul of Might", "qty": 5, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Megashark", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Minishark", "type": "Weapon" },
+					{ "name": "Illegal Gun Parts", "type": "Material" },
+					{ "name": "Shark Fin", "qty": 5, "type": "Material" },
+					{ "name": "Soul of Might", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Pickaxe Axe", "type": "Tool" },
+				"ingredient": [
+					{ "name": "Hallowed Bar", "qty": 18, "type": "Bar" },
+					{ "name": "Soul of Fright", "type": "Material" },
+					{ "name": "Soul of Might", "type": "Material" },
+					{ "name": "Soul of Sight", "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "True Night's Edge", "type": "Weapon", "tip": "([i:UI:Desktop_version])" },
+				"ingredient": [
+					{ "name": "Night's Edge", "type": "Weapon" },
+					{ "name": "Soul of Fright", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Might", "qty": 20, "type": "Material" },
+					{ "name": "Soul of Sight", "qty": 20, "type": "Material" }
+				]
+			},
+			{
+				"result": { "name": "Avenger Emblem", "type": "Accessory" },
+				"result_rowspan": 4,
+				"ingredient": [
+					[
+						{ "name": "Ranger Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Sorcerer Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Summoner Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					],
+					[
+						{ "name": "Warrior Emblem", "type": "Accessory" },
+						{ "name": "Soul of Fright", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Might", "qty": 5, "type": "Material" },
+						{ "name": "Soul of Sight", "qty": 5, "type": "Material" }
+					]
+				],
+				"station": [
+					{ "name": "Tinkerer's Workshop", "type": "Furniture" }
+				],
+				"station_rowspan": 4
+			}
+		]
+	}
+}

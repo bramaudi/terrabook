@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title }}</title>
+	<link rel="shortcut icon" href="{{ '/assets/favicon.ico' | url }}" type="image/x-icon">
+	<link rel="stylesheet" href="{{ '/assets/style.css' | url }}">
+</head>
+<body>
+	<nav id="nav-header">
+		<button class="trigger" onclick="toggle('nav')"><span></span><span></span><span></span></button>
+		<ul class="nav-list hide" id="nav">
+		{%- for entry in collections.all | eleventyNavigation %}
+			<li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+				{% if entry.url == page.url %}<span>{{ entry.title }}</span>{% else %}<a href="{{ entry.url | url }}">{{ entry.title }}</a>{% endif %}
+			</li>
+		{%- endfor %}
+			<li class="search">
+				<a href="{{ '/search' | url }}">Search</a>
+			</li>
+		</ul>
+	</nav>
+
+	<header style="background-image: url('{{ '/assets/Hallow_background_3.jpg' | url }}')">
+		<img src="{{ '/assets/logo.png' | url }}" class="logo">
+		<a class="title" href="{{ '/' | url }}">{{ siteMeta.title }}</a>
+		<p class="description">" {{ siteMeta.description }} "</p>
+	</header>
+
+	<main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+		{{ content | safe }}
+	</main>
+
+	<footer>
+		Template originally from <a href="//github.com/bramaudi/11ty-humbly" target="_blank"><b>Humbly</b></a> design
+	</footer>
+	
+	<script>
+	function toggle(id){
+		var el = document.getElementById(id);
+		el.classList.toggle('hide');
+	}
+	</script>
+</body>
+</html>

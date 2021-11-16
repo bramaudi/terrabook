@@ -1,0 +1,55 @@
+{
+	"overview": [
+		"The Razorblade Typhoon is a Hardmode magic weapon that fires 1 [i:UI:Desktop version] / 2 [i:UI:Console version] [i:UI:Mobile version] large, fast, disc-shaped projectiles per-click that home in on enemies. They can pierce and ricochet any number of times, each disc lasting 2 seconds. The Razorblade Typhoon has a 1/5 (20%) chance of being dropped by Duke Fishron.",
+
+		"Its best modifier is Mythical."
+	],
+
+	"notes": [
+		"Liquids do not affect the speed of the discs.",
+    "The discs have a much quicker homing ability than most homing weapons, and turns very quickly to track moving enemies.",
+    "A disc can pierce unlimited enemies and even damage the same enemy any number of times due to its very high turn rate and 4x4 projectile size.",
+    "When hitting the enemy, the disc causes 6 ticks (1/10 second) of invincibility, while most piercing projectiles cause 10 ticks(1/6 second).",
+    "Each disc emits just enough light to see.",
+    "Razorblade Typhoon works best on large groups of enemies and moving targets.",
+    "Sometimes when there are too many projectiles on the screen, such as when the Ice Queen does her \"Ice Spin\" attack, the Razorblade Typhoon consumes mana but does not spawn a disc.",
+    "[i:UI:Console version] [i:UI:Mobile version] You can't switch weapons and armor while it fires the two discs.",
+    "The fired discs travel at 102mph, the same speed as the Mechanical Cart.",
+    "The razorblade projectiles qualify as NPCs when shot at Red Pressure Plates and projectiles when shot at Teal Pressure Pads.",
+    "While standing against a vertical, one-block wall, the player can fire the razorblades through it while firing close to perfectly horizontally. This is because the razorblades spawn one tile in front of the player. This trick can be extremely useful for the Martian Madness on the Console version Console version, because while inside a box, touching a side, the player is invulnerable to nearly all attacks from every enemy, and the Razorblade Typhoon can make quick work of the entire event."
+	],
+
+	"tips": [
+		"Pairs well with Spectre Armor because of its fire-and-forget homing ability, making healing or additional DPS easy.",
+    "Slightly unreliable against a single target if there are multiple enemies on the screen, since the projectiles may focus on other targets instead.",
+    "Its large projectiles work well for crowd control and clearing areas of Bees or Vines.",
+    "It has extremely high DPS against bosses with multiple hitboxes such as the Martian Saucer or The Destroyer.",
+    "As with the Magical Harp, the projectiles last for a set amount of time before dissipating, regardless of how many times they bounce or hit.",
+    "Useful against fast moving bosses like the Empress of Light, Duke Fishron, Ice Queen, and the Lunatic Cultist due to its homing ability. It will likely cause the latter to summon Phantasm Dragons, but it quickly kills them after they spawn anyways.",
+    "It makes quick work of all of the Celestial Pillars, possibly proving to be the best pre-Moon Lord weapon against them."
+	],
+
+	"title": "Razorblade Typhoon",
+	"auto_use": true,
+	"max_stack": 1,
+	"damage": [{ "value": "90 [i:UI:Desktop version] / 60 [i:UI:Console version] [i:UI:Mobile version]", "tip": "Magic" }],
+	"knockback": 5,
+	"mana": 16,
+	"critical_chance": 4,
+	"use_time": 40,
+	"velocity": 18,
+	"tooltip": "Casts fast moving razorwheels",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Duke Fishron", "rate": 20, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Duke Fishron)", "rate": 20, "type": "Bag" }
+		]
+	}
+}

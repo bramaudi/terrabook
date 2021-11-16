@@ -1,0 +1,39 @@
+{
+	"overview": [
+		"The Dark Mage's Tome is a mount-summon item that places the player on a Book Mount similar to the one ridden by the Dark Mage during the Old One's Army event. It is dropped by the Dark Mage in Master Mode only.",
+
+		"The mount allows a player to hover and glide at a fixed height of 8 tiles high in mid-air for 5 seconds following a jump or walking off a ledge. It otherwise glides along the ground. Whether on the ground or hovering, its top speed is 41 mph.",
+
+		"The max height of the mount can be increased using items that allow for multiple jumps such as the Cloud in a Bottle, though this only allows it to be multiplied by the number of times the player jumps. The altitude of the mount is also adjustable in the down direction by pressing <kbd>▼ Down</kbd>.",
+
+		"The Book Mount cancels fall damage."
+	],
+
+	"tips": [
+		"The hover time will not be consumed when gliding on the ground, meaning that the player can glide infinitely as long as they are on the ground. This can be used for quicker traveling, as the top speed of the mount is higher than that of the Lightning Boots or its upgrades (41 mph vs. 34 mph)."
+	],
+
+	"title": "Dark Mage's Tome",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a magic tome mount",
+		"'A book said to be at its holder's behest.'"
+	],
+	"summon": "Book Mount",
+	"rarity": "fiery_red",
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+	"grant": [
+		{
+			"buff": "Book Mount",
+			"tooltip": "The Book is now helping in your guidance"
+		}
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Dark Mage", "rate": 25, "type": "Boss", "tip": "(Tier 1 / Tier 3)" }
+		]
+	}
+}
