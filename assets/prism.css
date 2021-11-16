@@ -1,0 +1,189 @@
+/**
+* Gruvbox light theme
+*
+* Based on Gruvbox: https://github.com/morhetz/gruvbox
+* Adapted from PrismJS gruvbox-dark theme: https://github.com/schnerring/prism-themes/blob/master/themes/prism-gruvbox-dark.css
+*
+* @author Michael Schnerring (https://schnerring.net)
+* @version 1.0
+*/
+
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #3c3836; /* fg1 / fg */
+  font-size: .87891rem;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  line-height: 1.5;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  scrollbar-color: #bdbcba lightyellow;
+}
+
+@media screen and (max-width: 768px) {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    font-size: .77891rem;
+  }
+}
+
+.dark code[class*="language-"],
+.dark pre[class*="language-"] {
+  color: #d0bebe;
+  scrollbar-color: #555 #1f1f1f;
+}
+
+pre[class*="language-"]::selection,
+pre[class*="language-"] ::selection,
+code[class*="language-"]::selection,
+code[class*="language-"] ::selection {
+  color: #282828; /* fg0 */
+  background: #ccc0ae; /* bg4 */
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .5em .7em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  background: lightyellow; /* bg0_h */
+  border: 1px solid #c6c0a8;
+}
+
+.dark :not(pre) > code[class*="language-"],
+.dark pre[class*="language-"] {
+  background: #1f1f1f; /* bg0_h */
+  border: 1px solid #333;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+}
+
+.token.comment,
+.token.prolog,
+.token.cdata {
+  color: #7c6f64; /* fg4 / gray1 */
+}
+
+.dark .token.comment,
+.dark .token.prolog,
+.dark .token.cdata {
+  color: #606060; /* fg4 / gray1 */
+}
+
+.token.delimiter,
+.token.boolean,
+.token.keyword,
+.token.selector,
+.token.important,
+.token.atrule {
+  color: #9d0006; /* red2 */
+}
+
+.dark .token.delimiter,
+.dark .token.boolean,
+.dark .token.keyword,
+.dark .token.selector,
+.dark .token.important,
+.dark .token.atrule {
+  color: #f7ca97; /* red2 */
+}
+
+.token.operator,
+.token.punctuation,
+.token.attr-name {
+  color: #7c6f64; /* fg4 / gray1 */
+}
+
+.dark .token.operator,
+.dark .token.punctuation,
+.dark .token.attr-name {
+  color: #d0beaf; /* fg4 / gray1 */
+}
+
+.token.tag,
+.token.tag .punctuation,
+.token.doctype,
+.token.builtin {
+  color: #b57614; /* yellow2 */
+}
+
+.token.entity,
+.token.number,
+.token.symbol {
+  color: #8f3f71; /* purple2 */
+}
+
+.dark .token.entity,
+.dark .token.number,
+.dark .token.symbol {
+  color: #dc77b6; /* purple2 */
+}
+
+.token.property,
+.token.constant,
+.token.variable {
+  color: #9d0006; /* red2 */
+}
+
+.token.string,
+.token.char {
+  color: #797403; /* green2 */
+}
+
+.token.attr-value,
+.token.attr-value .punctuation {
+  color: #7c6f64; /* fg4 / gray1 */
+}
+
+.dark .token.attr-value,
+.dark .token.attr-value .punctuation {
+  color: #e37bbc; /* fg4 / gray1 */
+}
+
+.token.url {
+  color: #797403; /* green2 */
+  text-decoration: underline;
+}
+
+.token.function {
+  color: #b57614; /* yellow2 */
+}
+
+.token.regex {
+  background: #797403; /* green2 */
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+.token.inserted {
+  background: #7c6f64; /* fg4 / gray1 */
+}
+
+.token.deleted {
+  background: #9d0006; /* red2 */
+}
