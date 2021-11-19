@@ -1,0 +1,22 @@
+{
+	"overview": [
+		"The Radio Thing is an accessory that activates a screen effect identical to that of The Constant world seed in normal worlds. In The Constant seed, it will instead cancel out the screen effect, granting the player normal visuals. The accessory functions in both the normal and vanity accessory slots."
+	],
+
+	"title": "Radio Thing",
+	"max_stack": 1,
+	"tooltip": "-",
+	"rarity": 1,
+	"sell": [{ "value": 1, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 33, "type": "Boss" }
+	],
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

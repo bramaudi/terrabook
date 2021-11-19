@@ -1,0 +1,36 @@
+{
+	"overview": [
+		"The Eye Bone is a pet-summoning item which has a 1/3 (33%) chance to drop from the Deerclops.",
+
+		"When used, it will summon a mobile Piggy Bank named Chester, a reference to the Don't Starve series. Chester is essentially an upgrade to the Money Trough, because it does not need to be re-summoned every time the player wants to use their piggy bank."
+	],
+
+	"title": "Eye Bone",
+	"max_stack": 1,
+	"use_time": 20,
+	"tooltip": [
+		"Summons a living chest to store your items",
+		"'It's looking into my soul.'"
+	],
+	"summon": "Chester",
+	"rarity": 3,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"grant": [
+		{
+			"buff": "Chester",
+			"tooltip": "-"
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

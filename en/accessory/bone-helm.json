@@ -1,0 +1,27 @@
+{
+	"overview": [
+		"The Bone Helm is an Expert Mode accessory obtained from the Treasure Bag dropped by the Deerclops. When equipped, it summons Shadow Hands to damage enemies."
+	],
+
+	"title": "Bone Helm",
+	"max_stack": 1,
+	"tooltip": [
+		"Summons shadow hands to attack your foes",
+		"'I've got a headache just looking at it.'"
+	],
+	"rarity": "rainbow",
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"master": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 100, "type": "Bag" }
+		]
+	}
+}

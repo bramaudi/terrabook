@@ -1,0 +1,22 @@
+{
+	"overview": [
+		"The Eyebrella is a vanity item dropped by Deerclops. It summons a raincloud over the players head, it does not do damage."
+	],
+
+	"title": "Eyebrella",
+	"max_stack": 1,
+	"tooltip": "'Don't get rain in your eye!'",
+	"rarity": 1,
+	"sell": [{ "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 33, "type": "Bag" }
+		]
+	}
+}

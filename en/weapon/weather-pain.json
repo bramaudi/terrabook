@@ -1,0 +1,33 @@
+{
+	"overview": [
+		"The Weather Pain is a magic weapon dropped by Deerclops. It ignores 10 points of enemy Defense. Upon using the weapon, a tornado is cast by the player. The tornado vanishes within a very short time. The tornado is capable of bouncing off blocks and piercing up to 10 enemies.",
+
+		"If enemies are nearby, the tornado will home in on them and stay latched to the enemies for a few seconds, dealing consistent damage."
+	],
+
+	"title": "Weather Pain",
+	"max_stack": 1,
+	"damage": [{ "value": 13, "tip": "Magic" }],
+	"knockback": 1,
+	"mana": 30,
+	"critical_chance": 4,
+	"use_time": 45,
+	"velocity": 1,
+	"tooltip": [
+		"Ignores 10 points of enemy Defense",
+		"'What a pane... heh'"
+	],
+	"rarity": 2,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

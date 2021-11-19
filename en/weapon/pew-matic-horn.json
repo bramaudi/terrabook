@@ -1,0 +1,53 @@
+{
+	"overview": [
+		"The Pew-matic Horn is a gun dropped by the Deerclops with a 1/4 (25%) chance. Bullets fired by this weapon quickly lose their horizontal speed once shot and are heavily affected by gravity. The type of bullet used does not change the projectiles fired by this weapon. Instead, the pew-matic horn will fire random items. The damage dealt changes depending on the visual of the projectile being fired.",
+
+		"Its best modifier is Unreal."
+	],
+
+	"notes": [
+		"The following items can be fired by this gun:",
+		[
+			"Stone blocks",
+			"Various gems",
+			"Dirt blocks",
+			"Rotten chunks",
+			"Bones",
+			"Platforms",
+			"Various herbs",
+			"Seeds",
+			"Mushrooms",
+			"Feathers"
+		],
+		"The damage dealt by the projectile is roughly correlated to the weight those items would have in real life: heavier items, such as stone blocks, will deal more damage than lighter items, such as herbs.",
+		"Possessing those items is not required to fire the weapon. It only consumes bullets.",
+		"Since special bullet types do not grant it any additional effect, this weapon is best used with musket balls or an endless musket pouch."
+	],
+
+	"title": "Pew-matic Horn",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 19, "tip": "Ranged" }],
+	"ammo": "Bullets",
+	"knockback": 1,
+	"critical_chance": 4,
+	"use_time": 24,
+	"velocity": 11,
+	"tooltip": [
+		"Converts bullets into random stuff",
+		"'ALLOWS WIRELESS TRANSFER OF INJURY!'"
+	],
+	"rarity": 2,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

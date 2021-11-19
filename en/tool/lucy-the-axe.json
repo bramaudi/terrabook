@@ -1,0 +1,37 @@
+{
+	"overview": [
+		"Lucy the Axe is an axe dropped by the Deerclops.",
+
+		"Its best modifier is Light for harvesting purposes and Legendary for combat purposes."
+	],
+
+	"notes": [
+		"Lucy the Axe is the only item with voice lines",
+		"Additionally, Lucy the Axe seems to cycle through their voice lines rather than picking randomly",
+		"Lucy the Axe will make the player emote the Axe Emote whenever it speaks."
+	],
+
+	"title": "Lucy the Axe",
+	"axe_power": 100,
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 26,
+	"knockback": 5,
+	"critical_chance": 14,
+	"use_time": 20,
+	"toolspeed": 20,
+	"tooltip": "'I love Lucy!'",
+	"rarity": 2,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

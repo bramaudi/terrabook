@@ -1,0 +1,33 @@
+{
+	"overview": [
+		"The Houndius Shootius is a sentry summon weapon that summons a Houndius Shootius sentry that shoots projectiles at enemies. One of the 4 weapons dropped by Deerclops.",
+
+		"Its best modifier is Ruthless. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Houndius Shootius has over a Ruthless one is knockback."
+	],
+
+	"title": "Houndius Shootius",
+	"max_stack": 1,
+	"damage": [{ "value": 24, "tip": "Summon" }],
+	"knockback": 7.5,
+	"mana": 20,
+	"use_time": 30,
+	"velocity": 14,
+	"tooltip": [
+		"Summons a sentry",
+		"Summons an arcane construct to shoot optic blasts at your enemies",
+		"'Oh me oh my, look at that eye!'"
+	],
+	"rarity": 2,
+	"sell": [{ "value": 1, "type": "gold" }, { "value": 50, "type": "silver" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Deerclops", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Deerclops)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

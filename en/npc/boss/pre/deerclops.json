@@ -1,0 +1,68 @@
+{
+	"title": "Deerclops",
+	"damage": 20,
+	"maxhp": 7000,
+	"defense": 0,
+	"kb_resist": 100,
+	"immune": ["Poisoned", "Confused"],
+	"coins": [
+		{ "value": 1, "type": "gold" }
+	],
+	"drops": [
+		{ "name": "Eye Bone", "rate": 33, "type": "Pet" },
+		{ "name": "Eyebrella", "rate": 33, "type": "Vanity" },
+		{ "name": "Radio Thing", "rate": 33, "type": "Accessory" },
+		{
+			"note": "Only one of the following 4 items can drop at a time",
+			"items": [
+				{ "name": "Pew-matic Horn", "rate": 25, "type": "Weapon" },
+				{ "name": "Weather Pain", "rate": 25, "type": "Weapon" },
+				{ "name": "Houndius Shootius", "rate": 25, "type": "Weapon" },
+				{ "name": "Lucy the Axe", "rate": 25, "type": "Tool" }
+			]
+		},
+		{ "name": "Deerclops Mask", "rate": 14.29, "type": "Vanity" },
+		{ "name": "Deerclops Trophy", "rate": 10, "type": "Furniture" }
+	],
+
+	"expert": {
+		"damage": 40,
+		"maxhp": 14000,
+		"coins": [
+			{ "value": 2, "type": "gold" },
+			{ "value": 50, "type": "silver" }
+		],
+		"drops": [
+			{ "name": "Deerclops Trophy", "rate": 10, "type": "Furniture" },
+			{
+				"name": "Treasure Bag (Deerclops)", "rate": 100, "type": "Bag",
+				"children": [
+					{ "name": "Bone Helm", "rate": 100, "type": "Accessory" },
+					{ "name": "Deerclops Mask", "rate": 14.29, "type": "Vanity" },
+					{ "name": "Eye Bone", "rate": 33, "type": "Pet" },
+					{ "name": "Eyebrella", "rate": 33, "type": "Vanity" },
+					{ "name": "Radio Thing", "rate": 33, "type": "Accessory" },
+					{
+						"note": "Only one of the following 4 items can drop at a time",
+						"items": [
+							{ "name": "Pew-matic Horn", "rate": 25, "type": "Weapon" },
+							{ "name": "Weather Pain", "rate": 25, "type": "Weapon" },
+							{ "name": "Houndius Shootius", "rate": 25, "type": "Weapon" },
+							{ "name": "Lucy the Axe", "rate": 25, "type": "Tool" }
+						]
+					},
+					{ "name": "Gold Coin", "qty": 10, "rate": 100, "type": "Ammunition" }
+				]
+			}
+		]
+	},
+
+	"master": {
+		"damage": 60,
+		"maxhp": 21000,
+		"drops": [
+			{ "name": "Deerclops Eyeball", "rate": 25, "type": "Pet" },
+			{ "name": "Deerclops Relic", "rate": 100, "type": "Furniture" }
+		]
+	}
+}
