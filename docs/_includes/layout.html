@@ -33,6 +33,7 @@
 		<img src="{{ '/assets/logo.png' | url }}" class="logo">
 		<a class="title" href="{{ '/' | url }}">{{ siteMeta.title }}</a>
 		<p class="description">" {{ siteMeta.description }} "</p>
+		<div>Latest version: {{ siteMeta.release }}</div>
 	</header>
 
 	<main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
