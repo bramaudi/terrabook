@@ -12,7 +12,7 @@ Terrabook is offline handcrafted wiki for Terraria with following features:
 - Bookmark favorite items
 - Free & no ads
 
-> Only supporting Desktop, Mobile, Console versions of Terraria.
+> Only supporting latest version of platforms until Mobile, in other word Desktop, Mobile, Console versions of Terraria.
 
 ### Download
 
