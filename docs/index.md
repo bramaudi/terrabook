@@ -12,11 +12,13 @@ Terrabook is offline handcrafted wiki for Terraria with following features:
 - Bookmark favorite items
 - Free & no ads
 
-> Only supporting Desktop, Mobile, Console versions of Terraria.
+> Only supporting latest version of platforms until Mobile, in other word Desktop, Mobile, Console versions of Terraria.
 
-### Download
+---
 
-[Google Play](https://play.google.com/store/apps/details?id=io.github.bramaudi.terrabook) | [Download APK](https://github.com/bramaudi/terrabook/releases/download/v0.1.1/Terrabook_{{ siteMeta.release }}.apk)
+## Download
+
+[Google Play](https://play.google.com/store/apps/details?id=io.github.bramaudi.terrabook) | [Download APK](https://github.com/bramaudi/terrabook/releases/download/{{ siteMeta.release }}/Terrabook_{{ siteMeta.release }}.apk)
 
 ---
 
