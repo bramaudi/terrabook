@@ -12,7 +12,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: docs
+        working-directory: site
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -38,4 +38,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/_site
+          publish_dir: ./site/_site
