@@ -41,7 +41,7 @@ function search(value) {
 }
 $search.onclick = async function(e) {
 	if (!dataset.length) {
-		const resp = await fetch('/search-dataset.json');
+		const resp = await fetch('/terrabook/search-dataset.json');
 		const posts = await resp.json();
 		dataset = posts
 	}
