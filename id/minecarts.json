@@ -1,0 +1,249 @@
+﻿{
+    "overview": [
+        "Minecart merupakan kendaraan yang memungkinkan pemain menggunakan Minecart Track. Saat ini ada 25 Minecart yang berbeda.",
+
+        "Pada versi Desktop, versi Konsol, versi Seluler, versi Switch, dan versi tModLoader, Minecart harus dipakai pada slot peralatan Minecart, untuk mencegah penggunaan Wooden Minecart. Pada versi konsol Old-gen dan versi 3DS, Minecart biasa adalah default dan tidak dapat diubah.",
+
+        "Saat pemain berada di dekat Minecart Track, dengan menekan tombol pintas Quick Mount atau menekan tombol <kbd>⚷ Buka / Aktifkan</kbd> pada suatu titik di trek akan menyebabkan sebuah Minecart muncul yang secara otomatis dikendarai pemain. Saat di dalam Minecart, menggunakan tombol arah <kbd>▶ Kanan</kbd> dan <kbd>◀ Kiri</kbd> dapat mempercepat, memperlambat, atau membalikkan gerakan Minecart. Minecart akan mempertahankan kecepatan dan arahnya jika tidak ada tombol yang ditekan dan tidak ada rintangan yang tersentuh. Minecart juga dapat \"melompat\" dengan tombol <kbd>↷ Lompat</kbd>.",
+
+        "Untuk keluar dari Minecart (yang akan menyebabkan Minecart despawn), pemain dapat menggunakan hook, menekan tombol pintas <kbd>Quick Mount</kbd>, atau membatalkan buff (Versi desktop dengan mengklik kanan ikon, Versi konsol Gen Lama dengan memilih ikon dan membatalkannya di equiptment menu, versi seluler dengan mengetuk ikon dua kali, atau versi 3DS dengan membatalkan buff dari buffs screen). Minecart juga akan menghilang jika pemain melompat dari trek, mendarat di blok, dan mencoba bergerak ke samping.",
+
+        "Saat bertabrakan dengan musuh, Minecart akan memberikan damage yang tidak diperkuat oleh damage amplifier apa pun. Peluang Critical Hit yang digunakan saat tabrakan sama dengan peluang Critical Hit tertinggi dari peluang Critical Hit Melee, Ranged, atau Magic. Knockback sama dengan (5 + 25 * Kecepatan arus), Damage sama dengan (25 + 55 * Kecepatan arus) kecuali dinyatakan sebaliknya, yang dimodifikasi oleh variasi damage acak.",
+
+        "Senjata dan peralatan, serta sebagian besar item lain kecuali hook, dapat digunakan saat mengendarai Minecart."
+    ],
+
+    "notes": [
+        "Dengan pengecualian Minecart default yang diberikan ketika pemain tidak memiliki Minecart, Mechanical Cart, dan Digging Molecart, semua varian Minecart memiliki akselerasi dan kecepatan maksimum yang sama.",
+
+        {
+            "meta": [ "Tipe", "Kecepatan Maksimum", "Akselerasi", "Waktu untuk mencapai kecepatan maksimum" ],
+            "rows": [
+                [ "Digging Molecart", "31 mph <br/> (22.5 blok/detik)", "4.5 blok/detik² <br/> (6 mph/detik)", "5 detik" ],
+                [ "Digging Molecart", "51 mph <br/> (37.5 blok/detik)", "6.75 blok/detik² <br/> (9 mph/detik)", "5.56 detik" ],
+                [ "Digging Molecart", "66 mph <br/> (48.75 blok/detik)", "9 blok/detik² <br/> (12 mph/detik)", "5.42 detik" ],
+                [ "Digging Molecart", "102 mph <br/> (75 blok/detik)", "22.5 blok/detik² <br/> (31 mph/detik)", "3.33 detik" ]
+            ]
+        }
+    ],
+
+    "minecarts": [
+        {
+            "name": "Wooden Minecart",
+            "tooltip": "-",
+            "source": "Tekan <kbd>Quick Mount</kbd> di (atau <kbd>⚷ Open / Activate</kbd>) pada sebuah Minecart Track.",
+            "notes": [
+                "Memberikan (15 + 30 * kecepatanSekarang) damage saat tabrakan.",
+                "Ini adalah Minecart default."
+            ]
+        },
+        {
+            "name": "Minecart",
+            "tooltip": "Let's ride the rails",
+            "source": "15 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1
+        },
+        {
+            "name": "Mechanical Cart",
+            "tooltip": "-",
+            "source": "[i:Material:Mechanical_Wheel_Piece] + [i:Material:Mechanical_Wagon_Piece] + [i:Material:Mechanical_Battery_Piece] ( @ [i:Furniture:Mythril_Anvil] / [i:Furniture:Orichalcum_Anvil] )",
+            "rarity": 12,
+            "notes": [
+                "Memberikan (50 + 100 * currentSpeed) damage saat tabrakan.",
+                "Menembakkan laser ke musuh terdekat yang masing-masing menghasilkan 60 damage.",
+                "Memberikan peningkatan defense yang secara bertahap meningkat tergantung pada kecepatannya saat itu: +2 saat berhenti, hingga +7 pada kecepatan tertinggi.",
+                "Eksklusif Expert Mode."
+            ]
+        },
+        {
+            "name": "Desert Minecart",
+            "tooltip": "-",
+            "source": "​[i:Furniture:Sandstone_Chest] Sandstone Chest",
+            "rarity": 1
+        },
+        {
+            "name": "Minecarp",
+            "tooltip": "Allows quick travel in water'Deal with it'",
+            "source": "Diterima sebagai hadiah Quest dari Angler.",
+            "rarity": 1,
+            "notes": [
+                "Tidak melambat dalam air."
+            ]
+        },
+        {
+            "name": "Bee Minecart",
+            "tooltip": "-",
+            "source": "​[i:Furniture:Ivy_Chest] Ivy Chest",
+            "rarity": 1,
+            "notes": [
+                "Sayap mengepak."
+            ]
+        },
+        {
+            "name": "Ladybug Minecart",
+            "tooltip": "-",
+            "source": "​[i:Furniture:Living_Wood_Chest] Living Wood Chest",
+            "rarity": 1
+        },
+        {
+            "name": "Pigron Minecart",
+            "tooltip": "'Powered by Bacon!'",
+            "source": "​[i:Enemy:Corruption_Pigron] Corruption Pigron",
+            "rarity": 1
+        },
+        {
+            "name": "Sunflower Minecart",
+            "tooltip": "-",
+            "source": "[i:Furniture:Living_Wood_Chest]​ Living Wood Chest",
+            "rarity": 1
+        },
+        {
+            "name": "Demonic Hellcart",
+            "tooltip": "Provides 7 seconds of immunity to lava",
+            "source": "​[i:Furniture:Shadow_Chest] Shadow Chest",
+            "rarity": 1,
+            "notes": [
+                "7 detik kekebalan terhadap lava.",
+                [ "Efeknya dapat ditumpuk dengan aksesoris Lava immunity lainnya, hingga total maksimum 42 detik." ],
+                "Memancarkan partikel ungu bercahaya dari matanya pada kecepatan rendah/saat berhenti."
+            ]
+        },
+        {
+            "name": "Shroom Minecart",
+            "tooltip": "'The shroom goes vroom'",
+            "source": "[i:Furniture:Mushroom Chest] Mushroom Chest",
+            "rarity": 1,
+            "notes": [
+                "Memancarkan cahaya yang sangat rendah."
+            ]
+        },
+        {
+            "name": "Amethyst Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Amethyst] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Topaz Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Topaz] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Sapphire Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Sapphire] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Emerald Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Emerald] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Ruby Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Ruby] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Diamond Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Diamond] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Amber Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Large_Amber] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1,
+            "notes": [
+                "Berkilau-kilau."
+            ]
+        },
+        {
+            "name": "Beetle Minecart",
+            "tooltip": "-",
+            "source": "[i:Minecart:Minecart] + [i:Material:Beetle_Husk] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] )",
+            "rarity": 1
+        },
+        {
+            "name": "Meowmere Minecart",
+            "tooltip": "'brrrrrow'",
+            "source": "​​[i:Boss:Moon_Lord] Boss: Moon Lord / Treasure Bag (Moon Lord) [i:Bag:Treasure_Bag_(Moon_Lord)]",
+            "rarity": 10,
+            "notes": [
+                "Memancarkan jejak pelangi. Mengeong saat melompat."
+            ]
+        },
+        {
+            "name": "Party Wagon",
+            "tooltip": "'All aboard the party wagon!'",
+            "source": "​[i:NPC:Party Girl] NPC: Party Girl (10 Gold Coins)",
+            "rarity": 1,
+            "notes": [
+                "Memancarkan jejak warna-warni. Pemain ditampilkan memegang tiga balon yang naik turun."
+            ]
+        },
+        {
+            "name": "The Dutchman",
+            "tooltip": "-",
+            "source": "​[i:Boss:Flying_Dutchman] Boss: Flying Dutchman",
+            "rarity": 1,
+            "notes": [
+                "Bendera mulai berkibar saat bergerak, berkibar lebih cepat dengan meningkatnya kecepatan."
+            ]
+        },
+        {
+            "name": "Steampunk Minecart",
+            "tooltip": "'Steam powered!'",
+            "source": "[i:NPC:Steampunker] NPC: ​Steampunker (10 Gold Coins)",
+            "rarity": 1,
+            "notes": [
+                "Memancarkan partikel asap, yang menyerupai asap kereta api.",
+                [ "Asap berubah warna berdasarkan dye yang diterapkan padanya." ],
+                "Rotasi roda menyerupai roda kereta api."
+            ]
+        },
+        {
+            "name": "Coffin Minecart",
+            "tooltip": "-",
+            "source": "5 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] + 10 [i:Material:Rotten_Chunk] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] & Ecto Mist ) <br/> <strong>or</strong> <br/> 5 [i:Bar:Any_Iron_Bar] + 10 [i:Block:Any_Wood] + 10 [i:Material:Vertebra] ( @ [i:Furniture:Iron_Anvil] / [i:Furniture:Lead_Anvil] & Ecto Mist )",
+            "rarity": 1
+        },
+        {
+            "name": "Digging Molecart",
+            "tooltip": [
+                "Will dig through blocks and lay new track if carrying minecart tracks",
+                "Only digs when underground"
+            ],
+            "source": "[i:NPC:Zoologist] NPC: ​Zoologist (50 Gold Coins)",
+            "rarity": 1,
+            "notes": [
+                "Membuat trek di depan pemain.",
+                [ "Pemain harus memiliki Minecart Track di inventory mereka." ],
+                "Menggali blok di depan pemain.",
+                [ "Pemain harus memiliki Pickaxe atau Drill di inventory mereka ." ]
+            ]
+        }
+    ]
+}
