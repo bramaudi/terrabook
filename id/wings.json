@@ -1,0 +1,611 @@
+{
+	"overview": [
+		"Wings (Sayap) adalah aksesoris hardmode (kecuali untuk FLedgling Wings) yang bisa membuat player terbang untuk sementara dengan menekan dan menahan tombol <kbd>↷ Jump</kbd>. Waktu terbang akan di reset jika player beristirahat di objek yang bisa di injak,ini termasuk berdiri di atas block dan menggunakan item yang bisa di panjat seperti Ropes, Hooks, Shoe spikes, dan climbing claws. Beberapa tipe wing juga memiliki skill khusus seperti hover (berdiam di udara) dengan menahan <kbd>▼ Down</kbd> ketika terbang, dan/atau yang bisa menaikan kecepatan terbang dengan menahan <kbd>▲ Up</kbd>.",
+
+		"Setelah waktu terbang habis, player bisa lanjut menekan <kbd>↷ Jump</kbd> untuk meluncur. Kecepatan meluncur bisa di ubah dengan menahan <kbd>▼ Down</kbd> ",
+
+		"Sayap juga bisa memberikan immunitas terhadap fall damage (kecuali jika terkena debuff stoned), sehingga item yang memiliki imunitas terhadap fall damage tidak diperlukan lagi.",
+
+		"Terbang menggunakan wings lebih mudah di kontrol daripada menggunakan Rocket boots, Spectre boots, dll. namun, mereka dapat memberikan extra waktu untuk terbang. Menggunakan sayap secara umum menggantikan lompatan menjadi terbang, daripada harus mengaktifkan double-jump. Aksesoris yang memberikan lompatan-ganda seperti Cloud in a Bottle masih akan memberikan extra lompatan, yang mana digunakan setelah terbang",
+
+		"Untuk sekarang ada total 47 tipe wings: 45 ada di versi Dekstrop, Console, dan Mobile, 39 di versi Switch dan Tmodloader, dan 21 di Old-gen console dan 3DS. Waktu terbang dan kecepatannya berbeda di tiap versi"
+	],
+
+	"types": [
+		"Wings bisa di dapat dengan berbagai cara: beberapa ada yang bisa di buat, dan beberapa ada yang bisa di beli,sayu dari hadiah misi Angler, beberapa di dapatkan langsung dari boss dan satu hadiah untuk semua karakter di Journey Mode atau di temukan di sky island.",
+
+		"Di mode expert, beberapa wing dapa didapatkan langsung dari Treasure Bags: Masing masing Treasure Bag di hardmode memiliki kemungkinan sebanyak 1/20 (5%) dari set devekoper, semua set memiliki wings (kecuali untuk Aaron's set).",
+
+		"Kebanyakan wings yang bisa dibuat di Hardmode Anvil: Masing masing membutuhkan 20 Soul of Flight dan item \"kunci\" yang menentukan tipe wing yang akan dibuat. Item kunci ini didapatkan dari musuh langka , atau material yang menunjukan tingkatan baru di dalam game ",
+
+		"Keempat wing lunar (Solar wings,Vortex Booster,Nebuka Mantle, dan Stardust Wings) dibuat seperti item endgame lain: Di Ancient Manipulator dan menggunakan Luminite Bars dan Lunar Fragments; Mereka tidak memerlukan Souls Of Flight",
+
+		"Semua wings dijual sebanyak 8 Gold Coins, Kecuali untuk Leaf wings (15 Gold Coin di Desktop,Console,Mobile atau 20 Gold coin di Old-gen console,3DS,Switch,Tmodloader) dan Steampunk Wings (60 Gold Coin di Desktop,Console,Mobile atau 20 Gold coin di Old-gen console,3DS,Switch,Tmodloader)."
+	],
+
+	"wings": [
+		{
+			"name": "Fledgling Wings",
+			"source": "Didapatkan ketika membuat karakter dari Journey mode atau dari Skyware Chests, SKy Crates and Azure Crates di versi desktop.",
+			"time": 0.42,
+			"height": 18,
+			"speed_x": 15,
+			"speed_y": 150,
+			"rarity": 0,
+			"notes": "Satu satunya wing pre-hardmode."
+		},
+		{
+			"name": "Angel Wings",
+			"source": [
+				"[i:Material:Feather] Feather (10)",
+				"[i:Material:Soul_of_Flight] Soul of Flight (20)",
+				"[i:Material:Soul of Light] Soul of Light (25)"
+			],
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Demon Wings",
+			"source": [
+				"[i:Material:Feather] Feather (10)",
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Soul of Night] Soul of Night (25)"
+			],
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Leaf Wings",
+			"source": "Dijual oleh Witch Doctor",
+			"time": 1.67,
+			"height": 53,
+			"speed_x": 32,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Dijual seharga 75 gold di hardmode jungle ketika malam."
+		},
+		{
+			"name": "Fairy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Pixie Dust] Pixie Dust (100)"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Memancarkan cahaya partikel kuning."
+		},
+		{
+			"name": "Fin Wings",
+			"source": "Hadiah dari misi angler",
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 4,
+			"notes": "Kemungkinan sebesar 1/70 setelah misi angler ke 10 di hardmode."
+		},
+		{
+			"name": "Frozen Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Ice Feather] Ice Feather"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Bercahaya di kegelapan dan memancarkan partikel salju."
+		},
+		{
+			"name": "Harpy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Giant Harpy Feather] Giant Harpy Feather"
+			],
+			"time": 2.17,
+			"height": 67,
+			"speed_x": 34,
+			"speed_y": 150,
+			"rarity": 5
+		},
+		{
+			"name": "Jetpack",
+			"source": "Dijual oleh Steampunker",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 33,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": [
+				"DIjual seharga 40 gold ketika fase bulan : [i:UI:Moon-new] [i:UI:Moon-6] [i:UI:Moon-7] [i:UI:Moon-8]",
+				"Naik lebih cepat menggunakan <kbd>▲ Up key</kbd>.",
+				"Memmancarkan cahaya oranye cerah dan efek suara unik ketika digunakan."
+			]
+		},
+		{
+			"name": "Red's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "D-Town's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Will's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Crowno's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Cenx's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Lazure's Barrier Platform",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Item developer",
+				"Hover dengan menahan tombol <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Memancarkan cahaya ungu samar dan bercahaya di kegelapan.",
+				"Tidak bersuara."
+			]
+		},
+		{
+			"name": "Yoraiz0r's Spell",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Item developer",
+				"Partikel roket sama seperti item rocket boots tanpa grapik wing.",
+				"Hover dengan menahan <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Memancarkan cahaya merah samar dan memmbuat mata player menjadi merah menyala.",
+				"Cahaya tergantung slot aksesoris.Paling bawah memberikan cahaya yang paling terang sedangkan paling atas menghilangkan efek cahaya.",
+				"Mata bisa di warnai di slot pet, efek roket diwarnai di slot aksesoris.",
+				"Tidak bersuara."
+			]
+		},
+		{
+			"name": "Jim's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [ "Item developer", "Bercahaya di kegelapan." ]
+		},
+		{
+			"name": "Skiphs' Paws",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Item developer",
+				"Hover dengan menahan <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>."
+			]
+		},
+		{
+			"name": "Loki's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [ "Item developer", "Bercahaya di kegelapan." ]
+		},
+		{
+			"name": "Arkhalis' Lightwings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": [
+				"Item developer",
+				"Memancarkan partikel putih terang, bercahaya di kegelapan.",
+				"Warna yang di pancarkan tergantung warna baju yang digunakan oleh player."
+			]
+		},
+		{
+			"name": "Leinfors' Prehensile Cloak",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Ghostar's Infinity Eight",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Developer item"
+		},
+		{
+			"name": "Safeman's Blanket Cape",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "FoodBarbarian's Tattered Dragon Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Grox The Great's Wings",
+			"source": "Treasure Bags",
+			"time": 2.5,
+			"height": 77,
+			"speed_x": 36,
+			"speed_y": 150,
+			"rarity": 9,
+			"notes": "Item developer"
+		},
+		{
+			"name": "Bat Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Broken Bat Wing] Broken Bat Wing"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Tidak memberikan bonus pergerakan horizontal."
+		},
+		{
+			"name": "Bee Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Tattered Bee Wing] Tattered Bee Wing"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Tattered Bee Wing bisa didapatkan setelah melawan setidaknya satu mechanical boss."
+		},
+		{
+			"name": "Butterfly Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Butterfly Dust] Butterfly Dust"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": [
+				"Memancarkan Cahaya pink cerah.",
+				"Butterfly Dust bisa didapatkan setelah melawan setidaknya satu mechanical boss."
+			]
+		},
+		{
+			"name": "Flame Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Fire Feather] Fire Feather"
+			],
+			"time": 2.67,
+			"height": 81,
+			"speed_x": 38,
+			"speed_y": 150,
+			"rarity": 5,
+			"notes": "Memancarkan cahaya orannye,bercahaya di kegelapam dan tembus cahaya."
+		},
+		{
+			"name": "Hoverboard",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Bar:Shroomite Bar] Shroomite Bar (18)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 33,
+			"speed_y": 166,
+			"rarity": 5,
+			"notes": [
+				"Hover dengan menaham <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Memberikan bonuse kecepatan sebesar 233% ketika melakukan hover.",
+				"Tidak bersuara."
+			]
+		},
+		{
+			"name": "Bone Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Bone Feather] Bone Feather"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 5
+		},
+		{
+			"name": "Mothron Wings",
+			"source": "Didapatkan dari Mothron",
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 8,
+			"notes": [
+				"Kemungkinan: 5% / [e=9.75%]. Bisa didapatkan setelah melawan plantera.",
+				"Memancarkan cahaya kuning terang dan bercahaya di kegelapan."
+			]
+		},
+		{
+			"name": "Spectre Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Bar:Spectre Bar] Spectre Bar (10)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 8,
+			"notes": [
+				"Digantikan oleh spectre wing di versi Desktop,Console,Mobile,Switch< dan Tmodloader.",
+				"Tembus pandang."
+			]
+		},
+		{
+			"name": "Beetle Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Beetle Husk] Beetle Husk (8)"
+			],
+			"time": 2.83,
+			"height": 94,
+			"speed_x": 38,
+			"speed_y": 166,
+			"rarity": 7,
+			"notes": "Tidak bersuara."
+		},
+		{
+			"name": "Festive Wings",
+			"source": "Didapankan dari Everscream",
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 5,
+			"notes": [
+				"Kemungkinan : 1.11% – 1.67%",
+				"Bercahaya di kegelapan."
+			]
+		},
+		{
+			"name": "Spooky Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Spooky Twig] Spooky Twig"
+			],
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 7
+		},
+		{
+			"name": "Tattered Fairy Wings",
+			"source": [
+				"[i:Material:Soul of Flight] Soul of Flight (20)",
+				"[i:Material:Black Fairy Dust] Black Fairy Dust"
+			],
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 7,
+			"notes": "Memancarkan cahaya kuning cerah."
+		},
+		{
+			"name": "Steampunk Wings",
+			"source": "Sold by Steampunker",
+			"time": 3,
+			"height": 107,
+			"speed_x": 38,
+			"speed_y": 180,
+			"rarity": 8,
+			"notes": "Dijual seharga 3 platinum,Post-Golem."
+		},
+		{
+			"name": "Betsy's Wings",
+			"source": "didapatkan dari betsy",
+			"time": 2.5,
+			"height": 119,
+			"speed_x": 36,
+			"speed_y": 250,
+			"rarity": 8,
+			"notes": [
+				"Hover dengan menekam <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Durasi naik sebesar 2x ketika hover.",
+				"Bonus kecepatan sebesar 300% ketika hover,Akselerasi lebih cepat."
+			]
+		},
+		{
+			"name": "Empress Wings",
+			"source": "Didapatkan dari Empress of Light",
+			"time": 2.5,
+			"height": 128,
+			"speed_x": 41,
+			"speed_y": 275,
+			"rarity": 9,
+			"notes": "Naik lebih cepat dengan menahan <kbd>▲ Up</kbd> key."
+		},
+		{
+			"name": "Fishron Wings",
+			"source": "Didapatkan dari Duke Fishron",
+			"time": 3,
+			"height": 143,
+			"speed_x": 41,
+			"speed_y": 250,
+			"rarity": 8,
+			"notes": [
+				"Kemungkinan : 1/15 ([e=1/10])",
+				"Menghilangkan kecepatan pinalti di cairan .",
+				"Meninggalkan jejak gelembung air."
+			]
+		},
+		{
+			"name": "Nebula Mantle",
+			"source": [
+				"[i:Material:Nebula Fragment] Nebula Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 143,
+			"speed_x": 33,
+			"speed_y": 245,
+			"rarity": 10,
+			"notes": [
+				"Hover dengan menekan <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Bonus kecepatan sebsar 300% ketika hover,akselerasi lebih cepat.",
+				"Durasi naik sebesar 2x ketika hover.",
+				"Bercahaya di kegelapan.",
+				"Bayangan bergerak dengan efek berdenyut ketika digunakan bersamaan dengan nebula armor."
+			]
+		},
+		{
+			"name": "Vortex Booster",
+			"source": [
+				"[i:Material:Vortex Fragment] Vortex Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 143,
+			"speed_x": 33,
+			"speed_y": 245,
+			"rarity": 10,
+			"notes": [
+				"Hover dengan menahan <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>.",
+				"Bonus kecepatan sebesar 300% ketika hover,akselerasi lebih cepat.",
+				"Durasi naik sebesar 2x ketika hover.",
+				"Memancarkan cahaya biru langit cerah dan bercahaya di kegelapan."
+			]
+		},
+		{
+			"name": "Solar Wings",
+			"source": [
+				"[i:Material:Solar Fragment] Solar Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 167,
+			"speed_x": 46,
+			"speed_y": 300,
+			"rarity": 10,
+			"notes": [
+				"Mendapatkan ekstra kecepatan naik sebesar 50%, Akselerasi lebih cepat ",
+				"Bercahaya di kegelapan dan memancarkan cahaya oranye cerah."
+			]
+		},
+		{
+			"name": "Stardust Wings",
+			"source": [
+				"[i:Material:Stardust Fragment] Stardust Fragment (14)",
+				"[i:Bar:Luminite Bar] Luminite Bar (10)"
+			],
+			"time": 3,
+			"height": 167,
+			"speed_x": 46,
+			"speed_y": 300,
+			"rarity": 10,
+			"notes": [
+				"Mendapaktakn ekstra kecepatan naik sebesar 50%, Akselerasi lebih cepat.",
+				"Bercahaya di kegelapam.",
+				"Efek bayangan transparan dengan jejak ketika menggunakan stardust armor."
+			]
+		},
+		{
+			"name": "Celestial Starboard",
+			"source": "Dropped by Moon Lord in Expert Mode",
+			"time": 3,
+			"height": 201,
+			"speed_x": 41,
+			"speed_y": 450,
+			"rarity": 12,
+			"notes": [
+				"Mempercepat kecepatan naik sebesar 50% dengan menggunakan ▲ Up key.",
+				"Hover dengan menahan <kbd>▼ Down</kbd> + <kbd>↷ Jump</kbd>."
+			]
+		}
+	]
+}
