@@ -1,0 +1,58 @@
+{
+	"overview": [
+		"Beenade adalah senjata ranged yang dapat habis yang bisa didapatkan dari Boss Queen Bee atau dibuat menggunakan Greanade Dan Bee Wax. Mereka berkerja sama seperti Grenade biasa, namun mengekuarkan 15-25 Projektil Lebah yang dapat mengejar musuh setelah meledak. Setiap lebah dapat menyerang atau memantul sebanyak 3 Kali dan setiap lebah memberikan damage sebesar total damage dari Grenade tersebut."
+	],
+
+	"notes": [
+		"Tidak seperti Senjata lain yang dapat mengeluarkan lebah, Hive Pack tidak memberikan tambahan lebah untuk muncul dari Grenade.",
+    "Beenade yang meledak di air atau lava tidak akan mengeluarkan lebah. Lebah akan langsung menghilang ketika mendapatkan kontak dari kedua benda tersebut. Lebah bisa muncul di Honey walaupun mereka bergerak lebih lambat sampai mereka keluar.",
+    "Lebah yang dimunculkan oleh Beenade bekerja sebagai entities, dan karena maximal entities hanya ada 400 di setiap world (mungkin lebih sedikit jika ada objek/coin lain di suatu tempat). Karena setiap Beenade memunculkan 15-25 lebah setelah meledak. hanya perlu 20 Beenade untuk membuat DPS menjadi rendah karena limitasi dari entinitas, Diasumsikan tida menggunakan item yang dapat memunculkan lebah lainnya dan tidak ada entinitas lain world (<code>(400-&lt;Jumlah entinitas yang tersedia>)/20=20</code>).",
+    "Lebah yang di summon oleh Beenade tidak akan mengejar player ketika PvP."
+	],
+
+	"tips": [
+		"Beenade lebih baik digunakan di tempat yang luas, terbuka. karena ruang yang sempit memiliki kemungkinan lebih tinggi agar lebah dapat memantul , yang mana akan mengurangi potensi damage, Yang membuat beenade menjadi sakit adalah karena serangan gerombolan lebah.",
+    "Beenade sangat efektif untuk beberapa boss. Untuk melawan Wall of Flesh, Mereka mengerumuni Hungries, Menghancurkan mereka sangat cepat. Butuh sekitas 50–100 / [e=100–150] Beenades untuk mengalahkan Wall of Flesh.",
+    "Jika ada banyak entities di world (objek/coin/block). Berhati hati karena memunculkan banyak lebah dapat membuat entities lama menghilang, Membuat objek paling lama menghilang. Jadi disarankan untuk mengambil semua item berharga sebelum nge-spam item yang memunculkan lebah.",
+    "Menggunakan Hive Pack akan membuat sekitar setengah lebah memberikan 8% lebih bannyak damage dan sedikit knockback, dengan tambahan terbang semakin cepat."
+	],
+
+	"title": "Beenade",
+	"max_stack": 999,
+	"damage": [{ "value": "12 [i:UI:Desktop version] / 14 [i:UI:Mobile version]", "tip": "Ranged" }],
+	"knockback": 1,
+	"consumable": true,
+	"critical_chance": 4,
+	"use_time": 15,
+	"velocity": 6,
+	"tooltip": "Meledak menjadi segerombolan lebah",
+	"rarity": 0,
+	"sell": [{ "value": 40, "type": "copper" }],
+	"research": 99,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "qty": "10-30", "rate": 75, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "qty": "10-29", "rate": 100, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"recipe": [
+			{
+				"result": { "name": "Beenade", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Grenade", "type": "Weapon" },
+					{ "name": "Bee Wax", "type": "Material" }
+				],
+				"station": [
+					{ "name": "Iron Anvil", "type": "Furniture" },
+					{ "name": "Lead Anvil", "type": "Furniture" }
+				]
+			}
+		]
+	}
+}

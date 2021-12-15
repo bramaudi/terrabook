@@ -1,0 +1,82 @@
+{
+	"overview": [
+		"Bee Keeper adalah item Pre-Hardmode broadsword yang memiliki kesempatan sebesar 33% di dapatkan dari queen bee. Ketika menyerang musuh, ini mengeluarkan lebah yang friendly (1-3 atau 1-4 jika menggunakan Hive pack), dan memiliki 90% kesempatan untuk memberikan debuff Confused jika mengenai musuh.",
+
+		"Bee keeper dapat autoswing.",
+
+		"Modifier terbaiknya adalah Legendary."
+	],
+
+	"notes": [
+		"Lebah yang di munculkan oleh Bee Keeper memberikan damage sebesar 8-9 poin, lebah dapat memberikan tambahan damage sebesar 1-4 jika menggunakan Hive Pack, Hive Pack juga memiliki kesempatan sebesar 33% untuk memunculkan ekstra lebah.",
+		"Lebahnya dapat menembus musuh beberapa kali dan dapat menyerang musuh yang sama berkali kali.",
+		"Lebah akan hancur jika terkena air atau block solid.",
+		"setiap kali lebah memantul ke tembok atau memasuki air, mereka kehilangann satu \"point\" menuju musuh yang dapat di tembus.",
+		"Efek Armor peneteration (seperti dari Shark Tooth Necklace atau Sharpening Station) Juga memberikan efek kepada lebah yang dimunculkan, membuat lebah tersebut dapat memberikan ekstra damage.",
+		"Meskipun Falcon Blade memiliki rarity yang lebih tinggi, Bee Keeper jauh lebih baik daripada Falcon Blade dari berbagai hal, termasuk harga jual."
+	],
+
+	"tips": [
+		"Menggunakan Bee Keeper kepada Eater Of Worlds atau The Destroyer akan memunculkan banyak lebah jika mereka bergerak tepat kepada area ayunan pedang ini.",
+		"Bee kKeeper dapat berguna bahkan sampai Hardmode karena kemamapuannya dapat memberikan efek confusion dan memberikan damage yang baik sekaligus, terutama dengan lebah.",
+		"Bee Keeper dapat berguna untuk menghadapi banyak musuh sekaligus, karena merkea tidak hanya dapat menyelesaikan musuh yang terkena serangan dengan pedang, namun juga dapat menyakiti atau membunuh musuh lain disekitarnya."
+	],
+
+	"title": "Bee Keeper",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": 26,
+	"knockback": 5.3,
+	"critical_chance": 4,
+	"use_time": 20,
+	"tooltip": [
+		"Memunculkan lebah pembunuh setelah menyerang musuh",
+		"Berkemungkinan kecil untuk memberikan confusion"
+	],
+	"rarity": 3,
+	"sell": [{ "value": 3, "type": "gold" }],
+	"research": 1,
+	"inflict": [
+		{
+			"debuff": "Confused",
+			"tooltip": "Movement is reversed",
+			"chance": "90%",
+			"duration": [{ "value": 2, "tip": "seconds" }]
+		}
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 33, "type": "Boss" }
+	],
+
+	"expert" : {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	},
+
+	"craft": {
+		"used": [
+			{
+				"result": { "name": "Zenith", "type": "Weapon" },
+				"ingredient": [
+					{ "name": "Terra Blade", "type": "Weapon" },
+					{ "name": "Meowmere", "type": "Weapon" },
+					{ "name": "Star Wrath", "type": "Weapon" },
+					{ "name": "Influx Waver", "type": "Weapon" },
+					{ "name": "The Horseman's Blade", "type": "Weapon" },
+					{ "name": "Seedler", "type": "Weapon" },
+					{ "name": "Starfury", "type": "Weapon" },
+					{ "name": "Bee Keeper", "type": "Weapon" },
+					{ "name": "Enchanted Sword", "type": "Weapon" },
+					{ "name": "Copper Shortsword", "type": "Weapon" }
+				],
+				"station": [
+					{ "name": "Mythril Anvil", "type": "Furniture" },
+					{ "name": "Orichalcum Anvil", "type": "Furniture" }
+				],
+				"station_rowspan": 10
+			}
+		]
+	}
+}

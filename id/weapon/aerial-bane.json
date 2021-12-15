@@ -1,0 +1,45 @@
+{
+	"overview": [
+		"Aerial Bane adalah item hardmode, Post-Golem yang didapatkan dari besty ketika event Old One's Army.Ini mengubah semua tipe arrow menajdi 6 arrow spesial yang dikeluarkan setiap ditembakan,Dan memberikan ekstra damage sebesar 50% untuk musuh yang terbang.",
+
+		"Arrow spesial Melesat tajam dan akan menghilang di udara jika mereka terlalu jauh. Ketika terkena musuh, Arrow tersebut akan terpecah menjadi 5,Melesat ke bawah dengan persebaran sebesar 90 derajat dengan arrow utama tadi mejadi pusatnya, dimanapun arrow tersebut mengenai musuh. lima arrow terbaru tidak akan berpecah lagi ketika mengenai musuh.",
+
+		"Modifier terbaiknya adalah Unreal."
+	],
+
+	"notes": [
+		"Bow ini akan mengecek musuh tersebut ada di udara atau tidak jika ada block solid dibawah 12 tile dari titik serangan. Dengan demikian, Jika musuh \"yang tidak terbang \" Berada lebih dari 12 tile diatas solid block, Maka dia akan di anggap sebagai musuh udara dan bow akan memberikan ekstra damage."
+	],
+
+	"tips": [
+		"Aerial bane adalah bow alternatif dari berbagai bow kuat lainnya seperti Pulse Bow, Tsunami, dan Phantasm karena kemampuan uniknya.",
+    "Bow ini harus di arahkan agak keatas supaya memaksimalkan jangkauan dan DPS. Karena dia biasanya tidak akan mengenai musuh yang berada di luar layar.",
+    "Menggunakan wing bisa membantu menutupi kekurangan jangkauan dan bow.penurunan tajam bow ini",
+    "Aerial Bane sangan membantu melawan berbagai macam boss, karena mereka biasanya terbang. Bow ini juga efisien ketika event, karena ada banyak musuh yang ditanah yang akan terkena oleh projektil tambahan.",
+    "Di versi Console (butuh rujukan), spesial arrow dan yang terpecah keduanya dapat menyerang musuh yang sama, menyebabkan dps yang absurb. untuk hasil terbaik, serang lewat atas."
+	],
+
+	"title": "Aerial Bane",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 55, "tip": "Ranged" }],
+	"ammo": "Arrows",
+	"knockback": 4.5,
+	"critical_chance": 7,
+	"use_time": 30,
+	"velocity": 22,
+	"tooltip": "Menembakan arrow yang dapat berpecah, memberikan damage lebih tinggi untuk musuh yang terbang",
+	"rarity": 8,
+	"sell": [{ "value": 5, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Betsy", "rate": 25, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Betsy)", "rate": 25, "type": "Bag" }
+		]
+	}
+}

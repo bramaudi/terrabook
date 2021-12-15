@@ -1,0 +1,42 @@
+{
+	"overview": [
+		"Bat Scepter adalah item hardmode, post-Plantera weapon magic yang dapat auto-fire dan mengeluarkan 1-3/2-3 kelelawar yang dapat mengejar musuh setiap tembakan. .",
+
+		"Modifier terbaiknya adalah Mythical."
+	],
+
+	"notes": [
+		"Walaupun Bat Scepter lebih superior daripada Wasp Gun dalam hal base damage dan dalam hal DPS untuk target tunggal,Wasp Gun lebih disarankan untuk tempat yang sempit, (seperti Dungeon). atau musuh dengan gerombolan (seperti ketika event).",
+    "Kelelawar tidak akan langsung mengejar musuh; mereka harus menempuh jarar tertentu terlbih dahulu. Karena mereka ditembakan dalam pola cone random dan akan menghilang daripada memantuk ketika menabrak block, ini membatasi jumlah kelelawar yang dapat mengenai musuh di tempat sempit seperti Dungeon..",
+    "Projektil tidak dapat memasuki water atau lava, tapi dapat memasuki honey."
+	],
+
+	"tips": [
+		"ini bisa dianggap \"versi hallowen\" dari Bee Gun dan Wasp Gun.",
+		"Bat scepter memberikan suara yang sama seperti wings ketika di tembakan."
+	],
+
+	"title": "Bat Scepter",
+	"max_stack": 1,
+	"auto_use": true,
+	"damage": [{ "value": 45, "tip": "Magic" }],
+	"knockback": 3,
+	"mana": 6,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 10,
+	"tooltip": "Memuculkan kelelawar untuk menyerang musuh."
+	"rarity": 8,
+	"sell": [{ "value": 10, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Pumpking", "rate": "1.56 - 12.5", "type": "Boss" }
+	],
+
+	"expert" : {
+		"dropped_by": [
+			{ "name": "Pumpking", "rate": "6.25 - 12.5", "type": "Boss" }
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"overview": [
+		"Bee Gun adalah magic weapon yang menembakan 1-6 projektil lebah yang dapat menembus. projecttile ini dapat menembus atau memantul sampai 3 kali sebelum menghilang, dan dapat mengejar musuh jika berada di dalam jangkauannya. Mereka tidak memberikan Knosckback,Kecuali di perkuat dengan Hive Pack. Bee Gun memiliki kemmungkinan 33% di dapatkan dari Queen Bee.",
+
+		"Modifier terbaiknya adalah Demonic atau Deadly untuk damage,atau Mystic agar hemat mana karena ini tidak bisa mendapatkan modfier yang mempengaruhi knockback."
+	],
+
+	"notes": [
+		"Lebah akan menhilang jika mendapatkan kontak dengan air atau lava, tapi tidak honey. lebah tidak akan mengejar musuh jika berada di air atau lava",
+		"Bee Gun tidak dapat efek dari Bee armor, mesikpun termasuk achievement.",
+		"Seperti semua senjata yang dapat mengejar musuh, Bee fun tidak akan menyerang player di PvP, namun akan memberikan kockback kepada player lain jika terkena secara langsung.",
+		"Lebah memberikan 1-4.",
+		"Bee gun akan memunculkan 1-4 lebah, dengan tambahan 16% kemungkinan memunculkan lebah lainnya. Dengan Hive Pack, ada juga ekstra 33% kemungkinan unutk memunculkan lebah terakhir. Dengan rata rata lebah adalah 2.82, atau 3.15 dengan hive pack."
+	],
+
+	"tips": [
+		"Walaupun hanya memiliki base damage sebesar 9, Bee Gun dapat membanjiri musuh jika menggunakan perlengkapan yang baik",
+		"Bee Gun memberikan crowd control yang baik terutama jika memfokuskan lebah terhadap musuh di tempat yang terbatas,seperti di Dungeon.",
+		"Efektif untuk menghasilkan uang jika menggunakan Lucky Coin.",
+		"Hive Pack memberikan sedikit tambahan damage dan knockback dari lebah,memungkinkan untuk membuat Bee Gun berguna sampai Hardmode.",
+		"Bee Gun membuat perjalanan di Underground Jungle menjadi nyaman karena lebah membersihkan vines ketika memantul,membantu pengelihatan player. Ingat bahwa mereka juga mungkin akan menghancurkan Beehives.",
+		"Dikarenakan base damage yang rendah, Shark Tooth Necklace akan sangat berguna jika digunakan bersamaan."
+	],
+
+	"title": "Bee Gun",
+	"auto_use": false,
+	"max_stack": 1,
+	"damage": [{ "value": 9, "tip": "Magic" }],
+	"knockback": 0,
+	"mana": 5,
+	"critical_chance": 4,
+	"use_time": 12,
+	"velocity": 32,
+	"tooltip": "Menembak lebah yang bisa mengejar musuh",
+	"rarity": 2,
+	"sell": [{ "value": 2, "type": "gold" }],
+	"research": 1,
+
+	"dropped_by": [
+		{ "name": "Queen Bee", "rate": 33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Bee)", "rate": 33, "type": "Bag" }
+		]
+	}
+}
