@@ -1,0 +1,68 @@
+{
+	"overview": [
+		"Ninja armor adalah armor yang dikomposisi dari Ninja hood, Ninja Shirt dan Ninja Pants. King Slime memberikan satu dari tiga armor tersebut (dengan kemungkinan 1:3) atau dua di expert mode. di versi 3ds, Setiap potongan bisa didapatkan dari Lepus, namun hanya dengan kemungkinan 3%.",
+		[
+			"di versi Switch version and tModLoader, Ini memberikan sedikit defense, namun memberikan bonus damage untuk throwing weapon.",
+			"di versi Desktop version, Console, and Mobile version, Ini memberikan sedikit defense, namun meniakan crit chance dan movement speed.",
+			"di versi 3DS version, tidak memberikan defense, Namum bemiliki bonus untuk weapon thrower di stat nya. Hanya saja, ini tidak memberikan bonus yang tertulis, dan throwing damage bukan damage yang berbeda di versi ini.",
+			"di versi Old-gen console, ini adalah vanity item yang tidak memberikan defense atau damage."
+		],
+		"Di semua versi, menggunakan full set memberikan efek after-image sama seperti Shadow,Necro, Dan cobalt armor."
+	],
+
+	"title": "Ninja armor",
+	"type": ["Armor"],
+	"max_stack": 1,
+	"defense": 9,
+	"set_bonus": "memberikan 20% movement speed",
+	"rarity": 1,
+	"sell": [
+		{ "value": 40, "type": "silver", "tip": "(set)" }
+	],
+
+	"dropped_by": [
+		{ "name": "King Slime", "qty": 1, "rate": 33.33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (King Slime)", "qty": 1, "rate": 67, "type": "Bag" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Ninja Hood",
+			"defense": 2,
+			"slot": "Helmet",
+			"tooltip": "Menaikan 3% critical chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 20, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Ninja Shirt",
+			"defense": 4,
+			"slot": "Shirt",
+			"tooltip": "Menaikan 3% critical chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 10, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Ninja Pants",
+			"defense": 3,
+			"slot": "Pants",
+			"tooltip": "MEnaikan 3% critical chance",
+			"rarity": 1,
+			"sell": [
+				{ "value": 10, "type": "silver", "tip": "(set)" }
+			],
+			"research": 1
+		}
+	]
+}

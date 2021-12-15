@@ -1,0 +1,94 @@
+{
+	"overview": [
+		"Crystal Assasin armor adalah set armor yang berisis Crystal Assasin Hood, Crystal Assasin Shirt, dan Crystal Assasin Pants. Armor set memberikan bonus Non-Class-spesifik. Ini didapatkan dari Queen Slime; Dia selalu memberikan satu jenis/dua jenis setelah dikalahkan.",
+
+		"FUll set dari Crystal Assasin armor memberikan keuntungkan berikut:",
+
+		[
+			"+36 defense",
+			"+15% damage",
+			"+15% critical strike chance",
+			"[i:UI:Desktop_version] +20% / [i:UI:Console_version] [i:UI:Mobile_version] +25% movement speed",
+			"[i:UI:Desktop_version] -10% mana cost",
+			"[i:UI:Desktop_version] +10% ammo conservation",
+			"[i:UI:Desktop_version] +10% melee speed",
+			"[i:UI:Desktop_version] Ability to dash"
+		]
+	],
+
+	"tips": [
+		"Dikarenakan Defense dan Stat bonus yang lumayan, Ini bisa menjadi alternatif untuk armor dari Hardmode ore, Terutama bagi player yang tidak mau mencari resource.",
+    "Ini bekerja sangat baik dengan Nimbus Rod, Clinger Staff, dan Queen Spider Staff karena armor ini memberikan bonus damage tanpa mengorbankan bonus untuk senjata melee ataupun ranged.",
+    "Di mode classic, dash dari Crystal assasin armor hanya efek dash yang tersedia sebelum plantera.",
+    "Di expert mode, Dash dari crystsak assasin armor bisa digunakan untuk menggantikan Shield of Cthulhu atau Master Ninja gear, menghemat satu slot aksesoris. slot ini bisa digunakan untuk aksesoris offensive seperti emblem. Crystal assasin armor memberikan bonus offensive daripada armor Adamantite atau titanium, yang mana tidak memberikan bonus offensive yang seleve; tanpa mengorbankan dash. Hanya saja, Crystal assasin armor tidak memberikan extra bonus mana yang membuat pilihan ini tidak menarik untuk mage.",
+    "The dash provided by Crystal Assassin armor is often better than the Shield of Cthulhu's dash, since it covers a greater distance and will not be interrupted by contact with an enemy if a Cobalt Shield is equipped. There are many situations where accidentally bumping into an enemy can be extremely undesirable, notably when fighting Plantera or Skeletron Prime.",
+    "Di versi Console dan mobile, Crytsal assasin armor berdasarkan stat mirip seperti varian melee dari Mythril aror, walaupun itu memberikan sedikit extra critical chance dan movement speed."
+	],
+
+	"title": "Crystal Assassin armor",
+	"max_stack": 1,
+	"defense": 36,
+	"set_bonus": [
+		"Dapat dash",
+		"10% extra damage dan movement speed"
+	],
+	"rarity": 5,
+	"sell": [
+		{ "value": 6, "type": "gold", "tip": "(set)" }
+	],
+
+	"dropped_by": [
+		{ "name": "Queen Slime", "qty": 1, "rate": 33.33, "type": "Boss" }
+	],
+
+	"expert": {
+		"dropped_by": [
+			{ "name": "Treasure Bag (Queen Slime)", "qty": 1, "rate": 67, "type": "Bag" }
+		]
+	},
+
+	"part": [
+		{
+			"title": "Crystal Assassin Hood",
+			"defense": 12,
+			"slot": "Helmet",
+			"tooltip": [
+				"Critical chance naik sebesar 5%",
+				"Mengurangin konsumsi mana sebesar 10%"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Crystal Assassin Shirt",
+			"defense": 14,
+			"slot": "Shirt",
+			"tooltip": [
+				"Memeberikan 5% damage",
+				"Mengurangi penggunaan ammo sebesar 10%"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		},
+		{
+			"title": "Crystal Assassin Pants",
+			"defense": 10,
+			"slot": "Pants",
+			"tooltip": [
+				"memberikan 20% movement speed",
+				"memberikan 10% melee speed"
+			],
+			"rarity": 5,
+			"sell": [
+				{ "value": 2, "type": "gold" }
+			],
+			"research": 1
+		}
+	]
+}
