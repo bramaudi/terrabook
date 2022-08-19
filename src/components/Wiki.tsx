@@ -14,12 +14,13 @@ export default function(props: { slug: string }) {
 	const [favorite, { toggleFavorite, isFavorite }] = useFavorite()
 	// Exclusive on bosses display
 	const [mode, setMode] = createSignal(0) // [normal,expert,master]
-	const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug
 	
 	const fav = () => {
+		const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug
 		return { type: items().type, name }
 	}
 	const previewImage = () => {
+		const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug		
 		return name.replace(/ /g, '_').replace('\\\'', "'")
 	}
 	
