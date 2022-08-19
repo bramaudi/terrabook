@@ -7,6 +7,14 @@ const routes: RouteDefinition[] = [
 		component: lazy(() => import('@/pages/wiki'))
 	},
 	{
+		path: '/search/*path',
+		component: lazy(() => import('@/pages/search'))
+	},
+	{
+		path: '/favorite',
+		component: lazy(() => import('@/pages/favorite'))
+	},
+	{
 		path: '/',
 		component: lazy(() => import('@/pages/index'))
 	}

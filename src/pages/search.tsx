@@ -1,32 +1,32 @@
-import { Link, useLocation } from "solid-app-router"
-import { Accessor, createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
-import Wiki from "./Wiki"
+import { Link, useLocation, useParams } from "solid-app-router"
+import { createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
+import useJson from "@/hooks/useJson"
+import Wiki from "@/components/Wiki"
 
-type Props = {
-    items: Accessor<string[]>
-    slug: string
-}
-
-export default function(props: Props) {
+export default function() {
 	const location = useLocation()
+    const [items] = useJson<Array<{ type: string, name: string }>>('_search.json')
     const [search, setSearch] = createSignal('')
 	const [limit, setLimit] = createSignal(0)
 
-    const path = () => location.pathname.split('/').slice(-1)[0]
-    const indexView = () => path() === props.slug
+	const path = () => location.pathname.split('/').slice(-1)[0]
+    const indexView = (): boolean => {
+		const path = location.pathname.split('/').slice(2)
+		return path.length !== 2
+	}
 
     const filteredItems = createMemo(() => {
 		const max = 50
 		const start = max * limit()
 		const end = start + max
 
-		let list = props.items()?.slice(0,end)
+		let list = items()?.slice(0,end)
 		if (search().length) {
-			list = props.items()
+			list = items()
 		}
 		
-		return list?.filter((item: string) => {
-			return item.match(new RegExp(search(), 'i'))
+		return list?.filter((item: { type: string, name: string }) => {
+			return item.name.match(new RegExp(search(), 'i'))
 		})
 	}, [])
 
@@ -45,11 +45,11 @@ export default function(props: Props) {
 	onCleanup(() => {
 		window.removeEventListener('scroll', handleWindowScroll)
 	})
-
+	
     return (
 		<>
 			<div
-				class="fixed top-0 pb-16 w-full h-screen overflow-auto p-4"
+				class="fixed w-full top-0 pb-16 h-screen overflow-auto p-4"
 				classList={{ 'hidden': !!indexView() }}
 			>
 				<Show when={!indexView()}>
@@ -70,16 +70,16 @@ export default function(props: Props) {
 					/>
 				</div>
 				<For each={filteredItems()}>
-					{(item: string) => {
-						const slug = item.replace(/ /g, '_')
+					{(item) => {
+						const slug = item.name.replace(/ /g, '_')
 						return (
 							<div class="my-1">
 								<img
 									class="inline mr-2 max-h-8"
 									style={{ "max-width": '32px' }}
-									src={`/images/${props.slug === 'bosses' ? 'Map_Icon_': ''}${slug}.webp`}
+									src={`/images/${item.type === 'bosses' ? 'Map_Icon_': ''}${slug}.webp`}
 								/>
-								<Link href={`/wiki/${props.slug}/${item}`}>{decodeURIComponent(item)}</Link>
+								<Link href={`/search/${item.type}/${item.name}`}>{decodeURIComponent(item.name)}</Link>
 							</div>
 						)
 					}}

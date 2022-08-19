@@ -1,20 +1,8 @@
+import { MENUS } from "@/consts"
 import { App } from "@capacitor/app"
 import { Toast } from "@capacitor/toast"
 import { Link } from "solid-app-router"
 import { For, onCleanup, onMount } from "solid-js"
-
-const MENUS = [
-	{ slug: 'tools',		icon: 'Emote_Item_Pickaxe' },
-	{ slug: 'weapons',		icon: 'Emote_Item_Sword' },
-	{ slug: 'armors',		icon: 'Emote_Platinum_Chainmail' },
-	{ slug: 'accessories',	icon: 'Emote_Hermes_Boots' },
-	{ slug: 'potions',		icon: 'Emote_Healing_Potion' },
-	{ slug: 'pets',			icon: 'Emote_Companion_Cube' },
-	{ slug: 'mounts',		icon: 'Emote_Slime_Mount' },
-	{ slug: 'wings',		icon: 'Emote_Flame_Wings' },
-	{ slug: 'npcs',			icon: 'Emote_Guide' },
-	{ slug: 'bosses',		icon: 'Map_Icon_Betsy' },
-]
 
 export default function() {
 	onMount(() => {

@@ -7,7 +7,7 @@ import CraftTable from "@/components/CraftTable"
 const MODE: { [key:number]: string } = { 0: 'Classic', 1: 'Expert', 2: 'Master' }
 
 export default function(props: { slug: string }) {
-    const { slug } = props
+	const { slug } = props
 	const [items] = useJson<Base>(`${slug}.json`)
 	// Exclusive on bosses display
 	const [mode, setMode] = createSignal(0) // [normal,expert,master]
