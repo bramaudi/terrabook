@@ -40,6 +40,8 @@ export default function(props: { slug: string }) {
 					</For>
 					</div>
 				</Show>
+
+				{/* Stats */}
 				<div class="box-wiki p-2">
 					<table class="table-fixed w-full my-2">
 						<caption class="m-2">
@@ -61,14 +63,14 @@ export default function(props: { slug: string }) {
 						</caption>
 						<For each={Object.keys(items().statistics)}>
 							{key => (
-								<tr class="table-row px-2">
+								<tr class="table-row px-2 border-b border-dashed border-white border-opacity-30">
 									<td class="font-semibold w-1/2 text-right pr-2">{key}</td>
 									<td class="w-1/2" innerHTML={parseImg(items().statistics[key])}></td>
 								</tr>
 							)}
 						</For>
 						<Show when={['pets','mounts'].includes(items().type)}>
-							<tr class="table-row px-2">
+							<tr class="table-row px-2 border-b border-dashed border-white border-opacity-30">
 								<td class="align-baseline font-semibold w-1/2 text-right pr-2">Summon</td>
 								<td class="w-1/2">
 									<div>{slug}</div>
@@ -81,6 +83,8 @@ export default function(props: { slug: string }) {
 						</Show>
 					</table>
 				</div>
+
+				{/* Summaries */}
 				<Show when={items().summaries?.length}>
 					<hr />
 					<For each={items().summaries}>
