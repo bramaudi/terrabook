@@ -89,14 +89,15 @@ h6 {
 .heading .download-ps {
     display: block;
     margin: auto;
-    width: 200px;
+    margin-top: 2em;
+    width: 150px;
 }
 
 .divider {
     position: relative;
     z-index: -1;
     margin-top: -1px;
-    margin-bottom: 60vw;
+    margin-bottom: 22em;
     width: 100%;
     height: 30vw;
     background-repeat: no-repeat;
@@ -115,8 +116,8 @@ h6 {
         font-size: 5vw;
     }
     .heading .preview {
-        width: 25vw;
-        margin-bottom: -20em;
+        width: 30vw;
+        margin-bottom: -35vw;
     }
 
     .divider {
