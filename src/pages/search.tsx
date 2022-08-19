@@ -1,12 +1,14 @@
-import { Link, useLocation, useParams } from "solid-app-router"
+import { Link, useLocation } from "solid-app-router"
 import { createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
 import useJson from "@/hooks/useJson"
 import Wiki from "@/components/Wiki"
 
+type Results = Array<{ type: string, name: string }>
+
 export default function() {
 	const location = useLocation()
-    const [items] = useJson<Array<{ type: string, name: string }>>('_search.json')
-    const [search, setSearch] = createSignal('')
+    const [items] = useJson<Results>('_search.json')
+	const [search, setSearch] = createSignal('')
 	const [limit, setLimit] = createSignal(0)
 
 	const path = () => location.pathname.split('/').slice(-1)[0]
@@ -15,20 +17,24 @@ export default function() {
 		return path.length !== 2
 	}
 
-    const filteredItems = createMemo(() => {
-		const max = 50
+    const filteredList = createMemo(() => {
+		const max = 30
 		const start = max * limit()
 		const end = start + max
 
-		let list = items()?.slice(0,end)
-		if (search().length) {
-			list = items()
-		}
-		
-		return list?.filter((item: { type: string, name: string }) => {
-			return item.name.match(new RegExp(search(), 'i'))
-		})
-	}, [])
+		return (items() || [])
+			.filter(item => item.name.match(new RegExp(search(), 'i')) )
+			.slice(0,end)
+	})
+
+	let timeout: NodeJS.Timeout
+	function handleSearch(e: InputEvent) {
+		clearTimeout(timeout)
+		const value = (e.currentTarget as HTMLInputElement).value
+		timeout = setTimeout(() => {
+			setSearch(value)
+		}, 300)
+	}
 
 	function handleWindowScroll() {
 		// For smooth infinite scroll, append items 80% before bottom treshold
@@ -65,11 +71,11 @@ export default function() {
 						class="w-full p-2 mb-2 rounded bg-slate-900 text-slate-100 placeholder-gray-100 focus:outline-none focus:ring-2 focus:ring-teal-300"
 						placeholder="Search"
 						value={search()}
-						onInput={e => setSearch(e.currentTarget.value)}
+						onInput={handleSearch}
 						type="text"
 					/>
 				</div>
-				<For each={filteredItems()}>
+				<For each={filteredList()}>
 					{(item) => {
 						const slug = item.name.replace(/ /g, '_')
 						return (

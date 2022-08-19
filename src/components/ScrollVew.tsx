@@ -15,20 +15,24 @@ export default function(props: Props) {
     const path = () => location.pathname.split('/').slice(-1)[0]
     const indexView = () => path() === props.slug
 
-    const filteredItems = createMemo(() => {
-		const max = 50
+    const filteredList = createMemo(() => {
+		const max = 30
 		const start = max * limit()
 		const end = start + max
 
-		let list = props.items()?.slice(0,end)
-		if (search().length) {
-			list = props.items()
-		}
-		
-		return list?.filter((item: string) => {
-			return item.match(new RegExp(search(), 'i'))
-		})
-	}, [])
+		return (props.items() || [])
+			.filter(item => item.match(new RegExp(search(), 'i')) )
+			.slice(0,end)
+	})
+
+	let timeout: NodeJS.Timeout
+	function handleSearch(e: InputEvent) {
+		clearTimeout(timeout)
+		const value = (e.currentTarget as HTMLInputElement).value
+		timeout = setTimeout(() => {
+			setSearch(value)
+		}, 300)
+	}
 
 	function handleWindowScroll() {
 		// For smooth infinite scroll, append items 80% before bottom treshold
@@ -65,11 +69,11 @@ export default function(props: Props) {
 						class="w-full p-2 mb-2 rounded bg-slate-900 text-slate-100 placeholder-gray-100 focus:outline-none focus:ring-2 focus:ring-teal-300"
 						placeholder="Search"
 						value={search()}
-						onInput={e => setSearch(e.currentTarget.value)}
+						onInput={handleSearch}
 						type="text"
 					/>
 				</div>
-				<For each={filteredItems()}>
+				<For each={filteredList()}>
 					{(item: string) => {
 						const slug = item.replace(/ /g, '_')
 						return (
