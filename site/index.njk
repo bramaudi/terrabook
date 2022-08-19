@@ -5,24 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Terrabook</title>
-    <link rel="stylesheet" href="./static/style.css">
+    <link rel="stylesheet" href="{{ '/static/style.css' | url }}">
 </head>
 <body>
     <div class="heading">
         <div class="branding">
-            <img class="logo" src="./static/logo.png" alt="Terrabook's logo" />
+            <img class="logo" src="{{ '/static/logo.png' | url }}" alt="Terrabook's logo" />
             <h1>Terrabook</h1>
             <a href="https://play.google.com/store/apps/details?id=io.github.bramaudi.terrabook">
                 <img
                     class="download-ps"
-                    src="./static/playstore-button.png"
+                    src="{{ '/static/playstore-button.png' | url }}"
                     alt="Google Play Download button"
                     title="Download via Google Play"
                 />
             </a>
         </div>
-        <img class="preview" src="./static/terrabook-screenshots.webp" alt="Terrabook's screenshots" />
+        <img class="preview" src="{{ '/static/terrabook-screenshots.webp' | url }}" alt="Terrabook's screenshots" />
     </div>
-    <div class="divider"></div>
+    {% set divider_image = '/static/divider.svg' | url %}
+    <div class="divider" style="background-image: url('{{ divider_image }}');"></div>
 </body>
 </html>
