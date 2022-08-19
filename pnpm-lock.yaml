@@ -4,6 +4,7 @@ specifiers:
   '@11ty/eleventy': ^1.0.2
   '@capacitor/android': ^4.0.1
   '@capacitor/app': ^4.0.1
+  '@capacitor/browser': ^4.0.1
   '@capacitor/cli': ^3.5.1
   '@capacitor/core': ^4.0.1
   '@capacitor/toast': ^4.0.1
@@ -25,6 +26,7 @@ specifiers:
 dependencies:
   '@capacitor/android': 4.0.1_@capacitor+core@4.0.1
   '@capacitor/app': 4.0.1_@capacitor+core@4.0.1
+  '@capacitor/browser': 4.0.1_@capacitor+core@4.0.1
   '@capacitor/core': 4.0.1
   '@capacitor/toast': 4.0.1_@capacitor+core@4.0.1
   solid-app-router: 0.3.3_solid-js@1.4.8
@@ -430,6 +432,14 @@ packages:
 
   /@capacitor/app/4.0.1_@capacitor+core@4.0.1:
     resolution: {integrity: sha512-frPft9TMJL70jWq5jmxwGSBddZVvsWxX5Agj2i19WJerk37aTgljB05HRr/YLg6mF1G/NIXmmFJZDY8MEgirDg==}
+    peerDependencies:
+      '@capacitor/core': ^4.0.0
+    dependencies:
+      '@capacitor/core': 4.0.1
+    dev: false
+
+  /@capacitor/browser/4.0.1_@capacitor+core@4.0.1:
+    resolution: {integrity: sha512-tPOA/eYDJdDeMFd+A3I8teuGfPP0GEqhWtMzH8z5r2tW40iJ/mL8qH5NgVLMZ3uvs7gN2LfQTCMNJvl0F/WdBw==}
     peerDependencies:
       '@capacitor/core': ^4.0.0
     dependencies:
