@@ -11,7 +11,7 @@ const routes: RouteDefinition[] = [
 		component: lazy(() => import('@/pages/search'))
 	},
 	{
-		path: '/favorite',
+		path: '/favorite/*path',
 		component: lazy(() => import('@/pages/favorite'))
 	},
 	{

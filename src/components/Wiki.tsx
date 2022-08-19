@@ -3,16 +3,22 @@ import { createSignal, For, Show } from "solid-js"
 import { parseImg } from "@/utils"
 import useJson from "@/hooks/useJson"
 import CraftTable from "@/components/CraftTable"
+import useFavorite from "@/hooks/useFavorite"
 
 const MODE: { [key:number]: string } = { 0: 'Classic', 1: 'Expert', 2: 'Master' }
 
 export default function(props: { slug: string }) {
 	const { slug } = props
 	const [items] = useJson<Base>(`${slug}.json`)
+	const [favorite, { toggleFavorite, isFavorite }] = useFavorite()
 	// Exclusive on bosses display
 	const [mode, setMode] = createSignal(0) // [normal,expert,master]
+	const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug
+	
+	const fav = () => {
+		return { type: items().type, name }
+	}
 	const previewImage = () => {
-		const name = ['pets', 'mounts'].includes(items().type) ? items().title : props.slug
 		return name.replace(/ /g, '_').replace('\\\'', "'")
 	}
 	
@@ -26,7 +32,17 @@ export default function(props: { slug: string }) {
 			}}
 		>
 			<Show when={!items.error && !items.loading}>
-				<div class="text-2xl font-bold mb-2">{items().title.replace('\\\'', "'")}</div>
+				<div class="flex items-center">
+					<div class="text-2xl font-bold mb-2">{items().title.replace('\\\'', "'")}</div>
+					<button
+						class="ml-auto"
+						onClick={() => toggleFavorite(fav())}
+					>
+						<svg
+							classList={{ 'text-red-500': isFavorite(fav()) }}
+							class="w-5" viewBox="0 0 24 24"><path fill="currentColor" d="m10.65 19.8l-1.725-1.575q-2.65-2.425-4.787-4.813Q2 11.025 2 8.15Q2 5.8 3.575 4.225Q5.15 2.65 7.5 2.65q1.325 0 2.5.562q1.175.563 2 1.538q.825-.975 2-1.538q1.175-.562 2.5-.562q2.35 0 3.925 1.575Q22 5.8 22 8.15q0 2.875-2.125 5.275q-2.125 2.4-4.825 4.825l-1.7 1.55q-.575.525-1.35.525q-.775 0-1.35-.525Z"></path></svg>
+					</button>
+				</div>
 				<Show when={items().type === 'bosses'}>
 					<div class="flex mb-1 rounded-md border border-black border-opacity-40">
 					<For each={[0,1,2]}>

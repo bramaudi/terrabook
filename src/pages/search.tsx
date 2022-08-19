@@ -1,9 +1,10 @@
+import { Result } from "@/types"
 import { Link, useLocation } from "solid-app-router"
 import { createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
 import useJson from "@/hooks/useJson"
 import Wiki from "@/components/Wiki"
 
-type Results = Array<{ type: string, name: string }>
+type Results = Array<Result>
 
 export default function() {
 	const location = useLocation()

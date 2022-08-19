@@ -43,3 +43,10 @@ export interface Pets extends Base {
 export interface Tools extends Base {
     toolpower: string[]
 }
+
+
+
+export interface Result {
+	type: string
+	name: string
+}
