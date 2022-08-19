@@ -8,6 +8,7 @@
     "dev": "vite",
     "dev:site": "eleventy --config=.eleventy.cjs --serve --watch",
     "build": "vite build",
+    "build:site": "eleventy --config=.eleventy.cjs",
     "serve": "vite preview",
     "build:run": "vite build && cap run android",
     "build:search": "node labs/crawler/search.js",
