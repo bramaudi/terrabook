@@ -63,6 +63,13 @@ function parseCraftTable(headlineId) {
     }
     return rows.slice(1)
 }
+function format(el, tags = ['s']) {
+    normalizeText(el)
+    clearSpan(el)
+    parseImg(el)
+    removeTags(el, tags)
+    removeTags(el, ['a'], false)
+}
 
 const title = document.querySelector('#firstHeading').textContent
 
@@ -83,11 +90,7 @@ const summaries = (() => {
         	walk = walk.nextElementSibling
             continue;
         }
-        clearSpan(walk)
-        parseImg(walk)
-        removeTags(walk, ['sup', 'br'])
-        removeTags(walk, ['a'], false)
-        normalizeText(walk)
+        format(walk, ['sup', 'br'])
         if (walk.nodeName === 'UL') {
         	data.push(walk.outerHTML)
         }
@@ -100,8 +103,8 @@ const summaries = (() => {
 const toolpower = (() => {
 	const rows = []
     for (const li of document.querySelectorAll('.toolpower li')) {
-        parseImg(li)
-        rows.push(li.textContent)
+        format(li)
+        rows.push(li.innerHTML)
     }
     return rows
 })()
@@ -113,11 +116,7 @@ const statistics = (() => {
     for (const tr of tbody.querySelectorAll('tr')) {
         const [col1, col2] = tr.childNodes
         const key = col1.textContent.trim()
-        normalizeText(col2)
-        clearSpan(col2)
-        parseImg(col2)
-        removeTags(col2, ['s'])
-        removeTags(col2, ['a'], false)
+        format(col2)
         const value = col2.innerHTML
     	rows[key] = value
     }

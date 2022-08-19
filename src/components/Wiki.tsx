@@ -75,6 +75,7 @@ export default function(props: { slug: string }) {
 								style={{'image-rendering': 'pixelated'}}
 								src={`/images/${previewImage()}.webp`}
 							/>
+							{/* Toolpower */}
 							<Show when={items().type === 'tools'}>
 								<ul class="toolpower mt-3 flex justify-center">
 								<For each={(items() as Tools).toolpower!}>
