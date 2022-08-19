@@ -42,7 +42,9 @@ export default function() {
 		const percent = 80
 		const transition = (percent/100) * window.innerHeight
 		if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - transition)) {
-			setLimit(limit() + 1)
+			if (filteredList().length <= items()?.length) {
+				setLimit(limit() + 1)
+			}
 		}
 	}
 
@@ -97,6 +99,13 @@ export default function() {
 						)
 					}}
 				</For>
+				<Show when={filteredList().length > 50 && filteredList().length >= items()?.length}>
+					<div class="relative flex items-center">
+						<div class="flex-grow border-t border-white border-opacity-20"></div>
+						<span class="flex-shrink mx-4 text-xs text-gray-200">End of list</span>
+						<div class="flex-grow border-t border-white border-opacity-20"></div>
+					</div>
+				</Show>
 			</div>
 		</>
 	)
