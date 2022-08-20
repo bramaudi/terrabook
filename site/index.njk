@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Terrabook</title>
+    <link rel="shortcut icon" href="{{ '/static/favicon.ico' | url }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ '/static/style.css' | url }}">
 </head>
 <body>
@@ -12,18 +13,36 @@
         <div class="branding">
             <img class="logo" src="{{ '/static/logo.png' | url }}" alt="Terrabook's logo" />
             <h1>Terrabook</h1>
-            <a href="https://play.google.com/store/apps/details?id=io.github.bramaudi.terrabook">
-                <img
-                    class="download-ps"
-                    src="{{ '/static/playstore-button.png' | url }}"
-                    alt="Google Play Download button"
-                    title="Download via Google Play"
-                />
-            </a>
+            <div class="tagline">
+                Terrabook is a <strong>small</strong>, <strong>simple</strong>, and <strong>offline</strong> Terraria wiki app.
+            </div>
+            <div class="download">
+                <a class="googleplay" href="https://play.google.com/store/apps/details?id=io.github.bramaudi.terrabook">
+                    <img
+                        src="{{ '/static/playstore-button.png' | url }}"
+                        alt="Google Play Download button"
+                        title="Download via Google Play"
+                    />
+                </a>
+                <a class="github" href="https://github.com/bramaudi/terrabook/releases">
+                    <img
+                        src="{{ '/static/github-button.png' | url }}"
+                        alt="Github Download button"
+                        title="Open Github release"
+                    />
+                </a>
+            </div>
         </div>
         <img class="preview" src="{{ '/static/terrabook-screenshots.webp' | url }}" alt="Terrabook's screenshots" />
     </div>
     {% set divider_image = '/static/divider.svg' | url %}
     <div class="divider" style="background-image: url('{{ divider_image }}');"></div>
+    <footer>
+        <div class="links">
+            <a href="https://github.com/bramaudi/terrabook">Github</a> &#183;
+            <a href="{{ '/privacy-policy' | url }}">Privacy Policy</a>
+        </div>
+        Copyright &copy; 2022
+    </footer>
 </body>
 </html>

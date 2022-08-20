@@ -55,7 +55,7 @@ h6 {
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 2em;
+    padding: 5em;
     background-color: #c62368;
     background: rgb(198,35,104);
     background: linear-gradient(360deg, rgba(198,35,104,1) 30%, rgba(198,64,35,1) 89%); 
@@ -65,15 +65,27 @@ h6 {
     display: block;
     margin: auto;
     min-width: 100px;
-    width: 20vw;
+    width: 10em;
 }
 .heading .branding {
     text-align: center;
     margin-bottom: 2em;
 }
+.heading .branding h1 {
+    padding: .2em;
+    margin-top: -.5em;
+}
+.heading .branding .tagline {
+    padding: .5em 3em;
+    font-size: 1.3em;
+    color: #eee;
+}
+.heading .branding .tagline strong {
+    color: #fff;
+}
 .heading .preview {
-    width: 200px;
-    margin-bottom: calc(-200px - 25vw);
+    width: 15em;
+    margin-bottom: -25em;
     border-radius: .5em;
     box-shadow:
         0px 0px 0px 3px #251d1a,
@@ -86,11 +98,14 @@ h6 {
         15px 100px 80px rgba(0, 0, 0, 0.2)
     ;
 }
-.heading .download-ps {
-    display: block;
-    margin: auto;
+.download {
     margin-top: 1em;
-    width: 150px;
+    margin-bottom: 5em;
+}
+.download img {
+    display: inline-block;
+    width: 10em;
+    margin: -.5em;
 }
 
 .divider {
@@ -104,18 +119,59 @@ h6 {
     background-size: cover;
 }
 
+.links {
+    margin-bottom: 1em;
+}
+.links a {
+    font-size: medium;
+    text-decoration: none;
+    margin: 0 .2em;
+    color: #c62368;
+}
+footer {
+    font-size: small;
+    text-align: center;
+    padding: 1em;
+    margin-bottom: 5em;
+    color: #333;
+}
+
+.content {
+    padding: 2em;
+}
+.content h1 {
+    margin-bottom: .5em;
+}
+.content h3 {
+    margin: 1.5em 0 .5em;
+}
+
 @media only screen and (min-width: 768px) {
     .heading {
         flex-direction: row;
         justify-content: center;
     }
     .heading .branding {
-        margin-right: 20vw;
+        text-align: left;
+        margin-right: 5em;
     }
     .heading .branding h1 {
-        font-size: 5vw;
+        font-size: 3em;
+    }
+    .heading .branding .tagline {
+        padding: .5em;
     }
     .heading .preview {
-        width: 30vw;
+        margin-bottom: -5em;
+    }
+    .branding .logo,
+    .download img {
+        display: inline-block;
+    }
+    .download img {
+        width: 15em;
+    }
+    footer {
+        margin-top: -15em;
     }
 }
