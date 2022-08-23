@@ -8,9 +8,14 @@
 
 Terrabook is offline handcrafted wiki for Terraria with following features:
 
-- Fully offline
-- Bookmark favorite items
-- Free & no ads
+* 1200+ items in total
+* Simple & focused UI design
+* Offline with no internet permission
+* Search all or specific items category
+* Mark items as favorite
+* Free & no ads
+
+More items are coming soon...
 
 ### Download
 
