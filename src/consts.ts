@@ -9,6 +9,7 @@ export const MENUS = [
 	{ slug: 'wings',		icon: 'Emote_Flame_Wings' },
 	{ slug: 'npcs',			icon: 'Emote_Guide' },
 	{ slug: 'bosses',		icon: 'Map_Icon_Betsy' },
+	{ slug: 'enemies',		icon: 'Green_Slime' },
 ]
 
 export const NAV = [
