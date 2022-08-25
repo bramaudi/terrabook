@@ -46,9 +46,7 @@ export default function(props: Props) {
 	}
 
 	onMount(() => {
-		window.addEventListener('scroll', handleWindowScroll)
-		console.log(props.items()?.length);
-		
+		window.addEventListener('scroll', handleWindowScroll)		
 	})
 	onCleanup(() => {
 		window.removeEventListener('scroll', handleWindowScroll)
