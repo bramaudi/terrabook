@@ -1,8 +1,7 @@
-> This is still a work in progress
+<img src="https://bramaudi.github.io/terrabook/static/logo.png" alt="Terrabook logo" height="100" />
 
 # Terrabook
-
-<div align=center><img src="https://bramaudi.github.io/terrabook/static/logo.png" alt="Terrabook logo" height="100" /></div>
+> This is still a work in progress
 
 ## Introduction
 
