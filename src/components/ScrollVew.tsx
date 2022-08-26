@@ -63,7 +63,7 @@ export default function(props: Props) {
 				</Show>
 			</div>
 			<div
-				class="p-4"
+				class="p-4 pb-0"
 				classList={{ 'hidden': !indexView() }}
 			>
 				<div class="sticky top-2">

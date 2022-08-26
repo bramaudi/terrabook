@@ -6,7 +6,7 @@ const App = () => {
   const Routes = useRoutes(routes)
   return (
     <>
-      <div class="mb-12">
+      <div class="mb-16">
         <Routes />
       </div>
       <Navigation />
