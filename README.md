@@ -7,7 +7,7 @@
 
 Terrabook is offline handcrafted wiki for Terraria with following features:
 
-* 1200+ items in total
+* 1500+ items in total
 * Simple & focused UI design
 * Offline with no internet permission
 * Search all or specific items category
