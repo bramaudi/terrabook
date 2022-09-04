@@ -16,8 +16,9 @@ export interface Base {
 	statistics: {
 		[key: string]: string
 	}
-	receipes?: Crafts
-	used_in?: Crafts
+	crafts?: {
+		[key: string]: Crafts
+	}
 }
 
 // Table content

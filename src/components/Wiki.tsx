@@ -137,17 +137,15 @@ export default function(props: { slug: string }) {
 
 
 				{/* Crafts */}
-				<Show when={items().receipes?.length}>
-					<CraftTable
-						title="Receipes:"
-						receipes={items().receipes!}
-					/>
-				</Show>
-				<Show when={items().used_in?.length}>
-					<CraftTable
-						title="Used in:"
-						receipes={items().used_in!}
-					/>
+				<Show when={items().crafts}>
+					<For each={Object.keys(items().crafts!)}>
+						{key => (
+							<CraftTable
+								title={key}
+								receipes={items().crafts![key]}
+							/>
+						)}
+					</For>
 				</Show>
 				
 				{/* NPCs Living Preferences */}
