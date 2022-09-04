@@ -1,13 +1,13 @@
 <img src="https://bramaudi.github.io/terrabook/static/logo.png" alt="Terrabook logo" height="100" />
 
 # Terrabook
-> This is still a work in progress
+> This is still a work in progress to complete all the items
 
 ## Introduction
 
 Terrabook is offline handcrafted wiki for Terraria with following features:
 
-* 1500+ items in total
+* 1800+ items in total
 * Simple & focused UI design
 * Offline with no internet permission
 * Search all or specific items category
