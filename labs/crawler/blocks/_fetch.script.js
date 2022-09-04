@@ -73,8 +73,12 @@ const summaries = (() => {
 	let walk = (() => {
     	const mwParser = document.querySelector('.mw-parser-output')
         let i = 0
-        while (mwParser.children[i].nodeName !== 'P') i++
-        return mwParser.children[i]
+        try {
+        	while (mwParser.children[i].nodeName !== 'P') i++
+            return mwParser.children[i]
+        } catch (e) {
+        	return mwParser.querySelector('p')
+        }
     })()
     const data = []
     while (walk && (
@@ -122,10 +126,10 @@ const statistics = (() => {
 const crafts = parseCraftTable()
 
 const json_result = {
-    type: 'accessories',
+    type: 'blocks',
 	title,
     summaries,
     statistics,
-    crafts,
+    crafts
 }
 print(JSON.parse(JSON.stringify(json_result)))

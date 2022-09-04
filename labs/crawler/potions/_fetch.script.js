@@ -32,36 +32,39 @@ function normalizeText($el) {
         .replace(/\t+/g, '')
         .trim()
 }
-function parseCraftTable(headlineId) {
-	const headline = (() => {
-        let walk = document.querySelector(`#${headlineId}`)?.parentElement
-        if (!walk) return
-        while (!walk.classList.contains('crafts')) {
-        	walk = walk.nextElementSibling
+function parseCraftTable() {    
+    const result = {}
+    const crafts = document.querySelectorAll('.crafts')
+    for (const $craft of crafts) {
+        const title = (() => {
+            const prev1 = $craft.previousElementSibling
+            const prev2 = $craft
+            	.previousElementSibling
+            	.previousElementSibling
+            const el = prev2?.nodeName === 'H3' ? prev2 : prev1
+            return el.textContent
+        })()
+    	const rows = []
+        for (const tr of $craft.querySelectorAll('tr')) {
+            function getCol(className) {
+                const el = tr.querySelector(className)
+                if (!el) return undefined
+                clearSpan(el)
+                parseImg(el)
+                removeTags(el, ['a'], false)
+                normalizeText(el)
+                const rowspan = ~~el.getAttribute('rowspan') || undefined
+                const value = el.innerHTML
+                return { rowspan, value }
+            }
+            const result = getCol('.result')
+            const ingredients = getCol('.ingredients')
+            const station = getCol('.station')
+            rows.push({ result, ingredients, station })
         }
-        return walk.querySelector('table')
-    })()
-    if (!headline) return undefined
-    
-    const rows = []
-    for (const tr of headline.querySelectorAll('tr')) {
-        function getCol(className) {
-        	const el = tr.querySelector(className)
-            if (!el) return undefined
-            clearSpan(el)
-            parseImg(el)
-            removeTags(el, ['a'], false)
-            normalizeText(el)
-            const rowspan = ~~el.getAttribute('rowspan') || undefined
-            const value = el.innerHTML
-            return { rowspan, value }
-        }
-        const result = getCol('.result')
-        const ingredients = getCol('.ingredients')
-        const station = getCol('.station')
-    	rows.push({ result, ingredients, station })
+        result[title] = rows.slice(2)
     }
-    return rows.slice(1)
+    return result
 }
 
 const title = document.querySelector('#firstHeading').textContent
@@ -116,16 +119,13 @@ const statistics = (() => {
     return rows
 })()
 
-const receipes = parseCraftTable('Recipes')
-
-const used_in = parseCraftTable('Used_in')
+const crafts = parseCraftTable()
 
 const json_result = {
     type: 'accessories',
 	title,
     summaries,
     statistics,
-    receipes,
-    used_in,
+    crafts,
 }
 print(JSON.parse(JSON.stringify(json_result)))
