@@ -3,6 +3,7 @@ export const MENUS = [
 	{ slug: 'weapons',		icon: 'Emote_Item_Sword' },
 	{ slug: 'armors',		icon: 'Emote_Platinum_Chainmail' },
 	{ slug: 'accessories',	icon: 'Emote_Hermes_Boots' },
+	{ slug: 'blocks',		icon: 'Stone_Block' },
 	{ slug: 'potions',		icon: 'Emote_Healing_Potion' },
 	{ slug: 'pets',			icon: 'Emote_Companion_Cube' },
 	{ slug: 'mounts',		icon: 'Emote_Slime_Mount' },
