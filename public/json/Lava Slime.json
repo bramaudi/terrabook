@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Lava Slime",
+  "summaries": [
+    "The <b>Lava Slime</b> is a slime exclusive to The Underworld. It gives off an orange glow with fire particles.",
+    "Lava Slimes take no damage from lava and float on it like regular Slimes do on water, except they rebound very high into the air when they come up, instead of gently bouncing up and down like normal slimes do in water. Lava Slimes also have increased mobility compared to any other normal slime. Unlike other slimes, the Lava Slime does not drop gel upon death but they still drop coins. In Expert Mode they spawn lava upon being killed.",
+    "Like most other slimes, the Lava Slime will be passive towards any player with the <span class=\"eil\"><span>Royal Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> accessory equipped."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> The Underworld </span></div>",
+    "AI Type": "Slime AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">15</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">30</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">45</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">100</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">220</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">150</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">330</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">10</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">10</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">20</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">0%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">10%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">20%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Lava Slime Banner]<span><span>Lava Slime Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "On Fire!, Poisoned, Hellfire"
+  }
+}

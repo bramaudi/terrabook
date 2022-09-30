@@ -1,0 +1,31 @@
+{
+  "type": "blocks",
+  "title": "Rain Cloud",
+  "summaries": [
+    "<b>Rain Cloud</b> is a type of block found beneath Floating Islands, along with Cloud blocks. Rain Cloud blocks cause purely decorative raindrops to appear beneath them that fall for about 18 tiles before fading away for 5 more. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, landing on Rain Clouds will not inflict fall damage."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Prevents fall damage</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rain Cloud]<span><span>Rain Cloud</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud]<span><span>Cloud</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Sky Mill]<span><span>Sky Mill</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"water\"><span class=\"i\">[img:Water]<span><span>Water</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Sink]<span><span>Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></span>"
+        }
+      }
+    ]
+  }
+}

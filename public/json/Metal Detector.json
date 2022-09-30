@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Metal Detector",
+  "summaries": [
+    "The <b>Metal Detector</b> is an informational accessory which informs the player about valuable objects, such as ores, chests, or Life Crystals, in their vicinity. It has a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <abbr class=\"expert\" title=\"Expert Mode\">100%</abbr> chance to be dropped by the Nymph, a rare cavern enemy.",
+    "The Metal Detector displays the specific type of what was detected, for instance, <i>\"<span class=\"gameText\">Chlorophyte detected nearby!</span>\"</i> When multiple valuables are detected, only the one with the highest value is noted. Like most informational accessories, it does not reveal the location or direction of the detected object."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Displays the most valuable ore around you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Goblin Tech]<span><span>Goblin Tech</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Metal Detector]<span><span>Metal Detector</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Stopwatch]<span><span>Stopwatch</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:DPS Meter]<span><span>DPS Meter</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

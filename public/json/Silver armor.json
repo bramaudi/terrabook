@@ -1,0 +1,78 @@
+{
+  "type": "armors",
+  "title": "Silver armor",
+  "summaries": [
+    "<b>Silver armor</b> is an armor set crafted from Silver Bars. Crafting the entire set requires a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 75 Silver Bars (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 240 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 300 Silver Ore).",
+    "It consists of the <b>Silver Helmet</b>, <b>Silver Chainmail</b>, and <b>Silver Greaves</b>.",
+    "The individual Silver armor pieces grant a total of 10 defense. Wearing a full set additionally grants a set bonus of 3 defense, for a grand total of 13 defense.",
+    "Replacing the Silver Greaves with the <span class=\"eil\"><span>Boots of Ostara</span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span></span> will still grant the set bonus of 3 defense. The Boots of Ostara will also, when placed on a mannequin, become Silver Greaves."
+  ],
+  "statistics": {
+    "Defense": "13 (10+3)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Chainmail]<span><span title=\"Silver Chainmail\">Silver Chainmail</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Chainmail]<span><span title=\"Silver Chainmail\">Silver Chainmail</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Greaves]<span><span title=\"Silver Greaves\">Silver Greaves</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Greaves]<span><span title=\"Silver Greaves\">Silver Greaves</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Helmet]<span><span title=\"Silver Helmet\">Silver Helmet</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Helmet]<span><span title=\"Silver Helmet\">Silver Helmet</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

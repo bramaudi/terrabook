@@ -1,0 +1,152 @@
+{
+  "type": "accessories",
+  "title": "Golf Balls",
+  "summaries": [
+    "<b>Golf Balls</b> are accessories that are used in golf and can be purchased from the Golfer for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> each. Golf Balls come in a variety of colors.",
+    "They can be used to place Golf Balls in the world. They can be used either by pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> on a Golf Tee, starting a swing with a Golf Club in front of a Golf Tee or simply pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> while it is selected to drop/throw the ball. If a player does not have a Golf Ball equipped or in their inventory, pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> on a Golf Tee will create a plain white ball.",
+    "Golf Balls that have been placed are projectiles that can be hit with a Golf Club and despawn when entering a Golf Cup."
+  ],
+  "statistics": {
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "12",
+    "Tooltip": "<i><span class=\"gameText\">Can be hit with a golf club</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Buy": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Black Golf Ball]<span><span title=\"Black Golf Ball\">Black Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4242</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Black Dye]<span><span>Black Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 14,
+          "value": "<span class=\"i -w\">[img:Dye Vat]<span><span>Dye Vat</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Blue Golf Ball]<span><span title=\"Blue Golf Ball\">Blue Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4243</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Blue Dye]<span><span>Blue Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Brown Golf Ball]<span><span title=\"Brown Golf Ball\">Brown Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4244</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Brown Dye]<span><span>Brown Dye</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Cyan Golf Ball]<span><span title=\"Cyan Golf Ball\">Cyan Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4245</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Cyan Dye]<span><span>Cyan Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Green Golf Ball]<span><span title=\"Green Golf Ball\">Green Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4246</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Green Dye]<span><span>Green Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Lime Golf Ball]<span><span title=\"Lime Golf Ball\">Lime Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4247</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lime Dye]<span><span>Lime Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Orange Golf Ball]<span><span title=\"Orange Golf Ball\">Orange Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4248</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Orange Dye]<span><span>Orange Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Pink Golf Ball]<span><span title=\"Pink Golf Ball\">Pink Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4249</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Pink Dye]<span><span>Pink Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Purple Golf Ball]<span><span title=\"Purple Golf Ball\">Purple Golf Ball</span><div class=\"id\">Internal Item ID: 4250</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Purple Dye]<span><span>Purple Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Red Golf Ball]<span><span title=\"Red Golf Ball\">Red Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4251</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Red Dye]<span><span>Red Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Sky Blue Golf Ball]<span><span title=\"Sky Blue Golf Ball\">Sky Blue Golf Ball</span><div class=\"id\">Internal Item ID: 4252</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Sky Blue Dye]<span><span>Sky Blue Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Teal Golf Ball]<span><span title=\"Teal Golf Ball\">Teal Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4253</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Teal Dye]<span><span>Teal Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Violet Golf Ball]<span><span title=\"Violet Golf Ball\">Violet Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4254</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Violet Dye]<span><span>Violet Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Yellow Golf Ball]<span><span title=\"Yellow Golf Ball\">Yellow Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 4255</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Golf Ball]<span><span>Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Yellow Dye]<span><span>Yellow Dye</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

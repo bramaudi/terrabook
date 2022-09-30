@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Fishing Potion",
+  "summaries": [
+    "The <b>Fishing Potion</b> is a buff potion which grants the <b>Fishing</b> buff when consumed. The buff increases fishing power by 15. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version])."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Increases fishing power</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fishing Potion]<span><span>Fishing Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Crispy Honey Block]<span><span>Crispy Honey Block</span></span></span></li><li><span class=\"i\">[img:Waterleaf]<span><span>Waterleaf</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

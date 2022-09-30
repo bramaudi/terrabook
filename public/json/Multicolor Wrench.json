@@ -1,0 +1,48 @@
+{
+  "type": "tools",
+  "title": "Multicolor Wrench",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Multicolor Wrench</b> is a tool that can place down any combination of wire color, and also remove it. It can be used at any part of the screen, regardless of block placement range. When pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> with the tool, a small menu will pop up at the cursor's position with five different buttons in a radial pattern. The outside buttons can be used to select which wire colors (<i>excluding</i> Actuators) can be interacted with, and the middle button will toggle between placing or harvesting the designated wires."
+  ],
+  "statistics": {
+    "Bonus": "+20 range",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Right click while holding to edit wire settings</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 40 Silver Coins\" data-sort-value=\"24000\"><span class=\"gc\">2</span><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Red Wrench]<span><span>Red Wrench</span></span></span></li><li><span class=\"i\">[img:Green Wrench]<span><span>Green Wrench</span></span></span></li><li><span class=\"i\">[img:Blue Wrench]<span><span>Blue Wrench</span></span></span></li><li><span class=\"i\">[img:Yellow Wrench]<span><span>Yellow Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire Cutter]<span><span>Wire Cutter</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:The Grand Design]<span><span>The Grand Design</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Mechanical Lens]<span><span>Mechanical Lens</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ruler]<span><span>Ruler</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

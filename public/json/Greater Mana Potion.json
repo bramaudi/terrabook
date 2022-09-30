@@ -1,0 +1,34 @@
+{
+  "type": "accessories",
+  "title": "Greater Mana Potion",
+  "summaries": [
+    "The <b>Greater Mana Potion</b> is a potion that restores 200 mana upon use and is third to the Super Mana Potion and Strange Brew, respectively, in potency of mana restoration items. Unlike most potions, Greater Mana Potions cannot be crafted. Instead, they can be purchased from the Wizard for <span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span> <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span> <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span>, or dropped by <span class=\"eil\"><span>Biome Mimics</span></span>. On the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, they can additionally be obtained from Golden Crates, but on the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, they cannot be obtained outside of Hardmode.",
+    "Equipping a Mana Flower lets a player consume any type of mana potion automatically. Consuming any mana-restoring potion will enact the Mana Sickness debuff, reducing magic damage for a short duration."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Mana": "200",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Buy": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span> <span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span> <span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Super Mana Potion]<span><span>Super Mana Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Greater Mana Potion]<span><span>Greater Mana Potion</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Unicorn Horn]<span><span>Unicorn Horn</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

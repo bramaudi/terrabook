@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Lead Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 43%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Lead Pickaxe</b> is an early-game pickaxe that is stronger than the Copper and Tin Pickaxes, but weaker than the Silver and Tungsten Pickaxes. Compared to its alternate ore version, the Iron Pickaxe, it has more pickaxe power, deals 1 more damage, and is slightly faster in terms of mining speed. Like other low-tier pickaxes, it can only mine blocks and ores weaker than Meteorite (which requires a pickaxe with at least 50% pickaxe power, e.g. a Tungsten Pickaxe).",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "6 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "12",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Silver Coins\" data-sort-value=\"600\"><span class=\"sc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Pickaxe]<span><span>Lead Pickaxe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Pickaxe]<span><span>Lead Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

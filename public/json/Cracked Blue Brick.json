@@ -1,0 +1,51 @@
+{
+  "type": "blocks",
+  "title": "Cracked Dungeon Bricks",
+  "summaries": [
+    "<b>Cracked Dungeon Bricks</b> can be found in Dungeons, or can be crafted with Dungeon Bricks at a Heavy Work Bench. Crafted Cracked Dungeon Bricks behave the same as naturally generated Cracked Dungeon Bricks, and do not drop an item upon destruction.",
+    "Cracked Dungeon Bricks behave similarly to Thin Ice and Sand, but with distinct differences from both. If jumped on, walked across, grappled to, or mined with a pickaxe, several Cracked Dungeon Bricks nearby the targeted tile, including the tile itself, may fall and be destroyed upon hitting solid ground, dropping no item. Unlike ordinary Dungeon Bricks, Cracked Dungeon Bricks can be mined with any pickaxe.",
+    "Destroying the Cracked Dungeon Bricks naturally generated in the Dungeon may reveal hidden pathways to other parts of the Dungeon that are otherwise inaccessible without proper tools, and doing so is often required to access significant portions of the Dungeon if the player is unable to mine the Dungeon Bricks."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">May break when stepped on</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Blue Brick]<span><span title=\"Cracked Blue Brick\">Cracked Blue Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Brick]<span><span>Blue Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Green Brick]<span><span title=\"Cracked Green Brick\">Cracked Green Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Brick]<span><span>Green Brick</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Pink Brick]<span><span title=\"Cracked Pink Brick\">Cracked Pink Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pink Brick]<span><span>Pink Brick</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

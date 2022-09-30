@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Present Mimic",
+  "summaries": [
+    "A <b>Present Mimic</b> is a Hardmode, post-Plantera enemy that spawns during the Frost Moon event. It acts like normal Mimics do, but passes itself off as a present instead of a Chest.",
+    "Defeating a Present Mimic adds 20 points (<abbr class=\"expert\" title=\"Expert Mode\">40 points</abbr>) during the Frost Moon."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Frost Moon </span></div>",
+    "AI Type": "Mimic AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">100</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">200</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">300</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">900</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1800</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">2700</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">32</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">75%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">78%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">80%</span></span></span>",
+    "Banner": "<span class=\"i\">[img:Present Mimic Banner]<span><span>Present Mimic Banner</span></span></span>",
+    "Immune to": "On Fire!, Confused, Poisoned, Hellfire"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Heart]<span><span>Heart</span></span></span> (5-10)</div><div>100%</div></li><li><div><span class=\"i\">[img:Present]<span><span>Present</span></span></span> (<span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>)<div class=\"note-text small\">During Christmas only </div></div><div>100%</div></li><li><div><span class=\"i\">[img:Present (furniture)]<span><span>Present (furniture)</span></span></span> (<span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span>)<div class=\"note-text small\">During Christmas only </div></div><div>100%</div></li></ul>"
+}

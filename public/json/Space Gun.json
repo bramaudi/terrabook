@@ -1,0 +1,57 @@
+{
+  "type": "tools",
+  "title": "Space Gun",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Space Gun</b> is a magic weapon which autofires quick green-colored lasers. Its projectile velocity is as fast as the Megashark. Each laser can hit up to three enemies, and emits moderate light as it moves.",
+    "If a full set of Meteor armor is equipped, the Space Gun costs no mana.",
+    "It is crafted by combining 20 Meteorite Bars (60 Meteorite) at an Anvil. A full set of Meteor armor and the Space Gun cost a total of 65 Meteorite Bars to craft (195 Meteorite).",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "17 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "0.75 <span class=\"knockback\">(Extremely weak)</span>",
+    "Mana": "6 <span class=\"note-text\">(0 with Meteor armor)</span>",
+    "Critical chance": "4%",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "30<small> (effective)</small>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Space Gun]<span><span>Space Gun</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Space Gun]<span><span>Space Gun</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Space Gun]<span><span>Space Gun</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Flintlock Pistol]<span><span>Flintlock Pistol</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

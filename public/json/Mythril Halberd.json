@@ -1,0 +1,36 @@
+{
+  "type": "tools",
+  "title": "Mythril Halberd",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Mythril Halberd</b> is a Hardmode spear crafted solely using Mythril Bars. It lies at the middle tier of Hardmode ore spears along with the Orichalcum Halberd.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "35 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "26 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "4.5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 35 Silver Coins\" data-sort-value=\"13500\"><span class=\"gc\">1</span><span class=\"sc\">35</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mythril Halberd]<span><span>Mythril Halberd</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mythril Bar]<span><span>Mythril Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

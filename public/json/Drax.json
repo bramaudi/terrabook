@@ -1,0 +1,45 @@
+{
+  "type": "tools",
+  "title": "Drax",
+  "toolpower": [
+    "[img:Pickaxe mask] 200%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 110%"
+  ],
+  "summaries": [
+    "The <b>Drax</b> is a drill and axe combination which can be crafted after all three mechanical bosses have been defeated. It is able to mine any block other than Lihzahrd Bricks.",
+    "On the Nintendo 3DS[img:Nintendo 3DS version] version, the Drax can be found in Shadow Chests in The Underworld, making it available pre-Hardmode.",
+    "The counterpart of the Drax is the Pickaxe Axe, which is slightly slower than the Drax but does not have a -1 range penalty.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "35 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.75 <span class=\"knockback\">(Average)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "36",
+    "Tool speed": "4",
+    "Tooltip": "<i><span class=\"gameText\">'Not to be confused with a picksaw'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 40 Silver Coins\" data-sort-value=\"44000\"><span class=\"gc\">4</span><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Drax]<span><span>Drax</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

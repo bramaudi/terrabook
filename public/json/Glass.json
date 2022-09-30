@@ -1,0 +1,912 @@
+{
+  "type": "blocks",
+  "title": "Glass",
+  "summaries": [
+    "<b>Glass</b> is crafted from different types of sand at a Furnace. Glass can be placed as a block and is an ingredient in producing various items."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass]<span><span>Glass</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass Platform]<span><span>Glass Platform</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 3,
+          "value": "<span class=\"i multi-line\">[img:Glass]<span><span>Glass</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Sand]<span><span>Any Sand</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass Platform]<span><span>Glass Platform</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass Wall]<span><span>Glass Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Nebula Clock]<span><span>Nebula Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Nebula Brick]<span><span>Nebula Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Solar Clock]<span><span>Solar Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Solar Brick]<span><span>Solar Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stardust Clock]<span><span>Stardust Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stardust Brick]<span><span>Stardust Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Clock]<span><span>Vortex Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Brick]<span><span>Vortex Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bone Clock]<span><span>Bone Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Bone Welder]<span><span>Bone Welder</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Platform]<span><span>Glass Platform</span></span></span> <span class=\"note-text\">(2)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Starry Block]<span><span>Blue Starry Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Confetti Block]<span><span>Confetti Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Confetti]<span><span>Confetti</span></span></span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Starry Block]<span><span>Gold Starry Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Midnight Confetti Block]<span><span>Midnight Confetti Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Confetti]<span><span>Confetti</span></span></span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sandfall Block]<span><span>Sandfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snowfall Block]<span><span>Snowfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Honeyfall Block]<span><span>Honeyfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span> <b>and</b> <span class=\"i\">[img:Honey]<span><span>Honey</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lavafall Block]<span><span>Lavafall Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span> <b>and</b> <span class=\"i\">[img:Lava]<span><span>Lava</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Waterfall Block]<span><span>Waterfall Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span> <b>and</b> <span class=\"water\"><span class=\"i\">[img:Water]<span><span>Water</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Sink]<span><span>Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lesion Clock]<span><span>Lesion Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Lesion Block]<span><span>Lesion Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Decay Chamber]<span><span>Decay Chamber</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flesh Clock]<span><span>Flesh Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Flesh Block]<span><span>Flesh Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Flesh Cloning Vat]<span><span>Flesh Cloning Vat</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottle]<span><span>Bottle</span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Bowl]<span><span>Glass Bowl</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mug]<span><span>Mug</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Terrarium]<span><span>Terrarium</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Wine Glass]<span><span>Wine Glass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Bathtub]<span><span>Glass Bathtub</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 20,
+          "value": "<span class=\"i -w\">[img:Glass Kiln]<span><span>Glass Kiln</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Bed]<span><span>Glass Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Bookcase]<span><span>Glass Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Candelabra]<span><span>Glass Candelabra</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Candle]<span><span>Glass Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Chair]<span><span>Glass Chair</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Chandelier]<span><span>Glass Chandelier</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Chain]<span><span>Chain</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Chest]<span><span>Glass Chest</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Clock]<span><span>Glass Clock</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Clock]<span><span>Glass Clock</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Door]<span><span>Glass Door</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Dresser]<span><span>Glass Dresser</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Lamp]<span><span>Glass Lamp</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Lantern]<span><span>Glass Lantern</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Piano]<span><span>Glass Piano</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Sink]<span><span>Glass Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Water Bucket]<span><span>Water Bucket</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Sofa]<span><span>Glass Sofa</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Table]<span><span>Glass Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Toilet]<span><span>Glass Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Work Bench]<span><span>Glass Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Honey Clock]<span><span>Honey Clock</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Honey Block]<span><span>Honey Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Honey Dispenser]<span><span>Honey Dispenser</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frozen Clock]<span><span>Frozen Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Ice Block]<span><span>Ice Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Ice Machine]<span><span>Ice Machine</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lamp Post]<span><span>Lamp Post</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lihzahrd Clock]<span><span>Lihzahrd Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Lihzahrd Brick]<span><span>Lihzahrd Brick</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Lihzahrd Furnace]<span><span>Lihzahrd Furnace</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Wood Clock]<span><span>Living Wood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Wood]<span><span>Wood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Living Loom]<span><span>Living Loom</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Floret Protector Helmet]<span><span>Floret Protector Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Dirt Block]<span><span>Dirt Block</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Video Visage]<span><span>Video Visage</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bamboo Clock]<span><span>Bamboo Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bamboo]<span><span>Bamboo</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 19,
+          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Boreal Wood Clock]<span><span>Boreal Wood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Boreal Wood]<span><span>Boreal Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Clock]<span><span>Cactus Clock</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dynasty Clock]<span><span>Dynasty Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Dynasty Wood]<span><span>Dynasty Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ebonwood Clock]<span><span>Ebonwood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Ebonwood]<span><span>Ebonwood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Grandfather Clock]<span><span>Grandfather Clock</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Wood]<span><span>Wood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Granite Clock]<span><span>Granite Clock</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Smooth Granite Block]<span><span>Smooth Granite Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Marble Clock]<span><span>Marble Clock</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Smooth Marble Block]<span><span>Smooth Marble Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Martian Astro Clock]<span><span>Martian Astro Clock</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Martian Conduit Plating]<span><span>Martian Conduit Plating</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Meteorite Clock]<span><span>Meteorite Clock</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Meteorite Brick]<span><span>Meteorite Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mushroom Clock]<span><span>Mushroom Clock</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palm Wood Clock]<span><span>Palm Wood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Palm Wood]<span><span>Palm Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlwood Clock]<span><span>Pearlwood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Pearlwood]<span><span>Pearlwood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pumpkin Clock]<span><span>Pumpkin Clock</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rich Mahogany Clock]<span><span>Rich Mahogany Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Rich Mahogany]<span><span>Rich Mahogany</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sandstone Clock]<span><span>Sandstone Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Smooth Sandstone]<span><span>Smooth Sandstone</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadewood Clock]<span><span>Shadewood Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Shadewood]<span><span>Shadewood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spider Clock]<span><span>Spider Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spider Nest Block]<span><span>Spider Nest Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spooky Clock]<span><span>Spooky Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Spooky Wood]<span><span>Spooky Wood</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Skyware Clock]<span><span>Skyware Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Sunplate Block]<span><span>Sunplate Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\">[img:Sky Mill]<span><span>Sky Mill</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sunplate Clock]<span><span>Sunplate Clock</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Sunplate Block]<span><span>Sunplate Block</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Slime Clock]<span><span>Slime Clock</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Slime Block]<span><span>Slime Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Solidifier]<span><span>Solidifier</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Steampunk Clock]<span><span>Steampunk Clock</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Cog]<span><span>Cog</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Steampunk Boiler]<span><span>Steampunk Boiler</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Amber Gemspark Block]<span><span>Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 13,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Amethyst Gemspark Block]<span><span>Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Amethyst]<span><span>Amethyst</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Clock]<span><span>Cactus Clock</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Diamond Gemspark Block]<span><span>Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Diamond]<span><span>Diamond</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Emerald Gemspark Block]<span><span>Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Emerald]<span><span>Emerald</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Platform]<span><span>Glass Platform</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Glass Wall]<span><span>Glass Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lihzahrd Power Cell]<span><span>Lihzahrd Power Cell</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mushroom Clock]<span><span>Mushroom Clock</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pumpkin Clock]<span><span>Pumpkin Clock</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ruby Gemspark Block]<span><span>Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Ruby]<span><span>Ruby</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sapphire Gemspark Block]<span><span>Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Sapphire]<span><span>Sapphire</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Topaz Gemspark Block]<span><span>Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Topaz]<span><span>Topaz</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

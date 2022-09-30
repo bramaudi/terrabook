@@ -1,0 +1,44 @@
+{
+  "type": "tools",
+  "title": "Copper Broadsword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Copper Broadsword</b> is arguably the weakest of the early game metal broadswords. It has a slightly stronger alternate version, the Tin Broadsword. As with all other broadswords, this sword is swung overhead, which makes it easier to defeat flying and jumping monsters than shortswords. This sword is generally more useless than the other early game metal broadswords. There are also other swords that are easier to acquire early game and that deal more damage than this sword, such as the Ebonwood Sword or Shadewood Sword.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "8 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "23 <span class=\"usetime\">(Fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"90 Copper Coins\" data-sort-value=\"90\"><span class=\"cc\">90</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Broadsword]<span><span>Copper Broadsword</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Broadsword]<span><span>Copper Broadsword</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

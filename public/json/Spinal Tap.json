@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Spinal Tap",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Spinal Tap</b> is a pre-Hardmode post-Skeletron whip crafted from Cobwebs and Bones.",
+    "Like other whips, it causes minions to focus on the last-struck enemy and increases their damage against the target.",
+    "If the Spinal Tap hits multiple targets in a single attack, the damage dealt by each consecutive hit will be reduced by 10%.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "29 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "10<small> (effective)</small>",
+    "Tooltip": "<i><span class=\"gameText\">7 summon tag damage<br>Your summons will focus struck enemies<br>Performs better against multiple targets than most whips<br>'This goes to eleven'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spinal Tap]<span><span>Spinal Tap</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(90)</span></li><li><span class=\"i\">[img:Cobweb]<span><span>Cobweb</span></span></span> <span class=\"note-text\">(55)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

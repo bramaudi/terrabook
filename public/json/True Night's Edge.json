@@ -1,0 +1,70 @@
+{
+  "type": "tools",
+  "title": "True Night's Edge",
+  "toolpower": [],
+  "summaries": [
+    "The <b>True Night's Edge</b> is a Hardmode sword. It has the highest base damage of any Pre-Plantera sword. It is also a stronger version of the Night's Edge, doing more damage and firing a glowing, spinning, green sword projectile called \"Night Beam\" in the direction of the cursor every .86 seconds on average. Because this ability has a short cooldown, not every swing of the sword launches a Night Beam. The True Night's Edge is one of the ingredients necessary to craft the Terra Blade.",
+    "On the [img:Desktop version] Desktop, [img:Console version] Console, [img:Mobile version] Mobile, and 3DS[img:Nintendo 3DS version] versions, the True Night's Edge is capable of autoswing.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "105 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 90 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 78 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.75 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "26 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Night's Edge]<span><span>Night's Edge</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Night's Edge]<span><span>Night's Edge</span></span></span></li><li><span class=\"i\">[img:Broken Hero Sword]<span><span>Broken Hero Sword</span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Terra Blade]<span><span>Terra Blade</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span></li><li><span class=\"i\">[img:True Excalibur]<span><span>True Excalibur</span></span></span></li><li><span class=\"i\">[img:Broken Hero Sword]<span><span>Broken Hero Sword</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Terra Blade]<span><span>Terra Blade</span></span></span> ([img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span></li><li><span class=\"i\">[img:True Excalibur]<span><span>True Excalibur</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

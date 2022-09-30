@@ -1,0 +1,19 @@
+{
+  "type": "npcs",
+  "title": "Dryad",
+  "summaries": [
+    "The <b>Dryad</b> is an NPC vendor that will spawn once the following criteria have been met:",
+    "<ul><li>There is an empty house.</li><li>The Eye of Cthulhu, Eater of Worlds, Brain of Cthulhu, Skeletron or Lepus has been defeated.</li></ul>",
+    "In addition to selling items, the Dryad can also report the percentages of Corruption/Crimson and Hallow that exist in the current world.",
+    "<span id=\"Damage\"></span> On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, when enemies are nearby, the Dryad will periodically grant the Dryad's Blessing buff to players and other town NPCs in the vicinity and displays a leaf barrier effect. The buff grants +8 defense to players and +6 / <abbr class=\"expert\" title=\"Expert Mode\">+10</abbr> / <abbr class=\"master\" title=\"Master Mode\">+14</abbr> defense to town NPCs, increased health regeneration, and gives the player (and town NPCs) a Thorns effect. Enemies within the leaf barrier and with clear sight to the Dryad will be inflicted with the Dryad's Bane debuff, which will deal 4+ damage per second (plus various progression-based damage boosts, and all multiplied by 1× / <abbr class=\"expert\" title=\"Expert Mode\">1.5×</abbr> / <abbr class=\"master\" title=\"Master Mode\">1.75×</abbr>); the minimum damage dealt by the Dryad's Bane debuff is 4 / <abbr class=\"expert\" title=\"Expert Mode\">6</abbr> / <abbr class=\"master\" title=\"Master Mode\">7</abbr> per second."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "0 <span class=\"note-text small\">(see description)</span> ",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Jungle]<span><span>Jungle</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Witch Doctor]<span><span>Witch Doctor</span></span></span></li><li>​<span class=\"i mirror\">[img:Truffle]<span><span>Truffle</span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Angler]<span><span>Angler</span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Golfer]<span><span>Golfer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr></tbody>"
+}

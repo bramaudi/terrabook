@@ -1,0 +1,39 @@
+{
+  "type": "accessories",
+  "title": "Water Walking Boots",
+  "summaries": [
+    "<b>Water Walking Boots</b> are an accessory that allows a player to walk on water and honey. The player moves across both liquids at normal speed without sinking. They are found in Water Chests, though they are much rarer compared to other Water Chest items. They do not allow walking on lava (although the upgraded Lava Waders will do so). When the player is on a liquid, they may press down to fall through the liquid, similar to a platform. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, there is a <span class=\"chance\"><s>9.09*</s>1/11 (9.09%)</span> chance to find Water Walking Boots in Ocean and Seaside Crates."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Provides the ability to walk on water &amp; honey</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Molten Charm]<span><span>Molten Charm</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Water Walking Boots]<span><span>Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Water Walking Boots]<span><span>Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

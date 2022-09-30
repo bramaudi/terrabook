@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Love Potion",
+  "summaries": [
+    "The <b>Love Potion</b> is a Hardmode thrown potion that functions similarly to Thrown Water, but inflicts no functional effect. Hitting a solid block will inflict all players, NPCs, enemies, and critters with the <b>Lovestruck</b> debuff, causing them to emit red hearts for 30 seconds, similar to the Water Gun's dripping. This effect is purely cosmetic."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "9",
+    "Tooltip": "<i><span class=\"gameText\">Throw this to make someone fall in love</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Love Potion]<span><span>Love Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Princess Fish]<span><span>Princess Fish</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Flower Boots",
+  "summaries": [
+    "<b>Flower Boots</b> are a rare accessory which cause flowers to grow when the player walks on regular, Jungle, and Hallowed grass. These flowers are functionally the same as the tall weeds that grow naturally on grass, and drop Seeds and Hay normally.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, wearing Flower Boots drastically decreases the chance of critters spawning from destroyed tall grass and plants.",
+    "Flower Boots can occasionally be found in Ivy Chests, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Jungle Crates and <span class=\"eil\"><span>Bramble Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Flowers grow on the grass you walk on</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fairy Boots]<span><span>Fairy Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Flower Boots]<span><span>Flower Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

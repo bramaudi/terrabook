@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Arctic Diving Gear",
+  "summaries": [
+    "The <b>Arctic Diving Gear</b> is an accessory which is crafted by combining the Jellyfish Diving Gear and Ice Skates at a Tinkerer's Workshop. It combines the swimming and breathing effects of the Diving Gear with the underwater lighting effect of the Jellyfish Necklace (in the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it gives a very faint glow out of water and honey and its brightness is significantly increased when submerged), as well as the enhanced mobility on ice effect of the Ice Skates. In addition to combining these effects into a single accessory, it has the unique ability of preventing the Chilled debuff when touching water in Snow or Ice biomes in <span class=\"eil\"><span>Expert Mode</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Grants the ability to swim and greatly extends underwater breathing<br>Provides extra mobility on ice<br>Generates a very subtle glow which becomes more vibrant underwater</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Arctic Diving Gear]<span><span>Arctic Diving Gear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jellyfish Diving Gear]<span><span>Jellyfish Diving Gear</span></span></span></li><li><span class=\"i\">[img:Ice Skates]<span><span>Ice Skates</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

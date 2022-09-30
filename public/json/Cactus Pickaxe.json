@@ -1,0 +1,40 @@
+{
+  "type": "tools",
+  "title": "Cactus Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 35%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Cactus Pickaxe</b> is an early-game pickaxe. It has the same pickaxe power as the Copper and Tin Pickaxes, but is slightly slower in terms of mining speed. Like other low-tier pickaxes, it can only mine blocks and ores weaker than Meteorite (which requires a pickaxe with at least 50% pickaxe power, e.g. a Tungsten Pickaxe).",
+    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+  ],
+  "statistics": {
+    "Damage": "4 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 5 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 23 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Tool speed": "16 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 15 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Pickaxe]<span><span>Cactus Pickaxe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

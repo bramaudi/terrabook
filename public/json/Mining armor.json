@@ -1,0 +1,31 @@
+{
+  "type": "armors",
+  "title": "Mining armor",
+  "summaries": [
+    "<b>Mining armor</b> is an armor set consisting of the <b>Mining Helmet</b> or <b><span class=\"eil\"><span>Ultrabright Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b>, <b>Mining Shirt</b>, and <b>Mining Pants</b>. The helmets alone provide light when worn in the armor slot, but not when worn in the social slot. Each piece grants 1 defense (aside from the Ultrabright Helmet, which grants 4), for a total of 3 (or 6 with the Ultrabright Helmet) when the full set is worn. A full set also provides a set bonus of 30% increased mining speed.",
+    "<ul><li>The Mining Shirt and Mining Pants are dropped from Undead Miners with a <span class=\"chance\"><s>12*</s>3/25 (12%)</span> <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"chance\"><s>2.4*</s>3/125 (2.4%)</span> <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> chance.</li><li>The Mining Helmet can be purchased from the Merchant for <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>.<ul><li>The Mining Helmet is also a drop from Undead Miners with a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance in the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version.</li></ul></li></ul>"
+  ],
+  "statistics": {
+    "Defense": "3<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">30% increased mining speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span><span class=\"note-text\"> (set)</span> <span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span> <span class=\"note-text\">(set)</span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ultrabright Helmet]<span><span>Ultrabright Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mining Helmet]<span><span>Mining Helmet</span></span></span></li><li><span class=\"i\">[img:Night Vision Helmet]<span><span>Night Vision Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

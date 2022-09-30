@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Chlorophyte Claymore",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Chlorophyte Claymore</b> is a Hardmode sword. It is the slower but more powerful of the two Chlorophyte swords, the other being the Chlorophyte Saber. Upon swinging, it fires a Chlorophyte Orb in the direction of the cursor which deals the same damage as the sword itself. The orb does not consume any mana, but has a one second cooldown. The Chlorophyte Claymore can be swung regardless of whether the orb is ready, but is incapable of autoswing.",
+    "The Chlorophyte Orb behaves the same way as the Magic Dagger, but has a larger hitbox. Like the Magic Dagger, the orb travels in a straight line at a constant speed for a short distance before dropping steeply and falling faster. The orb can pierce through infinite enemies. Upon impact, the orb implodes and emits a light, sparkly-green particle effect.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "95 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 80 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 65 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "6 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "26 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "8",
+    "Tooltip": "<i><span class=\"gameText\">Shoots a powerful orb</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold 52 Silver Coins\" data-sort-value=\"55200\"><span class=\"gc\">5</span><span class=\"sc\">52</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Claymore]<span><span>Chlorophyte Claymore</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

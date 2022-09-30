@@ -1,0 +1,50 @@
+{
+  "type": "tools",
+  "title": "Crystal Storm",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Crystal Storm</b> is a <span class=\"eico i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Hardmode / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> pre-Hardmode magic weapon that quickly fires a slightly spread flood of tiny, bouncing crystals. The crystals are not affected by gravity, and last about three seconds each, losing velocity until gradually dissipating in midair. Their speed or fade at impact does not affect their damage output. The crystals also provide a small amount of purple light.",
+    "The Crystal Storm is the Hallowed counterpart to the Corruption's Cursed Flames, or the Crimson's Golden Shower.",
+    "On the Nintendo 3DS[img:Nintendo 3DS version] version, the Crystal Storm may be obtained prior to Hardmode as a rare drop from Arch Demons (<span class=\"chance\"><s>0.2*</s>1/500 (0.2%)</span>).",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, its best modifier is <b>Mythical</b>.",
+    "On the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, its best modifier is either <b>Masterful</b> for mana conservation or <b>Godly</b>/<b>Demonic</b> for higher damage output. It cannot get the Mythical modifier due to its low mana cost."
+  ],
+  "statistics": {
+    "Damage": "32 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 25 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Mana": "5 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 4 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Critical chance": "4%",
+    "Use time": "7 <span class=\"usetime\">(Insanely fast)</span>",
+    "Velocity": "16",
+    "Tooltip": "<i><span class=\"gameText\">Summons rapid fire crystal shards</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Crystal Storm]<span><span>Crystal Storm</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spell Tome]<span><span>Spell Tome</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Bookcase]<span><span>Bookcase</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Crystal Storm]<span><span>Crystal Storm</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spell Tome]<span><span>Spell Tome</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

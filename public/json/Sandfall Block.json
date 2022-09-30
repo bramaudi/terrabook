@@ -1,0 +1,56 @@
+{
+  "type": "blocks",
+  "title": "Sandfall Block",
+  "summaries": [
+    "The <b>Sandfall Block</b> is an animated block type. It is one of the few items that uses the Crystal Ball as a crafting station."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Falling sand you can safely watch</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Copper Coin\" data-sort-value=\"1\"><span class=\"cc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Sandfall Block]<span><span>Sandfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sandfall Wall]<span><span>Sandfall Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sandfall Wall]<span><span>Sandfall Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sandfall Block]<span><span>Sandfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

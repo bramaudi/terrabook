@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Wire Cutter",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Wire Cutter</b> is a tool that allows players to free and harvest Wires and Actuators. It is sold by the Mechanic NPC who is initially found in the Dungeon.",
+    "The Wire Cutter has a large range bonus, making it able to reach a large portion of the screen. [img:Desktop version]It is recommended that you obtain this item if you frequently wire different devices, as it is also a material in the Multicolor Wrench."
+  ],
+  "statistics": {
+    "Bonus": "+20 range",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Removes wire</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Buy": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Sell": "<span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Red Wrench]<span><span>Red Wrench</span></span></span></li><li><span class=\"i\">[img:Green Wrench]<span><span>Green Wrench</span></span></span></li><li><span class=\"i\">[img:Blue Wrench]<span><span>Blue Wrench</span></span></span></li><li><span class=\"i\">[img:Yellow Wrench]<span><span>Yellow Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire Cutter]<span><span>Wire Cutter</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

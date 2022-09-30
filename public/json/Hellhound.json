@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Hellhound",
+  "summaries": [
+    "The <b>Hellhound</b> is a Hardmode, post-Plantera enemy summoned during the Pumpkin Moon event. It follows the Unicorn AI and will run quite fast at the player; the player will be barely able to outrun them with Lightning Boots. This can make them a very dangerous enemy.",
+    "Defeating a Hellhound adds 4 points while the Pumpkin Moon event is active."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Pumpkin Moon </span></div>",
+    "AI Type": "Unicorn AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">80</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">120</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">180</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">1200</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1800</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">2700</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">38</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">70%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">73%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">76%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Hellhound Banner]<span><span>Hellhound Banner</span><span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "On Fire!, Poisoned, Hellfire"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Heart]<span><span>Heart</span></span></span></div><div>25%</div></li></ul>"
+}

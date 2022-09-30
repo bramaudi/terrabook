@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Sapphire Staff",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Sapphire Staff</b> is a magic weapon that can be acquired early on in the game. It is the third-weakest gem staff, and the most powerful gem staff which cannot autofire.",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "17 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "4 <span class=\"knockback\">(Weak)</span>",
+    "Mana": "5",
+    "Critical chance": "4%",
+    "Use time": "34 <span class=\"usetime\">(Slow)</span>",
+    "Velocity": "7.5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sapphire Staff]<span><span>Sapphire Staff</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Sapphire]<span><span>Sapphire</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "accessories",
+  "title": "Goblin Tech",
+  "summaries": [
+    "The <b>Goblin Tech</b> is an informational accessory, and is a combination of the Stopwatch, DPS Meter, and Metal Detector, displaying the most valuable nearby item, your current <abbr title=\"Damage per second\">DPS</abbr>, and your speed. The Stopwatch and DPS Meter are sold by the Traveling Merchant, while the Metal Detector is dropped by the Nymph."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Displays movement speed, damage per second, and valuable ore</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Goblin Tech]<span><span>Goblin Tech</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Metal Detector]<span><span>Metal Detector</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Stopwatch]<span><span>Stopwatch</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:DPS Meter]<span><span>DPS Meter</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:PDA]<span><span>PDA</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:GPS]<span><span>GPS</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Fish Finder]<span><span>Fish Finder</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Goblin Tech]<span><span>Goblin Tech</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:R.E.K. 3000]<span><span>R.E.K. 3000</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "npcs",
+  "title": "Pirate",
+  "summaries": [
+    "The <b>Pirate</b> is a Hardmode NPC that appears after at least one Pirate Invasion has been defeated and a vacant house is available. He also has nearly the exact same texture as the Pirate Captain, an enemy from the Pirate Invasion.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, he will defend himself using either a gun or Cannon."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Angler]<span><span>Angler</span></span></span></li></ul></div></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Ocean]<span><span>Ocean</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i -w mirror\">[img:Tavernkeep]<span><span>Tavernkeep</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Underground]<span><span>Underground</span></span></span></li><li>​<span class=\"i\">[img:Cavern]<span><span>Cavern</span></span></span></li><li>​<span class=\"i\">[img:The Underworld]<span><span>The Underworld</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Stylist]<span><span>Stylist</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Guide]<span><span>Guide</span></span></span></li></ul></div></td></tr></tbody>"
+}

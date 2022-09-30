@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Brick Layer",
+  "summaries": [
+    "The <b>Brick Layer</b> is an accessory which increases the player's placement speed by 50% when placing blocks, furniture, and any other placeable items. It is purchased from the Traveling Merchant for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases tile placement speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Architect Gizmo Pack]<span><span>Architect Gizmo Pack</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Brick Layer]<span><span>Brick Layer</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Extendo Grip]<span><span>Extendo Grip</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Paint Sprayer]<span><span>Paint Sprayer</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Portable Cement Mixer]<span><span>Portable Cement Mixer</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

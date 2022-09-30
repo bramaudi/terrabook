@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Super Healing Potion",
+  "summaries": [
+    "<b>Super Healing Potion</b> is a potion that heals 200 health. Consumption will trigger the Potion Sickness debuff. Though their crafting cost is fairly significant, they are the highest tier of healing potion in the game. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They are also dropped by the Moon Lord."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Health": "200",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Super Healing Potion]<span><span>Super Healing Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Greater Healing Potion]<span><span>Greater Healing Potion</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Solar Fragment]<span><span>Solar Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Stardust Fragment]<span><span>Stardust Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

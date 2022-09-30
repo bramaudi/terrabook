@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Shark",
+  "summaries": [
+    "The <b>Shark</b> is an enemy found in Oceans. Sharks are rarer than other Ocean enemies like Crabs or Pink Jellyfish, though they are still relatively common.",
+    "On the [img:Old-gen console version] Old-gen console version and Nintendo 3DS[img:Nintendo 3DS version] version, a variant of Shark known as <b>Orcas</b> can be found in the Ocean. Despite their differences in name, sprite, and stats, the Shark and Orca have the same behavior."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ocean </span></div>",
+    "AI Type": "Swimming AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">40</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">80</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">120</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">300</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">600</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">900</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">2</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">30%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">37%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">44%</span></span></span>",
+    "Banner": "<span class=\"i\">[img:Shark Banner]<span><span>Shark Banner</span></span></span>",
+    "Immune to": "Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Diving Helmet]<span><span>Diving Helmet</span></span></span></div><div>2%</div></li><li><div><span class=\"i\">[img:Shark Fin]<span><span>Shark Fin</span></span></span></div><div>98%</div></li><li><div><span class=\"i\">[img:Shrimp Po' Boy]<span><span>Shrimp Po' Boy</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>2%</div></li><li><div><span class=\"i -w\">[img:Shark Kite]<span><span>Shark Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><span class=\"note\">(on Windy Days)</span></span></span></div><div>4%</div></li></ul>"
+}

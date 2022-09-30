@@ -1,0 +1,79 @@
+{
+  "type": "armors",
+  "title": "Gold armor",
+  "summaries": [
+    "<b>Gold armor</b> is the fourth armor set in the game.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 90 Gold Bars to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 300 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 360 Gold Ores.",
+    "It consists of a <b>Gold Helmet</b>, <b>Gold Chainmail</b> and <b>Gold Greaves</b>.",
+    "The <b>Ancient Gold Helmet</b> is a rare drop from Skeletons in the Underground, and is functionally identical to the Gold Helmet. The two helmets are interchangeable, with no bonus loss.",
+    "A full set grants a basic 13 defense plus a set bonus of 3 defense, which equals a total of 16 defense."
+  ],
+  "statistics": {
+    "Defense": "16 (13+3)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 20 Silver Coins\" data-sort-value=\"12000\"><span class=\"gc\">1</span><span class=\"sc\">20</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Chainmail]<span><span title=\"Gold Chainmail\">Gold Chainmail</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Chainmail]<span><span title=\"Gold Chainmail\">Gold Chainmail</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(35)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Greaves]<span><span title=\"Gold Greaves\">Gold Greaves</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Greaves]<span><span title=\"Gold Greaves\">Gold Greaves</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Helmet]<span><span title=\"Gold Helmet\">Gold Helmet</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Helmet]<span><span title=\"Gold Helmet\">Gold Helmet</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

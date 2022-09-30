@@ -1,0 +1,20 @@
+{
+  "type": "enemies",
+  "title": "Granite Elemental",
+  "summaries": [
+    "The <b>Granite Elemental</b> is an enemy that spawns in Granite Caves. It floats towards the player. In Expert Mode, Granite Elementals will occasionally drop to the ground defensively when attacked, making them immune to all damage until they begin hovering again.",
+    "Granite Elementals drop Granite Blocks upon death, which are the same bluish-purple color as the elemental itself. They can also rarely drop the Night Vision Helmet.",
+    "When out of sight the Granite Elemental will move intelligently to reach a player's position e.g. A player will move upward out of a chasm in the Cavern &amp; the Granite Elemental will follow such action moving according to player position."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Granite Cave </span></div>",
+    "AI Type": "Granite Elemental AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">24</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">48</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">42</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">86</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">72</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">63</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">129</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">40</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">80</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">88</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">176</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">120</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">132</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">264</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">8</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">8</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">8</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">16</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">40%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">46%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">52%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Granite Elemental Banner]<span><span>Granite Elemental Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "On Fire!, Confused, Poisoned, Hellfire"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Granite Block]<span><span>Granite Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (5-10)</div><div>100%</div></li><li><div><span class=\"i\">[img:Night Vision Helmet]<span><span>Night Vision Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>3.3%</div></li><li><div><span class=\"i\">[img:Spaghetti]<span><span>Spaghetti</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>2%</div></li><li><div><span class=\"i\">[img:Geode]<span><span>Geode</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>5%</div></li></ul>"
+}

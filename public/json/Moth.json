@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Moth",
+  "summaries": [
+    "The <b>Moth</b> is a rare Hardmode enemy that spawns in the Underground Jungle. It flies around very slowly, and upon seeing the player, will direct its attention towards them and attempt to deal damage to them. Upon killing the Moth, there is a chance that it will drop Butterfly Dust, which is solely used to craft Butterfly Wings. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it will only drop if any mechanical boss has been defeated.",
+    "It is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Underground Jungle </span></div>",
+    "AI Type": "Flying AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">70</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">140</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">210</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">1000</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">2000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">3000</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">28</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
+    "Banner": "<span class=\"i\">[img:Moth Banner]<span><span>Moth Banner</span></span></span>",
+    "Immune to": "Poisoned, Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Butterfly Dust]<span><span>Butterfly Dust</span></span></span></div><div>50%</div></li></ul>"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Cactus Sword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Cactus Sword</b> is an early-game sword. It deals more damage compared to early weapons (dealing the same damage as the Copper Broadsword) and it has more range. It appears much more robust and dangerous compared to wooden and other early-game swords, and can be very useful until one finds Silver or Tungsten to forge a more effective sword.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "8 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "32 <span class=\"usetime\">(Slow)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Silver 60 Copper Coins\" data-sort-value=\"360\"><span class=\"sc\">3</span><span class=\"cc\">60</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Sword]<span><span>Cactus Sword</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

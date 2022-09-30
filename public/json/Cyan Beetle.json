@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Cyan Beetle",
+  "summaries": [
+    "The <b>Cyan Beetle</b> is an Enemy that spawns rarely in the Ice biome. When killed, it will always drop the Cyan Husk, which can be used to craft Cyan Dye.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ice biome </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">20</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">40</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">72</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">108</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">40</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">80</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">176</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">120</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">264</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">10</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">10</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">20</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">0%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">10%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">20%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Cyan Beetle Banner]<span><span>Cyan Beetle Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Cyan Husk]<span><span>Cyan Husk</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>100%</div></li></ul>"
+}

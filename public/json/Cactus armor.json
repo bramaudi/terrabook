@@ -1,0 +1,49 @@
+{
+  "type": "armors",
+  "title": "Cactus armor",
+  "summaries": [
+    "<b>Cactus armor</b> is an early-game set of armor which can be crafted with 75 Cactus.",
+    "On [img:Old-gen console version] Old-gen console, 3DS[img:Nintendo 3DS version], and [img:Legacy tModLoader version] Legacy tModLoader, its set bonus grants an extra 1 defense. On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, it instead provides a thorns effect, dealing 15 / <abbr class=\"expert\" title=\"Expert Mode\">30</abbr> / <abbr class=\"master\" title=\"Master Mode\">45</abbr> damage and inflicting a knockback of 10 (Extremely strong) on enemies that come into contact with the wearer."
+  ],
+  "statistics": {
+    "Defense": "3<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Attackers take damage from the cactus spines</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Breastplate]<span><span title=\"Cactus Breastplate\">Cactus Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Helmet]<span><span title=\"Cactus Helmet\">Cactus Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus Leggings]<span><span title=\"Cactus Leggings\">Cactus Leggings</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "type": "blocks",
+  "title": "Moss",
+  "summaries": [
+    "<b>Moss</b> is a grass-like plant that grows on Stone Blocks. It comes in <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 9 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 6 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 5 different colors, and one color can be found throughout each third of a given map (three colors per world), either randomly on cave surfaces or in moss chambers with a matching mossy wall. Mossy stone requires one more hit to break than clean stone. Moss will be destroyed if the Stone Block it is on converts to Ebonstone, Crimstone, or Pearlstone. Moss sprouts fuzz that can be cut like grass weeds.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, moss can be collected using a Paint Scraper or Spectre Paint Scraper. Only <span class=\"chance\"><s>11.11*</s>1/9 (11.11%)</span> of such moss will drop as an item when using either scraper, the rest will simply disappear as usual. Collected moss can be placed on Stone Blocks and Gray Bricks, or used to craft mossy walls.",
+    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Lava Moss is a special variant of moss that can only be found in the lava layers of the Cavern, though if harvested, it can be planted at any level. Despite not being considered one of the glowing mosses, it glows in the dark.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Glowing mosses are special variants of moss that grow in glowing moss biomes in much larger areas than standard moss, and glow in the dark similarly to Lava Moss. There are three versions of glowing moss; Krypton, Xenon, and Argon Moss. Only one type of glowing moss can be found in each world, in a total of up to two (small world) / three (medium) / four (large) glowing moss biomes in the Cavern layer, mostly above the lava layers, but not under the spawn area."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">25 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Moss]<span><span title=\"Blue Moss\">Blue Moss</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Mossy Wall]<span><span>Blue Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Brown Moss]<span><span title=\"Brown Moss\">Brown Moss</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Brown Mossy Wall]<span><span>Brown Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Moss]<span><span title=\"Green Moss\">Green Moss</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Mossy Wall]<span><span>Green Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Purple Moss]<span><span title=\"Purple Moss\">Purple Moss</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Purple Mossy Wall]<span><span>Purple Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Red Moss]<span><span title=\"Red Moss\">Red Moss</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Red Mossy Wall]<span><span>Red Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Mossy Wall]<span><span>Blue Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Moss]<span><span>Blue Moss</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Brown Mossy Wall]<span><span>Brown Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Brown Moss]<span><span>Brown Moss</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Mossy Wall]<span><span>Green Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Moss]<span><span>Green Moss</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Purple Mossy Wall]<span><span>Purple Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Purple Moss]<span><span>Purple Moss</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Red Mossy Wall]<span><span>Red Mossy Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Red Moss]<span><span>Red Moss</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

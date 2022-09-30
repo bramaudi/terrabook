@@ -1,0 +1,51 @@
+{
+  "type": "armors",
+  "title": "Shadow armor",
+  "summaries": [
+    "<b>Shadow armor</b> is an armor set that consists of the <b>Shadow Helmet</b>, <b>Shadow Scalemail</b>, and <b>Shadow Greaves</b>. The individual pieces provide a total of 19 defense, equal to its Crimson counterpart, Crimson armor. Each of the 3 pieces provide a +7% boost to melee attack speed (for a total of +21%), while wearing all 3 pieces at once grants an additional set bonus of +15% movement speed.",
+    "Wearing a full set causes the player to display an afterimage effect during motion (similar to Necro armor) and emit shadow particles. Also, the Rocket Boots will emit purple flames (this does not occur with Spectre Boots or any of its derivatives).",
+    "Crafting a full set requires a total of 60 Demonite Bars (180 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 240 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Demonite Ore) and 45 Shadow Scales. Defeating the Eater of Worlds twice can provide enough to craft a full set.",
+    "Shadow armor pieces are interchangeable with pieces from the Ancient Shadow armor set, while still providing the same 15% increased movement speed set bonus, but not the afterimage effect."
+  ],
+  "statistics": {
+    "Defense": "19<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">15% increased movement speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Greaves]<span><span title=\"Shadow Greaves\">Shadow Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Shadow Scale]<span><span>Shadow Scale</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Helmet]<span><span title=\"Shadow Helmet\">Shadow Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Shadow Scale]<span><span>Shadow Scale</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Scalemail]<span><span title=\"Shadow Scalemail\">Shadow Scalemail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\">[img:Shadow Scale]<span><span>Shadow Scale</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

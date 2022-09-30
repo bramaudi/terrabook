@@ -1,0 +1,39 @@
+{
+  "type": "accessories",
+  "title": "Sorcerer Emblem",
+  "summaries": [
+    "The <b>Sorcerer Emblem</b> is a Hardmode accessory that increases magic damage by 15%. It has a <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>25*</s>1/4 (25%)</span></abbr> chance to drop from the Wall of Flesh."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">15% increased magic damage</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sorcerer Emblem]<span><span>Sorcerer Emblem</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Warrior Emblem]<span><span>Warrior Emblem</span></span></span></li><li><span class=\"i\">[img:Ranger Emblem]<span><span>Ranger Emblem</span></span></span></li><li><span class=\"i\">[img:Sorcerer Emblem]<span><span>Sorcerer Emblem</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

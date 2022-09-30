@@ -1,0 +1,70 @@
+{
+  "type": "tools",
+  "title": "Luminite Hamaxes",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 100%",
+    "[img:Axe mask] 150%"
+  ],
+  "summaries": [
+    "The <b>Luminite Hamaxes</b> are endgame hamaxes, available after the Moon Lord is defeated. The four types are the <b>Solar Flare Hamaxe</b>, the <b>Vortex Hamaxe</b>, the <b>Nebula Hamaxe</b> and the <b>Stardust Hamaxe</b>. All share the same stats.",
+    "They require Luminite and Lunar Fragments to craft, obtainable from the Moon Lord and Celestial Towers, respectively.",
+    "They have the highest hammer power in the game, along with The Axe. They are beaten only by The Axe in axe power, making them the second-strongest axes.",
+    "Their best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for these tools."
+  ],
+  "statistics": {
+    "Damage": "60 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "7 <span class=\"knockback\">(Strong)</span>",
+    "Bonus": "+4 range",
+    "Critical chance": "4%",
+    "Use time": "28 <span class=\"usetime\">(Average)</span>",
+    "Tool speed": "7",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Hamaxe]<span><span title=\"Nebula Hamaxe\">Nebula Hamaxe</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 3524</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(14)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Solar Flare Hamaxe]<span><span title=\"Solar Flare Hamaxe\">Solar Flare Hamaxe</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 3522</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Solar Fragment]<span><span>Solar Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(14)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Hamaxe]<span><span title=\"Stardust Hamaxe\">Stardust Hamaxe</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 3525</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stardust Fragment]<span><span>Stardust Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(14)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Hamaxe]<span><span title=\"Vortex Hamaxe\">Vortex Hamaxe</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 3523</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(14)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

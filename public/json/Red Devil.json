@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Red Devil",
+  "summaries": [
+    "The <b>Red Devil</b> is a Hardmode enemy that spawns in The Underworld after any mechanical boss has been defeated. It is considered a more difficult version of the Demon, having more health and dealing much more damage. Similar to the Demon, it drops a magic weapon resembling its means of attack, the Unholy Trident.",
+    "While the contact damage of a Red Devil is comparably low, its trident attack is capable of dealing large amounts of damage even to players wearing endgame armor. The tridents are fired in the same burst-like pattern that Demons fire scythes in, although they are slower and move at a constant velocity."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> The Underworld </span></div>",
+    "AI Type": "Bat AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">100</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">150</span></span></span> <span class=\"note-text small\">(contact)</span><br> <span class=\"mode-content\"><span class=\"m-normal\">160</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">320</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">480</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Unholy Trident</span>)</span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">600</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1200</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1800</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">40</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">50%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">55%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">60%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Red Devil Banner]<span><span>Red Devil Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "On Fire!, Confused, Shadowflame, Hellfire"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Unholy Trident]<span><span>Unholy Trident</span></span></span></div><div>3.33%</div></li><li><div><span class=\"i\">[img:Hotdog]<span><span>Hotdog</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>3.33%</div></li><li><div><span class=\"i\">[img:Fire Feather]<span><span>Fire Feather</span></span></span></div><div>1.33%</div></li></ul>"
+}

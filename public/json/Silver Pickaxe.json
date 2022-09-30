@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Silver Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 45%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Silver Pickaxe</b> is an early-game pickaxe that is stronger than the Iron and Lead Pickaxes, but weaker than the Gold and Platinum Pickaxes. Compared to its alternate ore version, the Tungsten Pickaxe, it has less pickaxe power but is significantly faster in terms of mining speed. Unlike the Tungsten Pickaxe, it is not able to mine Meteorite.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "6 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "11",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Pickaxe]<span><span>Silver Pickaxe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Pickaxe]<span><span>Silver Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

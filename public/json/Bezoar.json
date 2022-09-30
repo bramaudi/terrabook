@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Bezoar",
+  "summaries": [
+    "The <b>Bezoar</b> is an accessory that grants the player immunity to the Poisoned debuff. It has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Hornets and Hardmode Moss Hornets in the Underground Jungle biome. Bezoars are also dropped from Toxic Sludges in the Underground and Cavern layers.",
+    "It is one of the ingredients required to make the Medicated Bandage, which is a crafting material required to make the Ankh Charm. The Ankh Charm can then be used to make the Ankh Shield."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Immunity to Poison</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bezoar]<span><span>Bezoar</span></span></span></li><li><span class=\"i\">[img:Adhesive Bandage]<span><span>Adhesive Bandage</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

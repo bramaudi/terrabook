@@ -1,0 +1,35 @@
+{
+  "type": "accessories",
+  "title": "Night Owl Potion",
+  "summaries": [
+    "The <b>Night Owl Potion</b> is a buff potion which grants the <b>Night Owl</b> buff when consumed. The buff improves the player's night vision, and sharply increases the radius of any available light source. This potion has no effect on total darkness.",
+    "This lasts for <span class=\"etxt\"><span>10 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>4 minutes</span><span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]).",
+    "The ingredients of this potion, the Daybloom and Blinkroot, are exceedingly common and can easily be grown in Clay Pots or Planter Boxes or just farmed naturally within one's base.",
+    "Combined with the Shine Potion, it is possible to see about half the screen using nothing but basic, low-level ingredients that far outshine the Shadow Orb or other mobile light sources for exploration."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Increases night vision</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Night Owl Potion]<span><span>Night Owl Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

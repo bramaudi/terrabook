@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Light Disc",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Light Disc</b> is a Hardmode boomerang-type weapon that deals melee damage. Light Discs have the rare ability (along with the Bananarang, though it can have twice the amount) to be stacked up to 5 in a single slot, which allows them to be rapid-fired by holding the attack button, with multiple discs in the air at once. They are quicker than other boomerangs, and can ricochet any number of times. After approximately two seconds, the disc will return to the thrower.",
+    "Light Disc physics are similar to those of the Thorn Chakram, though Light Discs have nearly twice the range and do not \"wobble\" as they travel. They also emit a small amount of light, comparable to the glow of Demonite, Crimtane, or Crystal Shards.",
+    "Light Discs cannot have modifiers through any usual in-game means, due to their stackable nature."
+  ],
+  "statistics": {
+    "Damage": "57 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 35 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "8 <span class=\"knockback\">(Very strong)</span>",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "13",
+    "Tooltip": "<i><span class=\"gameText\">Stacks up to 5</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Light Disc]<span><span>Light Disc</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

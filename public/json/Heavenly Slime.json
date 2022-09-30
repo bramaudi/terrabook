@@ -1,0 +1,17 @@
+{
+  "type": "enemies",
+  "title": "Heavenly Slime",
+  "summaries": [
+    "The <b>Heavenly Slime</b> is an enemy frequently summoned by the Queen Slime alongside Crystal Slimes and Bouncy Slimes. It flies around trying to ram into the player."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> The Hallow </span></div>",
+    "AI Type": "Bat AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">100</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">150</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">120</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">180</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">229</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">30</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">20%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">28%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">36%</span></span></span>",
+    "Immune to": "Poisoned, Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span> (1–2)</div><div>100%</div></li><li><div><span class=\"i\">[img:Slime Staff]<span><span>Slime Staff</span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">0.01%</span><span class=\"m-expert-master\"><abbr class=\"expert\" title=\"Expert Mode\">0.014%</abbr></span></span></div></li></ul>"
+}

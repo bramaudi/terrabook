@@ -1,0 +1,51 @@
+{
+  "type": "armors",
+  "title": "Necro armor",
+  "summaries": [
+    "<b>Necro armor</b> is a post-Skeletron armor set consisting of the <b>Necro Helmet</b>, <b>Necro Breastplate</b>, and <b>Necro Greaves</b>. Crafting a full set requires a total of 135 Cobwebs and 150 Bones.",
+    "The <b>Ancient Necro Helmet</b> is a rare drop from Angry Bones and Dark Casters in the Dungeon, with a <span class=\"chance\"><s>0.22*</s>1/450 (0.22%)</span> chance of dropping. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, it's functionally identical to the Necro Helmet and the two helmets are interchangeable with no bonus loss.",
+    "A full set grants a basic total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 19 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 16 defense and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10% critical strike chance / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 20% chance not to consume ammo. In addition, each piece increases ranged damage by 5%, increasing ranged damage by a total of 15%. It's currently one of only two ranged-specific pre-Hardmode armor sets on [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, the other being Fossil armor. This set provides the highest offensive bonuses for the class prior to Hardmode. On [img:Old-gen console version] Old-gen console, 3DS[img:Nintendo 3DS version], and [img:Legacy tModLoader version] Legacy tModLoader, it's the only ranged armor set available in pre-Hardmode.",
+    "If the full set is worn, the player leaves an afterimage while running just like full Shadow armor. In addition, the sound the player makes when taking certain types of damage will be the same as for a Skeleton <span class=\"sound\"><span class=\"sound-title\"></span><audio src=\"https://terraria.wiki.gg/images/c/c9/NPC_Hit_2.wav\" width=\"300\" class=\"sound-audio\" style=\"max-width: 100%; width: 300px;\" controls>https://terraria.wiki.gg/wiki/File:NPC_Hit_2.wav</audio></span>."
+  ],
+  "statistics": {
+    "Defense": "19 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 16 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">10% increased ranged critical strike chance</span></i> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <br>  <i>20% chance not to consume ammo</i> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Necro Breastplate]<span><span title=\"Necro Breastplate\">Necro Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(60)</span></li><li><span class=\"i\">[img:Cobweb]<span><span>Cobweb</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Necro Greaves]<span><span title=\"Necro Greaves\">Necro Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Cobweb]<span><span>Cobweb</span></span></span> <span class=\"note-text\">(45)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Necro Helmet]<span><span title=\"Necro Helmet\">Necro Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\">[img:Cobweb]<span><span>Cobweb</span></span></span> <span class=\"note-text\">(40)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "armors",
+  "title": "Lead armor",
+  "summaries": [
+    "<b>Lead armor</b> is the 4th weakest metal armor, being the stronger alternative to Iron armor.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 75 Lead Bars to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 180 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 225 Lead Ores.",
+    "It consists of a <b>Lead Helmet</b>, <b>Lead Chainmail</b> and <b>Lead Greaves</b>.",
+    "A full set grants a basic 8 defense plus a set bonus of 3 defense, which equals a total of 11 defense, 2 more than its iron counterpart."
+  ],
+  "statistics": {
+    "Defense": "11 (8+3)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"36 Silver Coins\" data-sort-value=\"3600\"><span class=\"sc\">36</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

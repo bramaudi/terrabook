@@ -1,0 +1,45 @@
+{
+  "type": "accessories",
+  "title": "Fart in a Jar",
+  "summaries": [
+    "The <b>Fart in a Jar</b> is an accessory that allows the player to perform a double jump, accompanied by a farting sound effect. The fart jump will continue to propel you upwards if the <span class=\"key\"><kbd><span title=\"Space Bar (PC default): Makes character jump\">↷ Jump</span></kbd></span> button is held, reaching up to 10.5 blocks on its own, or 16.5 blocks when put together with the first jump. Due to this behavior, the jump behaves more similarly to the Rocket Boots than the Cloud in a Bottle. Unlike the Rocket Boots, however, the jump cannot be used in multiple bursts, and cancelling the jump will forfeit the rest of the height."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Whoopie Cushion]<span><span>Whoopie Cushion</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fart in a Balloon]<span><span>Fart in a Balloon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

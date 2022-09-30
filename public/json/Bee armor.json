@@ -1,0 +1,51 @@
+{
+  "type": "armors",
+  "title": "Bee armor",
+  "summaries": [
+    "<b>Bee armor</b> is an armor set which offers minion boosts. It is one of 3 minion-boosting armors available prior to Hardmode.",
+    "A full set of Bee armor provides the following benefits:",
+    "<ul><li>+13 defense</li><li>+23% minion damage</li><li>+2 minion slots</li></ul>",
+    "Crafting a full set requires a total of 30 Bee Wax. Bee Wax is always dropped by Queen Bee in stacks of 16-29; crafting the entire set therefore requires defeating Queen Bee twice."
+  ],
+  "statistics": {
+    "Defense": "13<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Increases minion damage by 10%</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bee Breastplate]<span><span title=\"Bee Breastplate\">Bee Breastplate</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bee Wax]<span><span>Bee Wax</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bee Greaves]<span><span title=\"Bee Greaves\">Bee Greaves</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bee Wax]<span><span>Bee Wax</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bee Headgear]<span><span title=\"Bee Headgear\">Bee Headgear</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bee Wax]<span><span>Bee Wax</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

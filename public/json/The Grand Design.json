@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "The Grand Design",
+  "toolpower": [],
+  "summaries": [
+    "<b>The Grand Design</b> is a tool for working with wiring and mechanisms.  It combines and extends the abilities of its components:  It allows a controlled view of wiring (Mechanical Lens), and allows the player to place or remove any color of wire (Multicolor Wrench); unlike its components, it also shows and works with Actuators.  It also provides the Ruler's ability to measure distances and relative positions.",
+    "Creating the Grand Design costs <span class=\"coin\" title=\"14 Gold 10 Silver Coins\" data-sort-value=\"141000\"><span class=\"gc\">14</span><span class=\"sc\">10</span></span> in total. Its components are all bought from two NPCs: Most from the Mechanic, but the Ruler comes from the Goblin Tinkerer.  Given the requirements of these two NPCs spawning, it can only be created after both Skeletron and a Goblin Army have been defeated.",
+    "The Grand Design can be used at any part of the screen, regardless of block placement range. When pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> with the tool, a small menu will pop up at the cursor's position with six different buttons in a radial pattern. The outside buttons can be used to select which wire colors (including Actuators) can be interacted with, and the middle button will toggle between placing or harvesting the designated wires. In addition, as long as The Grand Design is anywhere in the inventory, seven buttons will appear on the left-hand side of the screen, controlling whether to display the ruler or not and whether to highlight actuators and/or the four different colors of wires."
+  ],
+  "statistics": {
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Allows ultimate control over wires!<br>Right click while holding to edit wire settings</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:The Grand Design]<span><span>The Grand Design</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Mechanical Lens]<span><span>Mechanical Lens</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ruler]<span><span>Ruler</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

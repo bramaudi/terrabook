@@ -1,0 +1,58 @@
+{
+  "type": "blocks",
+  "title": "Chlorophyte Brick",
+  "summaries": [
+    "<b>Chlorophyte Bricks</b> are Hardmode bricks crafted from Chlorophyte Ore and Stone Blocks."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Brick Wall]<span><span>Chlorophyte Brick Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Brick Wall]<span><span>Chlorophyte Brick Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

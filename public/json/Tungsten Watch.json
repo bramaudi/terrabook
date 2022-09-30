@@ -1,0 +1,45 @@
+{
+  "type": "accessories",
+  "title": "Tungsten Watch",
+  "summaries": [
+    "The <b>Tungsten Watch</b> is a mid-tier watch. The Silver Watch is the alternative to it. When equipped in an accessory slot or held in the inventory, a clock icon will appear in the upper-right corner of the playing screen, revealing the in-game time accurate to the last half-hour. An hour of Terraria game time is equivalent to a minute of real-world time."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Tells the time</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tungsten Watch]<span><span>Tungsten Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Chain]<span><span>Chain</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Table]<span><span>Table</span></span></span> <b>and</b> <span class=\"i\">[img:Chair]<span><span>Chair</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:3 Second Timer]<span><span>3 Second Timer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tungsten Watch]<span><span>Tungsten Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

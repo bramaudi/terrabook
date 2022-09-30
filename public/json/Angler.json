@@ -1,0 +1,21 @@
+{
+  "type": "npcs",
+  "title": "Angler",
+  "summaries": [
+    "The <b>Angler</b> is an NPC concerned exclusively with fishing, who appears as a young boy. He does not sell anything, but rather assigns quests to players. Quest objectives generally involve catching him rare fish from particular biomes or layers, for which he dispenses various rewards.",
+    "On [img:Desktop version] Desktop, [img:Console version] Console, [img:Mobile version] Mobile, and [img:Legacy tModLoader version] Legacy tModLoader, he will throw Frost Daggerfish at nearby enemies when threatened, dealing 10 / <abbr class=\"expert\" title=\"Expert Mode\">15</abbr> / <abbr class=\"master\" title=\"Master Mode\">17</abbr> damage at the start of the game.",
+    "<ul><li>Additionally, on [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile he will gain various stat increases as the player progresses.</li></ul>",
+    "The Angler is first encountered as the <b>Sleeping Angler</b> randomly spawning on the sand or on the water surface of the Ocean biome (or rarely in the underworld). He will move in when:",
+    "<ul><li>There is an empty house.</li><li>The player has interacted with him and has woken him up (<span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span>).</li></ul>",
+    "The Sleeping Angler is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ocean </span><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"mode-content\"><span class=\"m-normal\">10</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">15</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">17</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Frost Daggerfish</span>)</span> ",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Ocean]<span><span>Ocean</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Party Girl]<span><span>Party Girl</span></span></span></li><li>​<span class=\"i mirror\">[img:Demolitionist]<span><span>Demolitionist</span></span></span></li><li>​<span class=\"i -w mirror\">[img:Tax Collector]<span><span>Tax Collector</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Tavernkeep]<span><span>Tavernkeep</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr></tbody>"
+}

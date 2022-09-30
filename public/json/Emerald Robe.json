@@ -1,0 +1,33 @@
+{
+  "type": "armors",
+  "title": "Emerald Robe",
+  "summaries": [
+    "The <b>Emerald Robe</b> is an Armor item and part of the Wizard set, being wearable in the shirt slot. It is the third strongest Gem Robe.",
+    "Wearing the Wizard Hat alongside the Emerald Robe provides a set bonus of +10% magic critical strike chance while wearing a Magic Hat alongside it provides a set bonus of +60 Mana. Any leg-slot equipment can be worn with these set bonuses intact."
+  ],
+  "statistics": {
+    "Defense": "2",
+    "Body slot": "Shirt",
+    "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 60<br>Reduces mana usage by 11%</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Emerald Robe]<span><span>Emerald Robe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Robe]<span><span>Robe</span></span></span></li><li><span class=\"i\">[img:Emerald]<span><span>Emerald</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+        }
+      }
+    ]
+  }
+}

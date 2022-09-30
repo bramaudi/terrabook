@@ -1,0 +1,43 @@
+{
+  "type": "accessories",
+  "title": "Flask of Ichor",
+  "summaries": [
+    "The <b>Flask of Ichor</b> is a Hardmode flask crafted at an Imbuing Station. While under the influence of a Flask of Ichor, melee <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> and whip attacks will inflict the Ichor Debuff for 10 to 19 seconds, decreasing the defense of enemies by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 15 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 20, therefore increasing the damage of the player's weapon by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 7-8 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 10.",
+    "It will make the weapon glow when swung. If used with yoyos, it can be a good lighting source in dark areas.",
+    "This item does not apply the debuff in PvP scenarios."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks decrease enemies defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ichor]<span><span>Ichor</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ichor]<span><span>Ichor</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

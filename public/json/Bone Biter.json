@@ -1,0 +1,20 @@
+{
+  "type": "enemies",
+  "title": "Bone Biter",
+  "summaries": [
+    "<b>Sand Sharks</b> are Hardmode enemies found in the Desert Biome only during a Sandstorm. They are able to \"swim\" through all varieties of Sand, Hardened Sand, and Sandstone Blocks, but will collide normally against any other block. When they draw near a player, they will lunge out of the sand to attack.",
+    "The Sand Shark itself only appears in ordinary Deserts. There are other variants for different versions of the Desert:",
+    "<ul><li><b>Bone Biter</b> in the Corrupted Desert</li><li><b>Crystal Thresher</b> in the Hallowed Desert</li><li><b>Flesh Reaver</b> in the Crimson Desert</li></ul>"
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Sandstorm  +  The Corruption </span></div>",
+    "AI Type": "Sand Shark AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">60</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">120</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">180</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">380</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">760</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1140</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">24</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">20%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">28%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">36%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Bone Biter Banner]<span><span>Bone Biter Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Shark Fin]<span><span>Shark Fin</span></span></span></div><div>12.5%</div></li><li><div><span class=\"i\">[img:Nachos]<span><span>Nachos</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>3.33%</div></li><li><div><span class=\"i\">[img:Dark Shard]<span><span>Dark Shard</span></span></span></div><div>4%</div></li><li><div><span class=\"i -w\">[img:Sand Shark Kite]<span><span>Sand Shark Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><span class=\"note\">(on Windy Days)</span></span></span></div><div>4%</div></li></ul>"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Potion of Return",
+  "summaries": [
+    "The <b>Potion of Return</b> is a potion that teleports the player back to their spawn point, similar to the Recall Potion, and additionally creates a portal exit at the location where the potion was consumed. A portal entrance will be created at the spawn point, which can be used to teleport back to where the player consumed the potion. The portal can only be used once and will disappear afterwards. In addition to being crafted, the Potion of Return can be found in Shadow Chests and Pots in the Underworld."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Teleports you home and creates a portal<br>Use portal to return when you are done<br>'Good for one round trip!'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Potion of Return]<span><span>Potion of Return</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Recall Potion]<span><span>Recall Potion</span></span></span></li><li><span class=\"i\">[img:Obsidifish]<span><span>Obsidifish</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

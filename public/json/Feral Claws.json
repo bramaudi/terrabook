@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Feral Claws",
+  "summaries": [
+    "<b>Feral Claws</b> are an accessory that increases melee attack speed by 12%, and stacks with all other attack speed boosts. Feral Claws can be found in Jungle Crates, <span class=\"eil\"><span>Bramble Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, and Ivy Chests located in Jungle Shrines and at the base of a Living Mahogany Tree in the Underground Jungle.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> In addition to increasing melee attack speed, Feral Claws give autoswing to all melee weapons and Whips."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">12% increased melee speed<br>Enables auto swing for melee weapons</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Power Glove]<span><span>Power Glove</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titan Glove]<span><span>Titan Glove</span></span></span></li><li><span class=\"i\">[img:Feral Claws]<span><span>Feral Claws</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

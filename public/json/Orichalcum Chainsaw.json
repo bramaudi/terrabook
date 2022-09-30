@@ -1,0 +1,42 @@
+{
+  "type": "tools",
+  "title": "Orichalcum Chainsaw",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 90%"
+  ],
+  "summaries": [
+    "The <b>Orichalcum Chainsaw</b> is a Hardmode chainsaw that is obtainable after crafting a Mythril Anvil or an Orichalcum Anvil, and is the chainsaw alternative to the Orichalcum Waraxe. Along with its slightly weaker alternate the Mythril Chainsaw, it is stronger than the Cobalt or Palladium Chainsaw but weaker than the Adamantite or Titanium Chainsaw which can be obtained later. Like all axes and chainsaws, it is used to cut down trees, cacti and giant glowing mushrooms.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "31 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3.75 <span class=\"knockback\">(Weak)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "40",
+    "Tool speed": "5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 98 Silver Coins\" data-sort-value=\"19800\"><span class=\"gc\">1</span><span class=\"sc\">98</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Orichalcum Chainsaw]<span><span>Orichalcum Chainsaw</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Orichalcum Bar]<span><span>Orichalcum Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

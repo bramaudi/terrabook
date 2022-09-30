@@ -1,0 +1,19 @@
+{
+  "type": "npcs",
+  "title": "Guide",
+  "summaries": [
+    "The <b>Guide</b> is usually the first NPC a player encounters. He spawns near the player when the world is created. He provides tips mainly aimed at new players and displays all crafting recipes (including the crafting station required) an item shown to him is used in.",
+    "Unlike most other NPCs, the Guide spawns upon world creation, before a house is available. He will, however, move into the first house built. If he is killed, a proper house will need to be built before he can respawn, but has no additional requirements.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, the Guide will defend himself against nearby enemies using a Wooden Bow and arrow, firing Wooden Arrows initially and then upgrading to Flaming Arrows in Hardmode. He deals 8 / <abbr class=\"expert\" title=\"Expert Mode\">12</abbr> / <abbr class=\"master\" title=\"Master Mode\">14</abbr> damage at the start of the game, and as players progress, he will gain various stat increases."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface </span><span class=\"tag\"> Valid house </span><span class=\"tag\"> Forest </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"mode-content\"><span class=\"m-normal\">8</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">12</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">14</abbr></span></span> <span class=\"note-text small\">(arrows)</span> ",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Forest]<span><span>Forest</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Clothier]<span><span>Clothier</span></span></span></li><li>​<span class=\"i -w mirror\">[img:Zoologist]<span><span>Zoologist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Ocean]<span><span>Ocean</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Steampunker]<span><span>Steampunker</span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Painter]<span><span>Painter</span></span></span></li></ul></div></td></tr></tbody>",
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Green Cap]<span><span>Green Cap</span></span></span><div class=\"note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Nintendo 3DS version] (Only if name is Andrew)<br>[img:Old-gen console version] (Always drops on every console except Xbox 360)</div></div><div>100%</div></li></ul>"
+}

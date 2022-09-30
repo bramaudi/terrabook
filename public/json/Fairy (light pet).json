@@ -1,0 +1,41 @@
+{
+  "type": "pets",
+  "title": "Fairy Bell",
+  "summaries": [
+    "The <b>Fairy Bell</b> is a Hardmode Light Pet summoning item that summons a glowing creature resembling a Pixie, which follows the player and provides light for an infinite duration. The summoned Fairy is either pink, green or blue, the color of which changes randomly each time the player clicks while holding the item.",
+    "The Fairy is faster and brighter than the Shadow Orb and Crimson Heart, but not as fast or bright as the Wisp in a Bottle."
+  ],
+  "statistics": {
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Summons a magical fairy</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fairy Bell]<span><span>Fairy Bell</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bell]<span><span>Bell</span></span></span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fairy Bell]<span><span>Fairy Bell</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bell]<span><span>Bell</span></span></span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(80)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

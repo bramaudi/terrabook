@@ -1,0 +1,45 @@
+{
+  "type": "accessories",
+  "title": "Lightning Boots",
+  "summaries": [
+    "<b>Lightning Boots</b> are an accessory that have essentially the same functionality as Spectre Boots, but with enhanced running speed. Its visual effects do not differ from the Spectre Boots.They have an 8% movement speed bonus compared to the Spectre Boots."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows flight, super fast running<br>8% increased movement speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Anklet of the Wind]<span><span>Anklet of the Wind</span></span></span></li><li><span class=\"i\">[img:Aglet]<span><span>Aglet</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frostspark Boots]<span><span>Frostspark Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span></li><li><span class=\"i\">[img:Ice Skates]<span><span>Ice Skates</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

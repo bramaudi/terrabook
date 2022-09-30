@@ -1,0 +1,68 @@
+{
+  "type": "blocks",
+  "title": "Adamantite Ore",
+  "summaries": [
+    "<b>Adamantite Ore</b> is one of the two top-tier ores that can spawn from every third destroyed Altar in Hardmode (the other possible ore being Titanium). In worlds where it spawns, it is the rarest and most valuable of the three Altar-spawned ores.",
+    "A Mythril/Orichalcum Drill, Mythril/Orichalcum Pickaxe, or better is required in order to mine Adamantite. An Adamantite Forge, crafted from 30 Adamantite Ore and one Hellforge, is required in order to craft Adamantite Bars.Adamantite Ore, as well as Adamantite Bars, can also be obtained by opening crates, eliminating the need for a higher-tier pickaxe.Adamantite Ore is also dropped by <span class=\"eil\"><span>Ocram</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>.",
+    "Crafting all Adamantite items requires 174 Adamantite Bars, plus thirty raw ore for an Adamantite Forge, for a total of 696 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 900  <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Adamantite Ore."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Adamantite Forge]<span><span>Adamantite Forge</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Titanium Forge]<span><span>Titanium Forge</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Beam]<span><span>Adamantite Beam</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Forge]<span><span>Adamantite Forge</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Hellforge]<span><span>Hellforge</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

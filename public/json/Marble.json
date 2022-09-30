@@ -1,0 +1,52 @@
+{
+  "type": "blocks",
+  "title": "Marble Block",
+  "summaries": [
+    "<b>Marble</b> is a natural block found in Marble Caves. It can be crafted into Smooth Marble Blocks in order to craft the Marble-themed furniture set."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "receipes": [
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Marble Block]<span><span>Marble Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Marble Wall]<span><span>Marble Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+      },
+      "station": {
+        "rowspan": 1,
+        "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+      }
+    }
+  ],
+  "used_in": [
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Marble Wall]<span><span>Marble Wall</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Marble Block]<span><span>Marble Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+      },
+      "station": {
+        "rowspan": 2,
+        "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+      }
+    },
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Smooth Marble Block]<span><span>Smooth Marble Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Marble Block]<span><span>Marble Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+      }
+    }
+  ]
+}

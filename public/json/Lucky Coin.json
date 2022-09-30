@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Lucky Coin",
+  "summaries": [
+    "The <b>Lucky Coin</b> is an extremely rare Hardmode accessory that while equipped causes enemies to drop extra coins when damaged. The Lucky Coin is dropped by pirates during a Pirate Invasion at a rate of <span class=\"chance\"><s>0.025*</s>1/4000 (0.025%)</span>, from the Pirate Captain at a rate of <span class=\"chance\"><s>0.1*</s>1/1000 (0.1%)</span> or from the Flying Dutchman at a rate of <span class=\"chance\"><s>0.5*</s>1/200 (0.5%)</span>. It is not dropped by Parrots.",
+    "With the Lucky Coin equipped, there is a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance that 1 to 10 extra coins will drop each time the player damages an enemy. Each time extra coins drop, the following probabilities determine the coin type:",
+    "<ul><li>89.1% chance for <span class=\"i\">[img:Copper Coin]<span><span>Copper Coins</span></span></span></li><li>9.9% chance for <span class=\"i\">[img:Silver Coin]<span><span>Silver Coins</span></span></span></li><li>1% chance for <span class=\"i\">[img:Gold Coin]<span><span>Gold Coins</span></span></span></li></ul>"
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Hitting enemies will sometimes drop extra coins</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Coin Ring]<span><span>Coin Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Coin]<span><span>Lucky Coin</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

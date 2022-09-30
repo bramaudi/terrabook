@@ -1,0 +1,45 @@
+{
+  "type": "tools",
+  "title": "Bone Throwing Knife",
+  "toolpower": [],
+  "summaries": [
+    "<b>Bone Throwing Knives</b> are consumable piercing ranged weapons similar to Throwing Knives. Compared to their counterpart, Bone Throwing Knives can pierce up to five enemies; combined with the Fossil armor, they can be an effective weapon until Hardmode due to their ability to pierce multiple enemies, low use time, and reasonable damage."
+  ],
+  "statistics": {
+    "Damage": "14 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "1.5 <span class=\"knockback\">(Extremely weak)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Critical chance": "4%",
+    "Use time": "14 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bone Throwing Knife]<span><span>Bone Throwing Knife</span></span></span> <span class=\"note-text\">(30)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bone Throwing Knife]<span><span>Bone Throwing Knife</span></span></span> <span class=\"note-text\">(25)</span> ([img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

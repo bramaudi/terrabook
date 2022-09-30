@@ -1,0 +1,50 @@
+{
+  "type": "tools",
+  "title": "Platinum Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 59%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Platinum Pickaxe</b> is an early-game pickaxe that is stronger than the Silver and Tungsten Pickaxes. Compared to its alternate ore version, the Gold Pickaxe, it has more pickaxe power, deals 1 more damage, and is slightly faster in terms of mining speed.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "7 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "15",
+    "Tooltip": "<i><span class=\"gameText\">Can mine Meteorite</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Platinum Pickaxe]<span><span>Platinum Pickaxe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Platinum Pickaxe]<span><span>Platinum Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

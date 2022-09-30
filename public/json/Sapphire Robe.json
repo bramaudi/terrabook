@@ -1,0 +1,33 @@
+{
+  "type": "armors",
+  "title": "Sapphire Robe",
+  "summaries": [
+    "The <b>Sapphire Robe</b> is an Armor item parts of the Wizard set that can be worn in the shirt slot. It is the third weakest Gem Robe.",
+    "Wearing the Wizard Hat alongside the Sapphire Robe provides a set bonus of +10% magic critical strike chance while wearing a Magic Hat alongside it provides a set bonus of +60 Mana. Any leg-slot equipment can be worn with these set bonuses remaining intact."
+  ],
+  "statistics": {
+    "Defense": "1",
+    "Body slot": "Shirt",
+    "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 40<br>Reduces mana usage by 9%</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sapphire Robe]<span><span>Sapphire Robe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Robe]<span><span>Robe</span></span></span></li><li><span class=\"i\">[img:Sapphire]<span><span>Sapphire</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Gender Change Potion",
+  "summaries": [
+    "The <b>Gender Change Potion</b> is a potion which allows the player to change their sprite from male to female and vice versa. Hurt sounds and equipment sprites change accordingly. The effect is permanent, lasting infinitely unless another Gender Change Potion is used to change gender again."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gender Change Potion]<span><span>Gender Change Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Waterleaf]<span><span>Waterleaf</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

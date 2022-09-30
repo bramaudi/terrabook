@@ -1,0 +1,41 @@
+{
+  "type": "tools",
+  "title": "Shroomite Digging Claw",
+  "toolpower": [
+    "[img:Pickaxe mask] 200%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 125%"
+  ],
+  "summaries": [
+    "The <b>Shroomite Digging Claw</b> is a Hardmode, post-Plantera pickaxe and axe. It is capable of mining every type of block except Lihzahrd Bricks. It is the pickaxe with the fastest mining speed in the game.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "45 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "6 <span class=\"knockback\">(Average)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "4",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Digging Claw]<span><span>Shroomite Digging Claw</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

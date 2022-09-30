@@ -1,0 +1,68 @@
+{
+  "type": "blocks",
+  "title": "Living Fire Blocks",
+  "summaries": [
+    "<b>Living Fire Blocks</b> are animated background furniture blocks that, when placed, resemble small animated flames and emit faint orange light. They deal no damage on contact and can be freed with any pickaxe or drill. Living Fire Blocks have a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance of being dropped by any enemy killed in the Underworld during Hardmode, including the Wall of Flesh, and drop in stacks of 20–50 at a time.",
+    "While Living Fire Blocks can be placed in a manner similar to traditional, foreground blocks, they are actually in the background, similar to furniture, allowing the player to walk directly through them. They can attach to each other horizontally as well as vertically, but other traditional, foreground block types will not attach to them.",
+    "There are five color variations of the base Living Fire Block, all of which are crafted from it. They are functionally identical."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Cursed Fire Block]<span><span title=\"Living Cursed Fire Block\">Living Cursed Fire Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Living Fire Block]<span><span>Living Fire Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Cursed Flame]<span><span>Cursed Flame</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Demon Fire Block]<span><span title=\"Living Demon Fire Block\">Living Demon Fire Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Living Fire Block]<span><span>Living Fire Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Demon Torch]<span><span>Demon Torch</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Frost Fire Block]<span><span title=\"Living Frost Fire Block\">Living Frost Fire Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Living Fire Block]<span><span>Living Fire Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Ice Block]<span><span>Ice Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Ichor Block]<span><span title=\"Living Ichor Block\">Living Ichor Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Living Fire Block]<span><span>Living Fire Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Ichor]<span><span>Ichor</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Ultrabright Fire Block]<span><span title=\"Living Ultrabright Fire Block\">Living Ultrabright Fire Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Living Fire Block]<span><span>Living Fire Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Ultrabright Torch]<span><span>Ultrabright Torch</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

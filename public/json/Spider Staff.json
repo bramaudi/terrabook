@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Spider Staff",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Spider Staff</b> is a Hardmode summon weapon. It spawns a spider minion that follows the player and attacks by latching on to enemies. If enough of them attack the same enemy, it can be stun-locked. The spiders inflict the Acid Venom debuff for 2–4 seconds, can climb background walls, and jump high. Like other minions, the summoned Spider is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, cancels the buff, or leaves the world.",
+    "Its best modifier is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Spider Staff has over a Ruthless one is knockback."
+  ],
+  "statistics": {
+    "Damage": "26 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 25 <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "10",
+    "Use time": "36 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons spiders to fight for you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spider Staff]<span><span>Spider Staff</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spider Fang]<span><span>Spider Fang</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

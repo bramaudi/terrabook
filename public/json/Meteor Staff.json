@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Meteor Staff",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Meteor Staff</b> is a Hardmode magic weapon which summons a falling Meteor projectile from the sky. The Meteor falls in the direction of the cursor, damaging nearby enemies upon colliding with a block. They cannot pass through solid objects, but may pass through platforms. It also emits light particles which continue traveling after the impact.",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "50 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Mana": "13",
+    "Critical chance": "4%",
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "30<small> (effective)</small>",
+    "Tooltip": "<i><span class=\"gameText\">Showers meteors</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Meteor Staff]<span><span>Meteor Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

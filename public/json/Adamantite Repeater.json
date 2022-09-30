@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Adamantite Repeater",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Adamantite Repeater</b> is a Hardmode repeater crafted solely using Adamantite Bars. It is one of the strongest of the Hardmode ore repeaters, only beaten by the Titanium Repeater and Chlorophyte Shotbow.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "40 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2.5 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br>20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 40 Silver Coins\" data-sort-value=\"24000\"><span class=\"gc\">2</span><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Repeater]<span><span>Adamantite Repeater</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

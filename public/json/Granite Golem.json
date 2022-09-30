@@ -1,0 +1,18 @@
+{
+  "type": "enemies",
+  "title": "Granite Golem",
+  "summaries": [
+    "The <b>Granite Golem</b> is an enemy found only in Granite Caves. Every few seconds, it will shield itself from all attacks for two seconds, making it completely invulnerable. It can still deal damage to players during this invulnerable state should they walk into it. Like the Granite Elemental, it will always drop a small amount of Granite Blocks."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Granite Cave </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">30</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">90</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">110</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">220</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">242</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">330</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">363</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">18</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">65%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">69%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">72%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Granite Golem Banner]<span><span>Granite Golem Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "On Fire!, Confused, Poisoned, Hellfire"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Granite Block]<span><span>Granite Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (5–10)</div><div>100%</div></li><li><div><span class=\"i\">[img:Night Vision Helmet]<span><span>Night Vision Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>3.3%</div></li><li><div><span class=\"i\">[img:Spaghetti]<span><span>Spaghetti</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>2%</div></li><li><div><span class=\"i\">[img:Geode]<span><span>Geode</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>5%</div></li></ul>"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "blocks",
+  "title": "Bubblegum Block",
+  "summaries": [
+    "The <b>Bubblegum Block</b> is a building material crafted from Stone Blocks and Orichalcum Ore. When placed, it resembles stone blocks coated with bubblegum. It is essentially the Orichalcum Ore's equivalent of a Brick."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Bubblegum Block]<span><span>Bubblegum Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Orichalcum Ore]<span><span>Orichalcum Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bubblegum Block Wall]<span><span>Bubblegum Block Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bubblegum Block Wall]<span><span>Bubblegum Block Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bubblegum Block]<span><span>Bubblegum Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

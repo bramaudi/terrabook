@@ -1,0 +1,39 @@
+{
+  "type": "tools",
+  "title": "Flamethrower",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Flamethrower</b> is a Hardmode ranged weapon that uses Gel for ammunition. It inflicts the On Fire! debuff for 20 seconds.",
+    "For a standard Flamethrower, every press of the <span class=\"key\"><kbd><span title=\"Left Click (PC default): Use held item or attack\">⚒ Use / Attack</span></kbd></span> button consumes one Gel and generates five \"lines\" of fire in quick succession that can be spread over an area by moving the mouse while firing. With some modifiers that increase firing speed (e.g. Unreal and Rapid), each attack consumes two Gel and fires six lines.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Gel",
+    "Damage": "35 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "0.3 <span class=\"knockback\">(Extremely weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "21<small> (not affected by ammo)</small>",
+    "Tooltip": "<i><span class=\"gameText\">Uses gel for ammo</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flamethrower]<span><span>Flamethrower</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Illegal Gun Parts]<span><span>Illegal Gun Parts</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

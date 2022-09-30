@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Platinum Hammer",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 59%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Platinum Hammer</b> is slightly better than its Gold Hammer counterpart. Contrary to common sense, this hammer is also slightly better than the higher tiered The Breaker and Flesh Grinder. Like all hammers, it is used to remove background walls and create sloped tiles and half tiles.",
+    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+  ],
+  "statistics": {
+    "Damage": "10 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "27 <span class=\"usetime\">(Average)</span>",
+    "Tool speed": "21",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"24 Silver Coins\" data-sort-value=\"2400\"><span class=\"sc\">24</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Platinum Hammer]<span><span>Platinum Hammer</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Platinum Hammer]<span><span>Platinum Hammer</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Molten Quiver",
+  "summaries": [
+    "The <b>Molten Quiver</b> is a Hardmode accessory that has the same effects as the Magic Quiver with the addition of turning Wooden Arrows into Flaming Arrows when fired from a bow."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases arrow damage by 10% and greatly increases arrow speed<br>20% chance not to consume arrows<br>Lights wooden arrows ablaze<br>'Quiver in fear!'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Quiver]<span><span>Molten Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

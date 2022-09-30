@@ -1,0 +1,23 @@
+{
+  "type": "tools",
+  "title": "Lightning Aura sentry summons",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Lightning Aura Rod, Cane, and Staff</b> are special sentry summon weapons. They can summon the <b>Lightning Aura</b> sentry, which lasts for 2 minutes, remains stationary, and does not count against the player's minion capacity. Each Lightning Aura sentry consists of a circle with a radius of 9 tiles, centered on the base, that damages enemies repeatedly as they move through it. The Rod is sold by the Tavernkeep for <span data-info=\"50000\" class=\"coins\" title=\"5 Defender Medals\"><s>50000*</s>5 [img:Defender Medal]</span>, the Cane for <span data-info=\"250000\" class=\"coins\" title=\"25 Defender Medals\"><s>250000*</s>25 [img:Defender Medal]</span>, and the Staff for <span data-info=\"1000000\" class=\"coins\" title=\"100 Defender Medals\"><s>1000000*</s>100 [img:Defender Medal]</span>.",
+    "Lightning Aura weapons completely ignore enemy defenses by adding half the enemy's original defense (i.e. before defense is reduced by certain debuffs) to the weapon's damage. The Lightning Aura Staff, for example, always inflicts around 34 damage on any enemy, regardless of its defense stat. This is separate from and applied before armor penetration, which potentially increases the damage even further. On the [img:Legacy tModLoader version] Legacy tModLoader version, Lightning Aura weapons state tripled damage numbers in their tooltips as an estimate to reflect this unique ability.",
+    "The Rod is always available. The Cane becomes available after defeating one mechanical boss, and the Staff becomes available after defeating Golem. The three different versions cause an identical effect, but with varying statistics, with the Staff being the most expensive and the most powerful.",
+    "These weapons cannot be used outside of the Old One's Army event until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
+    "During the Old One's Army event, Etherian Mana can be collected, which allows the placement of multiple Lightning Auras that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
+    "Lightning Aura sentries are boosted by the Monk armor and Shinobi Infiltrator armor set bonuses, which increase their attack rate and allow them to deal critical hits. The critical strike chance of these weapons will always be locked at 16.67% (Monk armor) or 25% (Shinobi Infiltrator armor), and will <i>not</i> be boosted by the weapon's modifier or any other boost to critical strike chance. The Shinobi Infiltrator armor also increases the size of the Lightning Aura's circle.",
+    "Their best modifier is <b>Demonic</b> or <b>Deadly</b>, as they do not have any knockback and thus cannot get modifiers that affect it."
+  ],
+  "statistics": {
+    "Damage": "<span class=\"note-text small\">(Varies each tier)</span> <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "1",
+    "Tooltip": "<i><span class=\"gameText\">Summons a sentry<br>An aura that repeatedly zaps enemies that go inside<br>Costs 10 Etherian Mana per use while defending an Eternia Crystal</span></i>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

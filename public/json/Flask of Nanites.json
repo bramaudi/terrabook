@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Flask of Nanites",
+  "summaries": [
+    "The <b>Flask of Nanites</b> is a Hardmode, post-Plantera flask that causes the player's melee (and whip) attacks to inflict the Confused debuff on enemies.",
+    "It currently doesn't provide any effect in PvP scenarios."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks confuse enemies</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Nanites]<span><span>Flask of Nanites</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Nanites]<span><span>Nanites</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+        }
+      }
+    ]
+  }
+}

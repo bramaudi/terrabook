@@ -1,0 +1,46 @@
+{
+  "type": "accessories",
+  "title": "The Plan",
+  "summaries": [
+    "<b>The Plan</b> is a Hardmode accessory which combines the functions of the Fast Clock and the Trifold Map, granting immunity to the Slow and Confusion debuffs.",
+    "It is one of the ingredients required to make the Ankh Charm, which is further required to make the Ankh Shield."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Immunity to Slow and Confusion</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:The Plan]<span><span>The Plan</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Fast Clock]<span><span>Fast Clock</span></span></span></li><li><span class=\"i\">[img:Trifold Map]<span><span>Trifold Map</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

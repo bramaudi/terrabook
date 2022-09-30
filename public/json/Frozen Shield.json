@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Frozen Shield",
+  "summaries": [
+    "The <b>Frozen Shield</b> is a post-Plantera Hardmode shield accessory combining the functionalities of Paladin's Shield and the Frozen Turtle Shell, redirecting some damage done to teammates to the player, increasing defense by 6, and providing the player with a damage-absorbing shield when they are at low health."
+  ],
+  "statistics": {
+    "Defense": "6",
+    "Tooltip": "<i><span class=\"gameText\">Grants immunity to knockback<br>Puts a shell around the owner when below 50% life that reduces damage by 25%<br>Absorbs 25% of damage done to players on your team when above 25% life</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frozen Shield]<span><span>Frozen Shield</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Paladin's Shield]<span><span>Paladin's Shield</span></span></span></li><li><span class=\"i\">[img:Frozen Turtle Shell]<span><span>Frozen Turtle Shell</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

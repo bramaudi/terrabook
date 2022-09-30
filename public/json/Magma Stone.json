@@ -1,0 +1,58 @@
+{
+  "type": "accessories",
+  "title": "Magma Stone",
+  "summaries": [
+    "The <b>Magma Stone</b> is an accessory that drops from Lava Bats (2% chance) and Hellbats (0.67% chance) in The Underworld. It causes the wearer's melee attacks to inflict the <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <b>Hellfire</b> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> On Fire! debuff on enemies, and also add orange flame particles effect on both the weapon sprite and their projectile that gives off light. The duration of the debuff is random, and varies according to the table on the right.",
+    "The Hellfire debuff is a stronger version of On Fire! and causes the afflicted enemy to lose 15 instead of 4 health per second."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Melee attacks inflict fire damage</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fire Gauntlet]<span><span>Fire Gauntlet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li><li><span class=\"i\">[img:Mechanical Glove]<span><span>Mechanical Glove</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Quiver]<span><span>Molten Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Skull Rose]<span><span>Molten Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

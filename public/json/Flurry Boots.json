@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Flurry Boots",
+  "summaries": [
+    "<b>Flurry Boots</b> are an accessory that can be found in Frozen Chests in the underground Snow Biome, as well as <span class=\"eil\"><span>Frozen</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Boreal Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. When equipped, they allow the player to gain a speed boost after running for a certain distance continuously. Your speed will continue increasing until maximum speed is attained. At full sprint, they will increase your horizontal movement speed by about 40%. <i>(See Sprinting accessories for more information on the sprint effect.)</i>",
+    "The Flurry Boots, Hermes Boots, Dunerider Boots and the Sailfish Boots have identical functionality, with their only differences being aesthetic (and being faster on Sand Blocks, in the case of the Dunerider Boots). In the case of the Flurry Boots, the user will leave a short dust trail under themselves as they run, which disappears immediately upon stopping, unlike the Hermes Boots.",
+    "All four listed boots are interchangeable when crafting Spectre Boots."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">The wearer can run super fast</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Flurry Boots]<span><span>Flurry Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

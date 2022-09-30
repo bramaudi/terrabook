@@ -1,0 +1,47 @@
+{
+  "type": "accessories",
+  "title": "Mana Regeneration Band",
+  "summaries": [
+    "The <b>Mana Regeneration Band</b> is an accessory item made by combining a Band of Starpower and a Band of Regeneration at a Tinkerer's Workshop. It somewhat combines the effects of both bands, expanding a player's mana pool and converting the bonus health regeneration provided by the Band of Regeneration into mana regeneration.",
+    "The Band of Starpower, which is required for crafting the Mana Regeneration Band, is generally exclusive to worlds with Corruption, as it is obtained from Shadow Orbs and <span class=\"eil\"><span>Corrupt Crates</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>. Therefore, obtaining a Mana Regeneration Band in worlds with Crimson requires creating an artificial Corruption biome, e.g. by purchasing Corrupt Seeds from the Dryad in a Hardmode <span class=\"eil\"><span>Graveyard</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Band of Starpower can also be crafted from a Panic Necklace, however.",
+    "On the Nintendo 3DS[img:Nintendo 3DS version] version, the Band of Starpower can additionally often be found in Living Wood Chests in Living Trees in any world."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 20<br>Increases mana regeneration rate</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Band of Starpower]<span><span>Band of Starpower</span></span></span></li><li><span class=\"i\">[img:Band of Regeneration]<span><span>Band of Regeneration</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Magic Cuffs]<span><span>Magic Cuffs</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span></li><li><span class=\"i\">[img:Shackle]<span><span>Shackle</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

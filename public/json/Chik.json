@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Chik",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Chik</b> is a Hardmode yoyo. It is relatively easy to craft when first entering Hardmode.",
+    "It has a spin duration of 16 seconds, and can reach up to 18 tiles.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "39 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3.3 <span class=\"knockback\">(Weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "16",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chik]<span><span>Chik</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Wooden Yoyo]<span><span>Wooden Yoyo</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

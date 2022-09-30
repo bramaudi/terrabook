@@ -1,0 +1,42 @@
+{
+  "type": "tools",
+  "title": "Palladium Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 130%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Palladium Pickaxe</b> is a Hardmode pickaxe, and is the pickaxe alternative to the Palladium Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore version, the Cobalt Pickaxe, is slightly weaker than the Palladium Pickaxe.",
+    "It can mine any block except Adamantite Ore, Titanium Ore, Chlorophyte Ore, and Lihzahrd Bricks. On the Nintendo 3DS[img:Nintendo 3DS version] version, however, it can still mine Titanium Ore and Adamantite Ore, providing significant help in progressing through the game at an early stage.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "12 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "12",
+    "Tooltip": "<i><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"gameText\">Can mine Mythril and Orichalcum</span><br><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span> Can mine Mythril, Orichalcum, Adamantite, and Titanium</i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palladium Pickaxe]<span><span>Palladium Pickaxe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

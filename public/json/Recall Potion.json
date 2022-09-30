@@ -1,0 +1,57 @@
+{
+  "type": "accessories",
+  "title": "Recall Potion",
+  "summaries": [
+    "The <b>Recall Potion</b> is a potion that will teleport you to your spawn point when used. It is crafted using a Specular Fish and <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Daybloom / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Deathweed. It is identical in function to a Magic Mirror or Ice Mirror, but significantly faster in use time. It can also be found in underground pots and chests.",
+    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a bonus drop from Slimes."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Teleports you home</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Potion of Return]<span><span>Potion of Return</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Recall Potion]<span><span>Recall Potion</span></span></span></li><li><span class=\"i\">[img:Obsidifish]<span><span>Obsidifish</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

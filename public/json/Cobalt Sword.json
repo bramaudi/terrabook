@@ -1,0 +1,44 @@
+{
+  "type": "tools",
+  "title": "Cobalt Sword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Cobalt Sword</b> is a Hardmode sword crafted solely using Cobalt Bars, and lies at the lowest tier of Hardmode ore swords along with the Palladium Sword. Like other Hardmode ore swords, it is capable of autoswing. It can also swing faster than all of the other Hardmode ore swords.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "39 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 34 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3.85 <span class=\"knockback\">(Weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "23 <span class=\"usetime\">(Fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 38 Silver Coins\" data-sort-value=\"13800\"><span class=\"gc\">1</span><span class=\"sc\">38</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

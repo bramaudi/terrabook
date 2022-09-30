@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Silver Broadsword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Silver Broadsword</b> is an early game metal broadsword, being stronger than the Iron Broadsword, equal to the Lead Broadsword, but slightly weaker than the alternative Tungsten Broadsword. Like all broadswords, this sword has an arc motion, which is more useful for killing flying and jumping enemies than shortswords.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "11 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "21 <span class=\"usetime\">(Fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"9 Silver Coins\" data-sort-value=\"900\"><span class=\"sc\">9</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Broadsword]<span><span>Silver Broadsword</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

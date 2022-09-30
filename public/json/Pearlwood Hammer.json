@@ -1,0 +1,40 @@
+{
+  "type": "tools",
+  "title": "Pearlwood Hammer",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 45%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Pearlwood Hammer</b> is the strongest of the wood Hammers, though it is also the weakest hammer exclusive to Hardmode. It is statistically identical to the Silver Hammer.",
+    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+  ],
+  "statistics": {
+    "Damage": "9 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "29 <span class=\"usetime\">(Average)</span>",
+    "Tool speed": "19",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlwood Hammer]<span><span>Pearlwood Hammer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlwood]<span><span>Pearlwood</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Wormhole Potion",
+  "summaries": [
+    "The <b>Wormhole Potion</b> is a potion which allows a player to instantly teleport to another team member's location in multiplayer, by selecting their player icon in the full-screen map (accessible by pressing the <span class=\"key\"><kbd><span title=\"M (PC default): Cycles map display\">Toggle Full Map</span></kbd></span> key). It is only possible to teleport to players of the same team, and the teleport will be announced in a status message. It is not possible to use Wormhole Potions if the player has the minimap disabled.",
+    "Wormhole Potions can drop from Pots and slimes, but only in multiplayer. Note that other players do not have to be online for the potion to drop, so just selecting multiplayer and hosting the game can allow collecting the potions. Wormhole Potions can be crafted in a singleplayer world as well.",
+    "It has a small chance to appear as a bonus drop from Slimes."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Tooltip": "<i><span class=\"gameText\">Teleports you to a party member<br>Click their head on the fullscreen map</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

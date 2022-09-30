@@ -1,0 +1,42 @@
+{
+  "type": "accessories",
+  "title": "Flask of Poison",
+  "summaries": [
+    "The <b>Flask of Poison</b> is a flask that will cause any melee weapons or whips to inflict the Poisoned debuff. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, this effect will not be lost when the player dies.",
+    "The Flask of Poison cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. This item currently does not apply the debuff in PvP scenarios."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks poison enemies</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

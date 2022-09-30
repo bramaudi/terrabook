@@ -1,0 +1,70 @@
+{
+  "type": "accessories",
+  "title": "Spectre Boots",
+  "summaries": [
+    "<b>Spectre Boots</b> are an accessory crafted from Rocket Boots and either Flurry Boots, Hermes Boots, Dunerider Boots, or Sailfish Boots, and combine their functionality. During flight, they emit a white/blue cloud trail, but unlike the Rocket Boots, they do not produce any light. Their flight time is about 1.6 seconds, identical to Rocket Boots.",
+    "The effects of Spectre and Rocket Boots do not stack, though they do stack with Wings to increase flight time."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows flight<br>The wearer can run super fast</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 4,
+          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Dunerider Boots]<span><span>Dunerider Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Flurry Boots]<span><span>Flurry Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hermes Boots]<span><span>Hermes Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fairy Boots]<span><span>Fairy Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Flower Boots]<span><span>Flower Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Anklet of the Wind]<span><span>Anklet of the Wind</span></span></span></li><li><span class=\"i\">[img:Aglet]<span><span>Aglet</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

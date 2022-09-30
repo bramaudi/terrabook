@@ -1,0 +1,48 @@
+{
+  "type": "armors",
+  "title": "Pearlwood armor",
+  "summaries": [
+    "<b>Pearlwood armor</b> is a Hardmode armor set consisting of the <b>Pearlwood Helmet</b>, the <b>Pearlwood Breastplate</b>, and the <b>Pearlwood Greaves</b>.",
+    "Wearing a full set grants a basic 7 defense plus a set bonus of 1 defense, which equals a total of 8 defense."
+  ],
+  "statistics": {
+    "Defense": "8 (7+1)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">1 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlwood Breastplate]<span><span title=\"Pearlwood Breastplate\">Pearlwood Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlwood]<span><span>Pearlwood</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlwood Greaves]<span><span title=\"Pearlwood Greaves\">Pearlwood Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlwood]<span><span>Pearlwood</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlwood Helmet]<span><span title=\"Pearlwood Helmet\">Pearlwood Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlwood]<span><span>Pearlwood</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

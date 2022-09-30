@@ -1,0 +1,67 @@
+{
+  "type": "blocks",
+  "title": "Titanium Ore",
+  "summaries": [
+    "<b>Titanium Ore</b> is a Hardmode ore which can possibly replace Adamantite in a given world and is functionally the same. Titanium, like all Hardmode ores, is generated upon destruction of an Altar with a Pwnhammer or higher. Like Adamantite, a Mythril Drill/Orichalcum Drill (or their pickaxe equivalents) with 150% Pickaxe power or better is required to mine it. On the Nintendo 3DS[img:Nintendo 3DS version] version, it can also be mined with a Palladium Drill.",
+    "Titanium Ore, as well as Titanium Bars, can also be obtained by opening Crates, eliminating the need for a higher-tier pickaxe."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"17 Silver Coins\" data-sort-value=\"1700\"><span class=\"sc\">17</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Adamantite Forge]<span><span>Adamantite Forge</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Titanium Forge]<span><span>Titanium Forge</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titanstone Block]<span><span>Titanstone Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titanium Forge]<span><span>Titanium Forge</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Hellforge]<span><span>Hellforge</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

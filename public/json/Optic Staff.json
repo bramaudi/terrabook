@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Optic Staff",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Optic Staff</b> is a Hardmode summon weapon that summons a miniature version of The Twins in their second form, which follow the player and attack enemies. The summoned pair of minions, named Spazmamini and Retanimini, deal damage with a ramming attack and ranged laser attack, respectively. Like other minions, the summoned Twins is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, cancels the buff, or leaves the world.",
+    "Its best modifier is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal critical hits. The only lasting advantage a Mythical Optic Staff has over a Ruthless one is knockback."
+  ],
+  "statistics": {
+    "Damage": "30 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "10",
+    "Use time": "36 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "30<small> (effective)</small>",
+    "Tooltip": "<i><span class=\"gameText\">Summons twins to fight for you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Optic Staff]<span><span>Optic Staff</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Black Lens]<span><span>Black Lens</span></span></span></li><li><span class=\"i\">[img:Lens]<span><span>Lens</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Flipper Potion",
+  "summaries": [
+    "The <b>Flipper Potion</b> is a buff potion which grants the <b>Flipper</b> buff when consumed. The buff allows the player to move horizontally and vertically through all three liquids (water, lava, and honey) without slowing down, and also allows the player to swim without any swimming accessory equipped. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]), or  by double-tapping the buff icon ([img:Mobile version])."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Lets you move swiftly in liquids</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flipper Potion]<span><span>Flipper Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Waterleaf]<span><span>Waterleaf</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "accessories",
+  "title": "Healing Potion",
+  "summaries": [
+    "The <b>Healing Potion</b> is a healing item that restores 100 health when used.",
+    "In addition to being crafted, Healing Potions can be found naturally in pots after Hardmode activation and pots in the Underworld before Hardmode. Several are also dropped by the Wall of Flesh and Skeletron.",
+    "It is the second tier of healing potions, the first being the Lesser Healing Potion, the third being the Greater Healing Potion and the fourth being the Super Healing Potion."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Health": "100",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Healing Potion]<span><span>Healing Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Restoration Potion]<span><span>Restoration Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mana Potion]<span><span>Mana Potion</span></span></span></li><li><span class=\"i\">[img:Healing Potion]<span><span>Healing Potion</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

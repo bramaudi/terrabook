@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Gold Broadsword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Gold Broadsword</b> is the highest tier of early game metal broadswords, being stronger than the Silver Broadsword, yet is slightly weaker than its alternate version, the Platinum Broadsword. Like all broadswords, this sword has an arc motion, which is more useful for killing flying and jumping monsters than shortswords. While it doesn't do much damage, its faster speed means that it is equally if not more powerful than the War Axe of the Night.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "13 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"18 Silver Coins\" data-sort-value=\"1800\"><span class=\"sc\">18</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Gold Broadsword]<span><span>Gold Broadsword</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

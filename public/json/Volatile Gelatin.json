@@ -1,0 +1,15 @@
+{
+  "type": "accessories",
+  "title": "Volatile Gelatin",
+  "summaries": [
+    "The <b>Volatile Gelatin</b> is an accessory obtained from Queen Slime's Treasure Bag in Expert Mode. When equipped, it periodically fires a small, bouncing, purple projectile, similar to those of the Queen Slime, at a nearby enemy. The projectile deals 65 damage and a knockback of 7 (Strong); these values are unaffected by any boosts. It pierces up to three enemies.",
+    "The accessory has a fixed cycle: Once every 0.833 seconds (50 ticks), it attempts to release a projectile in the direction of the nearest enemy. If there is no enemy within 40 tiles, no projectile will be fired and the accessory will go on cooldown for the following 50 ticks."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Releases volatile gelatin periodically that damages enemies</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: Rainbow]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

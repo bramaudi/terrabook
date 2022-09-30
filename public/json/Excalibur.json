@@ -1,0 +1,68 @@
+{
+  "type": "tools",
+  "title": "Excalibur",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Excalibur</b> is a Hardmode sword which is capable of autoswing and can be crafted with Hallowed Bars. When swung, it emits the light particles typical of the Hallowed theme. It can be upgraded into the True Excalibur.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "66 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 57 <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 47 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 60 Silver Coins\" data-sort-value=\"46000\"><span class=\"gc\">4</span><span class=\"sc\">60</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Excalibur]<span><span>Excalibur</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tizona]<span><span>Tizona</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Excalibur]<span><span>Excalibur</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:True Excalibur]<span><span>True Excalibur</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Excalibur]<span><span>Excalibur</span></span></span></li><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:True Excalibur]<span><span>True Excalibur</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Excalibur]<span><span>Excalibur</span></span></span></li><li><span class=\"i\">[img:Broken Hero Sword]<span><span>Broken Hero Sword</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

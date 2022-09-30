@@ -1,0 +1,49 @@
+{
+  "type": "accessories",
+  "title": "Lava Charm",
+  "summaries": [
+    "The <b>Lava Charm</b> is an accessory that grants immunity to lava for 7 seconds. It is found in Chests located in the cavern layer as well as obtained from <span class=\"eil\"><span>Hellstone Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Obsidian Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> with a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can only be found in Chests in the lower portion of the Caverns where lava pools can naturally spawn, as opposed to Chests throughout the entirety of the Caverns.",
+    "When the Lava Charm is equipped and the player comes into contact with lava, a 7-second countdown begins, signified by a lava meter that displays over the player's head. It operates similarly to the breath meter, but displays flame icons instead of bubbles. Lava immunity time is recharged gradually by exiting lava, the same way breathing time is recharged by exiting water (albeit much more slowly)."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Provides 7 seconds of immunity to lava</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Charm]<span><span>Molten Charm</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

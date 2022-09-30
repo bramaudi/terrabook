@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Platinum Broadsword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Platinum Broadsword</b> is a high tier metal broadsword, and the most powerful of the early game ore broadswords, with the alternate ore Gold Broadsword right behind it. Like all broadswords, this sword has an arc motion, which is more useful for killing flying and jumping enemies than shortswords.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "15 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Platinum Broadsword]<span><span>Platinum Broadsword</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "armors",
+  "title": "Tin armor",
+  "summaries": [
+    "<b>Tin armor</b> is the Tin counterpart of Copper armor, and is also one of the most simply craftable armor sets in the game.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 48 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 60 Tin Bars to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 144 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 180 Tin Ore.",
+    "A full set grants a basic 5 defense plus a set bonus of 2 defense, which equals a total of 7 defense. That means a full set of tin armor grants 1 more defense than Copper armor's 6 defense.",
+    "The set consists of the <b>Tin Helmet</b>, <b>Tin Chainmail</b> and <b>Tin Greaves</b>."
+  ],
+  "statistics": {
+    "Defense": "7 (5+2)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">2 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"9 Silver Coins\" data-sort-value=\"900\"><span class=\"sc\">9</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Chainmail]<span><span title=\"Tin Chainmail\">Tin Chainmail</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Chainmail]<span><span title=\"Tin Chainmail\">Tin Chainmail</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Greaves]<span><span title=\"Tin Greaves\">Tin Greaves</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Greaves]<span><span title=\"Tin Greaves\">Tin Greaves</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Helmet]<span><span title=\"Tin Helmet\">Tin Helmet</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Helmet]<span><span title=\"Tin Helmet\">Tin Helmet</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

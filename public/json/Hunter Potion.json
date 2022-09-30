@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Hunter Potion",
+  "summaries": [
+    "The <b>Hunter Potion</b> is a buff potion which grants the <b>Hunter</b> buff when consumed. The buff shows the location of enemies, critters, and undiscovered NPCs on the screen by highlighting them in red (enemies) or green (critters and NPCs). This lasts for <span class=\"etxt\"><span>8 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>5 minutes</span><span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]). Although the creatures glow, they do not emit any light to the surrounding area.",
+    "Aside from being crafted, Hunter Potions can rarely be found in Pots, chests, and crates."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Shows the location of enemies</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hunter Potion]<span><span>Hunter Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Shark Fin]<span><span>Shark Fin</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

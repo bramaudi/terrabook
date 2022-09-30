@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Arcane Flower",
+  "summaries": [
+    "The <b>Arcane Flower</b> is a Hardmode accessory which combines the functionality of the Mana Flower and the aggro-reducing effect of the Putrid Scent."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">8% reduced mana usage<br>Automatically use mana potions when needed<br>Enemies are less likely to target you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Arcane Flower]<span><span>Arcane Flower</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

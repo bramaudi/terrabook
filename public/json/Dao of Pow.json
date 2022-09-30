@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Dao of Pow",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Dao of Pow</b> is a Hardmode flail. Upon striking an enemy, it has a <span class=\"chance\"><s>80*</s>4/5 (80%)</span> chance of inflicting the Confused debuff.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "100 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 63 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 49 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "6 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "15",
+    "Tooltip": "<i><span class=\"gameText\">Has a chance to confuse<br>'Find your inner pieces'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 88 Silver Coins\" data-sort-value=\"28800\"><span class=\"gc\">2</span><span class=\"sc\">88</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dao of Pow]<span><span>Dao of Pow</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Dark Shard]<span><span>Dark Shard</span></span></span></li><li><span class=\"i\">[img:Light Shard]<span><span>Light Shard</span></span></span></li><li><span class=\"i\">[img:Soul of Night]<span><span>Soul of Night</span></span></span> <span class=\"note-text\">(7)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(7)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "blocks",
+  "title": "Living Wood",
+  "summaries": [
+    "<b>Living Wood</b> is a type of block that makes up the trunks and roots of Living Trees. Upon destruction it will turn into regular Wood. It cannot be crafted, as it cannot exist in the player's inventory, however it can be placed using a Living Wood Wand, which in turn consumes Wood.",
+    "On the Nintendo 3DS[img:Nintendo 3DS version] version, it is a crafting station, solely used to craft Living Wood Wall. Although other Living Wood items can be looted from Living Trees, they cannot be crafted on the 3DS."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+  },
+  "crafts": {
+    "Used to craft": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Living Wood Wall]<span><span>Living Wood Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Wood]<span><span>Wood</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "armors",
+  "title": "Iron armor",
+  "summaries": [
+    "<b>Iron armor</b> is the third-lowest tier of metal armor in the game, being Lead armor's weaker counterpart. It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 75 Iron Bars to craft a full suit, this translates to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 180 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 225 Iron Ore per player to craft all the necessary bars for this armor.",
+    "The set consists of an <b>Iron Helmet</b>, <b>Iron Chainmail</b> and <b>Iron Greaves</b>.",
+    "The <b>Ancient Iron Helmet</b> is a rare drop from Skeletons in the Underground, and is functionally identical to the Iron Helmet. The two helmets are interchangeable, with no bonus loss.",
+    "A full set grants a basic 7 defense plus a set bonus of 2 defense, which equals a <b>total of 9 defense</b>."
+  ],
+  "statistics": {
+    "Defense": "9 (7+2)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">2 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"24 Silver Coins\" data-sort-value=\"2400\"><span class=\"sc\">24</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Chainmail]<span><span title=\"Iron Chainmail\">Iron Chainmail</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Chainmail]<span><span title=\"Iron Chainmail\">Iron Chainmail</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Greaves]<span><span title=\"Iron Greaves\">Iron Greaves</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Greaves]<span><span title=\"Iron Greaves\">Iron Greaves</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Helmet]<span><span title=\"Iron Helmet\">Iron Helmet</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Iron Helmet]<span><span title=\"Iron Helmet\">Iron Helmet</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Inferno Potion",
+  "summaries": [
+    "The <b>Inferno Potion</b> is a buff potion that grants the <b>Inferno</b> buff when consumed. It casts a ring of fire around the player that deals 10 damage per second and inflicts the On Fire! debuff for 2 seconds on enemies inside, as well as giving off light. Critters and other passive NPCs are unaffected. This lasts for 4 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]).",
+    "It can be crafted or found in Shadow Chests in The Underworld."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Ignites nearby enemies</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Inferno Potion]<span><span>Inferno Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Flarefin Koi]<span><span>Flarefin Koi</span></span></span></li><li><span class=\"i\">[img:Obsidifish]<span><span>Obsidifish</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

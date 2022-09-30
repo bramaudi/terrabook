@@ -1,0 +1,46 @@
+{
+  "type": "tools",
+  "title": "Molotov Cocktail",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Molotov Cocktail</b> is a consumable ranged weapon with a relatively short throwing arc. Upon hitting a solid object or enemy, it will explode and release flaming embers. Contact with these projectiles deals damage and inflicts the On Fire! debuff. Its high damage and ability to inflict fire damage makes it a powerful early- to mid-pre-Hardmode weapon. Unlike other explosives, this weapon will not damage the thrower."
+  ],
+  "statistics": {
+    "Damage": "23 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 40 <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "7 <span class=\"knockback\">(Strong)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Critical chance": "4%",
+    "Use time": "40 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "6.5",
+    "Tooltip": "<i><span class=\"gameText\">A small explosion that puts enemies on fire<br>Lights nearby area on fire for a while</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molotov Cocktail]<span><span>Molotov Cocktail</span></span></span> <span class=\"note-text\">(10)</span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ale]<span><span>Ale</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molotov Cocktail]<span><span>Molotov Cocktail</span></span></span> <span class=\"note-text\">(5)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ale]<span><span>Ale</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

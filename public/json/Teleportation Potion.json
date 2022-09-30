@@ -1,0 +1,43 @@
+{
+  "type": "accessories",
+  "title": "Teleportation Potion",
+  "summaries": [
+    "The <b>Teleportation Potion</b> is a potion that teleports the user to a random location. It can either be crafted, or found in Chests located in the Caverns Layer.",
+    "In choosing a destination, the following rules apply:",
+    "<ul><li>The player will always be placed on top of a solid block and never inside blocks.</li><li>[img:Desktop version] [img:Mobile version] [img:Console version] [img:Old-gen console version] The player can never be placed in front of a natural, below-surface Dungeon wall before Skeletron has been defeated.</li><li>The player can never be placed in front of a natural, below-surface Lihzahrd Brick Wall (i.e. in the Jungle Temple) before Plantera has been defeated.</li><li>The player can never be placed in a location where they would take damage from any of the following environmental hazards:<ul><li>Thorny bushes</li><li>Silt, Slush, or any Sand Block</li><li>Spikes or Wooden Spikes</li><li>Meteorite, Hellstone, or Hellstone Bricks, unless the player is immune to Burning</li><li>Lava</li><li>Cactus plants in a <span class=\"eil\"><span>Constant</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> world</li></ul></li></ul>"
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Teleports you to a random location</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Chaos Fish]<span><span>Chaos Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Chaos Fish]<span><span>Chaos Fish</span></span></span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

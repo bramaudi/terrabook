@@ -1,0 +1,53 @@
+{
+  "type": "tools",
+  "title": "Copper Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 35%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Copper Pickaxe</b> is an early-game pickaxe that is weaker than the Iron and Lead Pickaxes. Compared to its alternate ore version, the Tin Pickaxe, it has the same pickaxe power, but deals 1 less damage and is slower in terms of mining speed. In addition, it has a -1 range attribute which means it can only mine 4 blocks to the sides, and 2 blocks above and below the player. Like other low-tier pickaxes, it can only mine blocks and ores weaker than Meteorite (which requires a pickaxe with at least 50% pickaxe power, e.g. a Tungsten Pickaxe).",
+    "The Copper Pickaxe is usually the first pickaxe that the player will obtain, as newly created characters spawn with this item in their second inventory slot, unless in <span class=\"eil\"><span>Journey Mode</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>.",
+    "Additionally, the Copper Pickaxe can be purchased from the Merchant for <span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "4 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "23 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "15",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Buy": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Pickaxe]<span><span>Copper Pickaxe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Pickaxe]<span><span>Copper Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

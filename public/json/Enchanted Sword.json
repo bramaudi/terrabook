@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Enchanted Sword",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Enchanted Sword</b> is a pre-Hardmode, autoswinging projectile sword. When swung, it fires a sword-shaped projectile that costs no ammunition or mana. Both the sword and its projectiles produce lingering sparks that emit large amounts of light. The projectile can be fired once every second, and dissipates upon hitting an enemy or solid block.",
+    "The Enchanted Sword can be obtained by destroying an \"enchanted sword in stone\" background object, which can be found in random locations underground and in <span class=\"eil\"><span>Enchanted Sword Shrines</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>. Destroying this background object has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>98*</s>49/50 (98%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>90*</s>9/10 (90%)</span> / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 100% chance to drop an Enchanted Sword. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Enchanted Sword also has a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance to be found in Golden and Titanium Crates.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "23 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 24 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.25 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br>5.25 <span class=\"knockback\">(Average)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Critical chance": "4%",
+    "Use time": "21 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br>18 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Velocity": "9.5",
+    "Tooltip": "<i><span class=\"gameText\">Shoots an enchanted sword beam</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Zenith]<span><span>Zenith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Terra Blade]<span><span>Terra Blade</span></span></span></li><li><span class=\"i\">[img:Meowmere]<span><span>Meowmere</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Star Wrath]<span><span>Star Wrath</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Influx Waver]<span><span>Influx Waver</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:The Horseman's Blade]<span><span>The Horseman's Blade</span></span></span></li><li><span class=\"i\">[img:Seedler]<span><span>Seedler</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Starfury]<span><span>Starfury</span></span></span></li><li><span class=\"i\">[img:Bee Keeper]<span><span>Bee Keeper</span></span></span></li><li><span class=\"i\">[img:Enchanted Sword]<span><span>Enchanted Sword</span></span></span></li><li><span class=\"i\">[img:Copper Shortsword]<span><span>Copper Shortsword</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

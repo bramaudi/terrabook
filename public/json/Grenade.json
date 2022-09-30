@@ -1,0 +1,61 @@
+{
+  "type": "tools",
+  "title": "Grenade",
+  "toolpower": [],
+  "summaries": [
+    "<b>Grenades</b> are explosive consumable <span class=\"eico i1 i2 i3 i4 i5\" title=\"Desktop, Console, Old-gen console, Mobile and 3DS versions\"><b></b><i></i></span> ranged / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> throwing weapons which can be purchased from the Demolitionist for <span class=\"coin\" title=\"75 Copper Coins\" data-sort-value=\"75\"><span class=\"cc\">75</span></span> each, or found rarely in pots and natural Chests. Once Hardmode is activated, they can be found in Pots (replacing Shurikens).",
+    "A thrown Grenade will bounce slightly and roll until it either hits a valid target or 3 seconds have elapsed, after which it will explode."
+  ],
+  "statistics": {
+    "Damage": "60 <span class=\"small-bold\">(Ranged <span class=\"eico s i1 i2 i3 i4 i5\" title=\"Desktop, Console, Old-gen console, Mobile and 3DS versions\"><b></b><i></i></span> / Throwing <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span>)</span>",
+    "Knockback": "8 <span class=\"knockback\">(Very strong)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Critical chance": "4%",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "5.5",
+    "Tooltip": "<i><span class=\"gameText\">A small explosion that will not destroy tiles</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Buy": "<span class=\"coin\" title=\"75 Copper Coins\" data-sort-value=\"75\"><span class=\"cc\">75</span></span>",
+    "Sell": "<span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bouncy Grenade]<span><span>Bouncy Grenade</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Grenade]<span><span>Grenade</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sticky Grenade]<span><span>Sticky Grenade</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Grenade]<span><span>Grenade</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Beenade]<span><span>Beenade</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Grenade]<span><span>Grenade</span></span></span></li><li><span class=\"i\">[img:Bee Wax]<span><span>Bee Wax</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

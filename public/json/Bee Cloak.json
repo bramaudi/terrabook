@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Bee Cloak",
+  "summaries": [
+    "The <b>Bee Cloak</b> is a Hardmode accessory that combines the effects of the Star Cloak and the Honey Comb. When the player is injured, three stars will fall on the player's current location and bees are released."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Causes stars to fall, releases bees and douses the user in honey when damaged</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bee Cloak]<span><span>Bee Cloak</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

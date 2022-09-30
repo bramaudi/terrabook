@@ -1,0 +1,44 @@
+{
+  "type": "tools",
+  "title": "Nightmare Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 65%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Nightmare Pickaxe</b> is a relatively early-game pickaxe. Its Crimson counterpart is the Deathbringer Pickaxe.",
+    "It has a slower mining speed by one and mines Crimstone/Dungeon Bricks/Ebonstone/Hellstone/Pearlstone Blocks in one additional hit (4 instead of 3).",
+    "The Nightmare Pickaxe, Deathbringer Pickaxe, Molten Pickaxe, and <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Reaver Shark are the only pre-Hardmode pickaxes able to mine Crimstone, Ebonstone, Hellstone and Obsidian.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The Nightmare Pickaxe can only mine Dungeon Bricks that are at 0 depth or higher. 100% Pickaxe power (a Molten Pickaxe or better) is required to mine Dungeon Bricks in the Underground Dungeon.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "9 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "15",
+    "Tooltip": "<i><span class=\"gameText\">Able to mine Hellstone</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"36 Silver Coins\" data-sort-value=\"3600\"><span class=\"sc\">36</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Nightmare Pickaxe]<span><span>Nightmare Pickaxe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Shadow Scale]<span><span>Shadow Scale</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

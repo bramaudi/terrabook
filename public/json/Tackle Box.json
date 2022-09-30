@@ -1,0 +1,34 @@
+{
+  "type": "accessories",
+  "title": "Tackle Box",
+  "summaries": [
+    "The <b>Tackle Box</b> is an accessory that decreases the chance of bait consumption while Fishing. It is acquired as a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> chance reward for completing a Fishing quest for the Angler NPC, depending on the number of completed quests and other factors (for details, see Angler).",
+    "On average, the Tackle Box makes any given bait last one reel-in longer. For more details, see Bait Power.",
+    "The effects of the Tackle Box do not stack with the <span class=\"eil\"><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or the <span class=\"eil\"><span>Lavaproof Tackle Bag</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>.",
+    "The Tackle Box will <i>not</i> decrease the chance of a Truffle Worm being consumed when summoning Duke Fishron, there is always a 100% chance.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Angler will not give the player a Tackle Box as a reward if they already have one in their inventory or in any of their Portable Storages. However, if the player has a High Test Fishing Line, Angler Earring, <b>and</b> Tackle Box (or they have one of the accessories crafted from them, the Angler Tackle Bag or Lavaproof Tackle Bag) in their inventories, he will be able to give the player duplicate Tackle Boxes."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Decreases chance of bait consumption</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:High Test Fishing Line]<span><span>High Test Fishing Line</span></span></span></li><li><span class=\"i\">[img:Tackle Box]<span><span>Tackle Box</span></span></span></li><li><span class=\"i\">[img:Angler Earring]<span><span>Angler Earring</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

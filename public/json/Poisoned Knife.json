@@ -1,0 +1,50 @@
+{
+  "type": "tools",
+  "title": "Poisoned Knife",
+  "toolpower": [],
+  "summaries": [
+    "<b>Poisoned Knives</b> are consumable ranged weapons that have a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> chance to inflict the Poisoned debuff. They otherwise behave exactly like the Throwing Knives used to create them, except for having slightly better statistics overall, along with auto-use."
+  ],
+  "statistics": {
+    "Damage": "14 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 13 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2.4 <span class=\"knockback\">(Very weak)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Critical chance": "8%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "12",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"12 Copper Coins\" data-sort-value=\"12\"><span class=\"cc\">12</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Poisoned Knife]<span><span>Poisoned Knife</span></span></span> <span class=\"note-text\">(50)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Throwing Knife]<span><span>Throwing Knife</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Vicious Powder]<span><span>Vicious Powder</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "By Hand"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Throwing Knife]<span><span>Throwing Knife</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Vile Powder]<span><span>Vile Powder</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Poisoned Knife]<span><span>Poisoned Knife</span></span></span> <span class=\"note-text\">(20)</span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Throwing Knife]<span><span>Throwing Knife</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Vile Powder]<span><span>Vile Powder</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "tools",
+  "title": "Copper Axe",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 35%"
+  ],
+  "summaries": [
+    "The <b>Copper Axe</b> is the first axe the player will obtain, and is weaker than the Iron or Lead Axe. It has an alternate ore version, the Tin Axe, which is slightly stronger. Newly created characters will spawn with this item in their third inventory slot. Like all axes, it is used to cut down trees, cacti and giant glowing mushrooms. Alternately, it can be purchased from the Merchant for <span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4</span></span>.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and either <b>Agile</b> or <b>Forceful</b>/<b>Strong</b> for combat purposes, due to its unusually low base damage. Though it can obtain the <b>Ruthless</b> modifier, the reduced knockback may be undesirable for early stages of the game."
+  ],
+  "statistics": {
+    "Damage": "3 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Tool speed": "21",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Buy": "<span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4</span></span>",
+    "Sell": "<span class=\"coin\" title=\"80 Copper Coins\" data-sort-value=\"80\"><span class=\"cc\">80</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Axe]<span><span>Copper Axe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Axe]<span><span>Copper Axe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(9)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

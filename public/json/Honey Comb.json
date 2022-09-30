@@ -1,0 +1,58 @@
+{
+  "type": "accessories",
+  "title": "Honey Comb",
+  "summaries": [
+    "The <b>Honey Comb</b> is a pre-Hardmode accessory which has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance to be dropped by Queen Bee. When equipped, it spawns 1–3 (or 1–4 with a <span class=\"eil\"><span>Hive Pack</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> equipped) bee projectiles which attack nearby enemies every time the player takes damage.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it also grants the Honey buff for 5 seconds after being damaged."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Releases bees and douses the user in honey when damaged</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bee Cloak]<span><span>Bee Cloak</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stinger Necklace]<span><span>Stinger Necklace</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shark Tooth Necklace]<span><span>Shark Tooth Necklace</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sweetheart Necklace]<span><span>Sweetheart Necklace</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li><li><span class=\"i\">[img:Panic Necklace]<span><span>Panic Necklace</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "armors",
+  "title": "Molten armor",
+  "summaries": [
+    "<b>Molten armor</b> is an armor set consisting of the <b>Molten Helmet</b>, <b>Molten Breastplate</b>, and <b>Molten Greaves</b>. It has the highest defense of any pre-Hardmode armor set, but can also be one of the most difficult to obtain.",
+    "A full set of Molten armor provides the following benefits:",
+    "<ul><li>+25 defense</li><li>+17% increased melee damage</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +7% melee speed</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +7% melee critical strike chance</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Immunity to the On Fire! debuff</li><li>If the full set is visible, it will leave a fire trail similar to that of the Meteor armor.</li></ul>",
+    "It takes a total of 45 Hellstone Bars to craft a full set of Molten armor, or 135 Hellstone and 45 Obsidian."
+  ],
+  "statistics": {
+    "Defense": "25<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">10% extra melee damage,<br>Cannot be set on fire</span></i> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br>17% extra melee damage <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Breastplate]<span><span title=\"Molten Breastplate\">Molten Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Greaves]<span><span title=\"Molten Greaves\">Molten Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Helmet]<span><span title=\"Molten Helmet\">Molten Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

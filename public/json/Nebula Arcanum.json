@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Nebula Arcanum",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Nebula Arcanum</b> is a Hardmode, post-Lunatic Cultist magic weapon that fires a multicolored swirling orb when used. The orb will slowly home in on enemies and bounce off tiles, hitting three times before exploding into several smaller projectiles. All three hits do not have to be on the same target, as it will continue to home on other enemies in range if its target dies before the third hit. If the projectile does not hit three times, it will explode after 11 seconds. It also produces additional pink projectiles that orbit it and damage multiple enemies, even going through tiles to do so. Two to three of these projectiles appear per second for the first half of the projectile's lifetime, and disappear at the same rate as it approaches explosion.",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "70 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Mana": "30",
+    "Critical chance": "4%",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "7",
+    "Tooltip": "<i><span class=\"gameText\">'Conjure masses of astral energy to chase down your foes'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Nebula Arcanum]<span><span>Nebula Arcanum</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

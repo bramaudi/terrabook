@@ -1,0 +1,20 @@
+{
+  "type": "enemies",
+  "title": "Chaos Elemental",
+  "summaries": [
+    "The <b>Chaos Elemental</b> is a Hardmode enemy that spawns on Pearlstone, Pearlsand and Pink Ice Blocks in the Cavern layer. It runs around and teleports quickly, attempting to damage the player by making contact. It will teleport anywhere in a random position within 20 tiles from its target, but at least 4 tiles away, and only into a space that is at least 4 blocks tall and 3 blocks wide. It will not teleport into lava, though it can easily fall into it after teleporting.",
+    "The [img:Old-gen console version] Old-gen console version and Nintendo 3DS[img:Nintendo 3DS version] version also feature the exclusive <b>Spectral Elemental</b> variant.",
+    "Like many Underground Hallow enemies, Chaos Elementals have a glowing pink after-image."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Underground Hallow </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">40</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">80</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">120</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">370</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">740</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1110</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">30</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
+    "Banner": "<span class=\"i\">[img:Chaos Elemental Banner]<span><span>Chaos Elemental Banner</span></span></span>",
+    "Immune to": "Poisoned"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Rod of Discord]<span><span>Rod of Discord</span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">0.2%</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">0.25%</abbr> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><abbr class=\"expert\" title=\"Expert Mode\">0.2%</abbr> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span></span><span class=\"m-master\"><abbr class=\"expert\" title=\"Expert Mode\">0.25%</abbr></span></span></div></li><li><div><span class=\"i\">[img:Apple Pie]<span><span>Apple Pie</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>0.67%</div></li><li class=\"m-normal-expert\"><div><span class=\"i\">[img:Blessed Apple]<span><span>Blessed Apple</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">0.5%</span><span class=\"m-expert-master\"><abbr class=\"expert\" title=\"Expert Mode\">0.67%</abbr></span></span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span></div></li></ul>"
+}

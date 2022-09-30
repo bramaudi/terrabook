@@ -1,0 +1,32 @@
+{
+  "type": "blocks",
+  "title": "Asphalt Block",
+  "summaries": [
+    "<b>Asphalt Blocks</b> are unique blocks that dramatically increase the speed of players running along them, along with reducing the time it takes to stop running. Their acceleration stacks with other speed-boosting items such as the Hermes Boots and its derivative accessories. It only affects players running directly on it – the speed of Enemies, NPCs and Critters will remain unaffected. Immediately after jumping or falling off of Asphalt Blocks, the speed will return to normal.",
+    "With no other boosts, running on asphalt has a max speed of 53 mph, with about 3 seconds of acceleration, while the normal maximum running speed is 15 mph."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Increases running speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Asphalt Block]<span><span>Asphalt Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Blend-O-Matic]<span><span>Blend-O-Matic</span></span></span>"
+        }
+      }
+    ]
+  }
+}

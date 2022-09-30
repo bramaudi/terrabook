@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Hero Shield",
+  "summaries": [
+    "The <b>Hero Shield</b> is a Hardmode post-Plantera shield accessory that redirects 25% of damage from players on the same team while above 25% health, similar to the effect of the Paladin's Shield. Furthermore, it increases defense by 10, increases aggro by 400, and grants immunity to knockback."
+  ],
+  "statistics": {
+    "Defense": "10",
+    "Tooltip": "<i><span class=\"gameText\">Grants immunity to knockback<br>Absorbs 25% of damage done to players on your team when above 25% life<br>Enemies are more likely to target you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hero Shield]<span><span>Hero Shield</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Paladin's Shield]<span><span>Paladin's Shield</span></span></span></li><li><span class=\"i\">[img:Flesh Knuckles]<span><span>Flesh Knuckles</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

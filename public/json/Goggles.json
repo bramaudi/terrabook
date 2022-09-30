@@ -1,0 +1,44 @@
+{
+  "type": "armors",
+  "title": "Goggles",
+  "summaries": [
+    "<b>Goggles</b> are a piece of armor placed in the helmet slot. Unlike most helmets, Goggles do not cover the player's hair. Due to their low defense, they are often used as vanity items."
+  ],
+  "statistics": {
+    "Defense": "1",
+    "Body slot": "Helmet",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Goggles]<span><span>Goggles</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lens]<span><span>Lens</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Goggles]<span><span>Goggles</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lens]<span><span>Lens</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\">[img:Chair]<span><span>Chair</span></span></span>"
+        }
+      }
+    ]
+  }
+}

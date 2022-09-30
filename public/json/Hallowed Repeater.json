@@ -1,0 +1,52 @@
+{
+  "type": "tools",
+  "title": "Hallowed Repeater",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Hallowed Repeater</b> is a Hardmode repeater crafted using Hallowed Bars. It shares the same white and gold color scheme as other Hallowed gear and weapons. The Hallowed Repeater has the highest speed and per-hit damage of any repeater that fires arrows.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "53 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 43 <span class=\"eico s i5 i6\" title=\"3DS and Legacy tModLoader versions\"><b></b><i></i></span> / 39 <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2.5 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "16 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br>19 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Velocity": "11",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Repeater]<span><span>Hallowed Repeater</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vulcan Repeater]<span><span>Vulcan Repeater</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Repeater]<span><span>Hallowed Repeater</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

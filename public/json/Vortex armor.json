@@ -1,0 +1,53 @@
+{
+  "type": "armors",
+  "title": "Vortex armor",
+  "summaries": [
+    "<b>Vortex armor</b> is a post-Moon Lord set of armor that primarily provides ranged weapon boosts. It is currently the final ranged armor set available on the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version. Crafting the full set requires a total of 36 Luminite Bars (144 Luminite) and 45 Vortex Fragments.",
+    "A full set of the Vortex armor will provide the following benefits:",
+    "<ul><li>+62 defense</li><li>+36% ranged damage</li><li>+27% ranged critical strike chance</li><li>+25% chance not to consume ammunition</li><li>+10% movement speed</li></ul>",
+    "Additionally, equipping a full set grants the player the ability to toggle stealth mode, which has the following effects:",
+    "<ul><li>Near-invisibility</li><li>−1200 aggro</li><li>+80% ranged damage</li><li>+20% ranged critical strike chance</li><li>+50% knockback</li><li>−33% movement speed</li></ul>",
+    "Unlike Shroomite armor, standing still is not required to enter Vortex armor's stealth mode. Instead, it is toggled manually by double-tapping the <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> key. Moving or grappling does not cancel the effect, and like Shroomite armor, its stealth bonuses are applied to all ranged weapon types. Dashing with items such as the Shield of Cthulhu or Tabi, or riding a mount will cancel stealth mode. Stealth mode cannot be activated while on a mount."
+  ],
+  "statistics": {
+    "Defense": "62<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Double tap <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> to toggle stealth,<br>increasing ranged ability and reducing chance for enemies to target you but slowing movement speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"31 Gold 50 Silver Coins\" data-sort-value=\"315000\"><span class=\"gc\">31</span><span class=\"sc\">50</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Breastplate]<span><span title=\"Vortex Breastplate\">Vortex Breastplate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Helmet]<span><span title=\"Vortex Helmet\">Vortex Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Leggings]<span><span title=\"Vortex Leggings\">Vortex Leggings</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

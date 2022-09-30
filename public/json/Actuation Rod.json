@@ -1,0 +1,33 @@
+{
+  "type": "tools",
+  "title": "Actuation Rod",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Actuation Rod</b> is a post-Skeletron, craftable tool which allows directly switching the states of Actuators without having to activate them via wire. It is compatible with Smart cursor."
+  ],
+  "statistics": {
+    "Bonus": "+20 range",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Activates Actuators</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Actuation Rod]<span><span>Actuation Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Actuator]<span><span>Actuator</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

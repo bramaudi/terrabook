@@ -1,0 +1,33 @@
+{
+  "type": "accessories",
+  "title": "Ankh Shield",
+  "summaries": [
+    "The <b>Ankh Shield</b> is a Hardmode shield accessory which provides immunity to 11 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 10 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> different debuffs, knockback immunity, and an additional 4 defense. It is crafted from an Obsidian Shield and an Ankh Charm at the Tinkerer's Workshop.",
+    "Consisting of 11 different ingredients, the Ankh Shield entails one of the most complex crafting trees in <i>Terraria</i>, beaten only by the Zenith and Cell Phone.",
+    "When equipped, the Ankh Shield provides immunity to all of the following debuffs:"
+  ],
+  "statistics": {
+    "Defense": "4",
+    "Tooltip": "<i><span class=\"gameText\">Grants immunity to knockback and fire blocks<br>Grants immunity to most debuffs</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ankh Shield]<span><span>Ankh Shield</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span></li><li><span class=\"i\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

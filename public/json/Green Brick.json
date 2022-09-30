@@ -1,0 +1,137 @@
+{
+  "type": "blocks",
+  "title": "Dungeon Bricks",
+  "summaries": [
+    "<b>Dungeon Bricks</b> are a non-craftable type of brick from which the Dungeon is constructed. On world generation, one of three colors of Dungeon Brick is chosen to create the entirety of the Dungeon. Dungeon Brick is one of very few block types that is impervious to explosions. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 100% Pickaxe power (a Molten Pickaxe or better) / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 65% Pickaxe power (a Nightmare/Deathbringer or better) is required to mine Dungeon Bricks in the Underground-level Dungeon, although any pickaxe can destroy Dungeon Bricks at or above the Surface layer, and any Dungeon Bricks placed within the center third of the world."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Blue Brick]<span><span>Cracked Blue Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Brick]<span><span>Blue Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Green Brick]<span><span>Cracked Green Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Brick]<span><span>Green Brick</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cracked Pink Brick]<span><span>Cracked Pink Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pink Brick]<span><span>Pink Brick</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Dungeon Toilet]<span><span>Blue Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Brick]<span><span>Blue Brick</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Dungeon Toilet]<span><span>Green Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Brick]<span><span>Green Brick</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pink Dungeon Toilet]<span><span>Pink Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pink Brick]<span><span>Pink Brick</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Dungeon Chest]<span><span>Blue Dungeon Chest</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Brick]<span><span>Blue Brick</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Dungeon Sink]<span><span>Blue Dungeon Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Brick]<span><span>Blue Brick</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Water Bucket]<span><span>Water Bucket</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Dungeon Chest]<span><span>Green Dungeon Chest</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Brick]<span><span>Green Brick</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Dungeon Sink]<span><span>Green Dungeon Sink</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Brick]<span><span>Green Brick</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Water Bucket]<span><span>Water Bucket</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pink Dungeon Chest]<span><span>Pink Dungeon Chest</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pink Brick]<span><span>Pink Brick</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pink Dungeon Sink]<span><span>Pink Dungeon Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pink Brick]<span><span>Pink Brick</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Water Bucket]<span><span>Water Bucket</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": "blocks",
+  "title": "Obsidian Brick",
+  "summaries": [
+    "The <b>Obsidian Brick</b> is a brick-block mainly used for building. It can be crafted at a Furnace or mined by any tier of pickaxe. It is commonly found in the Underworld's Ruined Houses."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Platform]<span><span>Obsidian Platform</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span> <span class=\"note-text\">(2)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span> <span class=\"note-text\">(2)</span> ([img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick Wall]<span><span>Obsidian Brick Wall</span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Platform]<span><span>Obsidian Platform</span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Brick Wall]<span><span>Obsidian Brick Wall</span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "tools",
+  "title": "Chlorophyte Drill",
+  "toolpower": [
+    "[img:Pickaxe mask] 200%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Chlorophyte Drill</b> is a Hardmode drill crafted using Chlorophyte Bars. It only has equivalent power to the Drax or Pickaxe Axe, but has +1 reach. It is an alternative to the Chlorophyte Pickaxe. Appearances and sounds aside, the two tools are nearly functionally identical. The drill, however is half a second faster. But, unlike pickaxes, most drills cannot be reforged with size, speed, or knockback modifiers. The Chlorophyte Drill can mine any block except Lihzahrd Bricks.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "35 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "1 <span class=\"knockback\">(Extremely weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "40",
+    "Tool speed": "4",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Drill]<span><span>Chlorophyte Drill</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

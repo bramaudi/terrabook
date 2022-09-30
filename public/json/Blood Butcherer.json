@@ -1,0 +1,50 @@
+{
+  "type": "tools",
+  "title": "Blood Butcherer",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Blood Butcherer</b> is a Pre-Hardmode sword crafted solely out of Crimtane Bars. It is the Crimson variant of the Light's Bane, and as such can be used as a substitute for forging the Night's Edge. Although it is noticeably more damaging and larger than the Light's Bane, it attacks slower.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "22 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blood Butcherer]<span><span>Blood Butcherer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Night's Edge]<span><span>Night's Edge</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blood Butcherer]<span><span>Blood Butcherer</span></span></span></li><li><span class=\"i\">[img:Muramasa]<span><span>Muramasa</span></span></span></li><li><span class=\"i\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span></li><li><span class=\"i\">[img:Fiery Greatsword]<span><span>Fiery Greatsword</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Demon Altar]<span><span>Demon Altar</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Crimson Altar]<span><span>Crimson Altar</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Fairy Boots",
+  "summaries": [
+    "<b>Fairy Boots</b> are an accessory that are made from the Spectre Boots and Flower Boots at a Tinkerer's Workshop. They combine both effects into one pair of boots."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows flight<br>The wearer can run super fast<br>Flowers grow on the grass you walk on</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fairy Boots]<span><span>Fairy Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Flower Boots]<span><span>Flower Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

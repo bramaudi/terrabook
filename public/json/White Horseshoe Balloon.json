@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "White Horseshoe Balloon",
+  "summaries": [
+    "The <b>White Horseshoe Balloon</b> is an accessory that grants immunity to fall damage, increases jump height by 33% and jump speed by 30%, and grants a double-jump. The height of the first jump is increased from 6 blocks to 10½ blocks (~75% increase), while the double-jump's height is increased from 8 blocks to 14½ blocks, reaching a total of 25 blocks with both jumps.",
+    "Jump height is oddly <i>reduced</i> when underwater, reducing your total underwater height from 19 blocks (8 + 11 from Blizzard jump) to 16 blocks (7 + 9 from Blizzard jump)."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump<br>Increases jump height and negates fall damage</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:White Horseshoe Balloon]<span><span>White Horseshoe Balloon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

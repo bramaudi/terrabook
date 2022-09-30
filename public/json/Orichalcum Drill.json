@@ -1,0 +1,44 @@
+{
+  "type": "tools",
+  "title": "Orichalcum Drill",
+  "toolpower": [
+    "[img:Pickaxe mask] 165%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Orichalcum Drill</b> is a Hardmode drill, and is the drill alternative to the Orichalcum Pickaxe. Appearances and sounds aside, the two tools are nearly functionally identical. The drill, however is half a second faster. But, unlike pickaxes, most drills cannot be reforged with size, speed, or knockback modifiers.",
+    "It can mine any block except Chlorophyte Ore and Lihzahrd Bricks.",
+    "Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect its speed, either."
+  ],
+  "statistics": {
+    "Damage": "17 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "32",
+    "Tool speed": "5",
+    "Tooltip": "<i><span class=\"gameText\">Can mine Adamantite and Titanium</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 98 Silver Coins\" data-sort-value=\"19800\"><span class=\"gc\">1</span><span class=\"sc\">98</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Orichalcum Drill]<span><span>Orichalcum Drill</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Orichalcum Bar]<span><span>Orichalcum Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

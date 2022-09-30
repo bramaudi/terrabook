@@ -1,0 +1,20 @@
+{
+  "type": "npcs",
+  "title": "Demolitionist",
+  "summaries": [
+    "The <b>Demolitionist</b> is an NPC vendor that will spawn once the following criteria have been met:",
+    "<ul><li>There is an empty house.</li><li>The player has an explosive in the inventory.</li><li>The Merchant is present.</li></ul>",
+    "If the Demolitionist is killed, he will only respawn if the above conditions are met again. This means an explosive must be placed in the player's inventory again. Having explosives stored in chests or other containers will not fulfill the requirement.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, the Demolitionist will lob Grenades at nearby enemies to defend himself, which deal 20 / <abbr class=\"expert\" title=\"Expert Mode\">30</abbr> / <abbr class=\"master\" title=\"Master Mode\">35</abbr> damage at the start of the game.",
+    "Moreover, on the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, NPCs including the Demolitionist will gain various stat increases as the player progresses."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"mode-content\"><span class=\"m-normal\">20</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">30</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">35</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Grenade</span>)</span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Tavernkeep]<span><span>Tavernkeep</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Underground]<span><span>Underground</span></span></span></li><li>​<span class=\"i\">[img:Cavern]<span><span>Cavern</span></span></span></li><li>​<span class=\"i\">[img:The Underworld]<span><span>The Underworld</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Mechanic]<span><span>Mechanic</span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Ocean]<span><span>Ocean</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Goblin Tinkerer]<span><span>Goblin Tinkerer</span></span></span></li><li>​<span class=\"i mirror\">[img:Arms Dealer]<span><span>Arms Dealer</span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr></tbody>"
+}

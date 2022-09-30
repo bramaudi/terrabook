@@ -1,0 +1,39 @@
+{
+  "type": "tools",
+  "title": "Magic Mirrors",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Magic Mirror</b> is a unique item that returns a player to their spawn point. When used, a short animation plays before instantly teleporting the user to their set spawn point; if the player has previously used a bed they will appear in front of it, but if no valid bed is found the user will instead return to the world's spawn point. This teleportation occurs at no cost, and can be repeated indefinitely without consuming the mirror.",
+    "An <b>Ice Mirror</b> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> is a variation on the Magic Mirror. Aside from appearance, it is identical to an ordinary Magic Mirror in every capacity, including acting as a valid component for a Cell Phone.",
+    "Magic Mirrors can be found in chests generated in the Underground and Cavern layers. Ice Mirrors can be found in Frozen Chests generated in the Ice biome. Magic Mirror is also one of the equipment new Journey Mode characters get upon creation."
+  ],
+  "statistics": {
+    "Use time": "90 <span class=\"usetime\">(Snail)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Gaze in the mirror to return home</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Cell Phone]<span><span>Cell Phone</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:PDA]<span><span>PDA</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ice Mirror]<span><span>Ice Mirror</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:PDA]<span><span>PDA</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magic Mirror]<span><span>Magic Mirror</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

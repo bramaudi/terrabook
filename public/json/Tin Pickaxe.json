@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Tin Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 35%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Tin Pickaxe</b> is an early-game pickaxe that is weaker than the Iron and Lead Pickaxes. Compared to its alternate ore version, the Copper Pickaxe, it has the same pickaxe power, but deals 1 more damage, is slightly faster in terms of mining speed, and has a longer range by 1 tile. Like other low-tier pickaxes, it can only mine blocks and ores weaker than Meteorite (which requires a pickaxe with at least 50% pickaxe power, e.g. a Tungsten Pickaxe).",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "5 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "21 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "14",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Pickaxe]<span><span>Tin Pickaxe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tin Pickaxe]<span><span>Tin Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

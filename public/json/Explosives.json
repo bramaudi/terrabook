@@ -1,0 +1,33 @@
+{
+  "type": "blocks",
+  "title": "Explosives",
+  "summaries": [
+    "<b>Explosives</b> are a placeable, consumable mechanism that can be triggered using wiring. Triggering them causes a large, circular explosion that covers a radius of ten tiles (up to 314 blocks total), destroying most placed blocks and items (except for explosion-proof items), and inflicting 500 base damage and a knockback of 10 <span>(Extremely strong)</span> to entities. Therefore, they can kill or severely damage even players with late-game gear.",
+    "Explosives can spawn naturally as traps wired to Pressure Plates, or wired to <span class=\"eil\"><span>Detonators</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> next to a vein of ores can be found in the Underground and Cavern layer."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Explodes when activated</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Explosives]<span><span>Explosives</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Dynamite]<span><span>Dynamite</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      }
+    ]
+  }
+}

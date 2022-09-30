@@ -1,0 +1,19 @@
+{
+  "type": "enemies",
+  "title": "Windy Balloon",
+  "summaries": [
+    "The <b>Windy Balloon</b> is a unique flying enemy that only spawns during a Windy Day. It can be seen carrying Slimes which are bound to the string underneath.",
+    "While the Windy Balloon itself does not deal damage, the slimes attached to it will, both while flying and after the balloon is popped. The balloon will pop if the player hits it, gets too close, or when it reaches the ground, and will then always drop the slime to the ground.",
+    "The types of slimes that can be attached to the balloon are Green, Blue and Purple Slimes, with a rare chance of a Pinky."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Windy Day </span></div>",
+    "AI Type": "Windy Balloon AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">1</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">70%</span></span>",
+    "Immune to": "Confused"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Blue Kite]<span><span>Blue Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Blue and Yellow Kite]<span><span>Blue and Yellow Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Red Kite]<span><span>Red Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Red and Yellow Kite]<span><span>Red and Yellow Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Yellow Kite]<span><span>Yellow Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Bunny Kite]<span><span>Bunny Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Goldfish Kite]<span><span>Goldfish Kite</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.39%</div></li><li><div><span class=\"i\">[img:Paper Airplane]<span><span>Paper Airplane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> (2-5)</div><div>1.39%</div></li><li><div><span class=\"i\">[img:White Paper Airplane]<span><span>White Paper Airplane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> (2-5)</div><div>1.39%</div></li></ul>"
+}

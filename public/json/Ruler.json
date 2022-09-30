@@ -1,0 +1,38 @@
+{
+  "type": "accessories",
+  "title": "Ruler",
+  "summaries": [
+    "The <b>Ruler</b> is an item purchased from the Goblin Tinkerer.",
+    "On the [img:Old-gen console version] Old-gen console version and [img:Legacy tModLoader version] Legacy tModLoader version, it is an informational accessory which aids the precise placement of blocks, and can be purchased for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. On [img:Legacy tModLoader version] Legacy tModLoader, it displays measurement lines for counting blocks while building, whereas on [img:Old-gen console version] Old-gen console, it displays a grid framework similar to that of the <span class=\"eil\"><span>Mechanical Ruler</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Ruler is an autoswinging shortsword and can be purchased for <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>. On these versions, the measurement lines can always be toggled via the \"<span class=\"gameText\">Ruler On</span>\"/\"<span class=\"gameText\">Ruler Off</span>\" button in the upper left of the inventory.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "12 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "0.5 <span class=\"knockback\">(Extremely weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "4.8<small> (effective)</small>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Buy": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:The Grand Design]<span><span>The Grand Design</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Mechanical Lens]<span><span>Mechanical Lens</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ruler]<span><span>Ruler</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

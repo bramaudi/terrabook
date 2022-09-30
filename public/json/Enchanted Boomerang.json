@@ -1,0 +1,52 @@
+{
+  "type": "tools",
+  "title": "Enchanted Boomerang",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Enchanted Boomerang</b> is a Boomerang that can be fired rapidly, has medium range, and releases light particles during use. Like all Boomerangs, it inflicts melee damage, so melee-boosting Accessories and Armor bonuses will benefit it. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it is crafted with a Wooden Boomerang and a Fallen Star. On the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, it is found rarely in naturally-occurring Gold Chests.",
+    "The Enchanted Boomerang operates at range without using any Mana, and knocks enemies back much further than most other weapons. Like most other Boomerangs, it returns to the user after reaching its maximum distance, or after colliding with an object.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "13 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "8 <span class=\"knockback\">(Very strong)</span>",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Enchanted Boomerang]<span><span>Enchanted Boomerang</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Wooden Boomerang]<span><span>Wooden Boomerang</span></span></span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flamarang]<span><span>Flamarang</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Enchanted Boomerang]<span><span>Enchanted Boomerang</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

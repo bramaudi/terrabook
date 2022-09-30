@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Moon Charm",
+  "summaries": [
+    "The <b>Moon Charm</b> is a Hardmode accessory that, when equipped during nighttime, turns the player into a werewolf, and applies the <b>Werewolf</b> buff. The item is dropped from the Werewolf enemy with a chance of <span class=\"chance\"><s>1.67*</s>1/60 (1.67%)</span>. Although the enemy is colored blue, the player Werewolf will be colored brown. Players with this item equipped during a full moon can still be attacked by other Werewolves.",
+    "The buff provides these bonuses:",
+    "<ul><li>+2% melee critical hit chance</li><li>+5.1% melee damage</li><li>+5.1% melee speed</li><li>+5% movement speed</li><li>+3 defense</li><li>Slightly increased jump height and jump speed</li><li>+0.5 HP regeneration per second (similar to the Band of Regeneration, but with half the speed)</li></ul>"
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Turns the holder into a werewolf at night</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Moon Shell]<span><span>Moon Shell</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Moon Charm]<span><span>Moon Charm</span></span></span></li><li><span class=\"i\">[img:Neptune's Shell]<span><span>Neptune's Shell</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

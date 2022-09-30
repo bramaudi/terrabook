@@ -1,0 +1,66 @@
+{
+  "type": "blocks",
+  "title": "Sand Blocks",
+  "summaries": [
+    "<b>Sand Blocks</b> are soil blocks found in vast quantities in Desert biomes, at shore and bottom of Ocean biomes, and can be found as microbiomes in patches in the Underground layer. They are also shot as projectiles by Antlions. Sand can spread and be converted by the evil biomes and The Hallow (see below).",
+    "Sand is subject to gravity, a unique quality only shared by Slush, Silt, and <span class=\"eil\"><span>Shell Piles</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. Sand Blocks will deal damage to any player or enemy they fall on. If the amount of Sand falling on the player is significant, the Suffocation debuff will be inflicted until the player manages to escape. Sand is used to craft a small number of building blocks and other items directly, but it is also the raw material for Glass, which is used for a full furniture set and a variety of other items.",
+    "<span id=\"variants\"></span><b>Ebonsand</b>, <b>Crimsand</b>, and <b>Pearlsand</b> are biome variants of Sand Blocks, corresponding to the Corruption, Crimson, and Hallow, respectively. They will replace ordinary Sand in their respective biomes, wherever they overlap with a Desert or Ocean biome. Like any other Corrupt, Crimson, or Hallowed block, after Hardmode begins, they will convert susceptible blocks (including regular Sand) that are up to three tiles away into their respective variants. These Sand variants are functionally identical to regular Sand, but each variant can be used to craft a few biome-related items. They can be transformed back to normal Sand using Thrown Powder or Water, or the Clentaminator with Green Solution. Falling Sand Blocks cannot be converted.",
+    "All forms of Sand are also ammunition for the Sandgun, but they cannot be stored in the ammo slots of the inventory. Similar to the Sand Ball projectiles shot by Antlions, shot Sand Blocks will be placed on the ground as blocks if there are space available."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "used_in": [
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Sandfall Block]<span><span>Sandfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+      },
+      "station": {
+        "rowspan": 1,
+        "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+      }
+    },
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Sandstone Brick]<span><span>Sandstone Brick</span></span></span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+      },
+      "station": {
+        "rowspan": 2,
+        "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+      }
+    },
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Yellow Stucco]<span><span>Yellow Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+      }
+    },
+    {
+      "result": {
+        "rowspan": 1,
+        "value": "<span class=\"i multi-line\">[img:Sandstone Slab]<span><span>Sandstone Slab</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+      },
+      "ingredients": {
+        "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+      },
+      "station": {
+        "rowspan": 1,
+        "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "tools",
+  "title": "Orichalcum Halberd",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Orichalcum Halberd</b> is a Hardmode Spear crafted solely using Orichalcum Bars. It lies at the middle tier of Hardmode ore spears along with the Mythril Halberd. It has slightly more damage, knockback, and speed than its counterpart.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "36 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "4.5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 65 Silver Coins\" data-sort-value=\"16500\"><span class=\"gc\">1</span><span class=\"sc\">65</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Orichalcum Halberd]<span><span>Orichalcum Halberd</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Orichalcum Bar]<span><span>Orichalcum Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

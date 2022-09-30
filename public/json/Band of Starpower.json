@@ -1,0 +1,58 @@
+{
+  "type": "accessories",
+  "title": "Band of Starpower",
+  "summaries": [
+    "The <b>Band of Starpower</b> is an accessory that increases the player's maximum mana by 20. It can be found by destroying Shadow Orbs in the Underground Corruption or from <span class=\"eil\"><span>Corrupt</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or <span class=\"eil\"><span>Defiled Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can furthermore be crafted, and on the Nintendo 3DS[img:Nintendo 3DS version] version, it can be found in Living Trees."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 20</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Band of Starpower]<span><span>Band of Starpower</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Panic Necklace]<span><span>Panic Necklace</span></span></span></li><li><span class=\"i\">[img:Mana Crystal]<span><span>Mana Crystal</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Band of Starpower]<span><span>Band of Starpower</span></span></span></li><li><span class=\"i\">[img:Band of Regeneration]<span><span>Band of Regeneration</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Panic Necklace]<span><span>Panic Necklace</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Band of Starpower]<span><span>Band of Starpower</span></span></span></li><li><span class=\"i\">[img:Life Crystal]<span><span>Life Crystal</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

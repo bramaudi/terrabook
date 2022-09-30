@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Wooden Boomerang",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Wooden Boomerang</b> is the lowest tier of boomerang. It is found in Wooden Chests located on the surface and within the underground layer.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It can be upgraded into the Enchanted Boomerang with a Fallen Star.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "8 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 7 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "16 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "6.5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Enchanted Boomerang]<span><span>Enchanted Boomerang</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Wooden Boomerang]<span><span>Wooden Boomerang</span></span></span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "By Hand"
+        }
+      }
+    ]
+  }
+}

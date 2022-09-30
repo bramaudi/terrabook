@@ -1,0 +1,74 @@
+{
+  "type": "armors",
+  "title": "Shroomite armor",
+  "summaries": [
+    "<b>Shroomite armor</b> is a Hardmode, post-Plantera armor set that boosts the effectiveness of ranged weapons. It is the second-strongest ranger armor available, only beaten by <span class=\"eil\"><span>Vortex armor</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> / <span class=\"eil\"><span>Titan armor</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>.",
+    "A full set of Shroomite armor will provide the following stats:",
+    "<ul><li>+51 defense</li><li>+13% ranged damage</li><li>+25% ranged critical strike chance</li><li>+20% chance not to consume ammo</li><li>+12% movement speed</li></ul>",
+    "In addition, the armor provides a ×1.15 damage boost to weapons that use a certain type of ammunition, depending on which headpiece is worn:",
+    "<ul><li><span class=\"i boldname\">[img:Shroomite Headgear]<span><span title=\"Shroomite Headgear\">Shroomite Headgear</span></span></span> for weapons firing arrows</li><li><span class=\"i boldname\">[img:Shroomite Mask]<span><span title=\"Shroomite Mask\">Shroomite Mask</span></span></span> for weapons firing bullets</li><li><span class=\"i boldname\">[img:Shroomite Helmet]<span><span title=\"Shroomite Helmet\">Shroomite Helmet</span></span></span> for weapons firing rockets</li></ul>",
+    "Finally, with a full set of Shroomite armor equipped, the player will enter \"stealth mode\" over the course of 67 ticks (1.12 seconds) when standing still. Stealth has the following effects:",
+    "<ul><li>Near-invisibility</li><li>−750 aggro</li><li>+60% ranged damage</li><li>+10% ranged critical strike chance</li><li>+50% knockback</li></ul>",
+    "The effects begin fading quickly if the wearer starts moving.",
+    "Crafting a full set of Shroomite armor with a single headpiece requires 54 Shroomite Bars (or 810 Glowing Mushrooms and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 270 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 324 Chlorophyte Ores). A full set with all three headpieces requires 78 Shroomite Bars (1170 Glowing Mushrooms and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 390  / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 468 Chlorophyte Ores)."
+  ],
+  "statistics": {
+    "Defense": "51<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Not moving puts you in stealth,<br>increasing ranged ability and reducing chance for enemies to target you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Sell": "<span class=\"coin\" title=\"18 Gold Coins\" data-sort-value=\"180000\"><span class=\"gc\">18</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Breastplate]<span><span title=\"Shroomite Breastplate\">Shroomite Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Headgear]<span><span title=\"Shroomite Headgear\">Shroomite Headgear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Helmet]<span><span title=\"Shroomite Helmet\">Shroomite Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Leggings]<span><span title=\"Shroomite Leggings\">Shroomite Leggings</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shroomite Mask]<span><span title=\"Shroomite Mask\">Shroomite Mask</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shroomite Bar]<span><span>Shroomite Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

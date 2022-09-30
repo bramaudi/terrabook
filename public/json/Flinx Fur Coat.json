@@ -1,0 +1,37 @@
+{
+  "type": "armors",
+  "title": "Flinx Fur Coat",
+  "summaries": [
+    "The <b>Flinx Fur Coat</b> is a pre-Hardmode armor piece. When equipped, it gives the player an additional minion slot, and increases summon damage by 5%."
+  ],
+  "statistics": {
+    "Defense": "1",
+    "Body slot": "Shirt",
+    "Tooltip": "<i><span class=\"gameText\">Increases minion damage by 5%<br>Increases your max number of minions by 1</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Flinx Fur Coat]<span><span>Flinx Fur Coat</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Flinx Fur]<span><span>Flinx Fur</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silk]<span><span>Silk</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Flinx Fur]<span><span>Flinx Fur</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

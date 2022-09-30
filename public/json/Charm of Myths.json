@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Charm of Myths",
+  "summaries": [
+    "The <b>Charm of Myths</b> is a Hardmode accessory which combines the effects of Band of Regeneration and Philosopher's Stone. When equipped, it regenerates <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.5 health every second and decreases the Potion Sickness debuff duration by 25%. Therefore, 45 seconds after consuming a recovery potion while the Charm of Myths is equipped, another one can be consumed."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Provides life regeneration and reduces the cooldown of healing potions by 25%</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Charm of Myths]<span><span>Charm of Myths</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Band of Regeneration]<span><span>Band of Regeneration</span></span></span></li><li><span class=\"i\">[img:Philosopher's Stone]<span><span>Philosopher's Stone</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

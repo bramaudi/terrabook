@@ -1,0 +1,61 @@
+{
+  "type": "armors",
+  "title": "Jungle armor",
+  "summaries": [
+    "<b>Jungle armor</b> is a pre-Hardmode armor set consisting of the <b>Jungle Shirt</b>, the <b>Jungle Hat</b> and <b>Jungle Pants</b>. It is crafted from items found in the Underground Jungle.",
+    "A full set of Jungle armor grants the wearer 17 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> defense and boosts magic weapons, reducing mana usage by 16% and creating a grass particle effect when moving. Each individual piece increases maximum mana by 20–40 and magic critical strike chance or damage by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 6% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 4%, for a total of 80 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 60 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> higher maximum mana and 12% magic critical strike chance and 6% magic damage <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 9% magic critical strike chance <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> when the whole set is equipped.",
+    "Jungle armor pieces are interchangeable with pieces from the Ancient Cobalt armor set, while still providing the same 16% reduced mana usage set bonus, but not the grass particle effect.",
+    "The total material cost of making a full set is:",
+    "<ul><li>10 (<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>) / 12 (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>) Stingers</li><li>2 Vines</li><li>32 Jungle Spores</li></ul>"
+  ],
+  "statistics": {
+    "Defense": "17<span class=\"note-text\"> (set)</span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"note-text\">(set)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Set Bonus": "<i><span class=\"gameText\">16% reduced mana usage</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Jungle Hat]<span><span title=\"Jungle Hat\">Jungle Hat</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Jungle Pants]<span><span title=\"Jungle Pants\">Jungle Pants</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

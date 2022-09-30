@@ -1,0 +1,47 @@
+{
+  "type": "accessories",
+  "title": "Neptune's Shell",
+  "summaries": [
+    "<b>Neptune's Shell</b> is a Hardmode accessory that aids performance underwater (and in other liquids) by granting indefinite breathing time underwater, swimming via the <span class=\"key\"><kbd><span title=\"Space Bar (PC default): Makes character jump\">↷ Jump</span></kbd></span> key, and eliminating the slow movement speed usually caused by water. Entering water with this accessory equipped transforms the player into <b>Merfolk</b> form. While in this form, the breath meter will not display (nor will it decrease), therefore effectively preventing drowning.",
+    "<ul><li>On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, Neptune's Shell can <i>only</i> be obtained as a drop. It has a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>3.96*</s>99/2500 (3.96%)</span></abbr> chance to be dropped by a Creature from the Deep during a Solar Eclipse event.</li><li>On the [img:Old-gen console version] Old-gen console version and Nintendo 3DS[img:Nintendo 3DS version] version, Neptune's Shell can <i>only</i> be obtained through crafting.</li></ul>",
+    "Neptune's Shell can be considered an upgrade from the Diving Gear in most respects, but lacks the extra mobility on ice of the Arctic Diving Gear and the extra lighting underwater of the Jellyfish Necklace."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Transforms the holder into merfolk when entering water</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Neptune's Shell]<span><span>Neptune's Shell</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Coral]<span><span>Coral</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Goldfish]<span><span>Goldfish</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Shark Fin]<span><span>Shark Fin</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Soul of Night]<span><span>Soul of Night</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Moon Shell]<span><span>Moon Shell</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Moon Charm]<span><span>Moon Charm</span></span></span></li><li><span class=\"i\">[img:Neptune's Shell]<span><span>Neptune's Shell</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

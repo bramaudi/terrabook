@@ -1,0 +1,17 @@
+{
+  "type": "enemies",
+  "title": "Jungle Bat",
+  "summaries": [
+    "The <b>Jungle Bat</b> is a common type of bat found only in the Jungle and less commonly in the Underground Jungle. They can easily overpower any unprepared player, so exercise caution when entering the Jungle. In Expert Mode, they gain more power and can inflict the Feral Bite debuff, making them a very obvious threat. Like most other bats, they cannot enter Water."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Jungle </span><span class=\"tag\"> Underground Jungle </span></div>",
+    "AI Type": "Bat AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">20</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">40</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">72</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">108</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">108</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">162</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">34</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">68</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">148</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">224</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">102</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">222</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">336</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">4</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">4</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">8</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">12</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">20%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">28%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">36%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Jungle Bat Banner]<span><span>Jungle Bat Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Depth Meter]<span><span>Depth Meter</span></span></span></div><div>1% <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br>0.5% <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></div></li><li><div><span class=\"i\">[img:Bat Bat]<span><span>Bat Bat</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>0.4%</div></li></ul>"
+}

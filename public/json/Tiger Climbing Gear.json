@@ -1,0 +1,63 @@
+{
+  "type": "accessories",
+  "title": "Tiger Climbing Gear",
+  "summaries": [
+    "<b>Tiger Climbing Gear</b> is an accessory that allows for sliding down, and completely stopping while touching walls. Holding the <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> key while clinging to a wall allows the player to slide down walls a little faster than if they only had one of the ingredient accessories. While either clinging or sliding the player can jump off of the wall, allowing them to scale vertical surfaces with ease. This accessory is useful if paired with wings, as the player's flight time is reset when latching onto a wall."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows the ability to climb walls</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Climbing Claws]<span><span>Climbing Claws</span></span></span></li><li><span class=\"i\">[img:Shoe Spikes]<span><span>Shoe Spikes</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frog Gear]<span><span>Frog Gear</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Frog Flipper]<span><span>Frog Flipper</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frog Webbing]<span><span>Frog Webbing</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Master Ninja Gear]<span><span>Master Ninja Gear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li><li><span class=\"i\">[img:Tabi]<span><span>Tabi</span></span></span></li><li><span class=\"i\">[img:Black Belt]<span><span>Black Belt</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

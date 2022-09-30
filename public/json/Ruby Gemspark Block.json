@@ -1,0 +1,321 @@
+{
+  "type": "blocks",
+  "title": "Gemspark Blocks",
+  "summaries": [
+    "<b>Gemspark Blocks</b> are blocks that glow. The color of the glow depends on the gem used to craft the block. They are also considered mechanisms, as their glow can be toggled by wiring them to a trigger. Gemspark Blocks are crafted from Gems and Glass at a Work Bench.",
+    "Gemspark Blocks will also color and add a glowing effect to Waterfalls. This requires hammering a Gemspark Block so that water flows over it. When the Gemspark Block is in its active state, the resulting waterfall will take on the color of the Gemspark block, and will glow for its entire length. Glowing waterfalls emit a very faint light onto other objects. Gemspark Blocks will <b>not</b> change the color of Lavafalls or Honey."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amethyst Gemspark Block]<span><span title=\"Amethyst Gemspark Block\">Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1970</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Amethyst]<span><span>Amethyst</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 21,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amethyst Gemspark Block]<span><span title=\"Amethyst Gemspark Block\">Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1970</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amethyst Gemspark Wall]<span><span>Amethyst Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amethyst Gemspark Block]<span><span title=\"Amethyst Gemspark Block\">Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1970</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Amethyst Gemspark Wall]<span><span>Offline Amethyst Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Topaz Gemspark Block]<span><span title=\"Topaz Gemspark Block\">Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1971</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Topaz]<span><span>Topaz</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Topaz Gemspark Block]<span><span title=\"Topaz Gemspark Block\">Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1971</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Topaz Gemspark Wall]<span><span>Offline Topaz Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Topaz Gemspark Block]<span><span title=\"Topaz Gemspark Block\">Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1971</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Topaz Gemspark Wall]<span><span>Topaz Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Sapphire Gemspark Block]<span><span title=\"Sapphire Gemspark Block\">Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1972</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Sapphire]<span><span>Sapphire</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Sapphire Gemspark Block]<span><span title=\"Sapphire Gemspark Block\">Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1972</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Sapphire Gemspark Wall]<span><span>Offline Sapphire Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Sapphire Gemspark Block]<span><span title=\"Sapphire Gemspark Block\">Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1972</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sapphire Gemspark Wall]<span><span>Sapphire Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Emerald Gemspark Block]<span><span title=\"Emerald Gemspark Block\">Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1973</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Emerald]<span><span>Emerald</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Emerald Gemspark Block]<span><span title=\"Emerald Gemspark Block\">Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1973</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Emerald Gemspark Wall]<span><span>Emerald Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Emerald Gemspark Block]<span><span title=\"Emerald Gemspark Block\">Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1973</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Emerald Gemspark Wall]<span><span>Offline Emerald Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Ruby Gemspark Block]<span><span title=\"Ruby Gemspark Block\">Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1974</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Ruby]<span><span>Ruby</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Ruby Gemspark Block]<span><span title=\"Ruby Gemspark Block\">Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1974</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Ruby Gemspark Wall]<span><span>Offline Ruby Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Ruby Gemspark Block]<span><span title=\"Ruby Gemspark Block\">Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1974</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ruby Gemspark Wall]<span><span>Ruby Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Diamond Gemspark Block]<span><span title=\"Diamond Gemspark Block\">Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1975</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Diamond]<span><span>Diamond</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Diamond Gemspark Block]<span><span title=\"Diamond Gemspark Block\">Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1975</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Diamond Gemspark Wall]<span><span>Diamond Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Diamond Gemspark Block]<span><span title=\"Diamond Gemspark Block\">Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1975</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Diamond Gemspark Wall]<span><span>Offline Diamond Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amber Gemspark Block]<span><span title=\"Amber Gemspark Block\">Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1976</div></span></span> <span class=\"note-text\">(20)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amber Gemspark Block]<span><span title=\"Amber Gemspark Block\">Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1976</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amber Gemspark Wall]<span><span>Amber Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "value": "<span class=\"i -w multi-line\">[img:Amber Gemspark Block]<span><span title=\"Amber Gemspark Block\">Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><div class=\"id\">Internal Item ID: 1976</div></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Offline Amber Gemspark Wall]<span><span>Offline Amber Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Amber Gemspark Wall]<span><span>Amber Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amber Gemspark Block]<span><span>Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 14,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Amber Gemspark Wall]<span><span>Offline Amber Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amber Gemspark Block]<span><span>Amber Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Amethyst Gemspark Wall]<span><span>Amethyst Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amethyst Gemspark Block]<span><span>Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Amethyst Gemspark Wall]<span><span>Offline Amethyst Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Amethyst Gemspark Block]<span><span>Amethyst Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Diamond Gemspark Wall]<span><span>Diamond Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Diamond Gemspark Block]<span><span>Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Diamond Gemspark Wall]<span><span>Offline Diamond Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Diamond Gemspark Block]<span><span>Diamond Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Emerald Gemspark Wall]<span><span>Emerald Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Emerald Gemspark Block]<span><span>Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Emerald Gemspark Wall]<span><span>Offline Emerald Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Emerald Gemspark Block]<span><span>Emerald Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ruby Gemspark Wall]<span><span>Ruby Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ruby Gemspark Block]<span><span>Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Ruby Gemspark Wall]<span><span>Offline Ruby Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ruby Gemspark Block]<span><span>Ruby Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sapphire Gemspark Wall]<span><span>Sapphire Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sapphire Gemspark Block]<span><span>Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Sapphire Gemspark Wall]<span><span>Offline Sapphire Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sapphire Gemspark Block]<span><span>Sapphire Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Topaz Gemspark Wall]<span><span>Topaz Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Topaz Gemspark Block]<span><span>Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Offline Topaz Gemspark Wall]<span><span>Offline Topaz Gemspark Wall</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Topaz Gemspark Block]<span><span>Topaz Gemspark Block</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

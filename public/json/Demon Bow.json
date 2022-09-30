@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Demon Bow",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Demon Bow</b> is a bow crafted solely using Demonite Bars. It is an upgrade over the Gold Bow and the Platinum Bow, being stronger and faster. The Demon Bow, along with its counterpart, the Tendon Bow, is the last type of ore bow the player will be able to craft until they reach The Underworld, as they could craft the Molten Fury.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "14 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "1 <span class=\"knockback\">(Extremely weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "6.7",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"36 Silver Coins\" data-sort-value=\"3600\"><span class=\"sc\">36</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Demon Bow]<span><span>Demon Bow</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

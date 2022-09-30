@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Emerald Staff",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Emerald Staff</b> is the fourth-best gem staff, firing a bolt that can pierce 1 enemy. Unlike its alternate-ore counterpart, the Sapphire Staff, it can autofire.",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "19 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "4.25 <span class=\"knockback\">(Average)</span>",
+    "Mana": "6",
+    "Critical chance": "4%",
+    "Use time": "32 <span class=\"usetime\">(Slow)</span>",
+    "Velocity": "8",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Emerald Staff]<span><span>Emerald Staff</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Emerald]<span><span>Emerald</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

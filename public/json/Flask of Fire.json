@@ -1,0 +1,43 @@
+{
+  "type": "accessories",
+  "title": "Flask of Fire",
+  "summaries": [
+    "The <b>Flask of Fire</b> is a flask that will cause any melee weapons (and <span class=\"eil\"><span>whips</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>) to inflict the On Fire! debuff. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, this effect will not be lost when the player dies.",
+    "The Flask of Fire cannot be used in conjunction with other flasks, and using it will remove any existing flask effects.",
+    "This item currently does not apply the debuff in PvP scenarios. The debuff lasts for 3–6 seconds."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks set enemies on fire</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "tools",
+  "title": "Vortex Beater",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Vortex Beater</b> is a Hardmode, post-Lunatic Cultist gun that fires bullets at a very high rate and in an inaccurate manner, similar to the Gatligator, but within approximately a 25-degree angle rather than the Gatligator's 45-degree firing pattern. Additionally, it fires a homing, explosive rocket every 0.583 seconds which does not harm the player.",
+    "The Vortex Beater has a <span class=\"chance\"><s>66.67*</s>2/3 (66.67%)</span> chance not to consume ammo.",
+    "Its best modifier is <b>Unreal</b>. Since it does not benefit from speed modifiers, <b>Godly</b> and <b>Demonic</b> provide the same <abbr title=\"Damage per second\">DPS</abbr> bonus as <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Bullets",
+    "Damage": "50 <span class=\"note-text\">(bullets)</span><br>70 <span class=\"note-text\">(rockets)</span><br> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span> <span class=\"note-text\">(bullets)</span><br>2.5 <span class=\"knockback\">(Very weak)</span> <span class=\"note-text\">(rockets)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span><br><span class=\"note-text\">(see notes for more info)</span>",
+    "Velocity": "14 <span class=\"note-text\">(bullets)</span><br>8 <span class=\"note-text\">(rockets)</span>",
+    "Tooltip": "<i><span class=\"gameText\">66% chance to not consume ammo<br>'The catastrophic mixture of pew pew and boom boom.'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Beater]<span><span>Vortex Beater</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

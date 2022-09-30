@@ -1,0 +1,41 @@
+{
+  "type": "accessories",
+  "title": "Sailfish Boots",
+  "summaries": [
+    "<b>Sailfish Boots</b> are an accessory that allows the user to sprint. This item is obtained from Wooden Crates and Iron Crates. When equipped, they allow the player to gain a speed boost after running for a certain distance continuously. By running in one direction, the player's movement speed increases up to 40%. <i>(See Sprinting accessories for more information on the sprint effect.)</i>",
+    "The Sailfish Boots, Hermes Boots, and the Flurry Boots have identical functionality, with their only differences being aesthetic. In the case of the Sailfish Boots, the user will generate water particles coming out of their backs while running.",
+    "All three listed boots are interchangeable when crafting Spectre Boots."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">The wearer can run super fast</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Amphibian Boots]<span><span>Amphibian Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

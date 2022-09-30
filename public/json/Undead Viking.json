@@ -1,0 +1,18 @@
+{
+  "type": "enemies",
+  "title": "Undead Viking",
+  "summaries": [
+    "The <b>Undead Viking</b> is an enemy found in the Ice biome. It behaves similarly to the Skeleton, but spawns more frequently and jumps higher."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ice biome </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">24</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">48</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">42</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">72</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">63</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">70</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">140</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">154</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">210</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">231</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">50%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">55%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">60%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Undead Viking Banner]<span><span>Undead Viking Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Frostbite, Frostburn, Poisoned"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Hook (crafting material)]<span><span>Hook (crafting material)</span></span></span></div><div>4%</div></li><li><div><span class=\"i\">[img:Viking Helmet]<span><span>Viking Helmet</span></span></span></div><div>2%</div></li><li><div><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>2% <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></div></li></ul>"
+}

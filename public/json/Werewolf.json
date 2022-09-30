@@ -1,0 +1,18 @@
+{
+  "type": "enemies",
+  "title": "Werewolf",
+  "summaries": [
+    "The <b>Werewolf</b> is a Hardmode enemy that only spawns at night while a full moon is active, during which it is as common as a Zombie. Werewolves can open doors and have a <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> chance to inflict the Bleeding debuff. At close range, Werewolves attack the player by leaping or lunging, closing distances quickly to catch unwary players off-guard.",
+    "The Werewolf can drop the Moon Charm, which allows the player to transform into a Werewolf at night."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface  +  Night  +  Full Moon </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">70</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">140</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">210</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">350</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">700</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1050</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">38</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
+    "Banner": "<span class=\"i\">[img:Werewolf Banner]<span><span>Werewolf Banner</span></span></span>"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Moon Charm]<span><span>Moon Charm</span></span></span></div><div>1.67%</div></li><li><div><span class=\"i\">[img:Adhesive Bandage]<span><span>Adhesive Bandage</span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">1%</span><span class=\"m-expert-master\"><abbr class=\"expert\" title=\"Expert Mode\">2%</abbr></span></span></div></li><li><div><span class=\"i\">[img:Wolf Fang]<span><span>Wolf Fang</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span></div><div>1.5%</div></li></ul>"
+}

@@ -1,0 +1,93 @@
+{
+  "type": "accessories",
+  "title": "Obsidian Skull",
+  "summaries": [
+    "The <b>Obsidian Skull</b> is an accessory that grants immunity to the burning damage normally inflicted by contact with Meteorite and Hellstone. It does not grant immunity to lava or other fire-based attacks. It additionally provides 1 defense.",
+    "Meteorite and Hellstone can be mined without Obsidian protection, as you only take damage when touching them in their placed block form; they can be mined from a distance without this immunity. However, this item makes the process much easier.",
+    "The Obsidian Skull can be worn in a social accessory slot. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> When worn, it gives the player a unique appearance."
+  ],
+  "statistics": {
+    "Defense": "1",
+    "Tooltip": "<i><span class=\"gameText\">Grants immunity to fire blocks</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Charm]<span><span>Molten Charm</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Horseshoe]<span><span>Obsidian Horseshoe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cobalt Shield]<span><span>Cobalt Shield</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Water Walking Boots]<span><span>Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

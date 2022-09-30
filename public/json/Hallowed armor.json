@@ -1,0 +1,245 @@
+{
+  "type": "armors",
+  "title": "Hallowed armor",
+  "summaries": [
+    "<b>Hallowed armor</b> is a Hardmode armor set. It has melee, ranged, magic and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> summoner set versions, depending on the equipped headpiece. Crafting a full set with one headpiece requires 54 Hallowed Bars (dropped by the mechanical bosses), or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 90 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 78 Hallowed Bars for the full set including all <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> four / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> three headpieces. Wearing a full set gives off a faint pulsing aura around the player and displays an after-image effect while in motion. To acquire the necessary Hallowed Bars for a full set with one helmet, the player will need to kill at least 2 mechanical bosses, and all four helmets will require 3–5 kills on the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, or 2–4 kills on the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version for all three helmets.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Additionally, wearing a full set, striking an enemy will grant the <b>Holy Protection</b> buff, which allows the player to dodge the next attack dealt by an enemy. It has a cooldown of 30 seconds, starting from when the buff was applied. This set bonus is identical to the <span class=\"eil\"><span>Shadow Dodge</span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span> buff from Titanium armor. Wearing a full set with the Hallowed Hood additionally increases minion capacity by 2 as a set bonus, making the total minion capacity of the hood-set 3, for a total minion count of 4.",
+    "It currently shares identical stats with <span class=\"eil\"><span>Ancient Hallowed armor</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, but differs in appearance. Furthermore, Ancient Hallowed and Hallowed armor pieces can be mixed and matched while still providing their set bonus."
+  ],
+  "statistics": {
+    "Defense": "<span class=\"i\">[img:Hallowed Headgear]</span> : 31 / <span class=\"i\">[img:Hallowed Mask]</span> : 50 / <span class=\"i\">[img:Hallowed Helmet]</span> : 35 / <span class=\"i\">[img:Hallowed Hood]</span> : 27<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Become immune after striking an enemy</span></i><br><span class=\"i\">[img:Hallowed Hood]</span> : <i><span class=\"gameText\">Become immune after striking an enemy,<br>and increases your max number of minions by 2</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"12 Gold Coins\" data-sort-value=\"120000\"><span class=\"gc\">12</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Greaves]<span><span title=\"Hallowed Greaves\">Hallowed Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Headgear]<span><span title=\"Hallowed Headgear\">Hallowed Headgear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Helmet]<span><span title=\"Hallowed Helmet\">Hallowed Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Hood]<span><span title=\"Hallowed Hood\">Hallowed Hood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Mask]<span><span title=\"Hallowed Mask\">Hallowed Mask</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hallowed Plate Mail]<span><span title=\"Hallowed Plate Mail\">Hallowed Plate Mail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Breastplate]<span><span>Dragon Breastplate</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 18,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Breastplate]<span><span>Dragon Breastplate</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Breastplate]<span><span>Titanium Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Greaves]<span><span>Dragon Greaves</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Greaves]<span><span>Dragon Greaves</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Leggings]<span><span>Titanium Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Mask]<span><span>Dragon Mask</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Mask]<span><span>Hallowed Mask</span></span></span></li><li><span class=\"i\">[img:Cobalt Helmet]<span><span>Cobalt Helmet</span></span></span></li><li><span class=\"i\">[img:Mythril Helmet]<span><span>Mythril Helmet</span></span></span></li><li><span class=\"i\">[img:Adamantite Helmet]<span><span>Adamantite Helmet</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dragon Mask]<span><span>Dragon Mask</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Mask]<span><span>Hallowed Mask</span></span></span></li><li><span class=\"i\">[img:Cobalt Helmet]<span><span>Cobalt Helmet</span></span></span></li><li><span class=\"i\">[img:Mythril Helmet]<span><span>Mythril Helmet</span></span></span></li><li><span class=\"i\">[img:Adamantite Helmet]<span><span>Adamantite Helmet</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Mask]<span><span>Titanium Mask</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Armor]<span><span>Spectral Armor</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Armor]<span><span>Spectral Armor</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Breastplate]<span><span>Titanium Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Headgear]<span><span>Spectral Headgear</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Headgear]<span><span>Hallowed Headgear</span></span></span></li><li><span class=\"i\">[img:Cobalt Hat]<span><span>Cobalt Hat</span></span></span></li><li><span class=\"i\">[img:Mythril Hood]<span><span>Mythril Hood</span></span></span></li><li><span class=\"i\">[img:Adamantite Headgear]<span><span>Adamantite Headgear</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Headgear]<span><span>Spectral Headgear</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Headgear]<span><span>Hallowed Headgear</span></span></span></li><li><span class=\"i\">[img:Cobalt Hat]<span><span>Cobalt Hat</span></span></span></li><li><span class=\"i\">[img:Mythril Hood]<span><span>Mythril Hood</span></span></span></li><li><span class=\"i\">[img:Adamantite Headgear]<span><span>Adamantite Headgear</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Headgear]<span><span>Titanium Headgear</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Subligar]<span><span>Spectral Subligar</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectral Subligar]<span><span>Spectral Subligar</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Leggings]<span><span>Titanium Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Helmet]<span><span>Titan Helmet</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Helmet]<span><span>Hallowed Helmet</span></span></span></li><li><span class=\"i\">[img:Cobalt Mask]<span><span>Cobalt Mask</span></span></span></li><li><span class=\"i\">[img:Mythril Hat]<span><span>Mythril Hat</span></span></span></li><li><span class=\"i\">[img:Adamantite Mask]<span><span>Adamantite Mask</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Helmet]<span><span>Titan Helmet</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Helmet]<span><span>Hallowed Helmet</span></span></span></li><li><span class=\"i\">[img:Cobalt Mask]<span><span>Cobalt Mask</span></span></span></li><li><span class=\"i\">[img:Mythril Hat]<span><span>Mythril Hat</span></span></span></li><li><span class=\"i\">[img:Adamantite Mask]<span><span>Adamantite Mask</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Helmet]<span><span>Titanium Helmet</span></span></span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Leggings]<span><span>Titan Leggings</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Leggings]<span><span>Titan Leggings</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Greaves]<span><span>Hallowed Greaves</span></span></span></li><li><span class=\"i\">[img:Cobalt Leggings]<span><span>Cobalt Leggings</span></span></span></li><li><span class=\"i\">[img:Mythril Greaves]<span><span>Mythril Greaves</span></span></span></li><li><span class=\"i\">[img:Adamantite Leggings]<span><span>Adamantite Leggings</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Leggings]<span><span>Titanium Leggings</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Mail]<span><span>Titan Mail</span></span></span> ([img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titan Mail]<span><span>Titan Mail</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Plate Mail]<span><span>Hallowed Plate Mail</span></span></span></li><li><span class=\"i\">[img:Cobalt Breastplate]<span><span>Cobalt Breastplate</span></span></span></li><li><span class=\"i\">[img:Mythril Chainmail]<span><span>Mythril Chainmail</span></span></span></li><li><span class=\"i\">[img:Adamantite Breastplate]<span><span>Adamantite Breastplate</span></span></span> <i>or</i> <span class=\"i\">[img:Titanium Breastplate]<span><span>Titanium Breastplate</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Blight]<span><span>Soul of Blight</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

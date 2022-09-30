@@ -1,0 +1,44 @@
+{
+  "type": "tools",
+  "title": "Palladium Drill",
+  "toolpower": [
+    "[img:Pickaxe mask] 130%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Palladium Drill</b> is a Hardmode drill, and is the drill alternative to the Palladium Pickaxe. Appearances and sounds aside, the two tools are nearly functionally identical. The drill, however is half a second faster. But, unlike pickaxes, most drills cannot be reforged with size, speed, or knockback modifiers.",
+    "The Palladium Drill can mine any block with the exception of Adamantite Ore, Titanium Ore, Chlorophyte Ore, and Lihzahrd Bricks. It is capable of mining Adamantite Ore and Titanium Ore on the Nintendo 3DS[img:Nintendo 3DS version] version.",
+    "Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect its speed, either."
+  ],
+  "statistics": {
+    "Damage": "12 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "32",
+    "Tool speed": "7",
+    "Tooltip": "<i><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"gameText\">Can mine Mythril and Orichalcum</span><br><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span> Can mine Mythril, Orichalcum, Adamantite, and Titanium</i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palladium Drill]<span><span>Palladium Drill</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

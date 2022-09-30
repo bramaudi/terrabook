@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Handgun",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Handgun</b> is a gun found in Locked Gold Chests in the Dungeon. It shoots rather quickly, although it does not autofire. It is superior in both damage and speed to the Flintlock Pistol.",
+    "The Dungeon will generally contain 1-2 Handguns. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, extras can renewably be obtained from opening Golden Lock Boxes found in Dungeon Crates.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Bullets",
+    "Damage": "17 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 12 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 75 Silver Coins\" data-sort-value=\"17500\"><span class=\"gc\">1</span><span class=\"sc\">75</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Phoenix Blaster]<span><span>Phoenix Blaster</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Handgun]<span><span>Handgun</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

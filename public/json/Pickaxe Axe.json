@@ -1,0 +1,42 @@
+{
+  "type": "tools",
+  "title": "Pickaxe Axe",
+  "toolpower": [
+    "[img:Pickaxe mask] 200%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 110%"
+  ],
+  "summaries": [
+    "The <b>Pickaxe Axe</b> is a Hardmode pickaxe and axe combination which can be crafted after all mechanical bosses have been defeated. It is able to mine any block other than Lihzahrd Bricks.",
+    "The Pickaxe Axe is an alternative to the Drax, having a slower mining speed but longer range and benefiting from mining speed bonuses.",
+    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+  ],
+  "statistics": {
+    "Damage": "35 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.75 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "7",
+    "Tooltip": "<i><span class=\"gameText\">'Not to be confused with a hamdrill'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 40 Silver Coins\" data-sort-value=\"44000\"><span class=\"gc\">4</span><span class=\"sc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pickaxe Axe]<span><span>Pickaxe Axe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

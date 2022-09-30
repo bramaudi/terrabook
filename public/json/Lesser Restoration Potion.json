@@ -1,0 +1,35 @@
+{
+  "type": "accessories",
+  "title": "Lesser Restoration Potion",
+  "summaries": [
+    "The <b>Lesser Restoration Potion</b> is a potion that has the effects of both the Lesser Healing Potion and Lesser Mana Potion.",
+    "On the [img:Legacy tModLoader version] Legacy tModLoader version, they are no longer craftable and have instead been replaced by the Restoration Potion. However, they can still be found inside Shadow Chests in The Underworld.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, they are removed partially, and are replaced with Restoration Potions when cheated through inventory editors."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Mana": "80 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 50 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Heals Health": "80 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 50 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / <span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lesser Restoration Potion]<span><span>Lesser Restoration Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span></li><li><span class=\"i\">[img:Lesser Mana Potion]<span><span>Lesser Mana Potion</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

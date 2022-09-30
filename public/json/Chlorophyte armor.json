@@ -1,0 +1,70 @@
+{
+  "type": "armors",
+  "title": "Chlorophyte armor",
+  "summaries": [
+    "<b>Chlorophyte armor</b> is a Hardmode armor set available after defeating all three mechanical bosses. It can be considered a partial upgrade of Hallowed armor, granting more defense and being geared more towards high ranged and magic damage output.",
+    "Equipping the full set causes a <b>Crystal Leaf</b> to permanently appear over the player's head, automatically attacking enemies via a ranged projectile that costs no mana or ammunition. The projectile is capped at 100 damage.",
+    "The Leaf Crystal is capable of firing two separate simultaneous volleys of projectiles. Each volley fires every <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 0.67 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.83 seconds. It is possible for both volleys to target the same enemy.",
+    "<ul><li>One volley targets any enemies in range on its own. It requires a clear line-of-sight, but can still pierce blocks if it misses or if the player hides behind cover right before the volley is shot.</li><li>A second volley activates when an enemy takes damage from other sources first (e.g. from a player attack, or from lava, a minion, a trap, etc). This volley will target enemies through blocks, and the projectile will travel through blocks to reach the target.</li></ul>",
+    "A full set of Chlorophyte armor requires 54 Chlorophyte Bars, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 270 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 324 Chlorophyte Ore. Crafting the full set with every helmet type requires 78 bars (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 390 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 468 ore)."
+  ],
+  "statistics": {
+    "Defense": "<span class=\"i\">[img:Chlorophyte Mask]</span> : 51 / <span class=\"i\">[img:Chlorophyte Helmet]</span> : 44 / <span class=\"i\">[img:Chlorophyte Headgear]</span> : 38<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Summons a powerful leaf crystal to shoot at nearby enemies</span></i> <br> <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><i>Reduces damage taken by 5%</i> (with Mask)",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"14 Gold 40 Silver Coins\" data-sort-value=\"144000\"><span class=\"gc\">14</span><span class=\"sc\">40</span></span><span class=\"note-text\"> (set)</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Greaves]<span><span title=\"Chlorophyte Greaves\">Chlorophyte Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Headgear]<span><span title=\"Chlorophyte Headgear\">Chlorophyte Headgear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Helmet]<span><span title=\"Chlorophyte Helmet\">Chlorophyte Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Mask]<span><span title=\"Chlorophyte Mask\">Chlorophyte Mask</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Plate Mail]<span><span title=\"Chlorophyte Plate Mail\">Chlorophyte Plate Mail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

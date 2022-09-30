@@ -1,0 +1,40 @@
+{
+  "type": "tools",
+  "title": "Phantasm",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Phantasm</b> is a Hardmode, post-Lunatic Cultist craftable bow that auto-fires four arrows at once, while only consuming a single arrow from the player's inventory. Arrows are loosely grouped and can fire with varied velocities and ranges (similar to the Chlorophyte Shotbow). The bow has a <span class=\"chance\"><s>66.67*</s>2/3 (66.67%)</span> chance of not consuming ammunition.",
+    "Constantly shooting with the Phantasm will gradually increase its fire rate from once per 24 frames, up to once per 18 frames, regardless of use time, meaning that the Phantasm does not benefit from speed modifiers. Stopping the attack or switching to another item will reset this effect immediately, making switching weapons inefficient.",
+    "In addition, each successful hit on an enemy causes 3 magical arrow projectiles to fire and home in on the target that was hit initially, each one dealing 30% of the original projectile's damage, without any additional ammo or mana cost. The rate of fire of these projectiles depends on the current rate of fire of the Phantasm.",
+    "Its best modifier is <b>Unreal</b>. Since it does not benefit from speed modifiers, <b>Godly</b> and <b>Demonic</b> provide the same <abbr title=\"Damage per second\">DPS</abbr> bonus as Unreal."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "50 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "20",
+    "Tooltip": "<i><span class=\"gameText\">66% chance to not consume ammo</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Phantasm]<span><span>Phantasm</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

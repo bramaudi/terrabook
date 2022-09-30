@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Anklet of the Wind",
+  "summaries": [
+    "The <b>Anklet of the Wind</b> is an accessory that gives a 10% bonus to movement speed. The effect also stacks with the movement speed bonus of the Aglet. It can be found in Jungle and <span class=\"eil\"><span>Bramble</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> Crates with a 19% chance, and also in Ivy Chests located in Jungle Shrines and at the base of a Living Mahogany Tree in the Underground Jungle with a <span class=\"chance\"><s>22.5*</s>9/40 (22.5%)</span> chance."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">10% increased movement speed</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Anklet of the Wind]<span><span>Anklet of the Wind</span></span></span></li><li><span class=\"i\">[img:Aglet]<span><span>Aglet</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

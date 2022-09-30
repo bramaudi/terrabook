@@ -1,0 +1,31 @@
+{
+  "type": "blocks",
+  "title": "Frozen Slime Block",
+  "summaries": [
+    "<b>Frozen Slime Blocks</b> are blocks without any friction, making them more slippery than their constituent block, the Ice Block.",
+    "When a character moves atop Frozen Slime Blocks, their movement speed is maintained when direction keys are released, sliding at full speed until the Frozen Slime Blocks end or an obstacle is reached. Speed is maintained even when auto-stepping up single-block steps."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frozen Slime Block]<span><span>Frozen Slime Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Slime Block]<span><span>Slime Block</span></span></span></li><li><span class=\"i\">[img:Ice Block]<span><span>Ice Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Solidifier]<span><span>Solidifier</span></span></span>"
+        }
+      }
+    ]
+  }
+}

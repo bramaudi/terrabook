@@ -1,0 +1,40 @@
+{
+  "type": "tools",
+  "title": "Muramasa",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Muramasa</b> is a blue broadsword that is found in the Dungeon's Locked Gold Chests or in <span class=\"eil\"><span>Golden Lock Boxes</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>, both of which are opened via a Golden Key. The Muramasa has a slightly longer reach than the Phaseblade and has a fast attack speed. It is also worth mentioning that it is an autoswing sword, not many of which can be found during Pre-hardmode. It also emits a small amount of light when swung.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "26 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 19 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 18 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br>2.5 <span class=\"knockback\">(Very weak)</span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> /<br>1 <span class=\"knockback\">(Extremely weak)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Critical chance": "4%",
+    "Use time": "18 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 75 Silver Coins\" data-sort-value=\"17500\"><span class=\"gc\">1</span><span class=\"sc\">75</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Night's Edge]<span><span>Night's Edge</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blood Butcherer]<span><span>Blood Butcherer</span></span></span></li><li><span class=\"i\">[img:Muramasa]<span><span>Muramasa</span></span></span></li><li><span class=\"i\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span></li><li><span class=\"i\">[img:Fiery Greatsword]<span><span>Fiery Greatsword</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Demon Altar]<span><span>Demon Altar</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Crimson Altar]<span><span>Crimson Altar</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Light's Bane]<span><span>Light's Bane</span></span></span></li><li><span class=\"i\">[img:Muramasa]<span><span>Muramasa</span></span></span></li><li><span class=\"i\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span></li><li><span class=\"i\">[img:Fiery Greatsword]<span><span>Fiery Greatsword</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

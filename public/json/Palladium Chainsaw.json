@@ -1,0 +1,42 @@
+{
+  "type": "tools",
+  "title": "Palladium Chainsaw",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 75%"
+  ],
+  "summaries": [
+    "The <b>Palladium Chainsaw</b> is a Hardmode chainsaw that is obtainable after defeating the Wall of Flesh, and is the Chainsaw alternative to the Palladium Waraxe. It is one of the earliest available Chainsaws upon entering Hardmode, as is its slightly weaker alternative, the Cobalt Chainsaw. Like all Axes and Chainsaws, it is used to cut down Trees, Cacti and Giant Glowing Mushrooms.",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "26 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "2.9 <span class=\"knockback\">(Very weak)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "40",
+    "Tool speed": "7",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palladium Chainsaw]<span><span>Palladium Chainsaw</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

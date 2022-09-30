@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Onyx Blaster",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Onyx Blaster</b> is a Hardmode ranged weapon that fires a spread of 4 bullets while only consuming one unit of ammunition, and a single dark energy projectile that explodes upon impact with an enemy or a block, or after traveling for 40 ticks (0.67 seconds; 35 tiles). The explosive projectile does <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 48 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 56 base damage, twice the listed damage of the weapon.",
+    "The Onyx Blaster is a direct upgrade to the Shotgun. It can be crafted before defeating any of the mechanical bosses.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Bullets",
+    "Damage": "24 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 28 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "6.5 <span class=\"knockback\">(Strong)</span>",
+    "Critical chance": "4%",
+    "Use time": "48 <span class=\"usetime\">(Extremely slow)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 45 <span class=\"usetime\">(Very slow)</span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span>",
+    "Velocity": "14<small> (not affected by ammo)</small>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Onyx Blaster]<span><span>Onyx Blaster</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shotgun]<span><span>Shotgun</span></span></span></li><li><span class=\"i\">[img:Dark Shard]<span><span>Dark Shard</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Soul of Night]<span><span>Soul of Night</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

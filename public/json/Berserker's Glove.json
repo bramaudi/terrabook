@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Berserker's Glove",
+  "summaries": [
+    "The <b>Berserker's Glove</b> is a Hardmode accessory crafted from the Power Glove and Flesh Knuckles, granting the abilities of both. It grants the following:",
+    "<ul><li>+8 defense</li><li>+12% increased melee speed</li><li>+100% increased melee knockback</li><li>+10% increased melee weapon size</li><li>+400 aggro</li><li>Autoswing for melee weapons and whips</li></ul>"
+  ],
+  "statistics": {
+    "Defense": "8",
+    "Tooltip": "<i><span class=\"gameText\">Increases melee knockback<br>12% increased melee speed<br>Enables auto swing for melee weapons<br>Increases the size of melee weapons<br>Enemies are more likely to target you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Berserker's Glove]<span><span>Berserker's Glove</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Power Glove]<span><span>Power Glove</span></span></span></li><li><span class=\"i\">[img:Flesh Knuckles]<span><span>Flesh Knuckles</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

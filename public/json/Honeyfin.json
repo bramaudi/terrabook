@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Honeyfin",
+  "summaries": [
+    "The <b>Honeyfin</b> is a consumable fish that can be fished from honey found in Bee Hives within the Underground Jungle. Other than the Bumblebee Tuna found during Angler quests, Honeyfins are the only fish that can be caught in honey. They are used to craft Seafood Dinners."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Health": "120",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Seafood Dinner]<span><span>Seafood Dinner</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Honeyfin]<span><span>Honeyfin</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Cooking Pot]<span><span>Cooking Pot</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Cauldron]<span><span>Cauldron</span></span></span>"
+        }
+      }
+    ]
+  }
+}

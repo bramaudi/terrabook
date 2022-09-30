@@ -1,0 +1,43 @@
+{
+  "type": "accessories",
+  "title": "Magic Quiver",
+  "summaries": [
+    "The <b>Magic Quiver</b> is a Hardmode accessory that boosts arrows and Stakes. It is dropped with a <span class=\"chance\"><s>1.25*</s>1/80 (1.25%)</span> chance from Skeleton Archers in the Cavern layer.",
+    "It grants the following boosts to arrows and Stakes:",
+    "<ul><li>+10% damage</li><li>+100% velocity (does not affect Jester's, Ichor, and Venom Arrows, or Stakes)</li><li>+20% chance not to consume the ammo</li></ul>",
+    "It also affects the knockback of some arrow- and Stake-firing weapons by between around −40% and +9%; see notes.",
+    "Extra arrow velocity works by setting the arrow's extra updates value to 1. This does not affect Jester's Arrows, Ichor Arrows, Venom Arrows, or Stakes, as they already have an extra updates value of 1 (or greater)."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases arrow damage by 10% and greatly increases arrow speed<br>20% chance to not consume arrows</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Molten Quiver]<span><span>Molten Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stalker's Quiver]<span><span>Stalker's Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

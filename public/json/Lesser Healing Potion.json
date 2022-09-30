@@ -1,0 +1,60 @@
+{
+  "type": "accessories",
+  "title": "Lesser Healing Potion",
+  "summaries": [
+    "The <b> Lesser Healing Potion</b> is a healing item that restores 50 health when used. As its name suggests, it heals the least amount of health of all Healing Potions.",
+    "In addition to being crafted, Lesser Healing Potions can also be found naturally in pots (only before Hardmode), generated chests, Wooden and Pearlwood Crates, and dropped by most pre-Hardmode bosses.",
+    "Lesser Healing Potions can also be purchased for <span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> from the Merchant, or from the <span class=\"eil\"><span>Skeleton Merchant</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> during moon phases 2, 4, 6, and 8: [img:Moon phase 2 (Waning Gibbous)] [img:Moon phase 4 (Waning Crescent)] [img:Moon phase 6 (Waxing Crescent)] [img:Moon phase 8 (Waxing Gibbous)]",
+    "Naturally-placed Lesser Healing Potions appear frequently on platforms in the Dungeon (along with Lesser Mana Potions). When encountered in placed form, they function as Placed Bottle crafting stations. They also show the \"bottle\" tooltip on the map. They can be freed with a pickaxe or drill and retrieved, but they cannot be placed by the player."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Heals Health": "50",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Buy": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Healing Potion]<span><span>Healing Potion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lesser Restoration Potion]<span><span>Lesser Restoration Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span></li><li><span class=\"i\">[img:Lesser Mana Potion]<span><span>Lesser Mana Potion</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

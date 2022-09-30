@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Stalker's Quiver",
+  "summaries": [
+    "The <b>Stalker's Quiver</b> is a Hardmode accessory that combines the effects of the Magic Quiver and the aggro-reducing effect of the Putrid Scent. Like other accessories crafted with the Putrid Scent, it does <i>not</i> inherit the Putrid Scent's bonus to damage and critical strike chance. It could be seen as the corruption-equivalent to the Berserker's Glove."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases arrow damage by 10% and greatly increases arrow speed<br>20% chance not to consume arrows<br>Enemies are less likely to target you</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stalker's Quiver]<span><span>Stalker's Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

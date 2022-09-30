@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Gold Ring",
+  "summaries": [
+    "The <b>Gold Ring</b> is a Hardmode accessory that rarely drops from enemies exclusive to the Pirate Invasion, with the exception of Parrots. It has a <span class=\"chance\"><s>0.4*</s>1/250 (0.4%)</span> drop chance from the Pirate Captain and a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> drop chance from the Flying Dutchman. Every other enemy has a <span class=\"chance\"><s>0.1*</s>1/1000 (0.1%)</span> chance to drop it.",
+    "Equipping the Gold Ring increases the player's coin pickup radius to 25 tiles, instead of the normal 3-tile radius. This item works similarly to the Celestial Magnet, <span class=\"eil\"><span>Treasure Magnet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and Heartreach."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases coin pickup range</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Coin Ring]<span><span>Coin Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Coin]<span><span>Lucky Coin</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

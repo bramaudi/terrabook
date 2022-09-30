@@ -1,0 +1,20 @@
+{
+  "type": "npcs",
+  "title": "Merchant",
+  "summaries": [
+    "The <b>Merchant</b> is an NPC vendor that will spawn once the following conditions have been met:",
+    "<ul><li>There is an empty House.</li><li>All players in the game world total more than <span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span> between them in their inventories.</li></ul>",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> He will also spawn as the starter NPC instead of the Guide in Not the bees worlds.",
+    "Note that only coins in the main inventory or coin slots are counted; savings stored in a portable storage item like the Piggy Bank do not count toward the requirement. If the Merchant is killed, he will only respawn if the above conditions are met again. This means all players need to have over <span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span> in their combined inventories.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, the Merchant will lob Throwing Knives at nearby enemies to defend himself, dealing 12 / <abbr class=\"expert\" title=\"Expert Mode\">18</abbr> / <abbr class=\"master\" title=\"Master Mode\">21</abbr> damage at the start of the game, and as players progress he will gain various stat increases."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span><span class=\"tag\"> Surface </span><span class=\"tag\"> Forest </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"mode-content\"><span class=\"m-normal\">12</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">18</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">21</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Throwing Knife</span>)</span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Forest]<span><span>Forest</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i -w mirror\">[img:Golfer]<span><span>Golfer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Nurse]<span><span>Nurse</span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Tax Collector]<span><span>Tax Collector</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Angler]<span><span>Angler</span></span></span></li></ul></div></td></tr></tbody>"
+}

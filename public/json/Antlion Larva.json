@@ -1,0 +1,18 @@
+{
+  "type": "enemies",
+  "title": "Antlion Larva",
+  "summaries": [
+    "The <b>Antlion Larva</b> is an enemy that is only spawned when Antlion Eggs are destroyed. Its speed, jump height, occurrence in numbers, and small size make it a significant threat in the early game.",
+    "Multiple Antlion Larvae can spawn from a single egg, which breaks when hit with any weapon or tool. Unlike the Alien Larva, Antlion Larvae will not grow into an Antlion, Antlion Charger, or Antlion Swarmer."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Underground Desert </span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">10</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">20</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">72</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">30</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">108</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">35</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">70</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">230</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">308</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">105</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">345</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">462</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">4</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">4</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">12</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">16</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">25%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">33%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">40%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Antlion Larva Banner]<span><span>Antlion Larva Banner</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Antlion Mandible]<span><span>Antlion Mandible</span></span></span></div><div>16.67%</div></li></ul>"
+}

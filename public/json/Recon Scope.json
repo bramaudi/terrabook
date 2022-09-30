@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Recon Scope",
+  "summaries": [
+    "The <b>Recon Scope</b> is a post-Golem Hardmode accessory that combines the effects of the Sniper Scope and the aggro-reducing effect of the Putrid Scent. Like other accessories crafted with the Putrid Scent, it does not inherit the Putrid Scent's bonus to damage and critical strike chance."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases view range for guns (Right click to zoom out)<br>10% increased ranged damage and critical strike chance<br>Enemies are less likely to target you<br>'Enemy spotted'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Recon Scope]<span><span>Recon Scope</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

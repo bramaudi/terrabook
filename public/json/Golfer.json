@@ -1,0 +1,18 @@
+{
+  "type": "npcs",
+  "title": "Golfer",
+  "summaries": [
+    "The <b>Golfer</b> is an NPC vendor that sells golfing-related items. More items will unlock as the player plays more golf, including clubs, trophies, and paintings. He spawns in the Underground Desert, playing golf with himself. Talking to him will \"free\" him, after which he will respawn as long as a vacant house is available, even if killed.",
+    "The Golfer will attack nearby enemies with his golf balls to defend himself.",
+    "He is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Angler]<span><span>Angler</span></span></span></li></ul></div></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Forest]<span><span>Forest</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Painter]<span><span>Painter</span></span></span></li><li>​<span class=\"i -w mirror\">[img:Zoologist]<span><span>Zoologist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Underground]<span><span>Underground</span></span></span></li><li>​<span class=\"i\">[img:Cavern]<span><span>Cavern</span></span></span></li><li>​<span class=\"i\">[img:The Underworld]<span><span>The Underworld</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Pirate]<span><span>Pirate</span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Merchant]<span><span>Merchant</span></span></span></li></ul></div></td></tr></tbody>"
+}

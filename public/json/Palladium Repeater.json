@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Palladium Repeater",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Palladium Repeater</b> is a Hardmode repeater crafted solely using Palladium Bars. It is one of the first repeaters you can obtain once entering Hardmode, the other being the Cobalt Repeater.",
+    "Its alternative, the Cobalt Repeater, has stats that differ slightly; the primary differences being that the Palladium Repeater has 2 higher base damage, slightly faster fire rate, and higher projectile velocity. The Palladium Repeater also requires 12 bars versus the Cobalt Repeater's 10.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "34 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "1.75 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "23 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "9.25",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 60 Silver Coins\" data-sort-value=\"16000\"><span class=\"gc\">1</span><span class=\"sc\">60</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palladium Repeater]<span><span>Palladium Repeater</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

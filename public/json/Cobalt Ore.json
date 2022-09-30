@@ -1,0 +1,41 @@
+{
+  "type": "blocks",
+  "title": "Cobalt Ore",
+  "summaries": [
+    "<b>Cobalt Ore</b> is the lowest tier of Hardmode Ore, and can spawn on the first breaking of an Altar. More will spawn on the 4th, 7th, 10th, etc destroyed Altars, albeit in decreasing amounts. Mining Cobalt Ore requires at least a Molten Pickaxe. It is immune to all types of explosions.",
+    "Palladium Ore may generate in place of Cobalt Ore. It is slightly more valuable, and the tools and weapons it crafts have slightly better stats."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"7 Silver Coins\" data-sort-value=\"700\"><span class=\"sc\">7</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cobalt Ore]<span><span>Cobalt Ore</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cobalt Brick]<span><span>Cobalt Brick</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Cobalt Ore]<span><span>Cobalt Ore</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

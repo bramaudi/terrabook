@@ -1,0 +1,71 @@
+{
+  "type": "tools",
+  "title": "Luminite Drills",
+  "toolpower": [
+    "[img:Pickaxe mask] 225%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Luminite Drills</b> are four tools, all of which have the same stats. The four types are the  <b>Vortex Drill</b>, <b>Nebula Drill</b>, <b>Solar Flare Drill</b>, and the <b>Stardust Drill</b>, each themed after a different Celestial Pillar. On [img:Legacy tModLoader version] Legacy tModLoader, they are unobtainable through normal gameplay, so their pickaxe counterparts must be crafted instead.",
+    "Unlike all other drills, Luminite Drills can be reforged with size and speed modifiers, but this is made irrelevant by the fact that they cannot benefit from them, thus, a drill with <b>Deadly</b> or <b>Light</b> mines just as fast as one with no modifier.",
+    "<span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> With current methods, it is impossible to hack these items into a character's inventory using external editors, as they will disappear from that character's inventory as soon as they load into a world.",
+    "Their best modifier is <b>Demonic</b>, as they do not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect their speed, either."
+  ],
+  "statistics": {
+    "Damage": "50 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Bonus": "+2 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "32",
+    "Tool speed": "2",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"7 Gold Coins\" data-sort-value=\"70000\"><span class=\"gc\">7</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Drill]<span><span title=\"Nebula Drill\">Nebula Drill</span><div class=\"id\">Internal Item ID: 2779</div></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Solar Flare Drill]<span><span title=\"Solar Flare Drill\">Solar Flare Drill</span><div class=\"id\">Internal Item ID: 2784</div></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Solar Fragment]<span><span>Solar Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Drill]<span><span title=\"Stardust Drill\">Stardust Drill</span><div class=\"id\">Internal Item ID: 3464</div></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stardust Fragment]<span><span>Stardust Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Drill]<span><span title=\"Vortex Drill\">Vortex Drill</span><div class=\"id\">Internal Item ID: 2774</div></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Vortex Fragment]<span><span>Vortex Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

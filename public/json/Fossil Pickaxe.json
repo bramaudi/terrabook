@@ -1,0 +1,40 @@
+{
+  "type": "tools",
+  "title": "Fossil Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 55%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Fossil Pickaxe</b> is a pickaxe crafted from Sturdy Fossils found in the Underground Desert. It can mine ores up to Demonite Ore and Crimtane Ore. It has the same pickaxe power as the Gold Pickaxe and slightly less pickaxe power than the Platinum Pickaxe, but is slightly faster than both of them in terms of mining speed.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "8 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4 <span class=\"knockback\">(Weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "18 <span class=\"usetime\">(Very fast)</span>",
+    "Tool speed": "14",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fossil Pickaxe]<span><span>Fossil Pickaxe</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

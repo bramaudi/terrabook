@@ -1,0 +1,19 @@
+{
+  "type": "npcs",
+  "title": "Arms Dealer",
+  "summaries": [
+    "The <b>Arms Dealer</b> is an NPC that will spawn once the following criteria have been met:",
+    "<ul><li>There is an empty house.</li><li>The player has at least one bullet or bullet-firing gun in their inventory (guns stored in storage items like chests do not count).</li></ul>",
+    "If the Arms Dealer is killed, he will only respawn if the above conditions are met again.",
+    "<span id=\"Damage\"></span>On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, when threatened by enemies, the Arms Dealer will use a Flintlock Pistol to defend himself. Once Hardmode begins, he upgrades to a Minishark for self-defense. He deals 24 / <abbr class=\"expert\" title=\"Expert Mode\">36</abbr> / <abbr class=\"master\" title=\"Master Mode\">42</abbr> damage in Pre-Hardmode (decreasing to 15 / <abbr class=\"expert\" title=\"Expert Mode\">22</abbr> / <abbr class=\"master\" title=\"Master Mode\">26</abbr> damage in Hardmode, although he does gain an increased rate of fire to compensate), and (on the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version) as players progress he will gain various stat increases."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"s\" title=\"Pre-Hardmode\"><span class=\"mode-content\"><span class=\"m-normal\">24</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">36</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">42</abbr></span></span></span>›<span class=\"s\" title=\"Hardmode\"><span class=\"mode-content\"><span class=\"m-normal\">15</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">22</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">26</abbr></span></span></span> <span class=\"note-text small\">(bullets)</span> ",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Nurse]<span><span>Nurse</span></span></span></li></ul></div></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i mirror\">[img:Steampunker]<span><span>Steampunker</span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Snow biome]<span><span>Snow biome</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Golfer]<span><span>Golfer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Demolitionist]<span><span>Demolitionist</span></span></span></li></ul></div></td></tr></tbody>"
+}

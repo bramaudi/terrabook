@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Rifle Scope",
+  "summaries": [
+    "The <b>Rifle Scope</b> is a Hardmode, post-Plantera accessory. It grants the ability to increase view range while holding a gun by pressing and holding <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> and moving the cursor.",
+    "The Rifle Scope has a <span class=\"chance\"><s>8.33*</s>1/12 (8.33%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>15.97*</s>23/144 (15.97%)</span></abbr> chance to drop from Skeleton Snipers in the post-Plantera Dungeon."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases view range for guns<br>Right click to zoom out</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rifle Scope]<span><span>Rifle Scope</span></span></span></li><li><span class=\"i\">[img:Destroyer Emblem]<span><span>Destroyer Emblem</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

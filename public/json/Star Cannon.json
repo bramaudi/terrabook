@@ -1,0 +1,53 @@
+{
+  "type": "tools",
+  "title": "Star Cannon",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Star Cannon</b> is a ranged weapon that fires Fallen Stars in a straight line. The projectiles are not affected by gravity, pierce an unlimited number of enemies, and dissipate into light-emitting particles after one minute or upon impacting a solid block.",
+    "Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it. <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It can also get the <b>Deadly</b> modifier, which, while the Demonic modifier may provide the greatest damage per hit, grants a higher increase to the overall <abbr title=\"Damage per second\">DPS</abbr>."
+  ],
+  "statistics": {
+    "Uses ammo": "Fallen Star",
+    "Damage": "55 <span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 62 <span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Critical chance": "4%",
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "14",
+    "Tooltip": "<i><span class=\"gameText\">Shoots fallen stars</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Star Cannon]<span><span>Star Cannon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Minishark]<span><span>Minishark</span></span></span></li><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Super Star Shooter]<span><span>Super Star Shooter</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hallowed Bar]<span><span>Hallowed Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Star Cannon]<span><span>Star Cannon</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

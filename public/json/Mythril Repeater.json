@@ -1,0 +1,37 @@
+{
+  "type": "tools",
+  "title": "Mythril Repeater",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Mythril Repeater</b> is a Hardmode repeater crafted solely using Mythril Bars. Its stronger equivalent is the Orichalcum Repeater.",
+    "Its best modifier is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "Arrows",
+    "Damage": "36 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "22 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "9.5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mythril Repeater]<span><span>Mythril Repeater</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Mythril Bar]<span><span>Mythril Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

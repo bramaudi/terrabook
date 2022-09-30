@@ -1,0 +1,107 @@
+{
+  "type": "blocks",
+  "title": "Snow Block",
+  "summaries": [
+    "<b>Snow Blocks</b> are found naturally-placed in the Snow Biome. Snow Blocks placed in the Surface layer, either naturally or by a player, will cause a snowfall effect. This is purely visual, and has no functional effects. Snow Blocks cannot be infected by the Hallow or evil biomes. Snow in any form cannot be melted into water, nor produced from water or Ice Blocks.",
+    "Snow blocks are also dropped by the Hardmode Frost Legion enemies, and its Snow Balla throws Snowballs that create further Snow blocks when impacting."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snow Block]<span><span>Snow Block</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Snow Wall]<span><span>Snow Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snowball]<span><span>Snowball</span></span></span> <span class=\"note-text\">(15)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snowball]<span><span>Snowball</span></span></span> <span class=\"note-text\">(10)</span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Frozen Banana Daiquiri]<span><span>Frozen Banana Daiquiri</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Banana]<span><span>Banana</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span></li><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Cooking Pot]<span><span>Cooking Pot</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Cauldron]<span><span>Cauldron</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snowfall Block]<span><span>Snowfall Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snow Brick]<span><span>Snow Brick</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Snow Wall]<span><span>Snow Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

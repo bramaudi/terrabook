@@ -1,0 +1,35 @@
+{
+  "type": "accessories",
+  "title": "Compass",
+  "summaries": [
+    "The <b>Compass</b> is an informational accessory that enables an on-screen display of the player's lateral position when equipped. Position is shown in the number of feet (1 foot = 1/2 tile) to the East or West of the center of the map. The center of the map is usually very close to the initial spawn point. In the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, the Compass has a <span class=\"chance\"><s>1.2*</s>1/83 (1.2%)</span> chance to be dropped by Salamanders, Giant Shellys, and Crawdads, a <span class=\"chance\"><s>1.33*</s>1/75 (1.33%)</span> chance to be dropped by Piranhas, and a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance to be dropped by Mother Slimes, Snow Flinxes, Undead Vikings, and Armored Vikings. On the [img:Old-gen console version] Old-gen console version, it has a <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance to be dropped by Mimics. On the Nintendo 3DS[img:Nintendo 3DS version] version, it is unobtainable (no longer drops, but still exists), and is not functional."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Displays horizontal position</span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br>Shows horizontal position <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"25 Silver Coins\" data-sort-value=\"2500\"><span class=\"sc\">25</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> <br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> [img:Old-gen console version]",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:GPS]<span><span>GPS</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Watch]<span><span>Gold Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Depth Meter]<span><span>Depth Meter</span></span></span></li><li><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Watch]<span><span>Platinum Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Depth Meter]<span><span>Depth Meter</span></span></span></li><li><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "npcs",
+  "title": "Town Cat",
+  "summaries": [
+    "The <b>Cat</b> is a town pet. It arrives at dawn (4:30 AM) the day after the player uses the Cat License, which is purchased from the Zoologist for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>. The Cat does not count towards the NPCs' \"crowded\" limit and hence will not affect NPC happiness, although it does count as a regular town NPC for the purpose of the Pylon network. There are six breeds of Cat, with one randomly being chosen when it arrives.",
+    "The only requirements for the Cat to appear is the use of a Cat License and the presence of a valid house. The Cat's house can be changed, as with any other NPC, however the Cat can share the same house as another NPC. The Cat needs a 2-tile floor space to sleep on occasionally; it may not move into a house if that space is not available.",
+    "The Cat can be talked to with the <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> button, like any other town NPC. It will offer a \"<span class=\"gameText\">Pet</span>\" option, which places the player directly in front of the Cat when selected, and displays an animation of them petting the Cat, an effect that is a purely visual. It only works if there are at least two flat tiles on the same level as the Cat in front of it. Using any item, taking damage, or closing the dialogue window terminates the animation.",
+    "Like the Angler, the status message displayed when the Cat is killed is \"<span class=\"gameText\">&lt;name of Cat&gt; has left!</span>\". It will respawn within the next days, and may respawn as a different breed."
+  ],
+  "statistics": {
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  }
+}

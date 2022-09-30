@@ -1,0 +1,31 @@
+{
+  "type": "accessories",
+  "title": "Shoe Spikes",
+  "summaries": [
+    "The <b>Shoe Spikes</b> are an accessory that lets players partially \"stick\" to the sides of blocks, slowly sliding down them when moving against them in midair. Jumps can also be performed off the sides of blocks. By repeatedly sticking and jumping, vertical blocks can be scaled. When sliding down, the slide speed can be accelerated using the <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> key. Shoe Spikes can be found in Gold Chests underground and in Rich Mahogany Chests found in the underground jungle.",
+    "Shoe Spikes function identically to the Climbing Claws, but are found in different locations, Climbing Claws only appearing in surface chests. When both Shoe Spikes and Climbing Claws are equipped simultaneously, the wearer remains completely \"stuck\" at a fixed point when moving against the sides of blocks, and may slide down with the <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> key. This effect can be achieved using a single accessory if the Shoe Spikes and Climbing Claws are combined into the Tiger Climbing Gear at a Tinkerer's Workshop."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows the ability to slide down walls<br>Improved ability if combined with Climbing Claws</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Climbing Claws]<span><span>Climbing Claws</span></span></span></li><li><span class=\"i\">[img:Shoe Spikes]<span><span>Shoe Spikes</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

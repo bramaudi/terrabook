@@ -1,0 +1,50 @@
+{
+  "type": "tools",
+  "title": "Spectre Pickaxe",
+  "toolpower": [
+    "[img:Pickaxe mask] 200%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Spectre Pickaxe</b> is a Hardmode, post-Plantera pickaxe.  It has a mining range boost of three blocks, giving it a long range compared to most pickaxes.  It can mine any block except Lihzahrd Bricks. Unlike most Hardmode pickaxes, this one has no drill counterpart.",
+    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+  ],
+  "statistics": {
+    "Damage": "32 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.25 <span class=\"knockback\">(Average)</span>",
+    "Bonus": "+3 range",
+    "Critical chance": "4%",
+    "Use time": "24 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "10",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Spectre Bar]<span><span>Spectre Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ectoplasm]<span><span>Ectoplasm</span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

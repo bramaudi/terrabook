@@ -1,0 +1,55 @@
+{
+  "type": "blocks",
+  "title": "Luminite",
+  "summaries": [
+    "<b>Luminite</b> is a Hardmode ore dropped exclusively by the Moon Lord in stacks of 70–90 (<abbr class=\"expert\" title=\"Expert Mode\">90–110</abbr>). It can be used to craft Luminite Bars, which can then be used to craft several end-game items, like the Solar, Nebula, Vortex, and Stardust tools and armor.",
+    "Crafting all items (excluding ammunition) requires a total of 317 Luminite Bars (1,268 Luminite; requires defeating the Moon Lord 15–19 / <abbr class=\"expert\" title=\"Expert Mode\">12–15</abbr> times). Crafting all items pertaining to one type of Lunar Fragment (i.e., armor, wings, pickaxe, and hamaxe) requires 68 Luminite Bars (204 Luminite) in addition to 85 of the Lunar Fragment; this requires defeating the Moon Lord only 3 / <abbr class=\"expert\" title=\"Expert Mode\">2-3</abbr> times."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">'A pebble of the heavens'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Luminite]<span><span>Luminite</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Void Monolith]<span><span>Void Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Luminite]<span><span>Luminite</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Luminite Brick]<span><span>Luminite Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Luminite]<span><span>Luminite</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      }
+    ]
+  }
+}

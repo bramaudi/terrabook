@@ -1,0 +1,55 @@
+{
+  "type": "accessories",
+  "title": "Cloud in a Balloon",
+  "summaries": [
+    "The <b>Cloud in a Balloon</b> is an accessory that combines the functionality of the Cloud in a Bottle and the Shiny Red Balloon. It boosts jump height by 33%, and jump speed by 30%, increasing the player's first jump's height to 10.5 blocks (~75% increase), and provides a double jump that hits 9 blocks, for a total height of 19.5 blocks.",
+    "Jump height is oddly <i>reduced</i> when underwater, reducing your total underwater height from 15 blocks (8 + 7 from Cloud jump) to 13 blocks (7 + 6 from Cloud jump)."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump<br>Increases jump height</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Horseshoe Balloon]<span><span>Blue Horseshoe Balloon</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bundle of Balloons]<span><span>Bundle of Balloons</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

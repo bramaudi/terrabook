@@ -1,0 +1,67 @@
+{
+  "type": "tools",
+  "title": "Bomb",
+  "toolpower": [],
+  "summaries": [
+    "<b>Bombs</b> are explosives which can be purchased from the Demolitionist and Skeleton Merchant for <span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> each or obtained from Pots, Chests, Slimes, killing an Undead Miner, or by powering Bomb Statues. They can be used as a mining tool or a weapon, although generally the former. When used, it is thrown a few blocks away from the player and rolls if the terrain allows it. After 3 seconds, it will explode, inflicting 100 points of damage to nearby enemies and destroying multiple blocks around it. The player can also inflict harm to themselves if not careful.",
+    "Bombs can destroy almost any block, with some exceptions, which can then be collected. They can also be thrown through one block thick walls, like some other tossables. Additionally, Bombs also work underwater.",
+    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a bonus drop from Slimes."
+  ],
+  "statistics": {
+    "Damage": "100",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "5",
+    "Tooltip": "<i><span class=\"gameText\">A small explosion that will destroy most tiles</span></i>",
+    "Max stack": "99 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Buy": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bouncy Bomb]<span><span>Bouncy Bomb</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bomb]<span><span>Bomb</span></span></span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "By Hand"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Dirt Bomb]<span><span>Dirt Bomb</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bomb]<span><span>Bomb</span></span></span></li><li><span class=\"i\">[img:Dirt Block]<span><span>Dirt Block</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Scarab Bomb]<span><span>Scarab Bomb</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bomb]<span><span>Bomb</span></span></span></li><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sticky Bomb]<span><span>Sticky Bomb</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bomb]<span><span>Bomb</span></span></span></li><li><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

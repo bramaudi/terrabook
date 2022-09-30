@@ -1,0 +1,51 @@
+{
+  "type": "accessories",
+  "title": "Obsidian Skull Rose",
+  "summaries": [
+    "The <b>Obsidian Skull Rose</b> is an accessory crafted from the Obsidian Skull and Obsidian Rose that combines their functionality, granting immunity to fire blocks and reduced damage from lava.",
+    "The Obsidian Skull Rose can be worn in a Social Accessory Slot as a vanity item."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Grants immunity to fire blocks<br>Reduces damage from touching lava</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Molten Skull Rose]<span><span>Molten Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

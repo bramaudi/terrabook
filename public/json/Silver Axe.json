@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Silver Axe",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 50%"
+  ],
+  "summaries": [
+    "The <b>Silver Axe</b> is an early game Axe, being stronger than the Iron or Lead Axe, and weaker than the Gold or Platinum Axe. It has an alternative version, the Tungsten Axe, which is slightly stronger. Like all Axes, it is used to cut down Trees, Cacti and Giant Glowing Mushrooms.",
+    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+  ],
+  "statistics": {
+    "Damage": "6 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "26 <span class=\"usetime\">(Average)</span>",
+    "Tool speed": "18",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Sell": "<span class=\"coin\" title=\"8 Silver Coins\" data-sort-value=\"800\"><span class=\"sc\">8</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Axe]<span><span>Silver Axe</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Silver Axe]<span><span>Silver Axe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(9)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

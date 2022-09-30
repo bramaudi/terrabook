@@ -1,0 +1,60 @@
+{
+  "type": "blocks",
+  "title": "Boulder",
+  "summaries": [
+    "<b>Boulders</b> are unique placeable 2×2 foreground objects, and are stationary when placed. When unsupported, they fall and begin to roll away. They pick up speed and damage players, enemies and NPCs along their path. Boulders will also begin to roll if mined with a pickaxe or drill, meaning that they cannot be picked up again once placed.",
+    "Boulders will roll across flat surfaces and down slopes, but will break and disappear on contact with an obstacle. They deal 120–160 / <abbr class=\"expert\" title=\"Expert Mode\">240–320</abbr> / <abbr class=\"master\" title=\"Master Mode\">360–480</abbr> damage to players (60–80 damage to NPCs, enemies, and critters) on contact. Boulders pierce through an unlimited number of entities.",
+    "Boulder traps occur naturally in the Underground and Cavern layers, and consist of a single Boulder in the ceiling, supported by six (2×3) Active Stone Blocks wired to Pressure Plates. If a player walks onto the Pressure Plate, the Boulder falls down and begins rolling."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Boulder]<span><span>Boulder</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Boulder]<span><span>Boulder</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Boulder Statue]<span><span>Boulder Statue</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Boulder]<span><span>Boulder</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "tools",
+  "title": "Flintlock Pistol",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Flintlock Pistol</b> is a gun that fires bullets. Sporting a fast attack speed, it deals 10 base damage. It can be bought from the Arms Dealer. It does not deal any knockback.",
+    "Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it. <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It can also get the <b>Deadly</b> modifier, which, while the Demonic modifier may provide the greatest damage per hit, grants a higher increase to the overall <abbr title=\"Damage per second\">DPS</abbr>."
+  ],
+  "statistics": {
+    "Uses ammo": "Bullets",
+    "Damage": "10 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Critical chance": "4%",
+    "Use time": "16 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "5",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Buy": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Space Gun]<span><span>Space Gun</span></span></span> ([img:Old-gen console version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Flintlock Pistol]<span><span>Flintlock Pistol</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "accessories",
+  "title": "Destroyer Emblem",
+  "summaries": [
+    "The <b>Destroyer Emblem</b> is a Hardmode, post-Golem accessory that gives the player 10% increased damage and 8% increased critical strike chance."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">10% increased damage<br>8% increased critical strike chance</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Destroyer Emblem]<span><span>Destroyer Emblem</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span></li><li><span class=\"i\">[img:Eye of the Golem]<span><span>Eye of the Golem</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rifle Scope]<span><span>Rifle Scope</span></span></span></li><li><span class=\"i\">[img:Destroyer Emblem]<span><span>Destroyer Emblem</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

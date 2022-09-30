@@ -1,0 +1,17 @@
+{
+  "type": "npcs",
+  "title": "Santa Claus",
+  "summaries": [
+    "<b>Santa Claus</b> is a Hardmode NPC vendor that arrives after the Frost Legion has been defeated, but only during the Christmas season (<span class=\"eico i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> December 15 – December 31 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> December 1 – January 15, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> or unlocked for an in-game day outside of those dates by completing the Frost Moon), after which he dies. He sells many Christmas-themed decorations and vanities during this time.",
+    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Santa Claus will defend himself against nearby enemies by throwing baubles."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Snow biome]<span><span>Snow biome</span></span></span></li></ul></div></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"like\"><th>Likes</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><span class=\"na\" title=\"none\">n/a</span></td></tr><tr class=\"hate\"><th>Hates</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Tax Collector]<span><span>Tax Collector</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr></tbody>"
+}

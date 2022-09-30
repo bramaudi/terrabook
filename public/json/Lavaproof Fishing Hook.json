@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Lavaproof Fishing Hook",
+  "summaries": [
+    "The <b>Lavaproof Fishing Hook</b> is an accessory that can be found in Obsidian Crates and Hellstone Crates, obtained from Fishing in Lava. When equipped, it allows the player to catch fish in lava with any bait and any fishing pole."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Allows fishing in lava</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lavaproof Tackle Bag]<span><span>Lavaproof Tackle Bag</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lavaproof Fishing Hook]<span><span>Lavaproof Fishing Hook</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

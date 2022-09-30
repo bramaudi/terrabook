@@ -1,0 +1,32 @@
+{
+  "type": "accessories",
+  "title": "Celestial Cuffs",
+  "summaries": [
+    "The <b>Celestial Cuffs</b> are a pre-Hardmode accessory which restores mana when the wearer is damaged and increases pickup range for Stars. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It also increases maximum mana by 20.",
+    "Mana restored is equal to the damage of the attack before factoring defense, but will never be lower than 10. Damage from drowning and debuffs does not trigger this effect, while damage from falling will. This effect does not stack with the mana restoration effect of the Magic Cuffs.",
+    "The mana star pickup range is increased by 18.75 tiles, for a total of 21.375 tiles. This effect does not stack with the pickup range increase effect of the Celestial Magnet, Magnet Flower or Celestial Emblem."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases pickup range for mana stars<br>Restores mana when damaged<br>Increases maximum mana by 20</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"3 Gold 20 Silver Coins\" data-sort-value=\"32000\"><span class=\"gc\">3</span><span class=\"sc\">20</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Celestial Cuffs]<span><span>Celestial Cuffs</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Celestial Magnet]<span><span>Celestial Magnet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magic Cuffs]<span><span>Magic Cuffs</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "tools",
+  "title": "Rainbow Rod",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Rainbow Rod</b> is a Hardmode magic weapon that launches a controllable projectile, just like the Flamelash or Magic Missile, and can be considered an upgraded version of them.",
+    "The projectile it fires is <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> a white-sparkling missile with a rainbow trail, and emits a moderate amount of light that rotates through the entire color spectrum / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> a light orb shifting through rainbow colors with a rainbow trail. It can be controlled by holding <span class=\"key\"><kbd><span title=\"Left Click (PC default): Use held item or attack\">⚒ Use / Attack</span></kbd></span> and moving the cursor. If <span class=\"key\"><kbd><span title=\"Left Click (PC default): Use held item or attack\">⚒ Use / Attack</span></kbd></span> is released mid-drag, the missile will be flung in that direction. If the cursor is stationary on release, it continues along the angle formed from the player.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, if any enemies are nearby, the missile will home in on them. The missile will not disappear when touching a block if it is being manually controlled. It can move through liquids (unlike the Flamelash), and can pierce twice before exploding and dealing damage in a small area.",
+    "Its best modifier is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "50 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 74 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 72 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "6 <span class=\"knockback\">(Average)</span>",
+    "Mana": "21 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 18 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 18 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> /<br> 17 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Velocity": "6",
+    "Tooltip": "<i><span class=\"gameText\">Casts a controllable rainbow</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rainbow Rod]<span><span>Rainbow Rod</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Unicorn Horn]<span><span>Unicorn Horn</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rainbow Rod]<span><span>Rainbow Rod</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\">[img:Unicorn Horn]<span><span>Unicorn Horn</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(60)</span></li><li><span class=\"i\">[img:Soul of Light]<span><span>Soul of Light</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

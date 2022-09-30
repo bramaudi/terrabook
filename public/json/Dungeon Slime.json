@@ -1,0 +1,20 @@
+{
+  "type": "enemies",
+  "title": "Dungeon Slime",
+  "summaries": [
+    "The <b>Dungeon Slime</b> is a slime that is found only in the Dungeon. It is an indigo-colored slime that contains a Golden Key inside. It always drops the Golden Key when defeated. Unlike most other slimes, it does not drop Gel. It can spawn anywhere in the Dungeon, but appears less frequently than other Dungeon enemies.",
+    "Like most other slimes, the Dungeon Slime will be passive towards any player with the <span class=\"eil\"><span>Royal Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> accessory equipped.",
+    "It is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Dungeon </span></div>",
+    "AI Type": "Slime AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">30</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">90</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">150</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">300</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">330</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">450</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">495</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">7</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">40%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">46%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">52%</span></span></span>",
+    "Banner": "<span class=\"i -w\">[img:Dungeon Slime Banner]<span><span>Dungeon Slime Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Poisoned"
+  },
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Golden Key]<span><span>Golden Key</span></span></span></div><div>100%</div></li></ul>"
+}

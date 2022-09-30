@@ -1,0 +1,36 @@
+{
+  "type": "tools",
+  "title": "The Meatball",
+  "toolpower": [],
+  "summaries": [
+    "<b>The Meatball</b> is a flail crafted using Crimtane Bars and Tissue Samples. It is the equivalent of the Corruption's Ball O' Hurt (which is not crafted, but obtained by smashing a Shadow Orb).",
+    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "34 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 16 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "12",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:The Meatball]<span><span>The Meatball</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Tissue Sample]<span><span>Tissue Sample</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

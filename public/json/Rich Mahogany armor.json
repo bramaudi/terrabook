@@ -1,0 +1,49 @@
+{
+  "type": "armors",
+  "title": "Rich Mahogany armor",
+  "summaries": [
+    "<b>Rich Mahogany armor</b> is an Armor set consisting of the <b>Rich Mahogany Helmet</b>, <b>Rich Mahogany Breastplate</b>, and <b>Rich Mahogany Greaves</b>.",
+    "It is slightly more defensive than normal Wood armor, although it is a bit more difficult to obtain, since it requires the player to go to the Jungle, which can be problematic for unprepared early characters.",
+    "Wearing a full set grants a basic 3 defense plus a set bonus of 1 defense, which equals a <b>total of 4 defense</b>."
+  ],
+  "statistics": {
+    "Defense": "4 (3+1)<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">1 defense</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rich Mahogany Breastplate]<span><span title=\"Rich Mahogany Breastplate\">Rich Mahogany Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rich Mahogany]<span><span>Rich Mahogany</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rich Mahogany Greaves]<span><span title=\"Rich Mahogany Greaves\">Rich Mahogany Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rich Mahogany]<span><span>Rich Mahogany</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rich Mahogany Helmet]<span><span title=\"Rich Mahogany Helmet\">Rich Mahogany Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rich Mahogany]<span><span>Rich Mahogany</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

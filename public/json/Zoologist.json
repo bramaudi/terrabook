@@ -1,0 +1,19 @@
+{
+  "type": "npcs",
+  "title": "Zoologist",
+  "summaries": [
+    "The <b>Zoologist</b> is an NPC vendor that sells animal-related items and vanity. She will move in when the following criteria have been met:",
+    "<ul><li>There is an empty house.</li><li>The Bestiary has been filled to at least 10% (53 entries).</li></ul>",
+    "She sells a large variety of vanity items, in addition to many mounts and pets, critter-themed accessories, and the Universal Pylon, depending on the Bestiary's completion percentage.",
+    "The Zoologist will attack nearby enemies with her claws to defend herself."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "AI Type": "Passive AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
+  },
+  "living_preferences": "<tbody><tr><th></th><th>Biome</th><th>Neighbor</th></tr><tr class=\"love\"><th>Loves</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Witch Doctor]<span><span>Witch Doctor</span></span></span></li></ul></div></td></tr><tr class=\"like\"><th>Likes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Forest]<span><span>Forest</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i -w mirror\">[img:Princess]<span><span>Princess</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li>​<span class=\"i -w mirror\">[img:Golfer]<span><span>Golfer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul></div></td></tr><tr class=\"dislike\"><th>Dislikes</th><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i\">[img:Desert]<span><span>Desert</span></span></span></li></ul></div></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Angler]<span><span>Angler</span></span></span></li></ul></div></td></tr><tr class=\"hate\"><th>Hates</th><td><span class=\"na\" title=\"none\">n/a</span></td><td><div class=\"dotlist\" style=\";\"><ul><li>​<span class=\"i mirror\">[img:Arms Dealer]<span><span>Arms Dealer</span></span></span></li></ul></div></td></tr></tbody>"
+}

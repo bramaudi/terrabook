@@ -1,0 +1,43 @@
+{
+  "type": "tools",
+  "title": "Titanium Drill",
+  "toolpower": [
+    "[img:Pickaxe mask] 190%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 0%"
+  ],
+  "summaries": [
+    "The <b>Titanium Drill</b> is a Hardmode drill, and is the drill alternative to the Titanium Pickaxe. Appearances and sounds aside, the two tools are nearly functionally identical. The drill, however is half a second faster. But, unlike pickaxes, most drills cannot be reforged with size, speed, or knockback modifiers.",
+    "It can mine all blocks except Chlorophyte Ore and Lihzahrd Bricks.",
+    "Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect its speed, either."
+  ],
+  "statistics": {
+    "Damage": "27 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Bonus": "-1 range",
+    "Critical chance": "4%",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "32",
+    "Tool speed": "4",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 52 Silver Coins\" data-sort-value=\"25200\"><span class=\"gc\">2</span><span class=\"sc\">52</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Titanium Drill]<span><span>Titanium Drill</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+        }
+      }
+    ]
+  }
+}

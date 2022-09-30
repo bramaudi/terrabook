@@ -1,0 +1,55 @@
+{
+  "type": "accessories",
+  "title": "Power Glove",
+  "summaries": [
+    "The <b>Power Glove</b> is a Hardmode accessory that doubles melee knockback and adds 12% increased melee speed. It simply combines the effects of Feral Claws and Titan Glove with no benefits lost.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Additionally, the Power Glove enables autoswing on all melee weapons and whips and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> increases the size of all melee weapons by 10%."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Increases melee knockback<br>12% increased melee speed<br>Enables auto swing for melee weapons<br>Increases the size of melee weapons</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Power Glove]<span><span>Power Glove</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titan Glove]<span><span>Titan Glove</span></span></span></li><li><span class=\"i\">[img:Feral Claws]<span><span>Feral Claws</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Berserker's Glove]<span><span>Berserker's Glove</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Power Glove]<span><span>Power Glove</span></span></span></li><li><span class=\"i\">[img:Flesh Knuckles]<span><span>Flesh Knuckles</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Mechanical Glove]<span><span>Mechanical Glove</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Power Glove]<span><span>Power Glove</span></span></span></li><li><span class=\"i\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}
