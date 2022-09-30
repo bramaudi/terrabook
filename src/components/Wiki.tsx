@@ -1,5 +1,5 @@
 import { Base, Bosses, Hooks, NPC, Tools } from "@/types"
-import { createSignal, For, Show } from "solid-js"
+import { createEffect, createSignal, For, Show } from "solid-js"
 import { Browser } from "@capacitor/browser"
 import { parseImg } from "@/utils"
 import useJson from "@/hooks/useJson"
@@ -11,7 +11,7 @@ const MODE: { [key:number]: string } = { 0: 'Classic', 1: 'Expert', 2: 'Master' 
 export default function(props: { slug: string }) {
 	const { slug } = props
 	const [items] = useJson<Base>(`${slug}.json`)
-	const [favorite, { toggleFavorite, isFavorite }] = useFavorite()
+	const [, { toggleFavorite, isFavorite }] = useFavorite()
 	// Exclusive on bosses display
 	const [mode, setMode] = createSignal(0) // [normal,expert,master]
 	
@@ -39,6 +39,10 @@ export default function(props: { slug: string }) {
 				'show-master': mode() === 2,
 			}}
 		>
+			<Show when={items.error}>
+				<div class="mt-10 text-4xl text-center">{'(╥﹏╥)'}</div>
+				<div class="mt-5 text-center">There is currently no text in this page.</div>
+			</Show>
 			<Show when={!items.error && !items.loading}>
 				<div class="flex items-center">
 					<div class="text-2xl font-bold mb-2">{items().title.replace('\\\'', "'")}</div>
