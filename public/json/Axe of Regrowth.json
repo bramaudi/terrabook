@@ -1,0 +1,46 @@
+{
+  "type": "tools",
+  "title": "Axe of Regrowth",
+  "toolpower": [
+    "[img:Pickaxe mask] 0%",
+    "[img:Hammer mask] 0%",
+    "[img:Axe mask] 150%"
+  ],
+  "summaries": [
+    "The <b>Axe of Regrowth</b> is a multi-purpose tool. It functions identically to the Staff of Regrowth, increasing herb and herb seed collection by the same amount, and can be used to create grass on dirt. It can be used as an axe, with the unique aspect that it instantly places down an Acorn on the grass block directly underneath the tree after it is chopped."
+  ],
+  "statistics": {
+    "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Placeable": "<span class=\"t-yes\">✔️</span>",
+    "Critical chance": "4%",
+    "Use time": "24 <span class=\"usetime\">(Fast)</span>",
+    "Tool speed": "12",
+    "Tooltip": "<i><span class=\"gameText\">Creates grass on dirt<br>Increases alchemy plant collection when used to gather<br>Plants acorns when cutting down trees</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Axe of Regrowth]<span><span>Axe of Regrowth</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Copper Axe]<span><span>Copper Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Tin Axe]<span><span>Tin Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

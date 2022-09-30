@@ -23,7 +23,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version])"
+          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Legacy tModLoader version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
@@ -45,7 +45,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone Platform]<span><span>Bone Platform</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
@@ -58,7 +58,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span> ([img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<span class=\"i multi-line\">[img:Bone]<span><span>Bone</span></span></span> ([img:Nintendo 3DS version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
@@ -135,7 +135,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version])"
+          "value": "<span class=\"i multi-line\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Legacy tModLoader version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span></li></ul>"
@@ -288,7 +288,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone Work Bench]<span><span>Bone Work Bench</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version])"
+          "value": "<span class=\"i multi-line\">[img:Bone Work Bench]<span><span>Bone Work Bench</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Legacy tModLoader version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
@@ -310,7 +310,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone Work Bench]<span><span>Bone Work Bench</span></span></span> ([img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<span class=\"i multi-line\">[img:Bone Work Bench]<span><span>Bone Work Bench</span></span></span> ([img:Nintendo 3DS version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
@@ -429,6 +429,19 @@
       {
         "result": {
           "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chest Lock]<span><span>Chest Lock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Chain]<span><span>Chain</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Lihzahrd Piano]<span><span>Lihzahrd Piano</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
@@ -490,14 +503,45 @@
       {
         "result": {
           "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Fertilizer]<span><span>Fertilizer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Poo]<span><span>Poo</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Ash Block]<span><span>Ash Block</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Titan Potion]<span><span>Titan Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ash Wood Piano]<span><span>Ash Wood Piano</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ash Wood]<span><span>Ash Wood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span></li></ul>"
         },
         "station": {
+          "rowspan": 23,
+          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
+        }
+      },
+      {
+        "result": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Balloon Piano]<span><span>Balloon Piano</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">Any Balloon<span><span>Any Balloon</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span></li></ul>"
         }
       },
       {
@@ -507,10 +551,6 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bamboo]<span><span>Bamboo</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span></li></ul>"
-        },
-        "station": {
-          "rowspan": 20,
-          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
         }
       },
       {
@@ -642,6 +682,15 @@
       {
         "result": {
           "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Reef Piano]<span><span>Reef Piano</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Reef Block]<span><span>Reef Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Book]<span><span>Book</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Rich Mahogany Piano]<span><span>Rich Mahogany Piano</span></span></span>"
         },
         "ingredients": {
@@ -726,7 +775,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<span class=\"i multi-line\">[img:Bone Block Wall]<span><span>Bone Block Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Nintendo 3DS version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bone]<span><span>Bone</span></span></span></li></ul>"

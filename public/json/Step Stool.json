@@ -2,13 +2,29 @@
   "type": "accessories",
   "title": "Step Stool",
   "summaries": [
-    "The <b>Step Stool</b> is an accessory used by holding <span class=\"key\"><kbd><span title=\"W (PC default)\">▲ Arriba</span></kbd></span>. A stationary player using a Step Stool appears to be standing on a stool, and can reach up to 4 tiles higher. The Step Stool can be found inside surface Chests."
+    "The <b>Step Stool</b> is an accessory used by holding <span class=\"key\"><kbd><span title=\"W (PC default)\">▲ Up</span></kbd></span>. A stationary player using a Step Stool appears to be standing on a stool, and can reach up to 4 tiles higher. The Step Stool can be found inside surface Chests."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Hold UP to reach higher</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
+    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hand Of Creation]<span><span>Hand Of Creation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Architect Gizmo Pack]<span><span>Architect Gizmo Pack</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ancient Chisel]<span><span>Ancient Chisel</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Treasure Magnet]<span><span>Treasure Magnet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Step Stool]<span><span>Step Stool</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
 }

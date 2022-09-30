@@ -14,8 +14,8 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Glass]<span><span>Glass</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "rowspan": 4,
+          "value": "<span class=\"i multi-line\">[img:Glass]<span><span>Glass</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Glass Platform]<span><span>Glass Platform</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
@@ -26,10 +26,6 @@
         }
       },
       {
-        "result": {
-          "rowspan": 3,
-          "value": "<span class=\"i multi-line\">[img:Glass]<span><span>Glass</span></span></span>"
-        },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Any Sand]<span><span>Any Sand</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
@@ -252,7 +248,7 @@
           "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 5,
+          "rowspan": 7,
           "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
         }
       },
@@ -263,6 +259,20 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Magic Mirror]<span><span>Magic Mirror</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Diamond]<span><span>Diamond</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Platinum Bar]<span><span>Platinum Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Diamond]<span><span>Diamond</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       },
       {
@@ -566,14 +576,32 @@
       {
         "result": {
           "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ash Wood Clock]<span><span>Ash Wood Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ash Wood]<span><span>Ash Wood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 22,
+          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Balloon Clock]<span><span>Balloon Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">Any Balloon<span><span>Any Balloon</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Bamboo Clock]<span><span>Bamboo Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bamboo]<span><span>Bamboo</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 19,
-          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
         }
       },
       {
@@ -691,6 +719,15 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Reef Clock]<span><span>Reef Clock</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Reef Block]<span><span>Reef Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Glass]<span><span>Glass</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
         }
       },
       {

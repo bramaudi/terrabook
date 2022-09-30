@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Copper Brick",
   "summaries": [
-    "<b>Copper Brick</b> is a type of Brick and an aesthetic building material. Like the ore used to make it, placed Copper Bricks will sparkle. As copper becomes fairly useless quite early in the game, this is an inexpensive ore brick to build with. Despite being made of Copper, it has no sell value."
+    "<b>Copper Brick</b> is a type of Brick and an aesthetic building material. Like the ore used to make it, placed Copper Bricks will sparkle. As copper becomes fairly useless quite early in the game, this is an inexpensive ore brick to build with. Despite being made of Copper, it has no sell value, as with most other bricks. Copper Plating is also available as a decorative block, with the same ingredients and color but a different texture."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -14,18 +14,44 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Copper Brick]<span><span>Copper Brick</span></span></span>"
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Brick]<span><span>Copper Brick</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Copper Ore]<span><span>Copper Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Brass Shelf]<span><span>Brass Shelf</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Bone Welder]<span><span>Bone Welder</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Brick]<span><span>Copper Brick</span></span></span> <span class=\"note-text\">(5)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Copper Ore]<span><span>Copper Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
           "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Brick]<span><span>Copper Brick</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Copper Ore]<span><span>Copper Ore</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Copper Brick]<span><span>Copper Brick</span></span></span>"
+        },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Copper Brick Wall]<span><span>Copper Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
@@ -36,6 +62,32 @@
       }
     ],
     "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Brass Shelf]<span><span>Brass Shelf</span></span></span> <span class=\"note-text\">(2)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Brick]<span><span>Copper Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "Bone Welder and Ecto Mist"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Copper Brick]<span><span>Ancient Copper Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Copper Brick]<span><span>Copper Brick</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
       {
         "result": {
           "rowspan": 1,

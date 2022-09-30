@@ -8,10 +8,10 @@
     "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
   ],
   "statistics": {
-    "Damage": "13 <span class=\"small-bold\">(Melee)</span>",
+    "Damage": "17 <span class=\"small-bold\">(Melee)</span>",
     "Knockback": "8 <span class=\"knockback\">(Very strong)</span>",
     "Critical chance": "4%",
-    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "10",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
@@ -45,6 +45,19 @@
         "station": {
           "rowspan": 1,
           "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Trimarang]<span><span>Trimarang</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Enchanted Boomerang]<span><span>Enchanted Boomerang</span></span></span></li><li><span class=\"i\">[img:Shroomerang]<span><span>Shroomerang</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ice Boomerang]<span><span>Ice Boomerang</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
         }
       }
     ]

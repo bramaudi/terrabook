@@ -23,17 +23,39 @@
           "value": "<ul><li><span class=\"i\">[img:Palladium Ore]<span><span>Palladium Ore</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
-          "rowspan": 2,
+          "rowspan": 3,
           "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Palladium Column]<span><span>Palladium Column</span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Palladium Column]<span><span>Palladium Column</span></span></span> <span class=\"note-text\">(5)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Palladium Ore]<span><span>Palladium Ore</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Palladium Column]<span><span>Palladium Column</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Palladium Ore]<span><span>Palladium Ore</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cobalt Ore]<span><span>Cobalt Ore</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Palladium Ore]<span><span>Palladium Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

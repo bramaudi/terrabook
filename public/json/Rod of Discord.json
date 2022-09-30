@@ -4,7 +4,8 @@
   "toolpower": [],
   "summaries": [
     "The <b>Rod of Discord</b> is a Hardmode tool that instantly teleports the player to the mouse cursor. It has a <span class=\"chance\"><s>0.2*</s>1/500 (0.2%)</span> / <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>0.25*</s>1/400 (0.25%)</span></abbr> chance of being dropped by Chaos Elementals.",
-    "Using the Rod of Discord costs no mana or ammunition; however, each use inflicts the <b>Chaos State</b> debuff on the player for <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 6 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 9 seconds. Using the Rod while the debuff is active causes the player to lose health equal to <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 1/7 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 1/6 of their maximum health."
+    "Using the Rod of Discord costs no mana or ammunition; however, each use inflicts the <b>Chaos State</b> debuff on the player for <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 6 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 9 seconds. Using the Rod while the debuff is active causes the player to lose health equal to <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 1/7 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 1/6 of their maximum health.",
+    "It can be upgraded into the <span class=\"eil\"><span>Rod of Harmony</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> by throwing it into Shimmer after the Moon Lord has been defeated."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
@@ -13,5 +14,21 @@
     "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rod of Harmony]<span><span>Rod of Harmony</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rod of Discord]<span><span>Rod of Discord</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
 }

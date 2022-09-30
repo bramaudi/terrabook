@@ -17,14 +17,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hellstone Brick]<span><span>Hellstone Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Hellstone Brick]<span><span>Hellstone Brick</span></span></span> <span class=\"note-text\">(5)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Hellstone Brick]<span><span>Hellstone Brick</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li></ul>"
-        },
-        "station": {
-          "rowspan": 1,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
         }
       },
       {
@@ -91,7 +100,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Sink]<span><span>Obsidian Sink</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<span class=\"i multi-line\">[img:Obsidian Sink]<span><span>Obsidian Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Water Bucket]<span><span>Water Bucket</span></span></span></li></ul>"

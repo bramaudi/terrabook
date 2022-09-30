@@ -4,7 +4,8 @@
   "toolpower": [],
   "summaries": [
     "The <b>Clentaminator</b> is a Hardmode tool which can be used to create or destroy biomes. It uses <b>Solutions</b> as ammunition, with each Solution spreading a different biome. It has a similar firing pattern to the Flamethrower, but has a much longer range, fires through blocks and works in water. The Clentaminator is generally the fastest means of spreading or removing Hallow, Corruption and Crimson. It can also rapidly convert Jungle to Glowing Mushroom biome and vice versa.",
-    "The Clentaminator as well as most Solutions can be purchased from the Steampunker for <span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2</span></span> and <span class=\"coin\" title=\"25 Silver Coins\" data-sort-value=\"2500\"><span class=\"sc\">25</span></span>, respectively.",
+    "The Clentaminator as well as most Solutions can be purchased from the Steampunker for <span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2</span></span> and <span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>, respectively.",
+    "Fully submerging the Clentaminator into Shimmer converts it into the Terraformer.",
     "The Clentaminator cannot be reforged, and therefore cannot have modifiers."
   ],
   "statistics": {
@@ -18,5 +19,21 @@
     "Sell": "<span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Terraformer]<span><span>Terraformer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Clentaminator]<span><span>Clentaminator</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
 }

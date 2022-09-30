@@ -14,18 +14,31 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span>"
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pearlsand Block]<span><span>Pearlsand Block</span></span></span></li><li><span class=\"i\">[img:Pearlstone Block]<span><span>Pearlstone Block</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Pearlstone Block]<span><span>Pearlstone Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
-          "rowspan": 1,
+          "rowspan": 2,
           "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlsand Block]<span><span>Pearlsand Block</span></span></span></li><li><span class=\"i\">[img:Pearlstone Block]<span><span>Pearlstone Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span>"
+        },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Pearlstone Brick Wall]<span><span>Pearlstone Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },

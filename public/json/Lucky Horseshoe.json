@@ -2,8 +2,7 @@
   "type": "accessories",
   "title": "Lucky Horseshoe",
   "summaries": [
-    "The <b>Lucky Horseshoe</b> is an accessory that negates fall damage.",
-    "<ul><li>On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Lucky Horseshoe can be found inside Gold Chests in the Underground and Cavern layers.</li><li>On the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, it can be found inside Floating Island Chests and <span class=\"eil\"><span>Sky Crates</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>.</li></ul>"
+    "The <b>Lucky Horseshoe</b> is an accessory that negates fall damage. It can be found inside Floating Island Chests, <span class=\"eil\"><span>Sky Crates</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Azure Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Negates fall damage</span></i>",
@@ -22,7 +21,7 @@
           "value": "<ul><li><span class=\"i\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 7,
+          "rowspan": 9,
           "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
         }
       },
@@ -33,6 +32,20 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Bundle of Horseshoe Balloons]<span><span>Bundle of Horseshoe Balloons</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bundle of Balloons]<span><span>Bundle of Balloons</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
         }
       },
       {

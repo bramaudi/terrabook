@@ -3,6 +3,7 @@
   "title": "Hive",
   "summaries": [
     "<b>Hive</b> is a block type that Bee Hives are made from. Upon mining it may either turn into liquid Honey, spawn in a Bee, or simply drop like a regular item.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Hive Blocks can also be acquired by dropping Honey Blocks or Crispy Honey Blocks into Shimmer.",
     "Hive blocks can only be placed using a Hive Wand, consuming Hive blocks from your inventory. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Hive blocks count towards the requirements of a Jungle biome."
   ],
   "statistics": {
@@ -13,9 +14,23 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 1,
+          "rowspan": 3,
           "value": "<span class=\"i multi-line\">[img:Hive]<span><span>Hive</span></span></span>"
         },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crispy Honey Block]<span><span>Crispy Honey Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Honey Block]<span><span>Honey Block</span></span></span></li></ul>"
+        }
+      },
+      {
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Hive Wall]<span><span>Hive Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
@@ -68,7 +83,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hive Wall]<span><span>Hive Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<span class=\"i multi-line\">[img:Hive Wall]<span><span>Hive Wall</span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Hive]<span><span>Hive</span></span></span></li></ul>"

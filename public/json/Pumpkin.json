@@ -17,8 +17,8 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "rowspan": 3,
+          "value": "<span class=\"i multi-line\">[img:Pumpkin]<span><span>Pumpkin</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Pumpkin Platform]<span><span>Pumpkin Platform</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
@@ -29,10 +29,15 @@
         }
       },
       {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pumpkin]<span><span>Pumpkin</span></span></span>"
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span></li></ul>"
         },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Pumpkin Wall]<span><span>Pumpkin Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
@@ -187,6 +192,19 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cactus]<span><span>Cactus</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {

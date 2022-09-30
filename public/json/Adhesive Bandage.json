@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Adhesive Bandage",
   "summaries": [
-    "The <b>Adhesive Bandage</b> is a Hardmode accessory that has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Rusty Armored Bones, Werewolves and Angler Fish. It grants immunity to the Bleeding debuff.",
+    "The <b>Adhesive Bandage</b> is an accessory that has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Rusty Armored Bones, Werewolves and Angler Fish. It may also be obtained by throwing a Bezoar into Shimmer. It grants immunity to the Bleeding debuff.",
     "It is one of the ingredients required to make the Medicated Bandage, which is a crafting material required to make the Ankh Charm, an accessory further required to make the Ankh Shield."
   ],
   "statistics": {
@@ -12,7 +12,35 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adhesive Bandage]<span><span>Adhesive Bandage</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bezoar]<span><span>Bezoar</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
     "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bezoar]<span><span>Bezoar</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adhesive Bandage]<span><span>Adhesive Bandage</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
       {
         "result": {
           "rowspan": 1,

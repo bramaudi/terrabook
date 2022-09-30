@@ -1,0 +1,36 @@
+{
+  "type": "tools",
+  "title": "Trimarang",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Trimarang</b> is a boomerang."
+  ],
+  "statistics": {
+    "Damage": "21 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "22 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "11",
+    "Tooltip": "<i><span class=\"gameText\">'Three Boomerangs are better than one'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Trimarang]<span><span>Trimarang</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Enchanted Boomerang]<span><span>Enchanted Boomerang</span></span></span></li><li><span class=\"i\">[img:Shroomerang]<span><span>Shroomerang</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ice Boomerang]<span><span>Ice Boomerang</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

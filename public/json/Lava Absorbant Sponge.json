@@ -1,18 +1,31 @@
 {
   "type": "tools",
-  "title": "Lava Absorbant Sponge",
+  "title": "Sponges",
   "toolpower": [],
   "summaries": [
-    "The <b>Lava Absorbant Sponge</b> is an item which functions similarly to the Super Absorbant Sponge, but absorbs Lava instead of Water. When used on a tile occupied with lava, it will delete the tile. The Lava Absorbant Sponge can be used an unlimited amount of times.  It also drains lava at a slightly faster speed than a standard empty bucket (especially when moving the cursor around while draining). It will not work on any other liquids.",
-    "It is obtained as a rare drop from fishing in lava."
+    "<b>Sponges</b> are tools used to \"absorb\" liquids by pressing the <span class=\"key\"><kbd><span title=\"Left Click (PC default): Use held item or attack\">⚒ Use / Attack</span></kbd></span> button on them. This causes the liquid to disappear from the environment without storing it. There are four different types of sponges:",
+    "<ul><li><b>Super Absorbant Sponge</b> for absorbing water and shimmer</li><li><b><span class=\"eil\"><span>Lava Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b> for absorbing lava</li><li><b><span class=\"eil\"><span>Honey Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b> for absorbing honey</li><li><b><span class=\"eil\"><span>Ultra Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b> for absorbing all kinds of liquid</li></ul>",
+    "Attempting to use a sponge on a different type of liquid has no effect.",
+    "Sponges can be used limitlessly and are never depleted. They are also slightly faster at draining liquids when compared to using a standard Empty Bucket (especially when moving the cursor around while draining)."
   ],
   "statistics": {
-    "Bonus": "+2 range",
-    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
-    "Tooltip": "<i><span class=\"gameText\">Capable of soaking up an endless amount of lava</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
-    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ultra Absorbant Sponge]<span><span>Ultra Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Super Absorbant Sponge]<span><span>Super Absorbant Sponge</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lava Absorbant Sponge]<span><span>Lava Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Honey Absorbant Sponge]<span><span>Honey Absorbant Sponge</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
 }
