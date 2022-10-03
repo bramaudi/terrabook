@@ -32,6 +32,14 @@ function normalizeText($el) {
         .replace(/\t+/g, '')
         .trim()
 }
+function format(el) {
+    normalizeText(el)
+    clearSpan(el)
+    parseImg(el)
+    removeTags(el, ['s','sup'])
+    removeTags(el, ['a'], false)
+    return el
+}
 
 const title = document.querySelector('#firstHeading').textContent
 
@@ -63,6 +71,12 @@ const summaries = (() => {
         else data.push(walk.innerHTML)
         walk = walk.nextElementSibling
     }
+    if (title === 'Town Slimes') {
+    	const headingTypes = document.querySelector('#Types')
+        const table = headingTypes.parentElement.nextElementSibling
+        format(table)
+        data.push(table.outerHTML)
+    }
     return data
 })()
 
@@ -85,14 +99,6 @@ const statistics = (() => {
     return rows
 })()
 
-const format = el => {
-    normalizeText(el)
-    clearSpan(el)
-    parseImg(el)
-    removeTags(el, ['s','sup'])
-    removeTags(el, ['a'], false)
-    return el
-}
 const living_preferences = (() => {
     let el = document.querySelector('.living-preferences') ||
           document.querySelector('#Living_preferences')

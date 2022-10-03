@@ -124,7 +124,12 @@ export default function(props: { slug: string }) {
 				<Show when={items().summaries?.length}>
 					<hr />
 					<For each={items().summaries}>
-						{html => <div class="my-3" innerHTML={parseImg(html)}></div>}
+						{html => html.match('tbody') ? (
+							<table
+								class="box-wiki mt-2 w-full text-sm text-left living-preferences"
+								innerHTML={parseImg(html)}
+							></table>
+						) : <div class="my-3" innerHTML={parseImg(html)}></div>}
 					</For>
 				</Show>
 
