@@ -13,8 +13,17 @@ function parseImg($el) {
     for (const img of $el.querySelectorAll('img')) {
         const alt = img.getAttribute('alt')
             .replace(/\.(png|gif)/g, '')
-        $el.innerHTML = $el.innerHTML
-            .replace(img.outerHTML, `[img:${alt}]`)
+        if (alt.match('Template loop')) { // Moon phase image
+            const moonPhase = img.src
+            	.split('/').slice(-1)[0]
+            	.match(/Moon-(.*)/, '$1')[1]
+                .replace(/\.(png|gif)/g, '')
+            $el.innerHTML = $el.innerHTML
+                .replace(img.outerHTML, `[img:Moon_phase_${moonPhase}]`)
+        } else {
+            $el.innerHTML = $el.innerHTML
+                .replace(img.outerHTML, `[img:${alt}]`)
+        }
     }
 }
 function clearSpan($el) {
@@ -24,6 +33,13 @@ function clearSpan($el) {
             	.replace(span.outerHTML, span.innerHTML)
         }
     }
+}
+function removeSoundTag($el) {
+	[...$el.querySelectorAll('.sound')].forEach(el => {
+    	el.outerHTML = el
+            .querySelector('.sound-title')
+        	.textContent.trim()
+    })
 }
 function normalizeText($el) {
 	$el.innerHTML = $el.innerHTML
@@ -90,6 +106,7 @@ const summaries = (() => {
         parseImg(walk)
         removeTags(walk, ['sup', 'br'])
         removeTags(walk, ['a'], false)
+        removeSoundTag(walk)
         normalizeText(walk)
         if (walk.nodeName === 'UL') {
         	data.push(walk.outerHTML)
