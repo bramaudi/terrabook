@@ -8,9 +8,76 @@
   ],
   "statistics": {
     "Defense": "19<span class=\"note-text\"> (set)</span>",
-    "Set Bonus": "<i><span class=\"gameText\">15% increased movement speed</span></i>",
+    "Set Bonus": "<i><span class=\"gameText\">Increased movement speed and acceleration</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span><span class=\"note-text\"> (set)</span>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Greaves]<span><span title=\"Ancient Shadow Greaves\">Ancient Shadow Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shadow Greaves]<span><span>Shadow Greaves</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Helmet]<span><span title=\"Ancient Shadow Helmet\">Ancient Shadow Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shadow Helmet]<span><span>Shadow Helmet</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Scalemail]<span><span title=\"Ancient Shadow Scalemail\">Ancient Shadow Scalemail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shadow Scalemail]<span><span>Shadow Scalemail</span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Greaves]<span><span>Shadow Greaves</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Greaves]<span><span>Ancient Shadow Greaves</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Helmet]<span><span>Shadow Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Helmet]<span><span>Ancient Shadow Helmet</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shadow Scalemail]<span><span>Shadow Scalemail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Scalemail]<span><span>Ancient Shadow Scalemail</span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Crate Potion",
   "summaries": [
-    "<b>Crate Potion</b> is a buff potion which grants the <b>Crate</b> buff when consumed. The buff doubles the chance of getting a crate (from <span class=\"chance\"><s>10*</s>1/10 (10%)</span> to <span class=\"chance\"><s>20*</s>1/5 (20%)</span>) when fishing. This lasts for 4 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]). The potion can be obtained both from crafting and as a quest reward from the Angler."
+    "<b>Crate Potion</b> is a buff potion which grants the <b>Crate</b> buff when consumed. The buff doubles the chance of getting a crate (from <span class=\"chance\"><s>10*</s>1/10 (10%)</span> to <span class=\"chance\"><s>20*</s>1/5 (20%)</span>) when fishing. This lasts for 4 minutes (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>) / 3 minutes (<span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>), but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]). The potion can be obtained both from crafting and as a quest reward from the Angler."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -17,7 +17,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span> ([img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
@@ -30,7 +30,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Waterleaf]<span><span>Waterleaf</span></span></span></li></ul>"

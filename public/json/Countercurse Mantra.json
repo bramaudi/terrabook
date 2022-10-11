@@ -2,8 +2,9 @@
   "type": "accessories",
   "title": "Countercurse Mantra",
   "summaries": [
-    "The <b>Countercurse Mantra</b> is a Hardmode accessory that combines the functions of the Megaphone and the Nazar. This item grants immunity to both the Silenced and Cursed debuffs.",
-    "It is one of the ingredients required to make the Ankh Charm, which is further required to make the Ankh Shield."
+    "The <b>Countercurse Mantra</b> is an accessory that combines the functions of the Megaphone and the Nazar. This item grants immunity to both the Silenced and Cursed debuffs.",
+    "It is one of the ingredients required to make the Ankh Charm, which is further required to make the Ankh Shield.",
+    "While the Countercurse Mantra is exclusive to Hardmode on the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, it can be obtained in pre-Hardmode on the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, as you can obtain the Megaphone by throwing the Nazar into <span class=\"eil\"><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Immunity to Silence and Curse</span></i>",
@@ -30,11 +31,11 @@
     "Used in": [
       {
         "result": {
-          "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -42,8 +43,12 @@
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+        },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
         }
       }
     ]

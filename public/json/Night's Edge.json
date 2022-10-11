@@ -3,9 +3,9 @@
   "title": "Night's Edge",
   "toolpower": [],
   "summaries": [
-    "The <b>Night's Edge</b> is a post-Skeletron broadsword, notable for having the highest base damage of all swords available before entering Hardmode. It has slightly shorter reach than the Muramasa, one of its crafting ingredients. When swung, the Night's Edge emits fire-like purple particles, similarly to the swords used in crafting it, but the effect is more subtle and does not last as long.",
+    "The <b>Night's Edge</b> is a post-Skeletron broadsword, notable for having the highest base damage of all swords available before entering Hardmode. When swung, the Night's Edge emits fire-like purple particles, similarly to the swords used in crafting it, but the effect is more subtle and does not last as long.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, a purple aura comes off of the Night's Edge when swung, following the swing and increasing the range at which it can hit enemies. The aura also swings around a second time on its own, hitting again and even covering behind the player. The Night's Edge is also capable of autoswing.",
     "Once in Hardmode, the Night's Edge can be upgraded into the True Night's Edge, which can be further crafted into the Terra Blade, one of the strongest swords in the [img:Old-gen console version] Old-gen console version and Nintendo 3DS[img:Nintendo 3DS version] version. In the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Terra Blade can ultimately be crafted into the Zenith, which is arguably the most powerful weapon in the game.",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Night's Edge is capable of autoswing.",
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
@@ -15,7 +15,7 @@
     "Use time": "21 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 27 <span class=\"usetime\">(Average)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Velocity": "5",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
@@ -43,7 +43,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Night's Edge]<span><span>Night's Edge</span></span></span></li><li><span class=\"i\">[img:Soul of Fright]<span><span>Soul of Fright</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Might]<span><span>Soul of Might</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Soul of Sight]<span><span>Soul of Sight</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
@@ -56,7 +56,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:True Night's Edge]<span><span>True Night's Edge</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Night's Edge]<span><span>Night's Edge</span></span></span></li><li><span class=\"i\">[img:Broken Hero Sword]<span><span>Broken Hero Sword</span></span></span></li></ul>"

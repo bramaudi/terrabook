@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Ankh Charm",
   "summaries": [
-    "The <b>Ankh Charm</b> is a Hardmode accessory which combines the effects of the Armor Bracing, Medicated Bandage, The Plan, Countercurse Mantra, and Blindfold.",
+    "The <b>Ankh Charm</b> is a Hardmode accessory which combines the effects of the Armor Bracing, Medicated Bandage, The Plan, Countercurse Mantra, and <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Blindfold / <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Reflective Shades.",
     "It provides immunity to all of the following debuffs:"
   ],
   "statistics": {
@@ -15,11 +15,11 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -27,8 +27,12 @@
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+        },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
         }
       }
     ],

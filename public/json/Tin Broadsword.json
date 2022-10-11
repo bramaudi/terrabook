@@ -3,14 +3,14 @@
   "title": "Tin Broadsword",
   "toolpower": [],
   "summaries": [
-    "The <b>Tin Broadsword</b> is the second weakest ore-crafted broadsword, being slightly stronger than its alternate (the Copper Broadsword) in terms of damage. It is weaker than the Iron/Lead Broadsword tier by 2 damage and stronger than the Wooden Sword tier by 2 damage. As with all broadswords, this sword swings in an arc, which is more useful for killing flying and jumping enemies than shortswords.",
+    "The <b>Tin Broadsword</b> is the second weakest ore-crafted broadsword, being slightly stronger than its alternate (the Copper Broadsword) in terms of damage. It is weaker than the Iron/Lead Broadsword tier by 2 damage and stronger than the Wooden Sword tier by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 3 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 2 damage. As with all broadswords, this sword swings in an arc, which is more useful for killing flying and jumping enemies than shortswords.",
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "10 <span class=\"small-bold\">(Melee)</span>",
+    "Damage": "10 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 9 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
     "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
     "Critical chance": "4%",
-    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 22 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Silver 35 Copper Coins\" data-sort-value=\"135\"><span class=\"sc\">1</span><span class=\"cc\">35</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -20,7 +20,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Tin Broadsword]<span><span>Tin Broadsword</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Tin Broadsword]<span><span>Tin Broadsword</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
@@ -33,7 +33,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Tin Broadsword]<span><span>Tin Broadsword</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Tin Broadsword]<span><span>Tin Broadsword</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Tin Bar]<span><span>Tin Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"

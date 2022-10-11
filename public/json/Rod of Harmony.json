@@ -1,0 +1,33 @@
+{
+  "type": "tools",
+  "title": "Rod of Harmony",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Rod of Harmony</b> is a post-Moon Lord tool. It functions identically to the Rod of Discord, instantly teleporting the player to the location of cursor when used, but it does not inflict the Chaos State debuff, allowing the player to safely teleport much more frequently.",
+    "It is obtained by throwing the Rod of Discord into Shimmer in a world where Moon Lord has been defeated."
+  ],
+  "statistics": {
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Teleports you to the position of the mouse</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Rod of Harmony]<span><span>Rod of Harmony</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Rod of Discord]<span><span>Rod of Discord</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

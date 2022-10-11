@@ -41,7 +41,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
@@ -50,7 +50,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
@@ -66,7 +66,7 @@
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -85,6 +85,39 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Breastplate]<span><span>Ancient Cobalt Breastplate</span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Breastplate]<span><span>Ancient Cobalt Breastplate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Shirt]<span><span>Jungle Shirt</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Helmet]<span><span>Ancient Cobalt Helmet</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Hat]<span><span>Jungle Hat</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Leggings]<span><span>Ancient Cobalt Leggings</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Jungle Pants]<span><span>Jungle Pants</span></span></span></li></ul>"
         }
       }
     ]

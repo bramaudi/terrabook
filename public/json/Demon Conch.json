@@ -3,7 +3,8 @@
   "title": "Demon Conch",
   "toolpower": [],
   "summaries": [
-    "The <b>Demon Conch</b> is a rare pre-Hardmode item obtainable by fishing in lava. When used, it teleports the player to the center of the Underworld. Like the Magic Mirror, it can be used infinitely at no cost, making it a viable alternative to using conventional hellevators."
+    "The <b>Demon Conch</b> is a rare pre-Hardmode item obtainable by fishing in lava. When used, it teleports the player to the center of the Underworld. Like the Magic Mirror, it can be used infinitely at no cost, making it a viable alternative to using conventional hellevators.",
+    ""
   ],
   "statistics": {
     "Use time": "90 <span class=\"usetime\">(Snail)</span>",
@@ -12,5 +13,21 @@
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Crafting": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Shellphone]<span><span>Shellphone</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Cell Phone]<span><span>Cell Phone</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magic Conch]<span><span>Magic Conch</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Demon Conch]<span><span>Demon Conch</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+        }
+      }
+    ]
+  }
 }

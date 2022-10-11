@@ -8,10 +8,10 @@
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "48 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 41 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Damage": "48 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 41 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
     "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
     "Critical chance": "4%",
-    "Use time": "16 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> 25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Use time": "16 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -21,7 +21,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blue Phasesaber]<span><span title=\"Blue Phasesaber\">Blue Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Blue Phasesaber]<span><span title=\"Blue Phasesaber\">Blue Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Blue Phaseblade]<span><span>Blue Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -34,7 +34,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Green Phasesaber]<span><span title=\"Green Phasesaber\">Green Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Green Phasesaber]<span><span title=\"Green Phasesaber\">Green Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Green Phaseblade]<span><span>Green Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -43,7 +43,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Purple Phasesaber]<span><span title=\"Purple Phasesaber\">Purple Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Purple Phasesaber]<span><span title=\"Purple Phasesaber\">Purple Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Purple Phaseblade]<span><span>Purple Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -52,7 +52,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Red Phasesaber]<span><span title=\"Red Phasesaber\">Red Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Red Phasesaber]<span><span title=\"Red Phasesaber\">Red Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Red Phaseblade]<span><span>Red Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -61,7 +61,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:White Phasesaber]<span><span title=\"White Phasesaber\">White Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:White Phasesaber]<span><span title=\"White Phasesaber\">White Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:White Phaseblade]<span><span>White Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -70,7 +70,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Yellow Phasesaber]<span><span title=\"Yellow Phasesaber\">Yellow Phasesaber</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Yellow Phasesaber]<span><span title=\"Yellow Phasesaber\">Yellow Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Yellow Phaseblade]<span><span>Yellow Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -79,20 +79,38 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blue Phasesaber]<span><span title=\"Blue Phasesaber\">Blue Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Blue Phasesaber]<span><span title=\"Blue Phasesaber\">Blue Phasesaber</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blue Phaseblade]<span><span>Blue Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Blue Phaseblade]<span><span>Blue Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         },
         "station": {
-          "rowspan": 7,
+          "rowspan": 13,
           "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Green Phasesaber]<span><span title=\"Green Phasesaber\">Green Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Blue Phasesaber]<span><span title=\"Blue Phasesaber\">Blue Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Blue Phaseblade]<span><span>Blue Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Green Phasesaber]<span><span title=\"Green Phasesaber\">Green Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Green Phaseblade]<span><span>Green Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Green Phasesaber]<span><span title=\"Green Phasesaber\">Green Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Green Phaseblade]<span><span>Green Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -104,13 +122,22 @@
           "value": "<span class=\"i multi-line\">[img:Orange Phasesaber]<span><span title=\"Orange Phasesaber\">Orange Phasesaber</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Orange Phaseblade]<span><span>Orange Phaseblade</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Orange Phaseblade]<span><span>Orange Phaseblade</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Purple Phasesaber]<span><span title=\"Purple Phasesaber\">Purple Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Purple Phasesaber]<span><span title=\"Purple Phasesaber\">Purple Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Purple Phaseblade]<span><span>Purple Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Purple Phasesaber]<span><span title=\"Purple Phasesaber\">Purple Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Purple Phaseblade]<span><span>Purple Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -119,7 +146,16 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Red Phasesaber]<span><span title=\"Red Phasesaber\">Red Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Red Phasesaber]<span><span title=\"Red Phasesaber\">Red Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Red Phaseblade]<span><span>Red Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Red Phasesaber]<span><span title=\"Red Phasesaber\">Red Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Red Phaseblade]<span><span>Red Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -128,7 +164,16 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:White Phasesaber]<span><span title=\"White Phasesaber\">White Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:White Phasesaber]<span><span title=\"White Phasesaber\">White Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:White Phaseblade]<span><span>White Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:White Phasesaber]<span><span title=\"White Phasesaber\">White Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:White Phaseblade]<span><span>White Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
@@ -137,7 +182,16 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Yellow Phasesaber]<span><span title=\"Yellow Phasesaber\">Yellow Phasesaber</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Yellow Phasesaber]<span><span title=\"Yellow Phasesaber\">Yellow Phasesaber</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Yellow Phaseblade]<span><span>Yellow Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Yellow Phasesaber]<span><span title=\"Yellow Phasesaber\">Yellow Phasesaber</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Yellow Phaseblade]<span><span>Yellow Phaseblade</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"

@@ -7,13 +7,29 @@
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "15 <span class=\"small-bold\">(Melee)</span>",
-    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Damage": "15 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 12 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 4.25 <span class=\"knockback\">(Average)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Critical chance": "4%",
-    "Use time": "22 <span class=\"usetime\">(Fast)</span>",
+    "Use time": "22 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 23 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
     "Sell": "<span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Whoopie Cushion]<span><span>Whoopie Cushion</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Zombie Arm]<span><span>Zombie Arm</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
 }

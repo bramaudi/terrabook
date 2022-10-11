@@ -10,7 +10,7 @@
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Heals Health": "20",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
-    "Max stack": "9999 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 30 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Max stack": "9999 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 999 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 30 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
     "Sell": "<span class=\"coin\" title=\"4 Copper Coins\" data-sort-value=\"4\"><span class=\"cc\">4</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
@@ -84,7 +84,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Holy Water]<span><span>Holy Water</span></span></span> <span class=\"note-text\">(10)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Holy Water]<span><span>Holy Water</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Hallowed Seeds]<span><span>Hallowed Seeds</span></span></span></li></ul>"
@@ -93,7 +93,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Holy Water]<span><span>Holy Water</span></span></span> <span class=\"note-text\">(5)</span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Holy Water]<span><span>Holy Water</span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Hallowed Seeds]<span><span>Hallowed Seeds</span></span></span></li></ul>"
@@ -120,7 +120,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(10)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li><li><span class=\"i\">[img:Corrupt Seeds]<span><span>Corrupt Seeds</span></span></span></li></ul>"
@@ -129,7 +129,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(5)</span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li><li><span class=\"i\">[img:Corrupt Seeds]<span><span>Corrupt Seeds</span></span></span></li></ul>"
@@ -187,7 +187,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Cursed Flame]<span><span>Cursed Flame</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
@@ -200,7 +200,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Cursed Flame]<span><span>Cursed Flame</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -209,7 +209,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
@@ -218,7 +218,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Fire]<span><span>Flask of Fire</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Hellstone]<span><span>Hellstone</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -236,7 +236,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ichor]<span><span>Ichor</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
@@ -245,7 +245,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Ichor]<span><span>Flask of Ichor</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ichor]<span><span>Ichor</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -272,7 +272,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li></ul>"
@@ -281,7 +281,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -362,7 +362,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span> ([img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
@@ -371,7 +371,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Crate Potion]<span><span>Crate Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Waterleaf]<span><span>Waterleaf</span></span></span></li></ul>"
@@ -452,7 +452,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Greater Healing Potion]<span><span>Greater Healing Potion</span></span></span> <span class=\"note-text\">(3)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Greater Healing Potion]<span><span>Greater Healing Potion</span></span></span> <span class=\"note-text\">(3)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span></li></ul>"
@@ -461,7 +461,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Greater Healing Potion]<span><span>Greater Healing Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Greater Healing Potion]<span><span>Greater Healing Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Pixie Dust]<span><span>Pixie Dust</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span></li></ul>"
@@ -479,7 +479,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Crimson Tigerfish]<span><span>Crimson Tigerfish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
@@ -488,7 +488,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Crimson Tigerfish]<span><span>Crimson Tigerfish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li></ul>"
@@ -628,7 +628,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
@@ -637,7 +637,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
@@ -714,7 +714,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Chaos Fish]<span><span>Chaos Fish</span></span></span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
@@ -723,7 +723,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Teleportation Potion]<span><span>Teleportation Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Chaos Fish]<span><span>Chaos Fish</span></span></span></li><li><span class=\"i\">[img:Fireblossom]<span><span>Fireblossom</span></span></span></li></ul>"
@@ -732,7 +732,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Thorns Potion]<span><span>Thorns Potion</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Thorns Potion]<span><span>Thorns Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span></li></ul>"
@@ -741,7 +741,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Thorns Potion]<span><span>Thorns Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Thorns Potion]<span><span>Thorns Potion</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li><li><span class=\"i\">[img:Cactus]<span><span>Cactus</span></span></span></li><li><span class=\"i\">[img:Worm Tooth]<span><span>Worm Tooth</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li></ul>"
@@ -777,7 +777,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span></span></span> <span class=\"note-text\">(3)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
@@ -786,7 +786,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"

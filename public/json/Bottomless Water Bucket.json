@@ -3,7 +3,9 @@
   "title": "Bottomless Water Bucket",
   "toolpower": [],
   "summaries": [
-    "The <b>Bottomless Water Bucket</b> is an item that functions similarly to the standard Water Bucket, the only differences being that it never needs refilling (and cannot be filled), it can be used an infinite number of times, has a slightly extended range, and can place water slightly faster than a standard bucket (especially when moving the cursor around while filling). It is one of the possible rewards from the Angler upon completing one of his fishing quests in Hardmode, with a <span class=\"chance\"><s>1.43*</s>1/70 (1.43%)</span> chance per quest after the 10th quest."
+    "The <b>Bottomless Water Bucket</b> is a <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> hardmode item that functions similarly to the standard Water Bucket, the only differences being that it never needs refilling (and cannot be filled), it can be used an infinite number of times, has a slightly extended range, and can place water slightly faster than a standard bucket (especially when moving the cursor around while filling).",
+    "It is one of the possible rewards from the Angler upon completing one of his fishing quests, with a <span class=\"chance\"><s>1.43*</s>1/70 (1.43%)</span> chance per quest after the 10th quest. On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, it is already available in pre-hardmode, and is a guaranteed drop at 25 quests.",
+    "This is the water counterpart of the Bottomless Lava Bucket, Bottomless Honey Bucket, and Bottomless Shimmer Bucket."
   ],
   "statistics": {
     "Bonus": "+2 range",
@@ -14,10 +16,25 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottomless Water Bucket]<span><span>Bottomless Water Bucket</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottomless Shimmer Bucket]<span><span>Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
     "Used in": [
       {
         "result": {
-          "rowspan": 2,
+          "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Bottomless Shimmer Bucket]<span><span>Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
@@ -29,12 +46,16 @@
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottomless Shimmer Bucket]<span><span>Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottomless Water Bucket]<span><span>Bottomless Water Bucket</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

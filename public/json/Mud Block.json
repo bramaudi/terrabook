@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Mud Block",
   "summaries": [
-    "<b>Mud Blocks</b> are a very common block type that comprises the majority of the Jungle, Underground Jungle, and Glowing Mushroom biome. Mud Blocks may be covered by Jungle or Mushroom grass on any side, which can only grow and spread on mud, and can be planted with Jungle Grass Seeds and Mushroom Grass Seeds, respectively."
+    "<b>Mud Blocks</b> are a very common block type that comprises the majority of the Jungle, Underground Jungle, and Glowing Mushroom biome. Mud Blocks may be covered by Jungle Grass, Mushroom Grass, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Corrupt grass, or Crimson Grass on any side, which can be planted with Jungle Grass Seeds, Mushroom Grass Seeds, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Corrupt Seeds, and Crimson Seeds. Only Jungle Grass and Mushroom grass are incapable of growing on Dirt Blocks"
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -28,7 +28,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mud Block]<span><span>Mud Block</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Mud Block]<span><span>Mud Block</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Mud Wall]<span><span>Mud Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
@@ -56,14 +56,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mud Wall]<span><span>Mud Wall</span></span></span> <span class=\"note-text\">(4)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Mud Wall]<span><span>Mud Wall</span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Mud Block]<span><span>Mud Block</span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i -w\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

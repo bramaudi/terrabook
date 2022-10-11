@@ -2,14 +2,16 @@
   "type": "armors",
   "title": "Shadow armor",
   "summaries": [
-    "<b>Shadow armor</b> is an armor set that consists of the <b>Shadow Helmet</b>, <b>Shadow Scalemail</b>, and <b>Shadow Greaves</b>. The individual pieces provide a total of 19 defense, equal to its Crimson counterpart, Crimson armor. Each of the 3 pieces provide a +7% boost to melee attack speed (for a total of +21%), while wearing all 3 pieces at once grants an additional set bonus of +15% movement speed.",
+    "<b>Shadow armor</b> is an armor set that consists of the <b>Shadow Helmet</b>, <b>Shadow Scalemail</b>, and <b>Shadow Greaves</b>. The individual pieces provide a total of 19 defense, equal to its Crimson counterpart, Crimson armor.",
+    "On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, each of the 3 pieces provide a +5% boost to universal critical strike chance (for a total of +15%), while wearing all 3 pieces at once grants an additional set bonus of +15% movement speed.",
+    "On [img:Old-gen console version] Old-gen console, 3DS[img:Nintendo 3DS version], and [img:Legacy tModLoader version] Legacy tModLoader, each of the 3 pieces provide a +7% boost to melee attack speed (for a total of +21%), while wearing all 3 pieces at once grants an additional set bonus of +15% movement speed.",
     "Wearing a full set causes the player to display an afterimage effect during motion (similar to Necro armor) and emit shadow particles. Also, the Rocket Boots will emit purple flames (this does not occur with Spectre Boots or any of its derivatives).",
     "Crafting a full set requires a total of 60 Demonite Bars (180 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 240 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Demonite Ore) and 45 Shadow Scales. Defeating the Eater of Worlds twice can provide enough to craft a full set.",
     "Shadow armor pieces are interchangeable with pieces from the Ancient Shadow armor set, while still providing the same 15% increased movement speed set bonus, but not the afterimage effect."
   ],
   "statistics": {
     "Defense": "19<span class=\"note-text\"> (set)</span>",
-    "Set Bonus": "<i><span class=\"gameText\">15% increased movement speed</span></i>",
+    "Set Bonus": "<i><span class=\"gameText\">Increased movement speed and acceleration</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span><span class=\"note-text\"> (set)</span>"
   },
@@ -56,7 +58,7 @@
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -76,23 +78,38 @@
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Scalemail]<span><span>Ancient Shadow Scalemail</span></span></span></li></ul>"
         }
-      },
+      }
+    ],
+    "Used in": [
       {
         "result": {
-          "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Shadow Candle]<span><span title=\"Shadow Candle\">Shadow Candle</span></span></span>"
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Greaves]<span><span>Ancient Shadow Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Shadow Greaves]<span><span>Shadow Greaves</span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span> <b>and</b> <span class=\"i\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Helmet]<span><span>Ancient Shadow Helmet</span></span></span>"
+        },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Torch]<span><span>Torch</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\">[img:Shadow Helmet]<span><span>Shadow Helmet</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ancient Shadow Scalemail]<span><span>Ancient Shadow Scalemail</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Shadow Scalemail]<span><span>Shadow Scalemail</span></span></span></li></ul>"
         }
       }
     ]

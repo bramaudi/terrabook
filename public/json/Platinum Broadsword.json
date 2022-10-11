@@ -7,10 +7,10 @@
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "16 <span class=\"small-bold\">(Melee)</span>",
-    "Knockback": "6.5 <span class=\"knockback\">(Strong)</span>",
+    "Damage": "16 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 15 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "6.5 <span class=\"knockback\">(Strong)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Critical chance": "4%",
-    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 19 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
     "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -28,6 +28,21 @@
         "station": {
           "rowspan": 1,
           "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flymeal]<span><span>Flymeal</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Broadsword]<span><span>Platinum Broadsword</span></span></span></li><li><span class=\"i\">[img:Stinkbug]<span><span>Stinkbug</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Honey]<span><span>Honey</span></span></span>"
         }
       }
     ]

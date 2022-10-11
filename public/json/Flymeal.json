@@ -1,0 +1,41 @@
+{
+  "type": "tools",
+  "title": "Flymeal",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Flymeal</b> is a broadsword with the unique ability to damage friendly NPCs.",
+    "Its best modifier is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "15 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Best used for pranking townsfolk<br>'Makes others smell like cilantro'</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"35 Silver Coins\" data-sort-value=\"3500\"><span class=\"sc\">35</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:Flymeal]<span><span>Flymeal</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Gold Broadsword]<span><span>Gold Broadsword</span></span></span></li><li><span class=\"i\">[img:Stinkbug]<span><span>Stinkbug</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Honey]<span><span>Honey</span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Platinum Broadsword]<span><span>Platinum Broadsword</span></span></span></li><li><span class=\"i\">[img:Stinkbug]<span><span>Stinkbug</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -3,14 +3,15 @@
   "title": "Blade of Grass",
   "toolpower": [],
   "summaries": [
-    "The <b>Blade of Grass</b> is a broadsword. With a slightly longer reach than the Volcano, it is currently the largest sword in the game, giving it the greatest melee reach of all swords. It has a green particle effect resembling leaves when swung, and a 25% chance of inflicting the Poisoned debuff. It is one of the key ingredients in crafting the Night's Edge.",
+    "The <b>Blade of Grass</b> is a broadsword crafted using materials from the Underground Jungle. It has a decent size and swing reach, and has a 25% chance of inflicting the Poisoned debuff for 7 seconds upon striking enemies. It is also one of the key ingredients in crafting the Night's Edge.",
+    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, Blade of Grass is roughly equal to the Volcano in size, making it one of the largest swords in Pre-Hardmode. When swung, it fires a small, green Leaf Blade projectile that flies upwards in a circle, leaving behind a green particle effect resembling leaves. The Leaf Blade projectile has 20 armor penetration, can automatically target enemies within a radius of 9.375 tiles, deals 25% base damage (4 base damage), 100% knockback (4.5 <span class=\"knockback\">(Average)</span>), and has the same chance to inflict Poisoned for the same duration as the sword itself.",
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "18 <span class=\"small-bold\">(Melee)</span>",
-    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Damage": "18 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 28 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 3 <span class=\"knockback\">(Very weak)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Critical chance": "4%",
-    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 30 <span class=\"usetime\">(Average)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Velocity": "20",
     "Tooltip": "<i><span class=\"gameText\">Has a chance to poison enemies</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
@@ -22,7 +23,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
@@ -35,7 +36,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Blade of Grass]<span><span>Blade of Grass</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"

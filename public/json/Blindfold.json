@@ -3,7 +3,7 @@
   "title": "Blindfold",
   "summaries": [
     "The <b>Blindfold</b> is a Hardmode accessory that has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Corrupt Slimes, Slimelings, Shadow Slimes (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>), Crimslimes (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>), Dark Mummies, and <span class=\"eil\"><span>Blood Mummies</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. This item grants immunity for the equipped player to the Darkness debuff; however, it will not protect the player from Blackout or Obstructed, nor cancel out the positive effects of Shine or Night Owl.",
-    "It is one of the ingredients required to make the Ankh Charm, which is in turn required to make the Ankh Shield."
+    "It is one of the ingredients required to make the <span class=\"eil\"><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, which are a crafting material required to make the Ankh Charm, an accessory further required to make the Ankh Shield."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Immunity to Darkness</span></i>",
@@ -23,7 +23,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -38,13 +38,13 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"

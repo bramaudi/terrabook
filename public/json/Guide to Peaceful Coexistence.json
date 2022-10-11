@@ -1,0 +1,32 @@
+{
+  "type": "tools",
+  "title": "Guide to Peaceful Coexistence",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Guide to Peaceful Coexistence</b> is a tool that combines the effects of the Guide To Critter Companionship and the Guide to Environmental Preservation, preventing player attacks from harming critters and breaking plants. It is not an accessory and will work as long as it is in the player's main inventory.",
+    "After pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> on it in the inventory or hotbar, it will turn into the <b>Guide to Peaceful Coexistence (inactive)</b>, temporarily disabling its effects."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Prevents you from hurting critters while in the inventory<br>Prevents you from accidentally destroying the environment while in the inventory</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Guide to Peaceful Coexistence]<span><span>Guide to Peaceful Coexistence</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Guide to Critter Companionship]<span><span>Guide to Critter Companionship</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Guide to Environmental Preservation]<span><span>Guide to Environmental Preservation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -8,15 +8,82 @@
     "These weapons cannot be used outside of the Old One's Army event until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
     "During the Old One's Army event, Etherian Mana can be collected, which allows the placement of multiple Explosive Traps that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
     "Explosive Trap sentries are boosted by the Huntress armor and Red Riding armor set bonuses, which increase their fire rates and cause them to inflict the Oiled debuff on struck enemies for 4–8.5 seconds. On the [img:Legacy tModLoader version] Legacy tModLoader version, the debuff is only inflicted with a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> chance.",
-    "Their best modifier is <b>Demonic</b> or <b>Deadly</b>, as they do not have any knockback and thus cannot get modifiers that affect it."
+    "In [img:Legacy tModLoader version] Legacy tModLoader version, Their best modifier is <b>Demonic</b> or <b>Deadly</b>, as they do not have any knockback and thus cannot get modifiers that affect it. In [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, Their best modifier is <b>Mythical</b>."
   ],
   "statistics": {
     "Damage": "<span class=\"note-text small\">(Varies each tier)</span> <span class=\"small-bold\">(Summon)</span>",
-    "Knockback": "0.5 <span class=\"knockback\">(Extremely weak)</span>",
+    "Knockback": "0.5 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 0 <span class=\"knockback\">(No knockback)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Velocity": "1",
     "Tooltip": "<i><span class=\"gameText\">Summons a sentry<br>A trap that explodes when enemies come near<br>Costs 10 Etherian Mana per use while defending an Eternia Crystal</span></i>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Explosive Trap Cane]<span><span title=\"Explosive Trap Cane\">Explosive Trap Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ballista Cane]<span><span>Ballista Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Explosive Trap Rod]<span><span title=\"Explosive Trap Rod\">Explosive Trap Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ballista Rod]<span><span>Ballista Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Explosive Trap Staff]<span><span title=\"Explosive Trap Staff\">Explosive Trap Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ballista Staff]<span><span>Ballista Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Cane]<span><span>Lightning Aura Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Cane]<span><span>Explosive Trap Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Rod]<span><span>Lightning Aura Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Rod]<span><span>Explosive Trap Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Staff]<span><span>Lightning Aura Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Staff]<span><span>Explosive Trap Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
 }

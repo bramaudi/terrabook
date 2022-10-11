@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Obsidian Rose",
   "summaries": [
-    "The <b>Obsidian Rose</b> is an accessory that reduces lava's base damage from 80 to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 35 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 50. It has a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance of being dropped by Fire Imps, an enemy found in The Underworld."
+    "The <b>Obsidian Rose</b> is an accessory that reduces lava's base damage from 80 to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 35 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 50. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>5*</s>1/20 (5%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance of being dropped by Fire Imps, an enemy found in The Underworld."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Reduces damage from touching lava</span></i>",
@@ -15,7 +15,7 @@
       {
         "result": {
           "rowspan": 3,
-          "value": "<span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"

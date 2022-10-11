@@ -3,7 +3,7 @@
   "title": "Flameburst sentry summons",
   "toolpower": [],
   "summaries": [
-    "The <b>Flameburst Rod, Cane, and Staff</b> are special sentry summon weapons. They can summon the <b>Flameburst Tower</b> sentry, which lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 minutes / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 2 minutes, remains stationary, and does not count against the player's minion capacity. Each Flameburst Tower fires fireballs at approaching enemies, which are non-piercing but can cause splash damage on impact and have a chance to inflict the On Fire! debuff. Unlike other projectile sentries, the Flameburst Tower is unable to aim and shoots upward at an angle greater than 45°; flying enemies are therefore ignored when they fly above it. The Rod is sold by the Tavernkeep for <span data-info=\"50000\" class=\"coins\" title=\"5 Defender Medals\"><s>50000*</s>5 [img:Defender Medal]</span>, the Cane for <span data-info=\"250000\" class=\"coins\" title=\"25 Defender Medals\"><s>250000*</s>25 [img:Defender Medal]</span>, and the Staff for <span data-info=\"1000000\" class=\"coins\" title=\"100 Defender Medals\"><s>1000000*</s>100 [img:Defender Medal]</span>.",
+    "The <b>Flameburst Rod, Cane, and Staff</b> are special sentry summon weapons. They can summon the <b>Flameburst Tower</b> sentry, which lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 minutes / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 2 minutes, remains stationary, and does not count against the player's minion capacity. Each Flameburst Tower fires fireballs at approaching enemies, which are non-piercing but can cause splash damage on impact and have a chance to inflict the On Fire! debuff (in [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Cane and the Staff inflict Hellfire instead). Unlike other projectile sentries, the Flameburst Tower is unable to aim and shoots upward at an angle greater than 45°; flying enemies are therefore ignored when they fly above it. The Rod is sold by the Tavernkeep for <span data-info=\"50000\" class=\"coins\" title=\"5 Defender Medals\"><s>50000*</s>5 [img:Defender Medal]</span>, the Cane for <span data-info=\"250000\" class=\"coins\" title=\"25 Defender Medals\"><s>250000*</s>25 [img:Defender Medal]</span>, and the Staff for <span data-info=\"1000000\" class=\"coins\" title=\"100 Defender Medals\"><s>1000000*</s>100 [img:Defender Medal]</span>.",
     "The Rod is always available. The Cane becomes available after defeating one mechanical boss, and the Staff becomes available after defeating Golem. The three different versions cause an identical effect, but with varying statistics, with the Staff being the most expensive and the most powerful.",
     "These weapons cannot be used outside of the Old One's Army event until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
     "During the Old One's Army event, Etherian Mana can be collected, which allows the placement of multiple Flameburst Towers that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
@@ -18,5 +18,72 @@
     "Tooltip": "<i><span class=\"gameText\">Summons a sentry<br>An average speed tower that shoots exploding fireballs<br>Costs 10 Etherian Mana per use while defending an Eternia Crystal</span></i>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Cane]<span><span title=\"Flameburst Cane\">Flameburst Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Cane]<span><span>Lightning Aura Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Rod]<span><span title=\"Flameburst Rod\">Flameburst Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Rod]<span><span>Lightning Aura Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Staff]<span><span title=\"Flameburst Staff\">Flameburst Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Staff]<span><span>Lightning Aura Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ballista Cane]<span><span>Ballista Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Flameburst Cane]<span><span>Flameburst Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ballista Rod]<span><span>Ballista Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Flameburst Rod]<span><span>Flameburst Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ballista Staff]<span><span>Ballista Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Flameburst Staff]<span><span>Flameburst Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
 }

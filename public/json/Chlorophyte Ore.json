@@ -15,11 +15,26 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Luminite]<span><span>Luminite</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ],
     "Used in": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -32,7 +47,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
@@ -41,7 +56,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span></span></span> <span class=\"note-text\">(5)</span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span></li></ul>"
@@ -54,7 +69,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span></span></span> <span class=\"note-text\">(2)</span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Chlorophyte Brick]<span><span>Chlorophyte Brick</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span></li></ul>"
@@ -70,7 +85,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

@@ -9,15 +9,82 @@
     "These weapons cannot be used outside of the Old One's Army event until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
     "During the Old One's Army event, Etherian Mana can be collected, which allows the placement of multiple Lightning Auras that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
     "Lightning Aura sentries are boosted by the Monk armor and Shinobi Infiltrator armor set bonuses, which increase their attack rate and allow them to deal critical hits. The critical strike chance of these weapons will always be locked at 16.67% (Monk armor) or 25% (Shinobi Infiltrator armor), and will <i>not</i> be boosted by the weapon's modifier or any other boost to critical strike chance. The Shinobi Infiltrator armor also increases the size of the Lightning Aura's circle.",
-    "Their best modifier is <b>Demonic</b> or <b>Deadly</b>, as they do not have any knockback and thus cannot get modifiers that affect it."
+    "In [img:Legacy tModLoader version] Legacy tModLoader version, Their best modifier is <b>Demonic</b> or <b>Deadly</b>, as they do not have any knockback and thus cannot get modifiers that affect it. In [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, Their best modifier is <b>Mythical</b>."
   ],
   "statistics": {
     "Damage": "<span class=\"note-text small\">(Varies each tier)</span> <span class=\"small-bold\">(Summon)</span>",
-    "Knockback": "0.25 <span class=\"knockback\">(Extremely weak)</span>",
+    "Knockback": "0.25 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 0 <span class=\"knockback\">(No knockback)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Velocity": "1",
-    "Tooltip": "<i><span class=\"gameText\">Summons a sentry<br>An aura that repeatedly zaps enemies that go inside<br>Costs 10 Etherian Mana per use while defending an Eternia Crystal</span></i>",
+    "Tooltip": "<i><span class=\"gameText\">Summons a sentry<br>An aura that repeatedly zaps enemies that go inside<br>Aura damage penetrates enemy defense<br>Hits quickly at the expense of 50% tag damage<br>Costs 10 Etherian Mana per use while defending an Eternia Crystal</span></i>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Cane]<span><span title=\"Lightning Aura Cane\">Lightning Aura Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Cane]<span><span>Explosive Trap Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Rod]<span><span title=\"Lightning Aura Rod\">Lightning Aura Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Rod]<span><span>Explosive Trap Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Staff]<span><span title=\"Lightning Aura Staff\">Lightning Aura Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Explosive Trap Staff]<span><span>Explosive Trap Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Cane]<span><span>Flameburst Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Cane]<span><span>Lightning Aura Cane</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Rod]<span><span>Flameburst Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Rod]<span><span>Lightning Aura Rod</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Flameburst Staff]<span><span>Flameburst Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Lightning Aura Staff]<span><span>Lightning Aura Staff</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
 }

@@ -7,10 +7,10 @@
     "Its best modifier is <b>Legendary</b>."
   ],
   "statistics": {
-    "Damage": "40 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 34 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
-    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Damage": "40 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 39 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 34 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 3.85 <span class=\"knockback\">(Weak)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Critical chance": "4%",
-    "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
+    "Use time": "19 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 23 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 38 Silver Coins\" data-sort-value=\"13800\"><span class=\"gc\">1</span><span class=\"sc\">38</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -20,7 +20,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
@@ -33,7 +33,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Cobalt Sword]<span><span>Cobalt Sword</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"

@@ -2,14 +2,12 @@
   "type": "armors",
   "title": "Snow armor",
   "summaries": [
-    "The <b>Snow armor</b> (on [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile) or <b>Eskimo armor</b> (on [img:Old-gen console version] Old-gen console, 3DS[img:Nintendo 3DS version], and [img:Legacy tModLoader version] Legacy tModLoader) is an armor set consisting of the three following pieces:",
-    "<ul><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <b>Snow Hood</b>, <b>Snow Coat</b>, and <b>Snow Pants</b></li><li><span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <b>Eskimo Hood</b>, <b>Eskimo Coat</b>, and <b>Eskimo Pants</b></li></ul>",
-    "Each piece is very rarely dropped from Frozen Zombies <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> (Zombie Eskimos <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>), each having a 0.67% drop chance.",
-    "Wearing the full set does not provide a set bonus. It grants a total of 9 defense.",
-    "Due to its low defense and high rarity, it is generally favored more as a vanity set rather than a viable armor set."
+    "The <b>Snow armor</b> (on [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile) is an armor set consisting of the <b>Snow Hood</b>, <b>Snow Coat</b>, and <b>Snow Pants</b>.",
+    "On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, wearing the full set grants a total of 9 defense as well as immunity to the Chilled and Frozen debuffs. It can be mixed freely with the Pink Snow armor and will still grant this set bonus. Each piece has a <span class=\"chance\"><s>3.33*</s>1/30 (3.33%)</span> chance to be dropped by Frozen Zombies.",
+    "On [img:Old-gen console version] Old-gen console, 3DS[img:Nintendo 3DS version], and [img:Legacy tModLoader version] Legacy tModLoader, the set is called <b>Eskimo armor</b>, consisting of the <b>Eskimo Hood</b>, <b>Eskimo Coat</b>, and <b>Eskimo Pants</b>. Each piece has a <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span> to be dropped by Zombie Eskimos. Wearing the full set grants a total of 4 defense and no set bonus. Due to its low defense and high rarity, its viability as an armor set is rather low."
   ],
   "statistics": {
-    "Defense": "9<span class=\"note-text\"> (set)</span>",
+    "Defense": "9<span class=\"note-text\"> (set)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 4 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Set Bonus": "<i><span class=\"gameText\">Cannot be frozen or chilled</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 40 Silver Coins\" data-sort-value=\"24000\"><span class=\"gc\">2</span><span class=\"sc\">40</span></span><span class=\"note-text\"> (set)</span>"

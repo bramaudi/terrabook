@@ -2,7 +2,8 @@
   "type": "accessories",
   "title": "Sandstorm in a Bottle",
   "summaries": [
-    "The <b>Sandstorm in a Bottle</b> is an accessory found only inside Gold Chests within Pyramids. It is similar to the Cloud in a Bottle, providing a double-jump that allows for some extra height, but instead of a cloud beneath the feet, a sand jet appears and the character visually spins as they ascend on that jet.",
+    "The <b>Sandstorm in a Bottle</b> is an accessory found inside Gold Chests within Pyramids. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can also be obtained via crafting in Hardmode, by throwing a Pharaoh's Mask into Shimmer, or found in Oasis/Mirage Crates.",
+    "It is similar to the Cloud in a Bottle, providing a double-jump that allows for some extra height, but instead of a cloud beneath the feet, a sand jet appears and the character visually spins as they ascend on that jet.",
     "The Sandstorm jump goes 15 blocks into the air, totalling 21 blocks when put together with the first jump. This is nearly twice as high as the height achievable with the Cloud in a Bottle."
   ],
   "statistics": {
@@ -16,7 +17,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sandstorm in a Bottle]<span><span>Sandstorm in a Bottle</span></span></span> ([img:Desktop version] [img:Console version] [img:Mobile version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Sandstorm in a Bottle]<span><span>Sandstorm in a Bottle</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -36,7 +37,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],

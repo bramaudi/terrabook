@@ -1,0 +1,35 @@
+{
+  "type": "tools",
+  "title": "Terraformer",
+  "toolpower": [],
+  "summaries": [
+    "The <b>Terraformer</b> is a post-Moon Lord tool. It is obtained by throwing a Clentaminator into Shimmer after the Moon Lord has been defeated. It has the same effects as a Clentaminator but reaches 95 tiles and has a width of 7 tiles, compared to the Clentaminator which reaches 60 tiles and has a width of 5 tiles."
+  ],
+  "statistics": {
+    "Uses ammo": "Solutions",
+    "Knockback": "0.3 <span class=\"knockback\">(Extremely weak)</span>",
+    "Use time": "30 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "11",
+    "Tooltip": "<i><span class=\"gameText\">Creates and destroys biomes when sprayed<br>Uses colored solution<br>33% chance to not consume ammo</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Sell": "<span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Terraformer]<span><span>Terraformer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Clentaminator]<span><span>Clentaminator</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

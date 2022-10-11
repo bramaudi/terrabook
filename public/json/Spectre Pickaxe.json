@@ -16,7 +16,7 @@
     "Bonus": "+3 range",
     "Critical chance": "4%",
     "Use time": "24 <span class=\"usetime\">(Fast)</span>",
-    "Tool speed": "8",
+    "Tool speed": "8 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 10 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -39,7 +39,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Ectoplasm]<span><span>Ectoplasm</span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
