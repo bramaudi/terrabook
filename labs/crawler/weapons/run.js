@@ -1,5 +1,5 @@
 import crawl from '../_crawl.js'
-import { readFileSync } from 'fs'
+import { readFileSync, writeFileSync } from 'fs'
 
 // Fetch Weapons.json
 await crawl({
@@ -18,6 +18,11 @@ for (const item of items) {
 		let slug = name.replace(/ /g, '_')
 		
 		await crawl({ script: scriptPath, slug, name })
+
+		// rename type "tools" to "weapons"
+		const itemRaw = readFileSync(`./public/json/${name}.json`, { encoding: 'utf-8' })
+			.replace('"tools"', '"weapons"')
+		writeFileSync(`./public/json/${name}.json`, itemRaw, { encoding: 'utf-8' })
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
 	 }
