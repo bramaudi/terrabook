@@ -1,14 +1,30 @@
+import useJson from "@/hooks/useJson"
 import { Crafts } from "@/types"
 import { parseImg } from "@/utils"
+import { Link } from "solid-app-router"
 import { For, Show } from "solid-js"
 
 type Props = {
 	title: string
 	receipes: Crafts
 }
+type CompleteItems = Array<{ type: string, name: string }>
+
 export default function (props: Props) {
+	const [completeItems] = useJson<CompleteItems>(`_search.json`)
+
+	function parseLinkItem(text: string, dict: CompleteItems) {
+		if (dict) {
+			for (const item of dict) {
+				const path = `/search/${item.type}/${item.name.replaceAll("'", "\\'")}`
+				text = text.replace(`<span>${item.name}</span>`, `<a href="#" onclick="window.location.href='${path}'">${item.name}</a>`)
+			}
+			return text
+		}
+	}
+	
 	return (
-		<>
+		<Show when={!completeItems.error}>
 			<div class="mt-3 font-semibold">{props.title}</div>
 			<div class="overflow-auto">
 				<table class="box-wiki mt-2 w-full text-sm text-left">
@@ -27,21 +43,36 @@ export default function (props: Props) {
 										<td
 											class="box-wiki whitespace-nowrap p-2 py-1"
 											rowSpan={result!.rowspan}
-											innerHTML={parseImg(result!.value)}
+											innerHTML={
+												parseLinkItem(
+													parseImg(result!.value),
+													completeItems()
+												)
+											}
 										></td>
 									</Show>
 									<Show when={ingredients}>
 										<td
 											class="box-wiki whitespace-nowrap p-2 py-1"
 											rowSpan={ingredients!.rowspan}
-											innerHTML={parseImg(ingredients!.value)}
+											innerHTML={
+												parseLinkItem(
+													parseImg(ingredients!.value),
+													completeItems()
+												)
+											}
 										></td>
 									</Show>
 									<Show when={station}>
 										<td
 											class="box-wiki whitespace-nowrap p-2 py-1 text-center"
 											rowSpan={station!.rowspan}
-											innerHTML={parseImg(station!.value)}
+											innerHTML={
+												parseLinkItem(
+													parseImg(station!.value),
+													completeItems()
+												)
+											}
 										></td>
 									</Show>
 								</tr>
@@ -50,6 +81,6 @@ export default function (props: Props) {
 					</tbody>
 				</table>
 			</div>
-		</>
+		</Show>
 	)
 } 
