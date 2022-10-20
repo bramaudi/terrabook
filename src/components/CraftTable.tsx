@@ -1,7 +1,6 @@
 import useJson from "@/hooks/useJson"
 import { Crafts } from "@/types"
 import { parseImg } from "@/utils"
-import { Link } from "solid-app-router"
 import { For, Show } from "solid-js"
 
 type Props = {
@@ -16,7 +15,7 @@ export default function (props: Props) {
 	function parseLinkItem(text: string, dict: CompleteItems) {
 		if (dict) {
 			for (const item of dict) {
-				const path = `/search/${item.type}/${item.name.replaceAll("'", "\\'")}`
+				const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
 				text = text.replace(`<span>${item.name}</span>`, `<a href="#" onclick="window.location.href='${path}'">${item.name}</a>`)
 			}
 			return text
@@ -24,7 +23,11 @@ export default function (props: Props) {
 	}
 	
 	return (
-		<Show when={!completeItems.error}>
+		<>
+		<Show when={completeItems.loading}>
+			<div class="mt-4 text-center font-semibold text-sm">Loading ...</div>
+		</Show>
+		<Show when={!completeItems.loading && !completeItems.error}>
 			<div class="mt-3 font-semibold">{props.title}</div>
 			<div class="overflow-auto">
 				<table class="box-wiki mt-2 w-full text-sm text-left">
@@ -82,5 +85,6 @@ export default function (props: Props) {
 				</table>
 			</div>
 		</Show>
+		</>
 	)
 } 
