@@ -1,18 +1,55 @@
 {
   "type": "tools",
-  "title": "Bottomless Lava Bucket",
+  "title": "Bottomless Buckets",
   "toolpower": [],
   "summaries": [
-    "The <b>Bottomless Lava Bucket</b> is an item that functions similarly to the standard Lava Bucket, except that it never runs out of Lava and can place it slightly faster than a regular lava bucket (especially when moving the cursor around while filling). It is obtained as a rare drop from fishing in lava.",
-    "This is the lava counterpart of the Bottomless Water Bucket, Bottomless Honey Bucket, and Bottomless Shimmer Bucket."
+    "<b>Bottomless Buckets</b> are tools that is capable of placing an infinite amount of liquids by pressing the <span class=\"key\"><kbd><span title=\"Left Click (PC default): Use held item or attack\">⚒ Use / Attack</span></kbd></span> button. There are four different types of bottomless buckets:",
+    "<ul><li><b>Bottomless Water Bucket</b></li><li><b><span class=\"eil\"><span>Bottomless Lava Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b></li><li><b><span class=\"eil\"><span>Bottomless Honey Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b></li><li><b><span class=\"eil\"><span>Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b></li></ul>",
+    "Bottomless Buckets can be used limitlessly and are never depleted. They are also slightly faster at placing liquids when compared to using a standard Bucket (especially when moving the cursor around while placing)."
   ],
   "statistics": {
     "Bonus": "+2 range",
     "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
-    "Tooltip": "<i><span class=\"gameText\">Contains an endless amount of lava<br>Can be poured out</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
     "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottomless Shimmer Bucket]<span><span title=\"Bottomless Shimmer Bucket\">Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Bottomless Water Bucket]<span><span>Bottomless Water Bucket</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottomless Shimmer Bucket]<span><span title=\"Bottomless Shimmer Bucket\">Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottomless Water Bucket]<span><span>Bottomless Water Bucket</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bottomless Water Bucket]<span><span title=\"Bottomless Water Bucket\">Bottomless Water Bucket</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Bottomless Shimmer Bucket]<span><span>Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
 }

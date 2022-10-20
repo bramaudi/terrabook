@@ -2,7 +2,7 @@
   "type": "npcs",
   "title": "Golfer",
   "summaries": [
-    "The <b>Golfer</b> is an NPC vendor that sells golfing-related items. More items will unlock as the player plays more golf, including clubs, trophies, and paintings. He spawns in the Underground Desert, playing golf with himself. Talking to him will \"free\" him, after which he will respawn as long as a vacant house is available, even if killed.",
+    "The <b>Golfer</b> is an NPC vendor that sells golfing-related items. More items will unlock as the player plays more golf, including clubs, trophies, and paintings. He will initially spawn in the Underground Desert, being stationary, and talking to him in this state will \"free\" him. If the stationary Golfer is killed, he will still be able to respawn afterwards; if the Golfer NPC is killed, he will move in again after some time as long as there are vacant houses.",
     "The Golfer will attack nearby enemies with his golf balls to defend himself.",
     "He is one of the few entities that can be detected by the <span class=\"eil\"><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
   ],

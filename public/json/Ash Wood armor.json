@@ -1,0 +1,50 @@
+{
+  "type": "armors",
+  "title": "Ash Wood armor",
+  "summaries": [
+    "<b>Ash Wood armor</b> is an armor set that consists of the <b>Ash Wood Helmet</b>, the <b>Ash Wood Breastplate</b> and the <b>Ash Wood Greaves</b>.",
+    "A full set of Ash Wood armor provides the following benefits:",
+    "<ul><li>+7 defense</li><li>Reduces lava contact damage by 50% and the duration of the inflicted On Fire! debuff by 3.5 seconds.</li></ul>",
+    "Crafting a full set requires a total of 75 Ash Wood."
+  ],
+  "statistics": {
+    "Defense": "7<span class=\"note-text\"> (set)</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Reduces damage from touching lava</span></i>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ash Wood Breastplate]<span><span title=\"Ash Wood Breastplate\">Ash Wood Breastplate</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ash Wood]<span><span>Ash Wood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ash Wood Greaves]<span><span title=\"Ash Wood Greaves\">Ash Wood Greaves</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ash Wood]<span><span>Ash Wood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ash Wood Helmet]<span><span title=\"Ash Wood Helmet\">Ash Wood Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ash Wood]<span><span>Ash Wood</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}
