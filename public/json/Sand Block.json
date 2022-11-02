@@ -14,6 +14,45 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 5,
+          "value": "<span class=\"i multi-line\">[img:Sand Block]<span><span>Sand Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crimsand Block]<span><span>Crimsand Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlsand Block]<span><span>Pearlsand Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Hardened Sand Block]<span><span>Hardened Sand Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sandstone Block]<span><span>Sandstone Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      }
+    ],
     "Used in": [
       {
         "result": {
@@ -62,13 +101,35 @@
           "rowspan": 1,
           "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] only:</div><span class=\"i multi-line\">[img:Hardened Sand Block]<span><span>Hardened Sand Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li><li><span class=\"i\">[img:Dirt Block]<span><span>Dirt Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\">[img:Solidifier]<span><span>Solidifier</span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] only:</div><span class=\"i multi-line\">[img:Sandstone Block]<span><span>Sandstone Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li></ul>"
+        }
       }
     ],
     "Ebonsand Block": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(10)</span> ([img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version])"
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li><li><span class=\"i\">[img:Corrupt Seeds]<span><span>Corrupt Seeds</span></span></span></li></ul>"
@@ -81,10 +142,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(5)</span> ([img:Old-gen console version] [img:Nintendo 3DS version])"
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Unholy Water]<span><span>Unholy Water</span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li><li><span class=\"i\">[img:Corrupt Seeds]<span><span>Corrupt Seeds</span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sand Block]<span><span>Sand Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ebonsand Block]<span><span>Ebonsand Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -101,13 +175,39 @@
           "rowspan": 1,
           "value": "By Hand"
         }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Sand Block]<span><span>Sand Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crimsand Block]<span><span>Crimsand Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
       }
     ],
     "Pearlsand Block": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Sand Block]<span><span>Sand Block</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlsand Block]<span><span>Pearlsand Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Pearlstone Brick]<span><span>Pearlstone Brick</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Pearlsand Block]<span><span>Pearlsand Block</span></span></span></li><li><span class=\"i\">[img:Pearlstone Block]<span><span>Pearlstone Block</span></span></span></li></ul>"

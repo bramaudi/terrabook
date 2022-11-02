@@ -1,0 +1,31 @@
+{
+  "type": "blocks",
+  "title": "Bouncy Boulder",
+  "summaries": [
+    "The <b>Bouncy Boulder</b> is a placeable object that begins to roll and bounce when it becomes unsupported. Once it is in motion, it will bounce several times before coming to a stop. Its motion is similar to a Bouncy Bomb, but faster, and it does damage like a Boulder. It spawns naturally on the No Traps seed, the Celebrationmk10 seed, and the Everything Seed."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Sell": "<span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Bouncy Boulder]<span><span>Bouncy Boulder</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Boulder]<span><span>Boulder</span></span></span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

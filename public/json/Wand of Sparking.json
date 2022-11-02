@@ -3,7 +3,7 @@
   "title": "Wand of Sparking",
   "toolpower": [],
   "summaries": [
-    "The <b>Wand of Sparking</b> is an early-game magic weapon found in regular Chests on the Surface or in the Underground layer. It is also sold by the Skeleton Merchant during the third quarter moon phase. It fires a piercing spark along a parabolic curve, traveling about 16 tiles before dissipating. The spark has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance to inflict the On Fire! debuff. It deals no knockback.",
+    "The <b>Wand of Sparking</b> is an early-game magic weapon found in regular Chests on the Surface or in the Underground layer. On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, it is also sold by the Skeleton Merchant during the third quarter moon phase. It fires a piercing spark along a parabolic curve, traveling about 16 tiles before dissipating. The spark has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance to inflict the On Fire! debuff. It deals no knockback.",
     "Its best modifier is <b>Demonic</b> or <b>Deadly</b>, with the former granting improved critical strike chance and the latter granting improved speed. It cannot get modifiers that affect knockback or mana cost."
   ],
   "statistics": {
@@ -15,6 +15,7 @@
     "Velocity": "7",
     "Tooltip": "<i><span class=\"gameText\">Shoots a small spark</span></i>",
     "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Buy": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

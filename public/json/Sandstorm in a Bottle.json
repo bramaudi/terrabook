@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Sandstorm in a Bottle",
   "summaries": [
-    "The <b>Sandstorm in a Bottle</b> is an accessory found inside Gold Chests within Pyramids. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can also be obtained via crafting in Hardmode, by throwing a Pharaoh's Mask into Shimmer, or found in Oasis/Mirage Crates.",
+    "The <b>Sandstorm in a Bottle</b> is an accessory found inside Gold Chests within Pyramids. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can also be obtained by throwing a Pharaoh's Mask into Shimmer, opening Oasis/Mirage Crates, and via crafting in Hardmode.",
     "It is similar to the Cloud in a Bottle, providing a double-jump that allows for some extra height, but instead of a cloud beneath the feet, a sand jet appears and the character visually spins as they ascend on that jet.",
     "The Sandstorm jump goes 15 tiles into the air, totalling 21 tiles when put together with the first jump. This is nearly twice as high as the height achievable with the Cloud in a Bottle."
   ],
@@ -42,6 +42,19 @@
       }
     ],
     "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] only:</div><span class=\"i multi-line\">[img:Pharaoh's Mask]<span><span>Pharaoh's Mask</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sandstorm in a Bottle]<span><span>Sandstorm in a Bottle</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
       {
         "result": {
           "rowspan": 1,
