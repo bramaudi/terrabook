@@ -2,10 +2,10 @@
   "type": "blocks",
   "title": "Stone Block",
   "summaries": [
-    "<b>Stone Blocks</b> are a type of block that composes most of the world. Found mostly underground, they compose the majority of the Cavern and Underground layers. Deep underground, Stone Blocks can generate with Moss growing on them.",
-    "As a crafting ingredient, Stone Blocks are vital early in the game to craft the Furnace and Wooden Arrows.",
-    "After Hardmode is activated in a world, nearby Corrupt, Crimson, and Hallowed blocks can spread through Stone Blocks, changing them into Ebonstone, Crimstone, or Pearlstone respectively. Ebonstone and Crimstone Blocks can be returned to normal with Purification Powder, whereas Pearlstone Blocks require Vile or Vicious Powders. All three types can also be transformed back into regular Stone Blocks with the Green Solution.",
-    "Rock Golems and Gem trees <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> drop Stone Blocks, making them the only renewable source of Stone Blocks in a world."
+    "The <b>Stone Block</b> is a type of block that is generated naturally in very large parts of the world. The majority of the Underground and Cavern layers is comprised of Stone Blocks. As a crafting ingredient, they are vital early in the game to craft the Furnace and Wooden Arrows.",
+    "After Hardmode is activated in a world, nearby Corrupt, Crimson, and Hallowed blocks can spread through Stone Blocks, changing them into Ebonstone, Crimstone, or Pearlstone, respectively. Ebonstone and Crimstone Blocks can be returned to normal with Purification Powder, whereas Pearlstone Blocks require Vile or Vicious Powders. All three types can also be transformed back into regular Stone Blocks with the Green Solution.",
+    "Stone Blocks can be found with moss growing on them, and it can be placed on them manually. <span class=\"eil\"><span>Gemcorns</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> can only be planted on Stone Blocks.",
+    "<span class=\"eil\"><span>Rock Golems</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>gem trees</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> drop Stone Blocks, making them the only renewable source of Stone Blocks in a world. On the [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, Stone Blocks are non-renewable."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -17,9 +17,28 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 3,
+          "rowspan": 6,
           "value": "<span class=\"i multi-line\">[img:Stone Block]<span><span>Stone Block</span></span></span>"
         },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Crimstone Block]<span><span>Crimstone Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 3,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Ebonstone Block]<span><span>Ebonstone Block</span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Pearlstone Block]<span><span>Pearlstone Block</span></span></span></li></ul>"
+        }
+      },
+      {
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Amethyst]<span><span>Amethyst</span></span></span></li></ul>"
         },
@@ -1507,6 +1526,19 @@
         "station": {
           "rowspan": 1,
           "value": "<span class=\"i -w\">[img:Sky Mill]<span><span>Sky Mill</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\">[img:Desktop version] only:</div><span class=\"i multi-line\">[img:Sandstone Block]<span><span>Sandstone Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\">[img:Solidifier]<span><span>Solidifier</span></span></span>"
         }
       },
       {

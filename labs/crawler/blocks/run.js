@@ -35,7 +35,7 @@ for (const type of blocks_types) {
 const multiplePage = ['Grass', 'Ice', 'Pearlsandstone', 'Sandstone']
 mergedList = [...new Set(mergedList)]
     .filter(name => !name.match('Item ID'))
-    .filter(name => !name.match('grass'))
+    .filter(name => !name.match(/grass/i))
     .filter(name => !multiplePage.includes(name))
 writeFileSync('./public/json/_blocks.json', JSON.stringify(mergedList), { encoding: 'utf-8' })
 

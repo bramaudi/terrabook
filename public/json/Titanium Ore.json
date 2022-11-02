@@ -16,9 +16,18 @@
     "Recipes": [
       {
         "result": {
-          "rowspan": 1,
+          "rowspan": 2,
           "value": "<span class=\"i multi-line\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span>"
         },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Chlorophyte Ore]<span><span>Chlorophyte Ore</span></span></span></li></ul>"
         },
@@ -49,6 +58,19 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Adamantite Ore]<span><span>Adamantite Ore</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\">[img:Titanium Ore]<span><span>Titanium Ore</span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
