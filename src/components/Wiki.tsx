@@ -7,10 +7,12 @@ import CraftTable from "@/components/CraftTable"
 import useFavorite from "@/hooks/useFavorite"
 
 const MODE: { [key:number]: string } = { 0: 'Classic', 1: 'Expert', 2: 'Master' }
+type CompleteItems = Array<{ type: string, name: string }>
 
 export default function(props: { slug: string }) {
 	const { slug } = props
 	const [items] = useJson<Base>(`${slug}.json`)
+	const [completeItems] = useJson<CompleteItems>(`_search.json`)
 	const [, { toggleFavorite, isFavorite }] = useFavorite()
 	// Exclusive on bosses display
 	const [mode, setMode] = createSignal(0) // [normal,expert,master]
@@ -28,6 +30,20 @@ export default function(props: { slug: string }) {
 	const previewImage = () => {
 		const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug		
 		return name.replace(/ /g, '_').replace('\\\'', "'")
+	}
+
+	function parseLinkItem(text: string, dict: CompleteItems) {
+		if (dict) {
+			for (const item of dict) {
+				const excludeTypes = ['blocks','enemies','pets']
+				if (item.name !== items().title &&
+					!excludeTypes.includes(item.type)) {
+					const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
+					text = text.replaceAll(item.name, `<a href="#" onclick="window.location.href='${path}'">${item.name}</a>`)
+				}
+			}
+			return text
+		}
 	}
 	
 	return (
@@ -129,9 +145,15 @@ export default function(props: { slug: string }) {
 						{html => html.match('tbody') ? (
 							<table
 								class="box-wiki mt-2 w-full text-sm text-left living-preferences"
-								innerHTML={parseImg(html)}
+								innerHTML={parseLinkItem(
+									parseImg(html),
+									completeItems()
+								)}
 							></table>
-						) : <div class="my-3" innerHTML={parseImg(html)}></div>}
+						) : <div class="my-3" innerHTML={parseLinkItem(
+							parseImg(html),
+							completeItems()
+						)}></div>}
 					</For>
 				</Show>
 
