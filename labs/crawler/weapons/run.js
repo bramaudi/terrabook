@@ -20,8 +20,14 @@ for (const item of items) {
 		await crawl({ script: scriptPath, slug, name })
 
 		// rename type "tools" to "weapons"
-		const itemRaw = readFileSync(`./public/json/${name}.json`, { encoding: 'utf-8' })
+		let itemRaw = readFileSync(`./public/json/${name}.json`, { encoding: 'utf-8' })
 			.replace('"tools"', '"weapons"')
+		
+		// remove "toolpower" property
+		const itemJsonDecoded = JSON.parse(itemRaw)
+		itemJsonDecoded.toolpower = undefined
+		itemRaw = JSON.stringify(itemJsonDecoded)
+
 		writeFileSync(`./public/json/${name}.json`, itemRaw, { encoding: 'utf-8' })
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);

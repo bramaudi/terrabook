@@ -77,6 +77,7 @@ export default function(props: { slug: string }) {
 				</Show>
 
 				{/* Stats */}
+				<Show when={items().statistics}>
 				<div class="box-wiki p-2">
 					<table class="table-fixed w-full my-2">
 						<caption class="m-2">
@@ -119,6 +120,7 @@ export default function(props: { slug: string }) {
 						</Show>
 					</table>
 				</div>
+				</Show>
 
 				{/* Summaries */}
 				<Show when={items().summaries?.length}>

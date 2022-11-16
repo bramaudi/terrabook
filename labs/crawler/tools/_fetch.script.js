@@ -123,6 +123,7 @@ const toolpower = (() => {
 
 const statistics = (() => {
 	const stats = document.querySelector('.section.statistics')
+    if (!stats) return undefined
     const tbody = stats.querySelector('tbody')
     const rows = {}
     for (const tr of tbody.querySelectorAll('tr')) {
