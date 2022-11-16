@@ -10,6 +10,9 @@ await crawl({
 
 const items = JSON.parse(readFileSync('./public/json/_miscellaneous.json', { encoding: 'utf-8' }))
 
+// exclude "cactus" since its a block
+items.filter(v => v !== 'Cactus')
+
 for (const item of items) {
 	const name = decodeURIComponent(item)
 	
@@ -27,7 +30,7 @@ for (const item of items) {
 		const itemJsonDecoded = JSON.parse(itemRaw)
 		itemJsonDecoded.toolpower = undefined
 		itemRaw = JSON.stringify(itemJsonDecoded)
-		
+
 		writeFileSync(`./public/json/${name}.json`, itemRaw, { encoding: 'utf-8' })
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
