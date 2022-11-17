@@ -2,15 +2,15 @@
   "type": "accessories",
   "title": "Moon Shell",
   "summaries": [
-    "The <b>Moon Shell</b> is a Hardmode accessory that can be crafted at the Tinkerer's Workshop. It combines the effects of the Moon Charm and the Neptune's Shell: Equipping it will turn the player into a Merfolk when entering water or honey (at any time), or into a Werewolf at night. The Merfolk form replaces the Werewolf form if entering water at night.",
+    "The <b>Moon Shell</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that can be crafted at the <linked>Tinkerer's Workshop</linked>. It combines the effects of the <linked>Moon Charm</linked> and the <linked>Neptune's Shell</linked>: Equipping it will turn the player into a <linked>Merfolk</linked> when entering <linked>water</linked> or <linked>honey</linked> (at any time), or into a <linked>Werewolf</linked> at <linked>night</linked>. The Merfolk form replaces the Werewolf form if entering water at night.",
     "The buffs from the Moon Charm:",
-    "<ul><li>+2% melee critical hit chance</li><li>+5.1% melee damage</li><li>+5.1% melee speed</li><li>+5% movement speed</li><li>+3 defense</li><li>Slightly increased jump height and jump speed</li><li>+0.5 HP regeneration per second (similar to the Band of Regeneration, but with half the speed)</li></ul>",
+    "<ul><li>+2% melee <linked>critical hit</linked> chance</li><li>+5.1% <linked>melee damage</linked></li><li>+5.1% melee speed</li><li>+5% <linked>movement speed</linked></li><li>+3 <linked>defense</linked></li><li>Slightly increased jump height and jump speed</li><li>+0.5 <linked>HP regeneration</linked> per second (similar to the <linked>Band of Regeneration</linked>, but with half the speed)</li></ul>",
     "The buff from the Neptune's Shell:",
-    "<ul><li>Entering water with this accessory equipped transforms the player into Merfolk form. While in this form, the breath meter will not display (nor will it decrease), therefore effectively preventing drowning. The player will be able to move freely in water.</li></ul>"
+    "<ul><li>Entering water with this accessory equipped transforms the player into Merfolk form. While in this form, the <linked>breath meter</linked> will not display (nor will it decrease), therefore effectively preventing <linked>drowning</linked>. The player will be able to move freely in water.</li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Turns the holder into a werewolf at night and a merfolk when entering water</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -19,14 +19,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Moon Shell]<span><span>Moon Shell</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Moon Shell]</linked><span><span><linked>Moon Shell</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Moon Charm]<span><span>Moon Charm</span></span></span></li><li><span class=\"i\">[img:Neptune's Shell]<span><span>Neptune's Shell</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Moon Charm]</linked><span><span><linked>Moon Charm</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Neptune's Shell]</linked><span><span><linked>Neptune's Shell</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -34,14 +34,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Shell]<span><span>Celestial Shell</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Shell]</linked><span><span><linked>Celestial Shell</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Celestial Stone]<span><span>Celestial Stone</span></span></span></li><li><span class=\"i\">[img:Moon Shell]<span><span>Moon Shell</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Celestial Stone]</linked><span><span><linked>Celestial Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moon Shell]</linked><span><span><linked>Moon Shell</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

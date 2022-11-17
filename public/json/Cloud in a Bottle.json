@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Cloud in a Bottle",
   "summaries": [
-    "The <b>Cloud in a Bottle</b> is an accessory that can be found in Gold Chests in the Underground and Cavern layers. When equipped, it allows the player an extra jump. The extra jump has a 75% jump duration compared to a normal jump, increasing the maximum height the player can reach without other accessories by 5 tiles, for a total of 11 tiles."
+    "The <b>Cloud in a Bottle</b> is an <linked>accessory</linked> that can be found in <linked>Gold Chests</linked> in the <linked>Underground</linked> and <linked>Cavern</linked> <linked>layers</linked>. When equipped, it allows the player an <linked>extra jump</linked>. The extra jump has a 75% jump duration compared to a normal jump, increasing the maximum height the player can reach without other accessories by 5 tiles, for a total of 11 tiles."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,45 +15,45 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Blizzard in a Bottle]<span><span>Blizzard in a Bottle</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Blizzard in a Bottle]</linked><span><span><linked>Blizzard in a Bottle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Frost Core]<span><span>Frost Core</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Frost Core]</linked><span><span><linked>Frost Core</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Crystal Ball]</linked><span><span><linked>Crystal Ball</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Sandstorm in a Bottle]<span><span>Sandstorm in a Bottle</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstorm in a Bottle]</linked><span><span><linked>Sandstorm in a Bottle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fart in a Jar]</linked><span><span><linked>Fart in a Jar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Whoopie Cushion]<span><span>Whoopie Cushion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Whoopie Cushion]</linked><span><span><linked>Whoopie Cushion</linked></span></span></span></li></ul>"
         }
       }
     ]

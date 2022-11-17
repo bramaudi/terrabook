@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Depth Meter",
   "summaries": [
-    "The <b>Depth Meter</b> is an informational accessory that displays the player's depth. It is required to craft the GPS, which can then be used to craft the PDA and the Cell Phone. The Depth Meter is dropped by Cave Bats, Giant Bats, Jungle Bats, <span class=\"eil\"><span>Spore Bats</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, and Ice Bats, with a chance of <span class=\"chance\"><s>1*</s>1/100 (1%)</span> <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"chance\"><s>0.5*</s>1/200 (0.5%)</span> <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>. On the [img:Desktop version] Desktop, [img:Console version] Console, [img:Mobile version] Mobile, and [img:Legacy tModLoader version] Legacy tModLoader versions, it also drops from Salamanders, Giant Shellys, and Crawdads, with a chance of <span class=\"chance\"><s>1.25*</s>1/80 (1.25%)</span>. In the [img:Old-gen console version] Old-gen console version, the Depth Meter may also be crafted.",
-    "<ul><li>On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, depth is measured in feet, with one tile equaling two feet.</li><li>On the [img:Old-gen console version] Old-gen console version, depth is measured in meters, with two tiles equaling one meter.</li><li>On the Nintendo 3DS[img:Nintendo 3DS version] version, depth is not measured, and the only benefits the accessory grants are from its modifiers.</li></ul>",
-    "Depth is measured relative to the boundary between the Surface and Underground layers, which has a depth of 0 and is displayed as \"Level\". The display shows the vertical distance to this line and the name of the current layer."
+    "The <b>Depth Meter</b> is an <linked>informational accessory</linked> that displays the player's <linked>depth</linked>. It is required to craft the <linked>GPS</linked>, which can then be used to craft the <linked>PDA</linked> and the <linked>Cell Phone</linked>. The Depth Meter is dropped by <linked>Cave Bats</linked>, <linked>Giant Bats</linked>, <linked>Jungle Bats</linked>, <span class=\"eil\"><span><linked>Spore Bats</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, and <linked>Ice Bats</linked>, with a chance of <span class=\"chance\"><s>1*</s>1/100 (1%)</span> <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"chance\"><s>0.5*</s>1/200 (0.5%)</span> <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>. On the <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, <linked>[img:Mobile version]</linked><linked> Mobile</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked> versions, it also drops from <linked>Salamanders</linked>, <linked>Giant Shellys</linked>, and <linked>Crawdads</linked>, with a chance of <span class=\"chance\"><s>1.25*</s>1/80 (1.25%)</span>. In the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, the Depth Meter may also be crafted.",
+    "<ul><li>On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, depth is measured in feet, with one tile equaling two feet.</li><li>On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, depth is measured in meters, with two tiles equaling one meter.</li><li>On the <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, depth is not measured, and the only benefits the accessory grants are from its modifiers.</li></ul>",
+    "Depth is measured relative to the boundary between the <linked>Surface</linked> and <linked>Underground</linked> layers, which has a depth of 0 and is displayed as \"Level\". The display shows the vertical distance to this line and the name of the current layer."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Displays depth</span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br>Shows depth <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"25 Silver Coins\" data-sort-value=\"2500\"><span class=\"sc\">25</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] only:</div><span class=\"i multi-line\">[img:Depth Meter]<span><span>Depth Meter</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Copper Bar]<span><span>Copper Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Gold Bar]<span><span>Gold Bar</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Table]<span><span>Table</span></span></span> <b>and</b> <span class=\"i\">[img:Chair]<span><span>Chair</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Table]</linked><span><span><linked>Table</linked></span></span></span> <b>and</b> <span class=\"i\"><linked>[img:Chair]</linked><span><span><linked>Chair</linked></span></span></span>"
         }
       }
     ],
@@ -32,19 +32,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:GPS]<span><span>GPS</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:GPS]</linked><span><span><linked>GPS</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Watch]<span><span>Gold Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Depth Meter]<span><span>Depth Meter</span></span></span></li><li><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Watch]</linked><span><span><linked>Gold Watch</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Platinum Watch]<span><span>Platinum Watch</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Depth Meter]<span><span>Depth Meter</span></span></span></li><li><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Watch]</linked><span><span><linked>Platinum Watch</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "blocks",
   "title": "Boulder",
   "summaries": [
-    "<b>Boulders</b> are unique placeable 2×2 foreground objects, and are stationary when placed. When unsupported, they fall and begin to roll away. They pick up speed and damage players, enemies and NPCs along their path. Boulders will also begin to roll if mined with a pickaxe or drill, meaning that they cannot be picked up again once placed.",
-    "Boulders will roll across flat surfaces and down slopes, but will break and disappear on contact with an obstacle. They deal 120–160 / <abbr class=\"expert\" title=\"Expert Mode\">240–320</abbr> / <abbr class=\"master\" title=\"Master Mode\">360–480</abbr> damage to players (60–80 damage to NPCs, enemies, and critters) on contact. Boulders pierce through an unlimited number of entities.",
-    "Boulder traps occur naturally in the Underground and Cavern layers, and consist of a single Boulder in the ceiling, supported by six (2×3) Active Stone Blocks wired to Pressure Plates. If a player walks onto the Pressure Plate, the Boulder falls down and begins rolling."
+    "<b>Boulders</b> are unique <linked>placeable</linked> 2×2 foreground objects, and are stationary when placed. When unsupported, they fall and begin to roll away. They pick up speed and damage players, <linked>enemies</linked> and <linked>NPCs</linked> along their path. Boulders will also begin to roll if mined with a <linked>pickaxe</linked> or <linked>drill</linked>, meaning that they cannot be picked up again once placed.",
+    "Boulders will roll across flat surfaces and down slopes, but will break and disappear on contact with an obstacle. They deal 120–160 / <linked>240–320</linked> / <linked>360–480</linked> damage to players (60–80 damage to <linked>NPCs</linked>, <linked>enemies</linked>, and <linked>critters</linked>) on contact. Boulders pierce through an unlimited number of entities.",
+    "<linked>Boulder traps</linked> occur naturally in the <linked>Underground</linked> and <linked>Cavern</linked> layers, and consist of a single Boulder in the ceiling, supported by six (2×3) <linked>Active Stone Blocks</linked> <linked>wired</linked> to <linked>Pressure Plates</linked>. If a player walks onto the Pressure Plate, the Boulder falls down and begins rolling."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
@@ -17,27 +17,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Boulder]<span><span>Boulder</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Boulder]<span><span>Boulder</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -45,36 +45,36 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bouncy Boulder]<span><span>Bouncy Boulder</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bouncy Boulder]</linked><span><span><linked>Bouncy Boulder</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Boulder]<span><span>Boulder</span></span></span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Boulder Statue]<span><span>Boulder Statue</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Boulder Statue]</linked><span><span><linked>Boulder Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\">[img:Boulder]<span><span>Boulder</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span>Ecto Mist</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Life Crystal Boulder]<span><span>Life Crystal Boulder</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Life Crystal Boulder]</linked><span><span><linked>Life Crystal Boulder</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Boulder]<span><span>Boulder</span></span></span></li><li><span class=\"i\">[img:Life Crystal]<span><span>Life Crystal</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Life Crystal]</linked><span><span><linked>Life Crystal</linked></span></span></span></li></ul>"
         }
       }
     ]

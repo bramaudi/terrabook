@@ -2,14 +2,14 @@
   "type": "blocks",
   "title": "Pink Slime Block",
   "summaries": [
-    "The <b>Pink Slime Block</b> can be created with Pink Gel if the player is near a Solidifier. Landing on a Pink Slime Block causes the player to bounce. Pink Slime Blocks negate fall damage when the player lands on one. Like with Slime Blocks, running over Pink Slime Blocks produces droplet particles.",
-    "The height of the bounce is dependent on the player's speed, not on the distance they've fallen. Holding a Portal Gun or riding the Slime Mount can allow for higher bounce due to the higher speed limit."
+    "The <b>Pink Slime Block</b> can be created with <linked>Pink Gel</linked> if the player is near a <linked>Solidifier</linked>. Landing on a Pink Slime Block causes the player to bounce. Pink Slime Blocks negate fall damage when the player lands on one. Like with <linked>Slime Blocks</linked>, running over Pink Slime Blocks produces droplet particles.",
+    "The height of the bounce is dependent on the player's speed, not on the distance they've fallen. Holding a <linked>Portal Gun</linked> or riding the <linked>Slime Mount</linked> can allow for higher bounce due to the higher speed limit."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Very bouncy</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pink Slime Block]<span><span>Pink Slime Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pink Slime Block]</linked><span><span><linked>Pink Slime Block</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Solidifier]<span><span>Solidifier</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Solidifier]</linked><span><span><linked>Solidifier</linked></span></span></span>"
         }
       }
     ]

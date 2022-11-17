@@ -3,13 +3,13 @@
   "title": "Rod of Harmony",
   "toolpower": [],
   "summaries": [
-    "The <b>Rod of Harmony</b> is a post-Moon Lord tool. It functions identically to the Rod of Discord, instantly teleporting the player to the location of cursor when used, but it does not inflict the Chaos State debuff, allowing the player to safely teleport much more frequently.",
-    "It is obtained by throwing the Rod of Discord into Shimmer in a world where Moon Lord has been defeated."
+    "The <b>Rod of Harmony</b> is a post-<linked>Moon Lord</linked> <linked>tool</linked>. It functions identically to the <linked>Rod of Discord</linked>, instantly teleporting the player to the location of cursor when used, but it does not inflict the <linked>Chaos State</linked> <linked>debuff</linked>, allowing the player to safely teleport much more frequently.",
+    "It is obtained by throwing the <linked>Rod of Discord</linked> into <linked>Shimmer</linked> in a world where <linked>Moon Lord</linked> has been defeated."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Teleports you to the position of the mouse</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Rod of Harmony]<span><span>Rod of Harmony</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After Moon Lord is defeated)</div>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Rod of Harmony]</linked><span><span><linked>Rod of Harmony</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After <linked>Moon Lord</linked> is defeated)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Rod of Discord]<span><span>Rod of Discord</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rod of Discord]</linked><span><span><linked>Rod of Discord</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

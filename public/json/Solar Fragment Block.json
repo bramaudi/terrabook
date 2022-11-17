@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Solar Fragment Block",
   "summaries": [
-    "<b>Solar Fragment Blocks</b> are blocks made from Solar Fragments which are dropped by the Solar Pillar. The blocks have a crystal-like appearance with intense shades of yellow, red, and orange. They can be crafted with the Ancient Manipulator. Walls cannot be crafted with them."
+    "<b>Solar Fragment Blocks</b> are blocks made from <linked>Solar Fragments</linked> which are dropped by the <linked>Solar Pillar</linked>. The blocks have a crystal-like appearance with intense shades of yellow, red, and orange. They can be crafted with the <linked>Ancient Manipulator</linked>. Walls cannot be crafted with them."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Solar Fragment Block]<span><span>Solar Fragment Block</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Solar Fragment Block]</linked><span><span><linked>Solar Fragment Block</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Solar Fragment]<span><span>Solar Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

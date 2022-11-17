@@ -2,16 +2,16 @@
   "type": "enemies",
   "title": "Nebula Floater",
   "summaries": [
-    "The <b>Nebula Floater</b> is a Hardmode, post-Lunatic Cultist flying enemy that spawns near the Nebula Pillar during the Lunar Events. It periodically spawns up to three Nebula Eyes that float around it. If it has a clear line of sight to the player, it will hover in place and start firing pink Nebula Lasers from one of the Nebula Eyes at the player, otherwise it will move towards player through all tiles. It can also do random teleports around the player periodically, and will also attempt to do so with a small chance if it is hit."
+    "The <b>Nebula Floater</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> flying <linked>enemy</linked> that spawns near the <linked>Nebula Pillar</linked> during the <linked>Lunar Events</linked>. It periodically spawns up to three Nebula Eyes that float around it. If it has a clear line of sight to the player, it will hover in place and start firing pink Nebula Lasers from one of the Nebula Eyes at the player, otherwise it will move towards player through all tiles. It can also do random teleports around the player periodically, and will also attempt to do so with a small chance if it is hit."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Lunar Events </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Lunar Events </linked></span></div>",
     "AI Type": "Nebula Floater AI",
-    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">75</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">225</span></span></span> <span class=\"note-text small\">(melee)</span><br><span class=\"mode-content\"><span class=\"m-normal\">130</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">200</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">300</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Nebula Laser</span>)</span>",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">75</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">225</span></span></span> <span class=\"note-text small\">(melee)</span><br><span class=\"mode-content\"><span class=\"m-normal\">130</span><span class=\"m-expert\"><linked>200</linked></span><span class=\"m-master\"><linked>300</linked></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Nebula Laser</span>)</span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">1300</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">2600</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">3900</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">20</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">50%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">55%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">60%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Nebula Floater Banner]<span><span>Nebula Floater Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Nebula Floater Banner]</linked><span><span><linked>Nebula Floater Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   }
 }

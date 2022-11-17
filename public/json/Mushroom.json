@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Mushroom",
   "summaries": [
-    "The <b>Mushroom</b> is a crafting material and healing item that spawns randomly on grass or Hallowed grass located on the surface, generally in the Forest. It can be cut with any tool or weapon in order to retrieve the item.",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Mushroom inflicts only 30 seconds of Potion Sickness, only half the duration of healing potions. Even so, it can only heal 30 health every minute, compared to Lesser Healing Potion, which heals 50."
+    "The <b>Mushroom</b> is a <linked>crafting material</linked> and <linked>healing item</linked> that spawns randomly on <linked>grass</linked> or <linked>Hallowed grass</linked> located on the <linked>surface</linked>, generally in the <linked>Forest</linked>. It can be cut with any <linked>tool</linked> or <linked>weapon</linked> in order to retrieve the item.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Mushroom inflicts only 30 seconds of <linked>Potion Sickness</linked>, only half the duration of healing potions. Even so, it can only heal 30 health every minute, compared to <linked>Lesser Healing Potion</linked>, which heals 50."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Heals Health": "15",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver 50 Copper Coins\" data-sort-value=\"250\"><span class=\"sc\">2</span><span class=\"cc\">50</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> /<br> <span class=\"coin\" title=\"5 Copper Coins\" data-sort-value=\"5\"><span class=\"cc\">5</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
@@ -18,63 +18,63 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Bowl of Soup]<span><span>Bowl of Soup</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bowl of Soup]</linked><span><span><linked>Bowl of Soup</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Goldfish]<span><span>Goldfish</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Goldfish]</linked><span><span><linked>Goldfish</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Cooking Pot]<span><span>Cooking Pot</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Cauldron]<span><span>Cauldron</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Cooking Pot]</linked><span><span><linked>Cooking Pot</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Cauldron]</linked><span><span><linked>Cauldron</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Bowl of Soup]<span><span>Bowl of Soup</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bowl of Soup]</linked><span><span><linked>Bowl of Soup</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bowl]<span><span>Bowl</span></span></span></li><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Goldfish]<span><span>Goldfish</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bowl]</linked><span><span><linked>Bowl</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Goldfish]</linked><span><span><linked>Goldfish</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lesser Healing Potion]<span><span>Lesser Healing Potion</span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lesser Healing Potion]</linked><span><span><linked>Lesser Healing Potion</linked></span></span></span> <span class=\"note-text\">(2)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Gel]<span><span>Gel</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gel]</linked><span><span><linked>Gel</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Regeneration Potion]<span><span>Regeneration Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Regeneration Potion]</linked><span><span><linked>Regeneration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Restoration Potion]<span><span>Restoration Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Restoration Potion]<span><span>Restoration Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mushroom]<span><span>Mushroom</span></span></span></li><li><span class=\"i\">[img:Pink Gel]<span><span>Pink Gel</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       }
     ]

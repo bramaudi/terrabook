@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Flask of Gold",
   "summaries": [
-    "The <b>Flask of Gold</b> is a flask that increases the number of coins dropped by enemies. While under the influence of a Flask of Gold, melee (and Whip) attacks will inflict enemies with Midas, causing them to drop 10%-50% more coins."
+    "The <b>Flask of Gold</b> is a <linked>flask</linked> that increases the number of <linked>coins</linked> dropped by <linked>enemies</linked>. While under the influence of a Flask of Gold, <linked>melee</linked> (and <linked>Whip</linked>) attacks will inflict enemies with <linked>Midas</linked>, causing them to drop 10%-50% more coins."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks make enemies drop more gold</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Gold]<span><span>Flask of Gold</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flask of Gold]</linked><span><span><linked>Flask of Gold</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Gold Dust]<span><span>Gold Dust</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Dust]</linked><span><span><linked>Gold Dust</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"
         }
       }
     ]

@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Star Cell",
   "summaries": [
-    "The <b>Star Cell</b> is a Hardmode, post-Lunatic Cultist enemy spawned by the Stardust Pillar during the Lunar Events. It floats slowly towards the player but can move at a faster rate if the player begins moving away from it.",
+    "The <b>Star Cell</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> <linked>enemy</linked> spawned by the <linked>Stardust Pillar</linked> during the <linked>Lunar Events</linked>. It floats slowly towards the player but can move at a faster rate if the player begins moving away from it.",
     "Upon death, it splits into multiple <b>Mini Star Cells</b>. If these Mini Star Cells are not dealt with, they will grow into a full-sized Star Cell, that can also split into more Mini Star Cells. Mini Star Cells do not contribute to the kill count required to break the Stardust Pillar's shield, though after growing back, they do."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Lunar Events </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Lunar Events </linked></span></div>",
     "AI Type": "Star Cell/Brain Suckler AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">120</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">240</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">360</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">300</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">600</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">900</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">50</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">70%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">73%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">76%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Star Cell Banner]<span><span>Star Cell Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Star Cell Banner]</linked><span><span><linked>Star Cell Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   }
 }

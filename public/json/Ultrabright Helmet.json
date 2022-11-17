@@ -2,13 +2,13 @@
   "type": "armors",
   "title": "Ultrabright Helmet",
   "summaries": [
-    "The <b>Ultrabright Helmet</b> is an armor piece for the helmet slot that combines the functionalities of the Mining Helmet and the Night Vision Helmet."
+    "The <b>Ultrabright Helmet</b> is an <linked>armor</linked> piece for the helmet slot that combines the functionalities of the <linked>Mining Helmet</linked> and the <linked>Night Vision Helmet</linked>."
   ],
   "statistics": {
     "Defense": "4",
     "Body slot": "Helmet",
     "Tooltip": "<i><span class=\"gameText\">Improves vision and provides light when worn<br>'The darkness holds no secrets for you'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ultrabright Helmet]<span><span>Ultrabright Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ultrabright Helmet]</linked><span><span><linked>Ultrabright Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mining Helmet]<span><span>Mining Helmet</span></span></span></li><li><span class=\"i\">[img:Night Vision Helmet]<span><span>Night Vision Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mining Helmet]</linked><span><span><linked>Mining Helmet</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Night Vision Helmet]</linked><span><span><linked>Night Vision Helmet</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

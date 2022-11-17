@@ -2,14 +2,14 @@
   "type": "enemies",
   "title": "Etherian Wyvern",
   "summaries": [
-    "The <b>Etherian Wyvern</b> is a flying enemy from The Old One's Army event that travels through blocks. It flies toward a point overhead and then dives at the Eternia Crystal (NPC), dropping below the block surface, which periodically makes it difficult to hit without weapons that attack through blocks.",
-    "Like many other enemies from the event, its appearance and stats change, depending on which tier of the event is active <i>(see Old One's Army for tier details)</i>.",
-    "It requires 200 kills in order to obtain its corresponding enemy banner, as opposed to the usual 50. Like all Old One's Army banners, this banner is only decorative, and does not grant buffs."
+    "The <b>Etherian Wyvern</b> is a flying <linked>enemy</linked> from The <linked>Old One's Army</linked> <linked>event</linked> that travels through <linked>blocks</linked>. It flies toward a point overhead and then dives at the <linked>Eternia Crystal (NPC)</linked>, dropping below the block surface, which periodically makes it difficult to hit without weapons that attack through blocks.",
+    "Like many other enemies from the event, its appearance and stats change, depending on which tier of the event is active <i>(see <linked>Old One's Army</linked> for tier details)</i>.",
+    "It requires 200 kills in order to obtain its corresponding <linked>enemy banner</linked>, as opposed to the usual 50. Like all Old One's Army banners, this banner is only decorative, and does not grant buffs."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Old One's Army </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Old One's Army </linked></span></div>",
     "AI Type": "Flying Attacker AI",
-    "Banner": "<span class=\"i -w\">[img:Etherian Wyvern Banner]<span><span>Etherian Wyvern Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Etherian Wyvern Banner]</linked><span><span><linked>Etherian Wyvern Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   }
 }

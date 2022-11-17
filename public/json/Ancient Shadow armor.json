@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Ancient Shadow armor",
   "summaries": [
-    "<b>Ancient Shadow armor</b> is an armor set that reproduces the pre-1.0.3 Shadow armor design, and is otherwise identical in all ways to the current Shadow armor set. Each piece is interchangeable with the equivalent Shadow armor piece, while still granting the same set bonus.",
+    "<b>Ancient Shadow armor</b> is an <linked>armor</linked> set that reproduces the pre-<linked>1.0.3</linked> Shadow armor design, and is otherwise identical in all ways to the current <linked>Shadow armor</linked> set. Each piece is interchangeable with the equivalent Shadow armor piece, while still granting the same set bonus.",
     "When the full set is equipped, the player will emit purple bubbles, and create a semi-transparent after-image effect behind themselves when moving. This effect appears to be clones of the player. These clones do not appear to have bodies inside of the armor, as there is no face prevalent.",
-    "Each piece has a <span class=\"chance\"><s>0.19*</s>1/525 (0.19%)</span> chance of being dropped by an Eater of Souls."
+    "Each piece has a <span class=\"chance\"><s>0.19*</s>1/525 (0.19%)</span> chance of being dropped by an <linked>Eater of Souls</linked>."
   ],
   "statistics": {
     "Defense": "19<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Increased movement speed and acceleration</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -20,11 +20,11 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Shadow Greaves]<span><span title=\"Ancient Shadow Greaves\">Ancient Shadow Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shadow Greaves]<span><span>Shadow Greaves</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadow Greaves]</linked><span><span><linked>Shadow Greaves</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Shadow Helmet]<span><span title=\"Ancient Shadow Helmet\">Ancient Shadow Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shadow Helmet]<span><span>Shadow Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadow Helmet]</linked><span><span><linked>Shadow Helmet</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -42,7 +42,7 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Shadow Scalemail]<span><span title=\"Ancient Shadow Scalemail\">Ancient Shadow Scalemail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shadow Scalemail]<span><span>Shadow Scalemail</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadow Scalemail]</linked><span><span><linked>Shadow Scalemail</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -50,32 +50,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shadow Greaves]<span><span>Shadow Greaves</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shadow Greaves]</linked><span><span><linked>Shadow Greaves</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Greaves]<span><span>Ancient Shadow Greaves</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Shadow Greaves]</linked><span><span><linked>Ancient Shadow Greaves</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shadow Helmet]<span><span>Shadow Helmet</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shadow Helmet]</linked><span><span><linked>Shadow Helmet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Helmet]<span><span>Ancient Shadow Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Shadow Helmet]</linked><span><span><linked>Ancient Shadow Helmet</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shadow Scalemail]<span><span>Shadow Scalemail</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shadow Scalemail]</linked><span><span><linked>Shadow Scalemail</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Shadow Scalemail]<span><span>Ancient Shadow Scalemail</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Shadow Scalemail]</linked><span><span><linked>Ancient Shadow Scalemail</linked></span></span></span></li></ul>"
         }
       }
     ]

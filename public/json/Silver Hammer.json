@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Silver Hammer</b> is an early-game hammer, being stronger than the Iron Hammer, but weaker than the Gold Hammer. It has an alternate ore version, the Tungsten Hammer, which is slightly stronger. Like all hammers, it is used to remove background walls and create sloped tiles and half tiles.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Silver Hammer</b> is an early-game <linked>hammer</linked>, being stronger than the <linked>Iron Hammer</linked>, but weaker than the <linked>Gold Hammer</linked>. It has an alternate ore version, the <linked>Tungsten Hammer</linked>, which is slightly stronger. Like all hammers, it is used to remove <linked>background walls</linked> and create sloped tiles and half tiles.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "9 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "29 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "19",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"8 Silver Coins\" data-sort-value=\"800\"><span class=\"sc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,23 +25,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Silver Hammer]<span><span>Silver Hammer</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Hammer]</linked><span><span><linked>Silver Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Silver Hammer]<span><span>Silver Hammer</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Hammer]</linked><span><span><linked>Silver Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silver Bar]<span><span>Silver Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       }
     ]

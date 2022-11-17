@@ -2,16 +2,16 @@
   "type": "enemies",
   "title": "Possessed Armor",
   "summaries": [
-    "The <b>Possessed Armor</b> is a Hardmode enemy which spawns on the surface at night, and underground at any time. It walks quickly and casts a motion blur similar to that of the Shadow armor."
+    "The <b>Possessed Armor</b> is a <linked>Hardmode</linked> <linked>enemy</linked> which spawns on the <linked>surface</linked> at <linked>night</linked>, and <linked>underground</linked> at any time. It walks quickly and casts a motion blur similar to that of the <linked>Shadow armor</linked>."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface  +  Night </span><span class=\"tag\"> Underground </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked> + <linked> Night </linked></span><span class=\"tag\"><linked> Underground </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">55</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">110</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">165</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">260</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">520</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">780</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">28</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Possessed Armor Banner]<span><span>Possessed Armor Banner</span><span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Possessed Armor Banner]</linked><span><span><linked>Possessed Armor Banner</linked></span><span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "On Fire!, Poisoned, Hellfire"
   }
 }

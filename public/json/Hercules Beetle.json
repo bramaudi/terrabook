@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Hercules Beetle",
   "summaries": [
-    "The <b>Hercules Beetle</b> is a Hardmode, post-Plantera accessory that increases the damage of summon weapons by 15% and increases their knockback by 2. It is sold by the Witch Doctor for <span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span> if he is spoken to in the Jungle, <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> and while the Pygmy Staff is in the player's inventory."
+    "The <b>Hercules Beetle</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>accessory</linked> that increases the damage of <linked>summon weapons</linked> by 15% and increases their <linked>knockback</linked> by 2. It is sold by the <linked>Witch Doctor</linked> for <span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span> if he is spoken to in the <linked>Jungle</linked>, <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> and while the <linked>Pygmy Staff</linked> is in the player's inventory."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases summon damage by 15%<br>Increases the knockback of your minions</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span>",
     "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Papyrus Scarab]<span><span>Papyrus Scarab</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Papyrus Scarab]</linked><span><span><linked>Papyrus Scarab</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Necromantic Scroll]<span><span>Necromantic Scroll</span></span></span></li><li><span class=\"i\">[img:Hercules Beetle]<span><span>Hercules Beetle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Necromantic Scroll]</linked><span><span><linked>Necromantic Scroll</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hercules Beetle]</linked><span><span><linked>Hercules Beetle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Love Potion",
   "summaries": [
-    "The <b>Love Potion</b> is a Hardmode thrown potion that functions similarly to Thrown Water, but inflicts no functional effect. Hitting a solid block will inflict all players, NPCs, enemies, and critters with the <b>Lovestruck</b> debuff, causing them to emit red hearts for 30 seconds, similar to the Water Gun's dripping. This effect is purely cosmetic."
+    "The <b>Love Potion</b> is a <linked>Hardmode</linked> thrown <linked>potion</linked> that functions similarly to <linked>Thrown Water</linked>, but inflicts no functional effect. Hitting a solid <linked>block</linked> will inflict all players, <linked>NPCs</linked>, <linked>enemies</linked>, and <linked>critters</linked> with the <b>Lovestruck</b> <linked>debuff</linked>, causing them to emit red hearts for 30 seconds, similar to the <linked>Water Gun</linked>'s dripping. This effect is purely cosmetic."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "9",
     "Tooltip": "<i><span class=\"gameText\">Throw this to make someone fall in love</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Love Potion]<span><span>Love Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Love Potion]</linked><span><span><linked>Love Potion</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Princess Fish]<span><span>Princess Fish</span></span></span></li><li><span class=\"i\">[img:Shiverthorn]<span><span>Shiverthorn</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Princess Fish]</linked><span><span><linked>Princess Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

@@ -7,8 +7,8 @@
     "[img:Axe mask] 75%"
   ],
   "summaries": [
-    "The <b>Palladium Waraxe</b> is a Hardmode axe that is obtainable after defeating the Wall of Flesh, and is the axe alternative to the Palladium Chainsaw. It is one of the earliest available axe tools upon entering Hardmode, as is its slightly weaker alternate the Cobalt Waraxe. Like all other axes and chainsaws, it is solely used to cut down trees, cacti, and Giant Glowing Mushrooms.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Palladium Waraxe</b> is a <linked>Hardmode</linked> <linked>axe</linked> that is obtainable after defeating the <linked>Wall of Flesh</linked>, and is the axe alternative to the <linked>Palladium Chainsaw</linked>. It is one of the earliest available axe <linked>tools</linked> upon entering Hardmode, as is its slightly weaker alternate the <linked>Cobalt Waraxe</linked>. Like all other axes and <linked>chainsaws</linked>, it is solely used to cut down <linked>trees</linked>, <linked>cacti</linked>, and <linked>Giant Glowing Mushrooms</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "36 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "35 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "12",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,14 +25,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Palladium Waraxe]<span><span>Palladium Waraxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Palladium Waraxe]</linked><span><span><linked>Palladium Waraxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

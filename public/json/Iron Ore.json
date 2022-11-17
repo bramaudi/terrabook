@@ -2,13 +2,13 @@
   "type": "blocks",
   "title": "Iron Ore",
   "summaries": [
-    "<b>Iron Ore</b> is an early-game ore that generates upon world creation on the surface, as well as in the Underground and Cavern layers. Its primary use is in crafting Iron Bars, which can then be used to craft the Iron tier of tools, weapons, and armor, as well as Buckets, Chains, and several other items. The equivalent of Iron Ore is Lead Ore, which will sometimes replace Iron in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Iron Ore has a small chance to appear as a bonus drop from slimes. Furthermore, it can be obtained from all types of crates.",
-    "As Iron Bars are needed to create an Iron Anvil, Iron Ore must usually be obtained before any weapons or armor can be created out of metal bars. While this can be circumvented by purchasing an Iron Anvil from the Merchant, that is generally inefficient, as it is not difficult to find 15 Iron Ore early on in the game."
+    "<b>Iron Ore</b> is an early-game <linked>ore</linked> that generates upon world creation on the surface, as well as in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is in crafting <linked>Iron Bars</linked>, which can then be used to craft the Iron tier of <linked>tools</linked>, <linked>weapons</linked>, and <linked>armor</linked>, as well as <linked>Buckets</linked>, <linked>Chains</linked>, and several other items. The equivalent of Iron Ore is <linked>Lead Ore</linked>, which will sometimes replace Iron in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Iron Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>. Furthermore, it can be obtained from all types of <linked>crates</linked>.",
+    "As Iron Bars are needed to create an <linked>Iron Anvil</linked>, Iron Ore must usually be obtained before any weapons or armor can be created out of metal <linked>bars</linked>. While this can be circumvented by purchasing an Iron Anvil from the <linked>Merchant</linked>, that is generally inefficient, as it is not difficult to find 15 Iron Ore early on in the game."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
@@ -17,23 +17,23 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Iron Ore]<span><span>Iron Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Ore]<span><span>Lead Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Ore]<span><span>Lead Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -41,62 +41,62 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lead Ore]<span><span>Lead Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iron Ore]<span><span>Iron Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Iron Bar]<span><span>Iron Bar</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iron Bar]</linked><span><span><linked>Iron Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iron Ore]<span><span>Iron Ore</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Iron Brick]<span><span>Iron Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iron Brick]</linked><span><span><linked>Iron Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Iron Ore]<span><span>Iron Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ironskin Potion]<span><span>Ironskin Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ironskin Potion]</linked><span><span><linked>Ironskin Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Iron Ore]<span><span>Iron Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Tin Ore]<span><span>Tin Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Tin Ore]</linked><span><span><linked>Tin Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iron Ore]<span><span>Iron Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

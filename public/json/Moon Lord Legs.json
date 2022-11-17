@@ -2,15 +2,15 @@
   "type": "armors",
   "title": "Moon Lord Legs",
   "summaries": [
-    "The <b>Moon Lord Legs</b> are an armor item for the pants slot. They have a <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> chance to be found in Chests in drunk worlds.",
-    "The Moon Lord Legs replace the player's legs with Moon Lord-themed tentacles which produce a unique walking animation, a purely visual effect. In addition to providing 3 defense, the item has the following effects:",
-    "<ul><li>Increases the maximum safe falling distance by 10 tiles, jump speed by 1.8, and jump duration by 1</li><li>Increases movement speed by 25%</li></ul>"
+    "The <b>Moon Lord Legs</b> are an <linked>armor</linked> item for the pants slot. They have a <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> chance to be found in <linked>Chests</linked> in <linked>drunk worlds</linked>.",
+    "The Moon Lord Legs replace the player's legs with <linked>Moon Lord</linked>-themed tentacles which produce a unique walking animation, a purely visual effect. In addition to providing 3 <linked>defense</linked>, the item has the following effects:",
+    "<ul><li>Increases the maximum <linked>safe falling distance</linked> by 10 tiles, <linked>jump speed</linked> by 1.8, and <linked>jump duration</linked> by 1</li><li>Increases <linked>movement speed</linked> by 25%</li></ul>"
   ],
   "statistics": {
     "Defense": "3",
     "Body slot": "Pants",
     "Tooltip": "<i><span class=\"gameText\">Slightly increases mobility<br>'These might be Steve's'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

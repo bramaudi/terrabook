@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Shark Tooth Necklace",
   "summaries": [
-    "The <b>Shark Tooth Necklace</b> is an accessory which has a <span class=\"chance\"><s>0.67*</s>1/149 (0.67%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>1.33*</s>1/75 (1.33%)</span></abbr> chance to drop from Blood Zombies and Dripplers found during a Blood Moon. It increases the player's armor penetration by 5 when equipped."
+    "The <b>Shark Tooth Necklace</b> is an <linked>accessory</linked> which has a <span class=\"chance\"><s>0.67*</s>1/149 (0.67%)</span> / <linked>1.33*1/75 (1.33%)</linked> chance to drop from <linked>Blood Zombies</linked> and <linked>Dripplers</linked> found during a <linked>Blood Moon</linked>. It increases the player's <linked>armor penetration</linked> by 5 when equipped."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases armor penetration by 5</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Stinger Necklace]<span><span>Stinger Necklace</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Stinger Necklace]</linked><span><span><linked>Stinger Necklace</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shark Tooth Necklace]<span><span>Shark Tooth Necklace</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shark Tooth Necklace]</linked><span><span><linked>Shark Tooth Necklace</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Honey Comb]</linked><span><span><linked>Honey Comb</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

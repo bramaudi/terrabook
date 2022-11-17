@@ -2,22 +2,22 @@
   "type": "blocks",
   "title": "Living Wood",
   "summaries": [
-    "<b>Living Wood</b> is a type of block that makes up the trunks and roots of Living Trees. Upon destruction it will turn into regular Wood. It cannot be crafted, as it cannot exist in the player's inventory, however it can be placed using a Living Wood Wand, which in turn consumes Wood.",
-    "On the Nintendo 3DS[img:Nintendo 3DS version] version, it is a crafting station, solely used to craft Living Wood Wall. Although other Living Wood items can be looted from Living Trees, they cannot be crafted on the 3DS."
+    "<b>Living Wood</b> is a type of <linked>block</linked> that makes up the trunks and roots of <linked>Living Trees</linked>. Upon destruction it will turn into regular <linked>Wood</linked>. It cannot be crafted, as it cannot exist in the player's inventory, however it can be placed using a <linked>Living Wood Wand</linked>, which in turn consumes Wood.",
+    "On the <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, it is a crafting station, solely used to craft <linked>Living Wood Wall</linked>. Although other Living Wood items can be looted from Living Trees, they cannot be crafted on the 3DS."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>"
   },
   "crafts": {
     "Used to craft": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Living Wood Wall]<span><span>Living Wood Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Living Wood Wall]</linked><span><span><linked>Living Wood Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Wood]<span><span>Wood</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span></li></ul>"
         }
       }
     ]

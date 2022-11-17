@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Nutcracker",
   "summaries": [
-    "The <b>Nutcracker</b> is a Hardmode, post-Plantera enemy that appears during the Frost Moon event. There are two Nutcracker variants, each with slightly differing damage and defense. The first variant will transform into the more powerful second variant when he is at or below 55% health (990 / <abbr class=\"expert\" title=\"Expert Mode\">1485</abbr> / <abbr class=\"master\" title=\"Master Mode\">2227</abbr>).",
-    "Defeating a Nutcracker adds 4 points (<abbr class=\"expert\" title=\"Expert Mode\">8 points</abbr>) during the Frost Moon."
+    "The <b>Nutcracker</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>enemy</linked> that appears during the <linked>Frost Moon</linked> <linked>event</linked>. There are two Nutcracker variants, each with slightly differing <linked>damage</linked> and <linked>defense</linked>. The first variant will transform into the more powerful second variant when he is at or below 55% health (990 / <linked>1485</linked> / <linked>2227</linked>).",
+    "Defeating a Nutcracker adds 4 points (<linked>8 points</linked>) during the Frost Moon."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Frost Moon </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Frost Moon </linked></span></div>",
     "AI Type": "Fighter AI",
-    "Banner": "<span class=\"i -w\">[img:Nutcracker Banner]<span><span>Nutcracker Banner</span><span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
-    "Immune to": "Confused"
+    "Banner": "<span class=\"i -w\"><linked>[img:Nutcracker Banner]</linked><span><span><linked>Nutcracker Banner</linked></span><span class=\"eico s i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Poisoned"
   }
 }

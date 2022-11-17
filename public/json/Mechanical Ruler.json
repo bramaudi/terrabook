@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Mechanical Ruler",
   "summaries": [
-    "The <b>Mechanical Ruler</b> is an accessory purchased from the Mechanic for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. While equipped, it draws a semi-transparent grid overlay on the screen, making individual block distances much clearer. This grid fades out when the player begins moving and returns once movement stops. The row and column of the block the mouse is hovering over are also highlighted in red, drawing a cross on the screen with the cursor at its center.",
-    "On the [img:Old-gen console version] Old-gen console version, this effect is caused by the Ruler."
+    "The <b>Mechanical Ruler</b> is an <linked>accessory</linked> purchased from the <linked>Mechanic</linked> for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. While equipped, it draws a semi-transparent grid overlay on the screen, making individual <linked>block</linked> distances much clearer. This grid fades out when the player begins moving and returns once movement stops. The row and column of the block the mouse is hovering over are also highlighted in red, drawing a cross on the screen with the cursor at its center.",
+    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, this effect is caused by the <linked>Ruler</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Creates measurement lines on screen for block placement</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:The Grand Design]<span><span>The Grand Design</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Mechanical Lens]<span><span>Mechanical Lens</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Mechanical Ruler]<span><span>Mechanical Ruler</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire]<span><span>Wire</span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Ruler]</linked><span><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

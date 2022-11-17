@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Ancient Hellstone Brick",
   "summaries": [
-    "<b>Ancient Hellstone Brick</b> is a type of brick obtained by throwing Hellstone Brick into Shimmer. Its appearance is based on the sprite of Hellstone Brick prior to 1.2."
+    "<b>Ancient Hellstone Brick</b> is a type of <linked>brick</linked> obtained by throwing <linked>Hellstone Brick</linked> into <linked>Shimmer</linked>. Its appearance is based on the sprite of Hellstone Brick prior to <linked>1.2</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,23 +15,23 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Ancient Hellstone Brick]<span><span>Ancient Hellstone Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hellstone Brick]<span><span>Hellstone Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Brick]</linked><span><span><linked>Hellstone Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Hellstone Brick Wall]<span><span>Ancient Hellstone Brick Wall</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ],
@@ -39,14 +39,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ancient Hellstone Brick Wall]<span><span>Ancient Hellstone Brick Wall</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Hellstone Brick]<span><span>Ancient Hellstone Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

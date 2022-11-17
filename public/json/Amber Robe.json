@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Amber Robe",
   "summaries": [
-    "The <b>Amber Robe</b> is an Armor item and part of the Wizard set, being wearable in the shirt slot. It is the second strongest Gem Robe, only being weaker than the Diamond Robe.",
-    "Wearing the Wizard Hat alongside the Amber Robe provides a set bonus of +10% magic critical strike chance while wearing a Magic Hat alongside it provides a set bonus of +60 Mana. Any leg-slot equipment can be worn with the set bonuses remaining intact."
+    "The <b>Amber Robe</b> is an <linked>Armor</linked> item and part of the <linked>Wizard set</linked>, being wearable in the shirt slot. It is the second strongest Gem <linked>Robe</linked>, only being weaker than the <linked>Diamond Robe</linked>.",
+    "Wearing the <linked>Wizard Hat</linked> alongside the Amber Robe provides a set bonus of +10% magic critical strike chance while wearing a <linked>Magic Hat</linked> alongside it provides a set bonus of +60 <linked>Mana</linked>. Any leg-slot equipment can be worn with the set bonuses remaining intact."
   ],
   "statistics": {
     "Defense": "3",
     "Body slot": "Shirt",
     "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 60<br>13% reduced mana cost</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Amber Robe]<span><span>Amber Robe</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amber Robe]</linked><span><span><linked>Amber Robe</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Robe]<span><span>Robe</span></span></span></li><li><span class=\"i\">[img:Amber]<span><span>Amber</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Robe]</linked><span><span><linked>Robe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Amber]</linked><span><span><linked>Amber</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Loom]</linked><span><span><linked>Loom</linked></span></span></span>"
         }
       }
     ]

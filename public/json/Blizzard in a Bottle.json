@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Blizzard in a Bottle",
   "summaries": [
-    "The <b>Blizzard in a Bottle</b> is an accessory which works similarly to the Cloud in a Bottle, allowing the player to double-jump. Instead of a cloud being produced when the player jumps, a trail of snow is produced at the player's feet.",
+    "The <b>Blizzard in a Bottle</b> is an <linked>accessory</linked> which works similarly to the <linked>Cloud in a Bottle</linked>, allowing the player to double-jump. Instead of a cloud being produced when the player jumps, a trail of snow is produced at the player's feet.",
     "The Blizzard jump goes 8 tiles into the air, totalling 14 tiles when put together with the first jump.",
-    "The Blizzard in a Bottle can be found in Frozen Chests in the Ice biome, and it can be dropped from <span class=\"eil\"><span>Frozen Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Boreal Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can also be crafted at a Crystal Ball."
+    "The Blizzard in a Bottle can be found in <linked>Frozen Chests</linked> in the <linked>Ice biome</linked>, and it can be dropped from <span class=\"eil\"><span><linked>Frozen Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Boreal Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can also be crafted at a <linked>Crystal Ball</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Blizzard in a Bottle]<span><span>Blizzard in a Bottle</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Blizzard in a Bottle]</linked><span><span><linked>Blizzard in a Bottle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Frost Core]<span><span>Frost Core</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Frost Core]</linked><span><span><linked>Frost Core</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Crystal Ball]<span><span>Crystal Ball</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Crystal Ball]</linked><span><span><linked>Crystal Ball</linked></span></span></span>"
         }
       }
     ],
@@ -32,14 +32,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blizzard in a Bottle]<span><span>Blizzard in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blizzard in a Bottle]</linked><span><span><linked>Blizzard in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

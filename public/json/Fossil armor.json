@@ -2,15 +2,15 @@
   "type": "armors",
   "title": "Fossil armor",
   "summaries": [
-    "<b>Fossil armor</b> is a pre-Hardmode armor set consisting of the <b>Fossil Helmet</b>, <b>Fossil Plate</b>, and <b>Fossil Greaves</b>.",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Helmet and Greaves increase ranged critical strike chance by 4% per each, with the Plate increasing ranged damage by 5%, and wearing the full set grants a 20% chance not to consume ammo.",
-    "On the [img:Legacy tModLoader version] Legacy tModLoader version, Fossil armor instead greatly increases the velocity, damage, and critical strike chance of throwing weapons, and wearing the full set grants a 50% chance to not consume thrown items (not including explosives).",
-    "The Fossil armor set is made using <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 75 Sturdy Fossils."
+    "<b>Fossil armor</b> is a <linked>pre-Hardmode</linked> <linked>armor</linked> set consisting of the <b>Fossil Helmet</b>, <b>Fossil Plate</b>, and <b>Fossil Greaves</b>.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Helmet and Greaves increase ranged <linked>critical strike chance</linked> by 4% per each, with the Plate increasing ranged damage by 5%, and wearing the full set grants a 20% <linked>chance not to consume ammo</linked>.",
+    "On the <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, Fossil armor instead greatly increases the velocity, damage, and critical strike chance of <linked>throwing weapons</linked>, and wearing the full set grants a 50% chance to not consume thrown items (not including <linked>explosives</linked>).",
+    "The Fossil armor set is made using <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 75 <linked>Sturdy Fossils</linked>."
   ],
   "statistics": {
     "Defense": "13<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">20% chance to not consume ammo</span></i> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><i>50% chance to not consume thrown item</i> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 20 Silver Coins\" data-sort-value=\"12000\"><span class=\"gc\">1</span><span class=\"sc\">20</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -18,59 +18,59 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Fossil Greaves]<span><span title=\"Fossil Greaves\">Fossil Greaves</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Greaves]<span><span title=\"Fossil Greaves\">Fossil Greaves</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Fossil Greaves]<span><span title=\"Fossil Greaves\">Fossil Greaves</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Greaves]<span><span title=\"Fossil Greaves\">Fossil Greaves</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Fossil Helmet]<span><span title=\"Fossil Helmet\">Fossil Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Helmet]<span><span title=\"Fossil Helmet\">Fossil Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Fossil Helmet]<span><span title=\"Fossil Helmet\">Fossil Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Helmet]<span><span title=\"Fossil Helmet\">Fossil Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Fossil Plate]<span><span title=\"Fossil Plate\">Fossil Plate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Plate]<span><span title=\"Fossil Plate\">Fossil Plate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Fossil Plate]<span><span title=\"Fossil Plate\">Fossil Plate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Fossil Plate]<span><span title=\"Fossil Plate\">Fossil Plate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
         }
       }
     ]

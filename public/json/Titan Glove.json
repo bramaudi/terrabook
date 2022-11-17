@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Titan Glove",
   "summaries": [
-    "The <b>Titan Glove</b> is a Hardmode accessory that doubles player-inflicted melee knockback. The Titan Glove has a <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>16.67*</s>1/6 (16.67%)</span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance of being dropped by Mimics.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It increases the size of melee weapons by 10%."
+    "The <b>Titan Glove</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that doubles player-inflicted melee <linked>knockback</linked>. The Titan Glove has a <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>16.67*</s>1/6 (16.67%)</span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance of being dropped by <linked>Mimics</linked>.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It increases the size of <linked>melee weapons</linked> by 10%."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases melee knockback<br>Increases the size of melee weapons</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Power Glove]<span><span>Power Glove</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Power Glove]</linked><span><span><linked>Power Glove</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Titan Glove]<span><span>Titan Glove</span></span></span></li><li><span class=\"i\">[img:Feral Claws]<span><span>Feral Claws</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titan Glove]</linked><span><span><linked>Titan Glove</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Feral Claws]</linked><span><span><linked>Feral Claws</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

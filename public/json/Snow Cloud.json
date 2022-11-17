@@ -2,14 +2,14 @@
   "type": "blocks",
   "title": "Snow Cloud",
   "summaries": [
-    "<b>Snow Cloud</b> is a type of block that can be crafted at a Sky Mill from Cloud blocks in the Snow biome. Snow Cloud blocks cause purely decorative snowflakes to appear beneath them, continuing for about 8 tiles and then fading away for 5 more. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, landing on Snow Clouds will not inflict fall damage.",
-    "In <span class=\"eil\"><span>drunk worlds</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, Snow Clouds are generated naturally as part of snow-themed Floating Islands."
+    "<b>Snow Cloud</b> is a type of <linked>block</linked> that can be crafted at a <linked>Sky Mill</linked> from <linked>Cloud</linked> blocks in the <linked>Snow biome</linked>. Snow Cloud blocks cause purely decorative snowflakes to appear beneath them, continuing for about 8 tiles and then fading away for 5 more. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, landing on Snow Clouds will not inflict <linked>fall damage</linked>.",
+    "In <span class=\"eil\"><span><linked>drunk worlds</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, Snow Clouds are generated naturally as part of snow-themed <linked>Floating Islands</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Prevents fall damage</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br>It gets pretty cold up there <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Snow Cloud]<span><span>Snow Cloud</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Snow Cloud]</linked><span><span><linked>Snow Cloud</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud]<span><span>Cloud</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud]</linked><span><span><linked>Cloud</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Sky Mill]<span><span>Sky Mill</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> Snow biome"
+          "value": "<span class=\"i -w\"><linked>[img:Sky Mill]</linked><span><span><linked>Sky Mill</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <linked>Snow biome</linked>"
         }
       }
     ]

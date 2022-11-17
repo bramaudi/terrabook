@@ -2,12 +2,12 @@
   "type": "mounts",
   "title": "Pogo Stick",
   "summaries": [
-    "The <b>Pogo Stick</b> is a mount sold by the Party Girl for <span class=\"coin\" title=\"25 Gold Coins\" data-sort-value=\"250000\"><span class=\"gc\">25</span></span>. Jumping again while in the air causes the player to do a front-flip. It doubles the speed at which the player falls, but does not grant immunity to fall damage. It has a max speed of <abbr title=\"28 miles per hour (as measured by the Stopwatch item) or 20.53 tiles per second\" class=\"nowrap\"><span class=\"gameText\">28 mph</span></abbr>. It also has a certain amount of momentum while airborne, meaning it continues travelling in the last horizontal direction the player inputted whist in the air, rather than slowing."
+    "The <b>Pogo Stick</b> is a <linked>mount</linked> sold by the <linked>Party Girl</linked> for <span class=\"coin\" title=\"25 Gold Coins\" data-sort-value=\"250000\"><span class=\"gc\">25</span></span>. Jumping again while in the air causes the player to do a front-flip. It doubles the speed at which the player falls, but does not grant immunity to <linked>fall damage</linked>. It has a max speed of <abbr title=\"28 miles per hour (as measured by the Stopwatch item) or 20.53 tiles per second\" class=\"nowrap\"><span class=\"gameText\">28 mph</span></abbr>. It also has a certain amount of momentum while airborne, meaning it continues travelling in the last horizontal direction the player inputted whist in the air, rather than slowing."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a rideable pogo stick mount<br>Press Jump again in mid-air to do tricks!</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"25 Gold Coins\" data-sort-value=\"250000\"><span class=\"gc\">25</span></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"

@@ -2,16 +2,16 @@
   "type": "blocks",
   "title": "Grate",
   "summaries": [
-    "<b>Grates</b> are foreground blocks which allow liquids to fall through while remaining solid for everything else, acting like a drainage system.",
-    "Grates can be toggled open and closed when triggered via wire. An open Grate is transparent, allowing light and liquid through, while a closed Grate is opaque and acts as a solid block. If a Grate is triggered while liquid is passing through it, the Grate holds the liquid until it is opened again or the liquid is removed by a player, e.g. via the use of an Empty Bucket, Super Absorbant Sponge, or Dry Bomb.",
-    "Bubbles function as the opposite of Grates, acting as background objects which prevent the flow of liquids through them but allow through other things like players.",
-    "Grates are not destroyed when dropped in lava, despite having a rarity of <span class=\"rarity\"><s class=\"sortkey\" style=\"display:none;\">00*</s>[img:Rarity level: 0]</span>."
+    "<b>Grates</b> are foreground <linked>blocks</linked> which allow <linked>liquids</linked> to fall through while remaining solid for everything else, acting like a drainage system.",
+    "Grates can be toggled open and closed when triggered via <linked>wire</linked>. An open Grate is transparent, allowing light and liquid through, while a closed Grate is opaque and acts as a solid block. If a Grate is triggered while liquid is passing through it, the Grate holds the liquid until it is opened again or the liquid is removed by a player, e.g. via the use of an <linked>Empty Bucket</linked>, <linked>Super Absorbant Sponge</linked>, or <linked>Dry Bomb</linked>.",
+    "<linked>Bubbles</linked> function as the opposite of Grates, acting as background objects which prevent the flow of liquids through them but allow through other things like players.",
+    "Grates are not destroyed when dropped in <linked>lava</linked>, despite having a rarity of <span class=\"rarity\"><s class=\"sortkey\" style=\"display:none;\">00*</s><linked>[img:Rarity level: 0]</linked></span>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Allows only liquids through<br>Can be toggled open or closed<br>'They'rrrre great!'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -19,14 +19,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Grate]<span><span>Grate</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Grate]</linked><span><span><linked>Grate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Any Iron Bar]<span><span>Any Iron Bar</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Palladium armor",
   "summaries": [
-    "<b>Palladium armor</b> is a Hardmode armor set crafted from Palladium Bars. It is the alternative to Cobalt armor. Like many Hardmode armor sets, Palladium armor has three different headpiece options, allowing players to focus on magic, melee, or ranged combat.",
-    "With the full set equipped, hitting an enemy grants the <b>Rapid Healing</b> buff, which heals <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 2 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 3 health per second. This lasts for 5 seconds, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]). Further attacks will refresh the duration. The buff is not canceled if the armor is removed.",
-    "Crafting a one-headpiece set requires 54 Palladium Bars, or 162 Palladium Ore. Crafting all five pieces requires 78 Palladium Bars, or 234 Palladium Ore."
+    "<b>Palladium armor</b> is a <linked>Hardmode</linked> <linked>armor</linked> set crafted from <linked>Palladium Bars</linked>. It is the alternative to <linked>Cobalt armor</linked>. Like many Hardmode armor sets, Palladium armor has three different headpiece options, allowing players to focus on <linked>magic</linked>, <linked>melee</linked>, or <linked>ranged</linked> combat.",
+    "With the full set equipped, hitting an enemy grants the <b>Rapid Healing</b> <linked>buff</linked>, which heals <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 2 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 3 <linked>health</linked> per second. This lasts for 5 seconds, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>). Further attacks will refresh the duration. The buff is not canceled if the armor is removed.",
+    "Crafting a one-headpiece set requires 54 Palladium Bars, or 162 <linked>Palladium Ore</linked>. Crafting all five pieces requires 78 Palladium Bars, or 234 Palladium Ore."
   ],
   "statistics": {
     "Defense": "<span class=\"i\">[img:Palladium Mask]</span> : 32 / <span class=\"i\">[img:Palladium Helmet]</span> : 23 / <span class=\"i\">[img:Palladium Headgear]</span> : 21<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Greatly increases life regeneration after striking an enemy</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold 60 Silver Coins\" data-sort-value=\"36000\"><span class=\"gc\">3</span><span class=\"sc\">60</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -20,11 +20,11 @@
           "value": "<span class=\"i multi-line\">[img:Palladium Breastplate]<span><span title=\"Palladium Breastplate\">Palladium Breastplate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
         },
         "station": {
           "rowspan": 5,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\">[img:Palladium Headgear]<span><span title=\"Palladium Headgear\">Palladium Headgear</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       },
       {
@@ -42,7 +42,7 @@
           "value": "<span class=\"i multi-line\">[img:Palladium Helmet]<span><span title=\"Palladium Helmet\">Palladium Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       },
       {
@@ -51,7 +51,7 @@
           "value": "<span class=\"i multi-line\">[img:Palladium Leggings]<span><span title=\"Palladium Leggings\">Palladium Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         }
       },
       {
@@ -60,7 +60,7 @@
           "value": "<span class=\"i multi-line\">[img:Palladium Mask]<span><span title=\"Palladium Mask\">Palladium Mask</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       }
     ]

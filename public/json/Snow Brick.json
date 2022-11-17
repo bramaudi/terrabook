@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Snow Brick",
   "summaries": [
-    "<b>Snow Bricks</b> are bricks crafted of Snow Blocks. Placing snow bricks will cause snow to fall in the background and they count toward the qualifications for a Snow Biome."
+    "<b>Snow Bricks</b> are <linked>bricks</linked> crafted of <linked>Snow Blocks</linked>. Placing snow bricks will cause snow to fall in the background and they count toward the qualifications for a <linked>Snow Biome</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,19 +15,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Snow Brick]<span><span>Snow Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Snow Brick]</linked><span><span><linked>Snow Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Snow Block]<span><span>Snow Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Snow Block]</linked><span><span><linked>Snow Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Snow Brick Wall]<span><span>Snow Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Snow Brick Wall]</linked><span><span><linked>Snow Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       }
     ],
@@ -35,14 +35,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Snow Brick Wall]<span><span>Snow Brick Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Snow Brick Wall]</linked><span><span><linked>Snow Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Snow Brick]<span><span>Snow Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Snow Brick]</linked><span><span><linked>Snow Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

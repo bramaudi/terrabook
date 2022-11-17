@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Gold Ring",
   "summaries": [
-    "The <b>Gold Ring</b> is a Hardmode accessory that greatly increases the pickup range for coins. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.2*</s>1/500 (0.2%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.1*</s>1/1000 (0.1%)</span> chance to be dropped by pirates (except Parrots) during Pirate Invasions, with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.8*</s>1/125 (0.8%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.4*</s>1/250 (0.4%)</span> chance from the Pirate Captain. It also has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance to be dropped by the <span class=\"eil\"><span>Flying Dutchman</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>.",
+    "The <b>Gold Ring</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that greatly increases the <linked>pickup range</linked> for <linked>coins</linked>. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.2*</s>1/500 (0.2%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.1*</s>1/1000 (0.1%)</span> chance to be dropped by pirates (except <linked>Parrots</linked>) during <linked>Pirate Invasions</linked>, with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.8*</s>1/125 (0.8%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.4*</s>1/250 (0.4%)</span> chance from the <linked>Pirate Captain</linked>. It also has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance to be dropped by the <span class=\"eil\"><span><linked>Flying Dutchman</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>.",
     "The increase in pickup range is 21.875 tiles, extending the base range of 2.625 tiles to 24.5 tiles. This effect does not stack with that of any of the Gold Ring's upgrades."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases coin pickup range</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Ring]</linked><span><span><linked>Gold Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lucky Coin]<span><span>Lucky Coin</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lucky Coin]</linked><span><span><linked>Lucky Coin</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,27 +31,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Discount Card]<span><span>Discount Card</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Discount Card]</linked><span><span><linked>Discount Card</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ring]</linked><span><span><linked>Gold Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Coin Ring]<span><span>Coin Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Coin Ring]</linked><span><span><linked>Coin Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Coin]<span><span>Lucky Coin</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ring]</linked><span><span><linked>Gold Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Coin]</linked><span><span><linked>Lucky Coin</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

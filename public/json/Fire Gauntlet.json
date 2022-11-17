@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Fire Gauntlet",
   "summaries": [
-    "The <b>Fire Gauntlet</b> is a Hardmode accessory available after defeating <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> all three Mechanical Bosses that boosts melee weapons in the following ways:",
-    "<ul><li>Both the weapon sprite and projectile emit orange light particles that gives off light</li><li>They cause the <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Hellfire / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> On Fire! debuff (does not apply in PvP)</li></ul>",
-    "<ul><li>+100% knockback</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +12% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +10% / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> +9% damage</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +12% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +10% attack speed</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They gain autoswing (also applies to whips)</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +10% size on some melee weapons</li></ul>"
+    "The <b>Fire Gauntlet</b> is a <linked>Hardmode</linked> <linked>accessory</linked> available after defeating <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> all three <linked>Mechanical Bosses</linked> that boosts <linked>melee weapons</linked> in the following ways:",
+    "<ul><li>Both the weapon sprite and projectile emit orange light particles that gives off light</li><li>They cause the <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Hellfire</linked> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <linked>On Fire!</linked> debuff (does not apply in <linked>PvP</linked>)</li></ul>",
+    "<ul><li>+100% <linked>knockback</linked></li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +12% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +10% / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> +9% damage</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +12% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +10% attack speed</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They gain <linked>autoswing</linked> (also applies to <linked>whips</linked>)</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +10% size on some melee weapons</li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases melee knockback and melee attacks inflict fire damage<br>12% increased melee damage and speed<br>Enables auto swing for melee weapons<br>Increases the size of melee weapons</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fire Gauntlet]<span><span>Fire Gauntlet</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fire Gauntlet]</linked><span><span><linked>Fire Gauntlet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li><li><span class=\"i\">[img:Mechanical Glove]<span><span>Mechanical Glove</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Stone]</linked><span><span><linked>Magma Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Glove]</linked><span><span><linked>Mechanical Glove</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Aglet",
   "summaries": [
-    "The <b>Aglet</b> is an accessory that  increases the player's movement speed by 5%. It can be found in surface Chests, Wooden Crates and <span class=\"eil\"><span>Pearlwood Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it is also sold by the Skeleton Merchant during a New Moon."
+    "The <b>Aglet</b> is an <linked>accessory</linked> that  increases the player's movement speed by 5%. It can be found in surface <linked>Chests</linked>, <linked>Wooden Crates</linked> and <span class=\"eil\"><span><linked>Pearlwood Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it is also sold by the <linked>Skeleton Merchant</linked> during a <linked>New Moon</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">5% increased movement speed</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lightning Boots]</linked><span><span><linked>Lightning Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Anklet of the Wind]<span><span>Anklet of the Wind</span></span></span></li><li><span class=\"i\">[img:Aglet]<span><span>Aglet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Anklet of the Wind]</linked><span><span><linked>Anklet of the Wind</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Aglet]</linked><span><span><linked>Aglet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

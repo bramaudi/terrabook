@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Frog Leg",
   "summaries": [
-    "The <b>Frog Leg</b> is an accessory that can be fished in any viable body of water. It aids jumping in the following ways:",
-    "<ul><li>Increases the player's jump speed by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1.6 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 2.4.</li><li>The player automatically jumps while the <span class=\"key\"><kbd><span title=\"Space Bar (PC default): Makes character jump\">↷ Jump</span></kbd></span> key is held. This effect also works with Climbing Claws and other climbing accessories.</li><li>Increases the maximum safe falling distance by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 15 tiles.</li></ul>",
-    "These effects also apply with wings equipped."
+    "The <b>Frog Leg</b> is an <linked>accessory</linked> that can be <linked>fished</linked> in any viable body of water. It aids jumping in the following ways:",
+    "<ul><li>Increases the player's <linked>jump speed</linked> by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1.6 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 2.4.</li><li>The player automatically jumps while the <span class=\"key\"><linked>↷ Jump</linked></span> key is held. This effect also works with <linked>Climbing Claws</linked> and other climbing accessories.</li><li>Increases the maximum <linked>safe falling distance</linked> by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 15 tiles.</li></ul>",
+    "These effects also apply with <linked>wings</linked> equipped."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases jump speed and allows auto-jump<br>Increases fall resistance</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,32 +17,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Amphibian Boots]<span><span>Amphibian Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amphibian Boots]</linked><span><span><linked>Amphibian Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sailfish Boots]</linked><span><span><linked>Sailfish Boots</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Frog Leg]</linked><span><span><linked>Frog Leg</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Frog Flipper]<span><span>Frog Flipper</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Flipper]</linked><span><span><linked>Frog Flipper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li><li><span class=\"i\">[img:Flipper]<span><span>Flipper</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Leg]</linked><span><span><linked>Frog Leg</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flipper]</linked><span><span><linked>Flipper</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Frog Webbing]<span><span>Frog Webbing</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Webbing]</linked><span><span><linked>Frog Webbing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Leg]</linked><span><span><linked>Frog Leg</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tiger Climbing Gear]</linked><span><span><linked>Tiger Climbing Gear</linked></span></span></span></li></ul>"
         }
       }
     ]

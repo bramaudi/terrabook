@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Fisherman's Pocket Guide",
   "summaries": [
-    "The <b>Fisherman's Pocket Guide</b> is an informational accessory that displays the current Fishing Power. This accessory can be received as a <span class=\"chance\"><s>3.33*</s>1/30 (3.33%)</span> <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> chance reward for completing Fishing quests for the Angler NPC.",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Angler will not give you a Fisherman's Pocket Guide as a reward if you already have one in your inventory or in any of your Portable Storages. However, if you have a Fisherman's Pocket Guide, Weather Radio, <b>and</b> Sextant (or at least one of the accessories crafted from them: the Fish Finder, PDA, or <span class=\"eil\"><span>Cell Phone</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>) in your inventories, he will be able to give you duplicate Fisherman's Pocket Guides."
+    "The <b>Fisherman's Pocket Guide</b> is an <linked>informational accessory</linked> that displays the current <linked>Fishing Power</linked>. This accessory can be received as a <span class=\"chance\"><s>3.33*</s>1/30 (3.33%)</span> <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> chance reward for completing <linked>Fishing</linked> quests for the <linked>Angler</linked> <linked>NPC</linked>.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Angler will not give you a Fisherman's Pocket Guide as a reward if you already have one in your inventory or in any of your <linked>Portable Storages</linked>. However, if you have a Fisherman's Pocket Guide, <linked>Weather Radio</linked>, <b>and</b> <linked>Sextant</linked> (or at least one of the accessories crafted from them: the <linked>Fish Finder</linked>, <linked>PDA</linked>, or <span class=\"eil\"><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>) in your inventories, he will be able to give you duplicate Fisherman's Pocket Guides."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Displays fishing information</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fisherman's Pocket Guide]<span><span>Fisherman's Pocket Guide</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fisherman's Pocket Guide]</linked><span><span><linked>Fisherman's Pocket Guide</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Weather Radio]<span><span>Weather Radio</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Weather Radio]</linked><span><span><linked>Weather Radio</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,27 +31,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sextant]<span><span>Sextant</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sextant]</linked><span><span><linked>Sextant</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Fisherman's Pocket Guide]<span><span>Fisherman's Pocket Guide</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Fisherman's Pocket Guide]</linked><span><span><linked>Fisherman's Pocket Guide</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fish Finder]<span><span>Fish Finder</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fish Finder]</linked><span><span><linked>Fish Finder</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Fisherman's Pocket Guide]<span><span>Fisherman's Pocket Guide</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Weather Radio]<span><span>Weather Radio</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Sextant]<span><span>Sextant</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Fisherman's Pocket Guide]</linked><span><span><linked>Fisherman's Pocket Guide</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Weather Radio]</linked><span><span><linked>Weather Radio</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Sextant]</linked><span><span><linked>Sextant</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

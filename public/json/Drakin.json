@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Drakin",
   "summaries": [
-    "The <b>Drakin</b> is an enemy in the Old One's Army event that requires 100 kills to be awarded with the corresponding banner, as opposed to the usual 50 kills.  It has a large amount of health and is immune to knockback making it a very strong and tough enemy.  It attacks by firing a barrage of [img:Drakin Shot] <b>Drakin Shot</b> projectiles."
+    "The <b>Drakin</b> is an enemy in the <linked>Old One's Army</linked> <linked>event</linked> that requires 100 kills to be awarded with the corresponding banner, as opposed to the usual 50 kills.  It has a large amount of health and is immune to knockback making it a very strong and tough enemy.  It attacks by firing a barrage of [img:Drakin Shot] <b>Drakin Shot</b> projectiles."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Old One's Army </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Old One's Army </linked></span></div>",
     "AI Type": "Attacker AI",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">100%</span></span>",
-    "Banner": "<span class=\"i -w\">[img:Drakin Banner]<span><span>Drakin Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Drakin Banner]</linked><span><span><linked>Drakin Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   }
 }

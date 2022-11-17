@@ -2,16 +2,16 @@
   "type": "armors",
   "title": "Jungle armor",
   "summaries": [
-    "<b>Jungle armor</b> is a pre-Hardmode armor set consisting of the <b>Jungle Shirt</b>, the <b>Jungle Hat</b> and <b>Jungle Pants</b>. It is crafted from items found in the Underground Jungle.",
-    "A full set of Jungle armor grants the wearer 17 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> defense and boosts magic weapons, reducing mana usage by 16% and creating a grass particle effect when moving. Each individual piece increases maximum mana by 20–40 and magic critical strike chance or damage by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 6% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 4%, for a total of 80 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 60 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> higher maximum mana and 12% magic critical strike chance and 6% magic damage <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 9% magic critical strike chance <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> when the whole set is equipped.",
-    "Jungle armor pieces are interchangeable with pieces from the Ancient Cobalt armor set, while still providing the same 16% reduced mana usage set bonus, but not the grass particle effect.",
+    "<b>Jungle armor</b> is a <linked>pre-Hardmode</linked> <linked>armor</linked> set consisting of the <b>Jungle Shirt</b>, the <b>Jungle Hat</b> and <b>Jungle Pants</b>. It is crafted from items found in the <linked>Underground Jungle</linked>.",
+    "A full set of Jungle armor grants the wearer 17 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <linked>defense</linked> and boosts <linked>magic weapons</linked>, reducing <linked>mana</linked> usage by 16% and creating a grass particle effect when moving. Each individual piece increases maximum mana by 20–40 and magic <linked>critical strike chance</linked> or damage by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 6% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 4%, for a total of 80 <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 60 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> higher maximum mana and 12% magic critical strike chance and 6% magic damage <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 9% magic critical strike chance <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> when the whole set is equipped.",
+    "Jungle armor pieces are interchangeable with pieces from the <linked>Ancient Cobalt armor</linked> set, while still providing the same 16% reduced mana usage set bonus, but not the grass particle effect.",
     "The total material cost of making a full set is:",
-    "<ul><li>10 (<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>) / 12 (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>) Stingers</li><li>2 Vines</li><li>32 Jungle Spores</li></ul>"
+    "<ul><li>10 (<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>) / 12 (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>) <linked>Stingers</linked></li><li>2 <linked>Vines</linked></li><li>32 <linked>Jungle Spores</linked></li></ul>"
   ],
   "statistics": {
     "Defense": "17<span class=\"note-text\"> (set)</span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 15 <span class=\"note-text\">(set)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Set Bonus": "<i><span class=\"gameText\">16% reduced mana usage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -22,11 +22,11 @@
           "value": "<span class=\"i multi-line\">[img:Jungle Hat]<span><span title=\"Jungle Hat\">Jungle Hat</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
@@ -35,25 +35,25 @@
           "value": "<span class=\"i multi-line\">[img:Jungle Pants]<span><span title=\"Jungle Pants\">Jungle Pants</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       },
       {
@@ -62,11 +62,11 @@
           "value": "<span class=\"i multi-line\">[img:Jungle Hat]<span><span title=\"Jungle Hat\">Jungle Hat</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Helmet]<span><span>Ancient Cobalt Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Helmet]</linked><span><span><linked>Ancient Cobalt Helmet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -75,7 +75,7 @@
           "value": "<span class=\"i multi-line\">[img:Jungle Pants]<span><span title=\"Jungle Pants\">Jungle Pants</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Leggings]<span><span>Ancient Cobalt Leggings</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Leggings]</linked><span><span><linked>Ancient Cobalt Leggings</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -84,7 +84,7 @@
           "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span title=\"Jungle Shirt\">Jungle Shirt</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Breastplate]<span><span>Ancient Cobalt Breastplate</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Breastplate]</linked><span><span><linked>Ancient Cobalt Breastplate</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -92,32 +92,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Breastplate]<span><span>Ancient Cobalt Breastplate</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Cobalt Breastplate]</linked><span><span><linked>Ancient Cobalt Breastplate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Shirt]<span><span>Jungle Shirt</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Shirt]</linked><span><span><linked>Jungle Shirt</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Helmet]<span><span>Ancient Cobalt Helmet</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Cobalt Helmet]</linked><span><span><linked>Ancient Cobalt Helmet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Hat]<span><span>Jungle Hat</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Hat]</linked><span><span><linked>Jungle Hat</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Leggings]<span><span>Ancient Cobalt Leggings</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Cobalt Leggings]</linked><span><span><linked>Ancient Cobalt Leggings</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Pants]<span><span>Jungle Pants</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Pants]</linked><span><span><linked>Jungle Pants</linked></span></span></span></li></ul>"
         }
       }
     ]

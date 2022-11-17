@@ -2,13 +2,13 @@
   "type": "blocks",
   "title": "Sandstone Slab",
   "summaries": [
-    "<b>Sandstone Slab</b> is a building material which is similar in appearance to Sandstone Bricks, but darker and larger. Unlike most other building blocks (Stone Slabs in particular), the Sandstone Slab does not have a wall counterpart.",
-    "As Sand is affected by gravity, Sandstone Slabs can be used instead of sand when building sand-related structures, as they look almost identical."
+    "<b>Sandstone Slab</b> is a building material which is similar in appearance to <linked>Sandstone Bricks</linked>, but darker and larger. Unlike most other building blocks (<linked>Stone Slabs</linked> in particular), the Sandstone Slab does not have a <linked>wall</linked> counterpart.",
+    "As <linked>Sand</linked> is affected by gravity, Sandstone Slabs can be used instead of sand when building sand-related structures, as they look almost identical."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sandstone Slab]<span><span>Sandstone Slab</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sandstone Slab]</linked><span><span><linked>Sandstone Slab</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Heavy Work Bench]<span><span>Heavy Work Bench</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

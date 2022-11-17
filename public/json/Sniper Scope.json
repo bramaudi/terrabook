@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Sniper Scope",
   "summaries": [
-    "The <b>Sniper Scope</b> is a Hardmode, post-Golem accessory that provides 10% increased ranged damage and 10% increased critical strike chance. Furthermore, it grants the ability to increase view range while holding a bullet-firing gun by pressing and holding <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> and moving the cursor."
+    "The <b>Sniper Scope</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>accessory</linked> that provides 10% increased ranged damage and 10% increased <linked>critical strike</linked> chance. Furthermore, it grants the ability to increase view range while holding a <linked>bullet</linked>-firing <linked>gun</linked> by pressing and holding <span class=\"key\"><linked>⚷ Open / Activate</linked></span> and moving the cursor."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases view range for guns (Right click to zoom out)<br>10% increased ranged damage and critical strike chance</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sniper Scope]</linked><span><span><linked>Sniper Scope</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Rifle Scope]<span><span>Rifle Scope</span></span></span></li><li><span class=\"i\">[img:Destroyer Emblem]<span><span>Destroyer Emblem</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rifle Scope]</linked><span><span><linked>Rifle Scope</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Destroyer Emblem]</linked><span><span><linked>Destroyer Emblem</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Recon Scope]<span><span>Recon Scope</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Recon Scope]</linked><span><span><linked>Recon Scope</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sniper Scope]</linked><span><span><linked>Sniper Scope</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

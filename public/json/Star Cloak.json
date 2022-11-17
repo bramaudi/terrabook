@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Star Cloak",
   "summaries": [
-    "The <b>Star Cloak</b> is a Hardmode accessory that causes three stars to fall around the player whenever the player takes damage. It consumes no mana. The stars that fall cause <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <abbr class=\"expert\" title=\"Expert Mode\">150</abbr> / <abbr class=\"master\" title=\"Master Mode\">225</abbr> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 30 magic damage each, pierce through multiple enemies, and pass through blocks until reaching the player's altitude, at which point they continue falling until hitting blocks. On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, the stars have 25 armor penetration.",
-    "The Star Cloak has a <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>16.67*</s>1/6 (16.67%)</span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance to be dropped by Mimics."
+    "The <b>Star Cloak</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that causes three stars to fall around the player whenever the player takes damage. It consumes no <linked>mana</linked>. The stars that fall cause <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <linked>150</linked> / <linked>225</linked> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 30 <linked>magic damage</linked> each, pierce through multiple enemies, and pass through <linked>blocks</linked> until reaching the player's altitude, at which point they continue falling until hitting blocks. On <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile</linked>, the stars have 25 <linked>armor penetration</linked>.",
+    "The Star Cloak has a <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>16.67*</s>1/6 (16.67%)</span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance to be dropped by <linked>Mimics</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Causes stars to fall after taking damage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,45 +16,45 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chromatic Cloak]<span><span>Chromatic Cloak</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Chromatic Cloak]</linked><span><span><linked>Chromatic Cloak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bee Cloak]<span><span>Bee Cloak</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bee Cloak]</linked><span><span><linked>Bee Cloak</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Comb]</linked><span><span><linked>Honey Comb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Cloak]<span><span>Mana Cloak</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Cloak]</linked><span><span><linked>Mana Cloak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Star Veil]<span><span>Star Veil</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Star Veil]</linked><span><span><linked>Star Veil</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li><li><span class=\"i\">[img:Cross Necklace]<span><span>Cross Necklace</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cross Necklace]</linked><span><span><linked>Cross Necklace</linked></span></span></span></li></ul>"
         }
       }
     ]

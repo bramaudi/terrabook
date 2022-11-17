@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Goblin Sorcerer",
   "summaries": [
-    "The <b>Goblin Sorcerer</b> is an enemy that spawns during the Goblin Army event. Approximately one out of every nine goblins will be a Sorcerer (11.11% chance to spawn). The Goblin Sorcerer fires three Chaos Balls in succession that travel through blocks, and it teleports. The Sorcerer cannot fire and won't teleport when taking damage."
+    "The <b>Goblin Sorcerer</b> is an <linked>enemy</linked> that spawns during the <linked>Goblin Army</linked> event. Approximately one out of every nine goblins will be a Sorcerer (11.11% chance to spawn). The Goblin Sorcerer fires three <linked>Chaos Balls</linked> in succession that travel through <linked>blocks</linked>, and it teleports. The Sorcerer cannot fire and won't teleport when taking damage."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Goblin Army </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Goblin Army </linked></span></div>",
     "AI Type": "Caster AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">20</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">40</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">72</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">108</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">108</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">162</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">40</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">80</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">176</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">264</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">120</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">264</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">396</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">2</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">2</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">4</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">6</span></span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">40%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">46%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">52%</span></span></span>",
-    "Banner": "<span class=\"i\">[img:Goblin Sorcerer Banner]<span><span>Goblin Sorcerer Banner</span></span></span>",
+    "Banner": "<span class=\"i\"><linked>[img:Goblin Sorcerer Banner]</linked><span><span><linked>Goblin Sorcerer Banner</linked></span></span></span>",
     "Immune to": "Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Spiky Ball]<span><span>Spiky Ball</span></span></span> (1-5)</div><div>49.75%</div></li><li><div><span class=\"i\">[img:Harpoon]<span><span>Harpoon</span></span></span></div><div>0.5%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Spiky Ball]</linked><span><span><linked>Spiky Ball</linked></span></span></span> (1-5)</div><div>49.75%</div></li><li><div><span class=\"i\"><linked>[img:Harpoon]</linked><span><span><linked>Harpoon</linked></span></span></span></div><div>0.5%</div></li></ul>"
 }

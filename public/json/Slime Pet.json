@@ -2,13 +2,13 @@
   "type": "pets",
   "title": "Petri Dish",
   "summaries": [
-    "The <b>Petri Dish</b> summons a pet slime when used, which deals no damage. It grants the <b>Pet Slime</b> buff that lasts until the player manually cancels it by pressing X or X/Square on the buff's icon in the armor section of the inventory screen, uses the Petri Dish again, or the player dies.",
-    "It can be obtained from Gold Chests and as a drop from Shadow Slimes."
+    "The <b>Petri Dish</b> summons a <linked>pet</linked> <linked>slime</linked> when used, which deals no damage. It grants the <b>Pet Slime</b> buff that lasts until the player manually cancels it by pressing X or X/Square on the buff's icon in the armor section of the inventory screen, uses the Petri Dish again, or the player dies.",
+    "It can be obtained from <linked>Gold Chests</linked> and as a drop from <linked>Shadow Slimes</linked>."
   ],
   "statistics": {
     "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i>Summons a pet slime</i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>"
   },
   "crafts": {}
 }

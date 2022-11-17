@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Glommer's Flower",
   "summaries": [
-    "The <b>Glommer's Flower</b> is a pet-summoning item which summons a <b>Glommer</b> pet that follows the player around. It is dropped by Derpling with a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> chance. In a Constant world, the drop chance is increased to <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span>."
+    "The <b>Glommer's Flower</b> is a <linked>pet</linked>-summoning item which summons a <b>Glommer</b> pet that follows the player around. It is dropped by <linked>Derpling</linked> with a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> chance. In a <linked>Constant</linked> world, the drop chance is increased to <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span>."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a Glommer<br>'The petals shimmer in the light'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

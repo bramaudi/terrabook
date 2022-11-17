@@ -2,13 +2,13 @@
   "type": "blocks",
   "title": "Coralstone Block",
   "summaries": [
-    "<b>Coralstone Blocks</b> are decorative blocks. When placed, they can have one of the many kinds of coral on it. Much like Sunplate Blocks, Coralstone Blocks show a special, non-changing image if a square of nine or more are put next to each other. In this case, the image is a coral that looks much like a sponge.",
-    "On [img:Old-gen console version] Old-gen console version, Nintendo 3DS[img:Nintendo 3DS version] version, and [img:Legacy tModLoader version] Legacy tModLoader version, they have a chance to be awarded from the Angler."
+    "<b>Coralstone Blocks</b> are decorative <linked>blocks</linked>. When placed, they can have one of the many kinds of coral on it. Much like <linked>Sunplate Blocks</linked>, Coralstone Blocks show a special, non-changing image if a square of nine or more are put next to each other. In this case, the image is a coral that looks much like a sponge.",
+    "On <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, they have a chance to be awarded from the <linked>Angler</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Coralstone Block]<span><span>Coralstone Block</span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Coralstone Block]</linked><span><span><linked>Coralstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Coral]<span><span>Coral</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Coral]</linked><span><span><linked>Coral</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Water]<span><span>Water</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Sink]<span><span>Sink</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

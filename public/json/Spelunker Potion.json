@@ -2,16 +2,16 @@
   "type": "accessories",
   "title": "Spelunker Potion",
   "summaries": [
-    "The <b>Spelunker Potion</b> is a buff potion that grants the <b>Spelunker</b> buff when consumed, which illuminates valuable nearby objects. The highlight color varies between versions. This lasts for 5 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]).",
-    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a bonus drop from Slimes.",
+    "The <b>Spelunker Potion</b> is a <linked>buff potion</linked> that grants the <b>Spelunker</b> <linked>buff</linked> when consumed, which illuminates valuable nearby objects. The highlight color varies between versions. This lasts for 5 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>.",
     "The Spelunker buff illuminates the following:",
-    "<ul><li>Ores</li><li>Gems</li><li>Pots</li><li>Herbs</li><li>Dye plants</li><li>Chests</li><li>Life Crystals</li><li>Life Fruits</li><li>Statues (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>)</li><li>Paintings (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>)</li></ul>"
+    "<ul><li><linked>Ores</linked></li><li><linked>Gems</linked></li><li><linked>Pots</linked></li><li><linked>Herbs</linked></li><li><linked>Dye plants</linked></li><li><linked>Chests</linked></li><li><linked>Life Crystals</linked></li><li><linked>Life Fruits</linked></li><li><linked>Statues</linked> (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>)</li><li><linked>Paintings</linked> (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>)</li></ul>"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Shows the location of treasure and ore</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -20,19 +20,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Spelunker Potion]<span><span>Spelunker Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spelunker Potion]</linked><span><span><linked>Spelunker Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moonglow]</linked><span><span><linked>Moonglow</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Platinum Ore]<span><span>Platinum Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moonglow]</linked><span><span><linked>Moonglow</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span></li></ul>"
         }
       }
     ]

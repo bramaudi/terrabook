@@ -2,16 +2,17 @@
   "type": "enemies",
   "title": "Selenian",
   "summaries": [
-    "The <b>Selenian</b> is a Hardmode, post-Lunatic Cultist enemy that is spawns in Solar Pillar area during the Lunar Events. It is a ground-based enemy that wields two flaming swords. It has a spinning attack that causes it to move faster and reflect the player's projectiles.",
-    "It can reflect bullets, arrows, and darts, but not rockets, and the projectiles of numerous other weapons. For the complete list, see List of reflected projectiles."
+    "The <b>Selenian</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> <linked>enemy</linked> that is spawns in <linked>Solar Pillar</linked> area during the <linked>Lunar Events</linked>. It is a ground-based enemy that wields two flaming swords. It has a spinning attack that causes it to move faster and reflect the player's projectiles.",
+    "It can reflect <linked>bullets</linked>, <linked>arrows</linked>, and <linked>darts</linked>, but not <linked>rockets</linked>, and the projectiles of numerous other weapons. For the complete list, see <linked>List of reflected projectiles</linked>."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Lunar Events </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Lunar Events </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">90</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">180</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">270</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">800</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1600</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">2400</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">30</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Selenian Banner]<span><span>Selenian Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+    "Banner": "<span class=\"i -w\"><linked>[img:Selenian Banner]</linked><span><span><linked>Selenian Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Confused"
   }
 }

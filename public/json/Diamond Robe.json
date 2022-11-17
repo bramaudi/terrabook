@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Diamond Robe",
   "summaries": [
-    "The <b>Diamond Robe</b> is an Armor item parts of the Wizard set that can be worn in the shirt slot. It is the strongest Gem Robe in the game.",
-    "Wearing the Wizard Hat alongside the Diamond Robe provides a set bonus of +10% magic critical strike chance while wearing a Magic Hat alongside it provides a set bonus of +60 Mana. Any leg-slot equipment can be worn with these set bonuses intact."
+    "The <b>Diamond Robe</b> is an <linked>Armor</linked> item parts of the <linked>Wizard set</linked> that can be worn in the shirt slot. It is the strongest Gem <linked>Robe</linked> in the game.",
+    "Wearing the <linked>Wizard Hat</linked> alongside the Diamond Robe provides a set bonus of +10% magic critical strike chance while wearing a <linked>Magic Hat</linked> alongside it provides a set bonus of +60 <linked>Mana</linked>. Any leg-slot equipment can be worn with these set bonuses intact."
   ],
   "statistics": {
     "Defense": "3",
     "Body slot": "Shirt",
     "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 80<br>15% reduced mana cost</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Diamond Robe]<span><span>Diamond Robe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Diamond Robe]</linked><span><span><linked>Diamond Robe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Robe]<span><span>Robe</span></span></span></li><li><span class=\"i\">[img:Diamond]<span><span>Diamond</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Robe]</linked><span><span><linked>Robe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Loom]<span><span>Loom</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Loom]</linked><span><span><linked>Loom</linked></span></span></span>"
         }
       }
     ]

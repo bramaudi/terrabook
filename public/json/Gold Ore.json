@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Gold Ore",
   "summaries": [
-    "<b>Gold Ore</b> is an early game ore which spawns in the Underground and Cavern layers. Its primary use is to make Gold Bars, which can be used to make the Gold tier of equipment, as well as crowns, Thrones, and several other items. The equivalent of Gold Ore is Platinum Ore, which will sometimes replace Gold in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Gold Ore has a small chance to appear as a bonus drop from slimes."
+    "<b>Gold Ore</b> is an early game <linked>ore</linked> which spawns in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is to make <linked>Gold Bars</linked>, which can be used to make the Gold tier of equipment, as well as <linked>crowns</linked>, <linked>Thrones</linked>, and several other items. The equivalent of Gold Ore is <linked>Platinum Ore</linked>, which will sometimes replace Gold in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Gold Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
@@ -16,23 +16,23 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Gold Ore]<span><span>Gold Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Platinum Ore]<span><span>Platinum Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Platinum Ore]<span><span>Platinum Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -40,71 +40,71 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Platinum Ore]<span><span>Platinum Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Chlorophyte Extractinator]<span><span>Chlorophyte Extractinator Conversion</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Gold Bar]<span><span>Gold Bar</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Gold Brick]<span><span>Gold Brick</span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Gold Brick]<span><span>Gold Brick</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Spelunker Potion]<span><span>Spelunker Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spelunker Potion]</linked><span><span><linked>Spelunker Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moonglow]</linked><span><span><linked>Moonglow</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Tungsten Ore]<span><span>Tungsten Ore</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Tungsten Ore]</linked><span><span><linked>Tungsten Ore</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ore]<span><span>Gold Ore</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

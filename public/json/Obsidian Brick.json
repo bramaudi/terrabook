@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Obsidian Brick",
   "summaries": [
-    "The <b>Obsidian Brick</b> is a brick-block mainly used for building. It can be crafted at a Furnace or mined by any tier of pickaxe. It is commonly found in the Underworld's Ruined Houses."
+    "The <b>Obsidian Brick</b> is a <linked>brick</linked>-block mainly used for building. It can be crafted at a <linked>Furnace</linked> or mined by any tier of <linked>pickaxe</linked>. It is commonly found in the <linked>Underworld</linked>'s <linked>Ruined Houses</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,58 +15,58 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Platform]<span><span>Obsidian Platform</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Platform]</linked><span><span><linked>Obsidian Platform</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "By Hand"
+          "value": "<linked>By Hand</linked>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span> <span class=\"note-text\">(2)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick Wall]<span><span>Obsidian Brick Wall</span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Brick Wall]</linked><span><span><linked>Obsidian Brick Wall</linked></span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ],
@@ -74,40 +74,40 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Platform]<span><span>Obsidian Platform</span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Platform]</linked><span><span><linked>Obsidian Platform</linked></span></span></span> <span class=\"note-text\">(2)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "By Hand"
+          "value": "<linked>By Hand</linked>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ancient Obsidian Brick]<span><span>Ancient Obsidian Brick</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Obsidian Brick]</linked><span><span><linked>Ancient Obsidian Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Brick Wall]<span><span>Obsidian Brick Wall</span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Brick Wall]</linked><span><span><linked>Obsidian Brick Wall</linked></span><span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Brick]<span><span>Obsidian Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

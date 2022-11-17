@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Crimson armor",
   "summaries": [
-    "<b>Crimson armor</b> is a pre-Hardmode armor set consisting of the <b>Crimson Helmet</b>, <b>Crimson Scalemail</b>, and <b>Crimson Greaves</b>. Equipping the full set grants a greatly increased health regeneration rate, represented by faint red pulses around the player: Each pulse represents one health point regenerated. These become more frequent the longer the player avoids damage, and even more frequent while standing still. Each piece also provides a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +3% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +2% weapon damage boost, the entire set providing a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +9% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +6%  damage.",
-    "Crimson armor is the Crimson equivalent of Shadow armor and leaves a similar trail of red bubbles during motion when the full set is equipped. However, unlike Shadow armor, it does not have an interchangeable Ancient version.",
-    "Crafting the full set requires 60 Crimtane Bars and 45 Tissue Samples."
+    "<b>Crimson armor</b> is a <linked>pre-Hardmode</linked> <linked>armor</linked> set consisting of the <b>Crimson Helmet</b>, <b>Crimson Scalemail</b>, and <b>Crimson Greaves</b>. Equipping the full set grants a greatly increased <linked>health regeneration</linked> rate, represented by faint red pulses around the player: Each pulse represents one health point regenerated. These become more frequent the longer the player avoids <linked>damage</linked>, and even more frequent while standing still. Each piece also provides a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +3% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +2% weapon damage boost, the entire set providing a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +9% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> +6%  damage.",
+    "Crimson armor is <linked>the Crimson</linked> equivalent of <linked>Shadow armor</linked> and leaves a similar trail of red bubbles during motion when the full set is equipped. However, unlike Shadow armor, it does not have an interchangeable <linked>Ancient</linked> version.",
+    "Crafting the full set requires 60 <linked>Crimtane Bars</linked> and 45 <linked>Tissue Samples</linked>."
   ],
   "statistics": {
     "Defense": "19<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Greatly increased life regen</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 40 Silver Coins\" data-sort-value=\"24000\"><span class=\"gc\">2</span><span class=\"sc\">40</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -20,11 +20,11 @@
           "value": "<span class=\"i multi-line\">[img:Crimson Greaves]<span><span title=\"Crimson Greaves\">Crimson Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Tissue Sample]<span><span>Tissue Sample</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\">[img:Crimson Helmet]<span><span title=\"Crimson Helmet\">Crimson Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Tissue Sample]<span><span>Tissue Sample</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         }
       },
       {
@@ -42,7 +42,7 @@
           "value": "<span class=\"i multi-line\">[img:Crimson Scalemail]<span><span title=\"Crimson Scalemail\">Crimson Scalemail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\">[img:Tissue Sample]<span><span>Tissue Sample</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       }
     ]

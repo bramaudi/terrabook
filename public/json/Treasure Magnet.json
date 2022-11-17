@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Treasure Magnet",
   "summaries": [
-    "The <b>Treasure Magnet</b> is an accessory which increases the pickup range of items from 2.625 tiles to 12 tiles while equipped. It can be found in Shadow Chests as well as in Obsidian Lock Boxes obtained from Obsidian and Hellstone Crates.",
+    "The <b>Treasure Magnet</b> is an <linked>accessory</linked> which increases the <linked>pickup range</linked> of items from 2.625 tiles to 12 tiles while equipped. It can be found in <linked>Shadow Chests</linked> as well as in <linked>Obsidian Lock Boxes</linked> obtained from <linked>Obsidian</linked> and <linked>Hellstone Crates</linked>.",
     "When an item is within its range, before directly flying to the player, it will hover a few blocks off the ground."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases pickup range for items</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hand Of Creation]<span><span>Hand Of Creation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hand Of Creation]</linked><span><span><linked>Hand Of Creation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Architect Gizmo Pack]<span><span>Architect Gizmo Pack</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ancient Chisel]<span><span>Ancient Chisel</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Treasure Magnet]<span><span>Treasure Magnet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Step Stool]<span><span>Step Stool</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Architect Gizmo Pack]</linked><span><span><linked>Architect Gizmo Pack</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ancient Chisel]</linked><span><span><linked>Ancient Chisel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Treasure Magnet]</linked><span><span><linked>Treasure Magnet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Step Stool]</linked><span><span><linked>Step Stool</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

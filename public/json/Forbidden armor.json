@@ -2,16 +2,16 @@
   "type": "armors",
   "title": "Forbidden armor",
   "summaries": [
-    "<b>Forbidden armor</b> is a Hardmode armor set consisting of the <b>Forbidden Mask</b>, <b>Forbidden Robes</b> and the <b>Forbidden Treads</b>. Crafting the full set requires 3 Forbidden Fragments and 46 Titanium Bars or Adamantite Bars.",
+    "<b>Forbidden armor</b> is a <linked>Hardmode</linked> <linked>armor</linked> set consisting of the <b>Forbidden Mask</b>, <b>Forbidden Robes</b> and the <b>Forbidden Treads</b>. Crafting the full set requires 3 <linked>Forbidden Fragments</linked> and 46 <linked>Titanium Bars</linked> or <linked>Adamantite Bars</linked>.",
     "A full set of Forbidden armor will provide the following stats:",
-    "<ul><li>+26 defense</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +25% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +15% magic and summon damage</li><li>+80 maximum mana</li><li>+2 minion capacity</li></ul>",
-    "While wearing the full set, a golden, spiky, rune-like object, known as the <b>Forbidden Sign</b>, floats behind the player in a very similar fashion to the Stardust Guardian from the Stardust armor set. Double tapping <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> or <span class=\"key\"><kbd><span title=\"W (PC default)\">▲ Up</span></kbd></span> (depending on the \"Activate Set Bonuses\" setting) will send a beam of dust particles that summon a sand tornado at the nearest block surface beneath the cursor position at the cost of 20 mana. The beam itself does not deal any damage, but the tornado rapidly hits any enemy that comes in direct contact with it for 20 base damage. The Forbidden Sign also casts a faint yellow light around the player, similar to the Mining Helmet.",
+    "<ul><li>+26 <linked>defense</linked></li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +25% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +15% <linked>magic</linked> and <linked>summon damage</linked></li><li>+80 maximum <linked>mana</linked></li><li>+2 minion capacity</li></ul>",
+    "While wearing the full set, a golden, spiky, rune-like object, known as the <b>Forbidden Sign</b>, floats behind the player in a very similar fashion to the <linked>Stardust Guardian</linked> from the <linked>Stardust armor</linked> set. Double tapping <span class=\"key\"><linked>▼ Down</linked></span> or <span class=\"key\"><linked>▲ Up</linked></span> (depending on the \"Activate Set Bonuses\" <linked>setting</linked>) will send a beam of dust particles that summon a sand tornado at the nearest <linked>block</linked> surface beneath the cursor position at the cost of 20 mana. The beam itself does not deal any damage, but the tornado rapidly hits any <linked>enemy</linked> that comes in direct contact with it for 20 base damage. The Forbidden Sign also casts a faint yellow light around the player, similar to the <linked>Mining Helmet</linked>.",
     "The dust particles can not pass through solid objects, which means that if there is a solid object between the character and the cursor, the beam will hit the solid object, stop there, and the sand tornado will not be summoned. Only one sand tornado can be summoned at a time, and when a new tornado is summoned, the old one disappears after roughly 1 second. A space of at least 3×12 tiles is required for the tornado to be summoned. If no enemies come in contact with the tornado, it disappears after 15 seconds."
   ],
   "statistics": {
     "Defense": "26<span class=\"note-text\"> (set)</span>",
-    "Set Bonus": "<i><span class=\"gameText\">Double tap <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span>/<span class=\"key\"><kbd><span title=\"W (PC default)\">▲ Up</span></kbd></span><sup id=\"cite_ref-1\" class=\"reference\">[1]</sup> to call an ancient storm to the cursor location</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Set Bonus": "<i><span class=\"gameText\">Double tap <span class=\"key\"><linked>▼ Down</linked></span>/<span class=\"key\"><linked>▲ Up</linked></span><sup id=\"cite_ref-1\" class=\"reference\"><linked>[1]</linked></sup> to call an ancient storm to the cursor location</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"12 Gold Coins\" data-sort-value=\"120000\"><span class=\"gc\">12</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -22,16 +22,16 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Mask]<span><span title=\"Forbidden Mask\">Forbidden Mask</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -40,12 +40,12 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Robes]<span><span title=\"Forbidden Robes\">Forbidden Robes</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -54,12 +54,12 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Treads]<span><span title=\"Forbidden Treads\">Forbidden Treads</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\">[img:Forbidden Fragment]<span><span>Forbidden Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

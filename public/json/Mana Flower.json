@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Mana Flower",
   "summaries": [
-    "The <b>Mana Flower</b> is a pre-Hardmode accessory that reduces mana usage by 8%, and enables auto-consumption of any mana-restoring potions in the player's inventory when mana is depleted. The Mana Flower stacks with other mana cost-reduction items, including Nature's Gift. It is crafted at the Tinkerer's Workshop."
+    "The <b>Mana Flower</b> is a <linked>pre-Hardmode</linked> <linked>accessory</linked> that reduces <linked>mana</linked> usage by 8%, and enables auto-consumption of any mana-restoring <linked>potions</linked> in the player's <linked>inventory</linked> when mana is depleted. The Mana Flower stacks with other mana cost-reduction items, including <linked>Nature's Gift</linked>. It is crafted at the <linked>Tinkerer's Workshop</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">8% reduced mana cost<br>Automatically use mana potions when needed</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Flower]<span><span>Mana Flower</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nature's Gift]<span><span>Nature's Gift</span></span></span></li><li><span class=\"i\">[img:Mana Potion]<span><span>Mana Potion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nature's Gift]</linked><span><span><linked>Nature's Gift</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,32 +30,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Arcane Flower]<span><span>Arcane Flower</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Arcane Flower]</linked><span><span><linked>Arcane Flower</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Magnet Flower]<span><span>Magnet Flower</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magnet Flower]</linked><span><span><linked>Magnet Flower</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Celestial Magnet]<span><span>Celestial Magnet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Celestial Magnet]</linked><span><span><linked>Celestial Magnet</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Cloak]<span><span>Mana Cloak</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Cloak]</linked><span><span><linked>Mana Cloak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Star Cloak]<span><span>Star Cloak</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li></ul>"
         }
       }
     ]

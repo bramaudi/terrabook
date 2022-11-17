@@ -2,15 +2,15 @@
   "type": "accessories",
   "title": "Mana Potion",
   "summaries": [
-    "The <b>Mana Potion</b> restores 100 mana when used. It can be crafted or occasionally obtained from any Crates except the Wooden and Pearlwood Crates. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They are also sold by the Merchant in Hardmode.",
-    "Consuming any Mana Potion (Super, Greater, Regular, or Lesser) will inflict the Mana Sickness debuff on the player.",
-    "Consuming Mana Potions will <i>not</i> activate the Potion Sickness debuff."
+    "The <b>Mana Potion</b> restores 100 <linked>mana</linked> when used. It can be crafted or occasionally obtained from any <linked>Crates</linked> except the <linked>Wooden</linked> and <linked>Pearlwood Crates</linked>. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They are also sold by the <linked>Merchant</linked> in Hardmode.",
+    "Consuming any Mana Potion (<linked>Super</linked>, <linked>Greater</linked>, Regular, or <linked>Lesser</linked>) will inflict the <linked>Mana Sickness</linked> <linked>debuff</linked> on the player.",
+    "Consuming Mana Potions will <i>not</i> activate the <linked>Potion Sickness</linked> debuff."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Heals Mana": "100",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"50 Copper Coins\" data-sort-value=\"50\"><span class=\"cc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
@@ -19,14 +19,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Potion]<span><span>Mana Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lesser Mana Potion]<span><span>Lesser Mana Potion</span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\">[img:Glowing Mushroom]<span><span>Glowing Mushroom</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Mana Potion]</linked><span><span><linked>Lesser Mana Potion</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -34,27 +34,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Restoration Potion]<span><span>Restoration Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Potion]<span><span>Mana Potion</span></span></span></li><li><span class=\"i\">[img:Healing Potion]<span><span>Healing Potion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Healing Potion]</linked><span><span><linked>Healing Potion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Flower]<span><span>Mana Flower</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nature's Gift]<span><span>Nature's Gift</span></span></span></li><li><span class=\"i\">[img:Mana Potion]<span><span>Mana Potion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nature's Gift]</linked><span><span><linked>Nature's Gift</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Palm Wood armor",
   "summaries": [
-    "<b>Palm Wood armor</b> is an Armor set that consists of the <b>Palm Wood Helmet</b>, <b>Palm Wood Breastplate</b>, and <b>Palm Wood Greaves</b>.",
-    "Making this armor set requires the player to chop down Palm Trees, which can grow naturally in the Ocean and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Oasis biomes or be manually planted using Acorns on Sand Blocks. Like the other Wood armor sets, it is fairly weak, and only useful very early on. It does provide a one defense bonus over the normal Wood armor, meaning if the player comes across the <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Oasis early on, it may be a wise idea to chop down Palm Trees to make this armor set as a minor upgrade.",
+    "<b>Palm Wood armor</b> is an <linked>Armor</linked> set that consists of the <b>Palm Wood Helmet</b>, <b>Palm Wood Breastplate</b>, and <b>Palm Wood Greaves</b>.",
+    "Making this armor set requires the player to chop down <linked>Palm Trees</linked>, which can grow naturally in the <linked>Ocean</linked> and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Oasis</linked> biomes or be manually planted using <linked>Acorns</linked> on <linked>Sand Blocks</linked>. Like the other Wood armor sets, it is fairly weak, and only useful very early on. It does provide a one defense bonus over the normal <linked>Wood armor</linked>, meaning if the player comes across the <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Oasis</linked> early on, it may be a wise idea to chop down Palm Trees to make this armor set as a minor upgrade.",
     "Wearing a full set grants a basic 3 defense plus a set bonus of 1 defense, which equals a <b>total of 4 defense</b>."
   ],
   "statistics": {
     "Defense": "4 (3+1)<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">1 defense</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>"
   },
   "crafts": {
     "Recipes": [
@@ -19,11 +19,11 @@
           "value": "<span class=\"i multi-line\">[img:Palm Wood Breastplate]<span><span title=\"Palm Wood Breastplate\">Palm Wood Breastplate</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palm Wood]<span><span>Palm Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
@@ -32,7 +32,7 @@
           "value": "<span class=\"i multi-line\">[img:Palm Wood Greaves]<span><span title=\"Palm Wood Greaves\">Palm Wood Greaves</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palm Wood]<span><span>Palm Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
@@ -41,7 +41,7 @@
           "value": "<span class=\"i multi-line\">[img:Palm Wood Helmet]<span><span title=\"Palm Wood Helmet\">Palm Wood Helmet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palm Wood]<span><span>Palm Wood</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       }
     ]

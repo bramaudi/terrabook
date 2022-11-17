@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Spectre Boots",
   "summaries": [
-    "<b>Spectre Boots</b> are an accessory crafted from Rocket Boots and either Flurry Boots, Hermes Boots, Dunerider Boots, or Sailfish Boots, and combine their functionality. During flight, they emit a white/blue cloud trail, but unlike the Rocket Boots, they do not produce any light. Their flight time is about 1.6 seconds, identical to Rocket Boots.",
-    "The effects of Spectre and Rocket Boots do not stack, though they do stack with Wings to increase flight time."
+    "<b>Spectre Boots</b> are an <linked>accessory</linked> crafted from <linked>Rocket Boots</linked> and either <linked>Flurry Boots</linked>, <linked>Hermes Boots</linked>, <linked>Dunerider Boots</linked>, or <linked>Sailfish Boots</linked>, and combine their functionality. During flight, they emit a white/blue cloud trail, but unlike the Rocket Boots, they do not produce any light. Their flight time is about 1.6 seconds, identical to Rocket Boots.",
+    "The effects of Spectre and <linked>Rocket Boots</linked> do not stack, though they do stack with <linked>Wings</linked> to increase flight time."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows flight<br>The wearer can run super fast</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,29 +16,29 @@
       {
         "result": {
           "rowspan": 4,
-          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Dunerider Boots]<span><span>Dunerider Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dunerider Boots]</linked><span><span><linked>Dunerider Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flurry Boots]<span><span>Flurry Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flurry Boots]</linked><span><span><linked>Flurry Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hermes Boots]<span><span>Hermes Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hermes Boots]</linked><span><span><linked>Hermes Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sailfish Boots]</linked><span><span><linked>Sailfish Boots</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -46,32 +46,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fairy Boots]<span><span>Fairy Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fairy Boots]</linked><span><span><linked>Fairy Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Flower Boots]<span><span>Flower Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flower Boots]</linked><span><span><linked>Flower Boots</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hellfire Treads]<span><span>Hellfire Treads</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hellfire Treads]</linked><span><span><linked>Hellfire Treads</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flame Waker Boots]<span><span>Flame Waker Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flame Waker Boots]</linked><span><span><linked>Flame Waker Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lightning Boots]<span><span>Lightning Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lightning Boots]</linked><span><span><linked>Lightning Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span></li><li><span class=\"i\">[img:Anklet of the Wind]<span><span>Anklet of the Wind</span></span></span></li><li><span class=\"i\">[img:Aglet]<span><span>Aglet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Anklet of the Wind]</linked><span><span><linked>Anklet of the Wind</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Aglet]</linked><span><span><linked>Aglet</linked></span></span></span></li></ul>"
         }
       }
     ]

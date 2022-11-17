@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Old One's Skeleton",
   "summaries": [
-    "The <b>Old One's Skeleton</b> is an enemy which is spawned by the Dark Mage during the Old One's Army event.",
+    "The <b>Old One's Skeleton</b> is an <linked>enemy</linked> which is spawned by the <linked>Dark Mage</linked> during the <linked>Old One's Army</linked> <linked>event</linked>.",
     "The Old One's Skeleton requires 150 kills to be awarded with the corresponding banner, as opposed to the usual 50 kills."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Old One's Army </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Old One's Army </linked></span></div>",
     "AI Type": "Attacker AI",
-    "Banner": "<span class=\"i -w\">[img:Old One's Skeleton Banner]<span><span>Old One's Skeleton Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Old One's Skeleton Banner]</linked><span><span><linked>Old One's Skeleton Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Poisoned, Confused"
   }
 }

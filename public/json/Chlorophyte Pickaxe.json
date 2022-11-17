@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Chlorophyte Pickaxe</b> is a Hardmode pickaxe, and is the pickaxe counterpart to the Chlorophyte Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. It can mine any block except Lihzahrd Bricks.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Chlorophyte Pickaxe</b> is a <linked>Hardmode</linked> <linked>pickaxe</linked>, and is the pickaxe counterpart to the <linked>Chlorophyte Drill</linked>, having a slower mining speed but longer range and benefiting from mining speed bonuses. It can mine any block except <linked>Lihzahrd Bricks</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "40 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "7",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Pickaxe]<span><span>Chlorophyte Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Chlorophyte Pickaxe]</linked><span><span><linked>Chlorophyte Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

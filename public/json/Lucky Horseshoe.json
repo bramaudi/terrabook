@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Lucky Horseshoe",
   "summaries": [
-    "The <b>Lucky Horseshoe</b> is an accessory that negates fall damage and grants +0.05 <span class=\"eil\"><span>luck</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. It can be found inside Floating Island Chests, <span class=\"eil\"><span>Sky Crates</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Azure Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>."
+    "The <b>Lucky Horseshoe</b> is an <linked>accessory</linked> that negates <linked>fall damage</linked> and grants +0.05 <span class=\"eil\"><span><linked>luck</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. It can be found inside <linked>Floating Island</linked> <linked>Chests</linked>, <span class=\"eil\"><span><linked>Sky Crates</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Azure Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Negates fall damage<br>'Said to bring good fortune and keep evil spirits at bay'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,82 +15,82 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Amber Horseshoe Balloon]<span><span>Amber Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amber Horseshoe Balloon]</linked><span><span><linked>Amber Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Balloon]</linked><span><span><linked>Honey Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 9,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blue Horseshoe Balloon]<span><span>Blue Horseshoe Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blue Horseshoe Balloon]</linked><span><span><linked>Blue Horseshoe Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Bundle of Horseshoe Balloons]<span><span>Bundle of Horseshoe Balloons</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bundle of Horseshoe Balloons]</linked><span><span><linked>Bundle of Horseshoe Balloons</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sandstorm in a Balloon]</linked><span><span><linked>Sandstorm in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bundle of Balloons]<span><span>Bundle of Balloons</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Green Horseshoe Balloon]<span><span>Green Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Fart in a Balloon]<span><span>Fart in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bundle of Balloons]</linked><span><span><linked>Bundle of Balloons</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Horseshoe]<span><span>Obsidian Horseshoe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Green Horseshoe Balloon]</linked><span><span><linked>Green Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Fart in a Balloon]</linked><span><span><linked>Fart in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pink Horseshoe Balloon]<span><span>Pink Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Horseshoe]</linked><span><span><linked>Obsidian Horseshoe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sharkron Balloon]<span><span>Sharkron Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull]</linked><span><span><linked>Obsidian Skull</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:White Horseshoe Balloon]<span><span>White Horseshoe Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pink Horseshoe Balloon]</linked><span><span><linked>Pink Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sharkron Balloon]</linked><span><span><linked>Sharkron Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Yellow Horseshoe Balloon]<span><span>Yellow Horseshoe Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:White Horseshoe Balloon]</linked><span><span><linked>White Horseshoe Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Horseshoe Balloon]</linked><span><span><linked>Yellow Horseshoe Balloon</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sandstorm in a Balloon]</linked><span><span><linked>Sandstorm in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       }
     ]

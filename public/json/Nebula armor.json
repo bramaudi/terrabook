@@ -2,16 +2,16 @@
   "type": "armors",
   "title": "Nebula armor",
   "summaries": [
-    "<b>Nebula armor</b> is a post-Moon Lord armor set that provides magic weapon boosts. It is currently the final magic set available on the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version. Crafting this set requires a total of 36 Luminite Bars (144 Luminite) and 45 Nebula Fragments.",
+    "<b>Nebula armor</b> is a post-<linked>Moon Lord</linked> <linked>armor</linked> set that provides <linked>magic weapon</linked> boosts. It is currently the final magic set available on the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>. Crafting this set requires a total of 36 <linked>Luminite Bars</linked> (144 <linked>Luminite</linked>) and 45 <linked>Nebula Fragments</linked>.",
     "A full set of the Nebula armor will provide the following benefits:",
-    "<ul><li>+60 maximum mana</li><li>+26% magic damage</li><li>+16% magic critical strike chance</li><li>−15% mana usage</li><li>+10% movement speed</li></ul>",
-    "Additionally, equipping the full set grants a chance that special booster items will appear when striking enemies with <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> magic weapons / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> any projectile (which includes minions). Each booster grants a buff that lasts 8 seconds and causes a spark effect to float around the player. When a booster item is picked up while an identical buff is already in effect, it stacks with the previous buff, for up to 3 stacked boosts. Every 8 seconds, one stacked booster expires and the buff decreases by one level. Booster items float in the air and have a greater pickup range than most items.",
-    "In multiplayer, any player can pick up these booster items and benefit from their buffs, even if they are not wearing Nebula armor. Additionally, picking up a booster item will grant nearby players (within a 43.75-tile radius) one instance of the buff. If the player acquiring the booster is on a team, only other players within that team will obtain the buff; otherwise, unaffiliated players will spread the buff to all other nearby players upon obtaining a booster."
+    "<ul><li>+60 maximum <linked>mana</linked></li><li>+26% <linked>magic damage</linked></li><li>+16% magic <linked>critical strike chance</linked></li><li>−15% mana usage</li><li>+10% <linked>movement speed</linked></li></ul>",
+    "Additionally, equipping the full set grants a chance that special booster items will appear when striking enemies with <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>magic weapons</linked> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> any <linked>projectile</linked> (which includes <linked>minions</linked>). Each booster grants a buff that lasts 8 seconds and causes a spark effect to float around the player. When a booster item is picked up while an identical buff is already in effect, it stacks with the previous buff, for up to 3 stacked boosts. Every 8 seconds, one stacked booster expires and the buff decreases by one level. Booster items float in the air and have a greater pickup range than most items.",
+    "In <linked>multiplayer</linked>, any player can pick up these booster items and benefit from their buffs, even if they are not wearing Nebula armor. Additionally, picking up a booster item will grant nearby players (within a 43.75-tile radius) one instance of the buff. If the player acquiring the booster is on a <linked>team</linked>, only other players within that team will obtain the buff; otherwise, unaffiliated players will spread the buff to all other nearby players upon obtaining a booster."
   ],
   "statistics": {
     "Defense": "46<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Magic damage has a chance to spawn buff boosters,<br>pick boosters up to get stacking buffs</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 10]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"31 Gold 50 Silver Coins\" data-sort-value=\"315000\"><span class=\"gc\">31</span><span class=\"sc\">50</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -22,11 +22,11 @@
           "value": "<span class=\"i multi-line\">[img:Nebula Breastplate]<span><span title=\"Nebula Breastplate\">Nebula Breastplate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Ancient Manipulator]<span><span>Ancient Manipulator</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -35,7 +35,7 @@
           "value": "<span class=\"i multi-line\">[img:Nebula Helmet]<span><span title=\"Nebula Helmet\">Nebula Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
         }
       },
       {
@@ -44,7 +44,7 @@
           "value": "<span class=\"i multi-line\">[img:Nebula Leggings]<span><span title=\"Nebula Leggings\">Nebula Leggings</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nebula Fragment]<span><span>Nebula Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Luminite Bar]<span><span>Luminite Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       }
     ]

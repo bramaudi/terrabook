@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Band of Regeneration",
   "summaries": [
-    "The <b>Band of Regeneration</b> is an accessory that can be found in Gold Chests in the Underground and Cavern biomes and in Living Mahogany Trees in the Underground Jungle. When equipped, it regenerates <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.5 health every second. This effect stacks with the player's natural health regeneration, but unlike the natural regeneration, does not slow or stop when the player is moving or being attacked."
+    "The <b>Band of Regeneration</b> is an <linked>accessory</linked> that can be found in <linked>Gold Chests</linked> in the <linked>Underground</linked> and <linked>Cavern</linked> biomes and in <linked>Living Mahogany Trees</linked> in the <linked>Underground Jungle</linked>. When equipped, it regenerates <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.5 <linked>health</linked> every second. This effect stacks with the player's natural <linked>health regeneration</linked>, but unlike the natural regeneration, does not slow or stop when the player is moving or being attacked."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Slowly regenerates life</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,23 +15,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Charm of Myths]<span><span>Charm of Myths</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Charm of Myths]</linked><span><span><linked>Charm of Myths</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Band of Regeneration]<span><span>Band of Regeneration</span></span></span></li><li><span class=\"i\">[img:Philosopher's Stone]<span><span>Philosopher's Stone</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Band of Regeneration]</linked><span><span><linked>Band of Regeneration</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Philosopher's Stone]</linked><span><span><linked>Philosopher's Stone</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Regeneration Band]</linked><span><span><linked>Mana Regeneration Band</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Band of Starpower]<span><span>Band of Starpower</span></span></span></li><li><span class=\"i\">[img:Band of Regeneration]<span><span>Band of Regeneration</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Band of Starpower]</linked><span><span><linked>Band of Starpower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Band of Regeneration]</linked><span><span><linked>Band of Regeneration</linked></span></span></span></li></ul>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Diving Gear",
   "summaries": [
-    "The <b>Diving Gear</b> is an accessory which allows the user to swim and breathe underwater for an extended amount of time. It combines the functionality of the Flipper and Diving Helmet. Apart from combining the two effects into a single accessory, it does not have other unique properties."
+    "The <b>Diving Gear</b> is an <linked>accessory</linked> which allows the user to swim and breathe underwater for an extended amount of time. It combines the functionality of the <linked>Flipper</linked> and <linked>Diving Helmet</linked>. Apart from combining the two effects into a single accessory, it does not have other unique properties."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Grants the ability to swim<br>Greatly extends underwater breathing</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Diving Gear]<span><span>Diving Gear</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Diving Gear]</linked><span><span><linked>Diving Gear</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flipper]<span><span>Flipper</span></span></span></li><li><span class=\"i\">[img:Diving Helmet]<span><span>Diving Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flipper]</linked><span><span><linked>Flipper</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Diving Helmet]</linked><span><span><linked>Diving Helmet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jellyfish Diving Gear]<span><span>Jellyfish Diving Gear</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Jellyfish Diving Gear]</linked><span><span><linked>Jellyfish Diving Gear</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Diving Gear]<span><span>Diving Gear</span></span></span></li><li><span class=\"i\">[img:Jellyfish Necklace]<span><span>Jellyfish Necklace</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Diving Gear]</linked><span><span><linked>Diving Gear</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jellyfish Necklace]</linked><span><span><linked>Jellyfish Necklace</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

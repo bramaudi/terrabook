@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Etherian Javelin Thrower",
   "summaries": [
-    "The <b>Etherian Javelin Thrower</b> is an enemy that spawns during the Old One's Army event. It attacks by throwing [img:Javelin 2] <b>javelins</b> at its target from a distance that will pierce through the player.",
-    "Acquiring its banner requires 200 kills, as opposed to the usual 50. The banner does not provide the usual combat buffs."
+    "The <b>Etherian Javelin Thrower</b> is an <linked>enemy</linked> that spawns during the <linked>Old One's Army</linked> <linked>event</linked>. It attacks by throwing [img:Javelin 2] <b>javelins</b> at its target from a distance that will pierce through the player.",
+    "Acquiring its <linked>banner</linked> requires 200 kills, as opposed to the usual 50. The banner does not provide the usual combat buffs."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Old One's Army </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Old One's Army </linked></span></div>",
     "AI Type": "Attacker AI",
-    "Banner": "<div style=\"width: 13em\"><span class=\"i break\">[img:Etherian Javelin Thrower Banner]<span><span>Etherian Javelin Thrower Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div>",
+    "Banner": "<div style=\"width: 13em\"><span class=\"i break\"><linked>[img:Etherian Javelin Thrower Banner]</linked><span><span><linked>Etherian Javelin Thrower Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div>",
     "Immune to": "Confused"
   }
 }

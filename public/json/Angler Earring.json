@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Angler Earring",
   "summaries": [
-    "The <b>Angler Earring</b> is an accessory that provides a +10 boost to Fishing power when equipped. It is acquired as a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> chance reward for completing a Fishing quest for the Angler NPC, depending on the number of completed quests and other factors (for details, see Angler).",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Angler will not give the player an Angler Earring as a reward if they already have one in their inventory or in any of their Portable Storages. However, if the player has a High Test Fishing Line, Angler Earring, <b>and</b> Tackle Box (or they have one of the accessories crafted from them, the <span class=\"eil\"><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or <span class=\"eil\"><span>Lavaproof Tackle Bag</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>) in their inventories, he will be able to give the player duplicate Angler Earrings.",
-    "Only one Angler Earring can be equipped at a time, however the increase in fishing power stacks with that of both the Angler Tackle Bag and the Lavaproof Tackle Bag, granting a total boost of +30 if all three are equipped. Due to the aforementioned rule on duplicates for [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, it could be beneficial to keep your Angler Earring in a chest, <i>out</i> of your possessions (inventory or portable storages), while keeping the other two in, to guarantee getting a second Angler Earring as soon as possible."
+    "The <b>Angler Earring</b> is an <linked>accessory</linked> that provides a +10 boost to <linked>Fishing</linked> power when equipped. It is acquired as a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> chance reward for completing a <linked>Fishing</linked> quest for the <linked>Angler</linked> <linked>NPC</linked>, depending on the number of completed quests and other factors (for details, see <linked>Angler</linked>).",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Angler will not give the player an Angler Earring as a reward if they already have one in their inventory or in any of their <linked>Portable Storages</linked>. However, if the player has a <linked>High Test Fishing Line</linked>, Angler Earring, <b>and</b> <linked>Tackle Box</linked> (or they have one of the accessories crafted from them, the <span class=\"eil\"><span><linked>Angler Tackle Bag</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or <span class=\"eil\"><span><linked>Lavaproof Tackle Bag</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>) in their inventories, he will be able to give the player duplicate Angler Earrings.",
+    "Only one Angler Earring can be equipped at a time, however the increase in fishing power stacks with that of both the Angler Tackle Bag and the Lavaproof Tackle Bag, granting a total boost of +30 if all three are equipped. Due to the aforementioned rule on duplicates for <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile</linked>, it could be beneficial to keep your Angler Earring in a chest, <i>out</i> of your possessions (inventory or portable storages), while keeping the other two in, to guarantee getting a second Angler Earring as soon as possible."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases fishing power by 10</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Angler Earring]<span><span>Angler Earring</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Angler Earring]</linked><span><span><linked>Angler Earring</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:High Test Fishing Line]<span><span>High Test Fishing Line</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:High Test Fishing Line]</linked><span><span><linked>High Test Fishing Line</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -32,27 +32,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Tackle Box]<span><span>Tackle Box</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Tackle Box]</linked><span><span><linked>Tackle Box</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Angler Earring]<span><span>Angler Earring</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Angler Earring]</linked><span><span><linked>Angler Earring</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Angler Tackle Bag]</linked><span><span><linked>Angler Tackle Bag</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:High Test Fishing Line]<span><span>High Test Fishing Line</span></span></span></li><li><span class=\"i\">[img:Tackle Box]<span><span>Tackle Box</span></span></span></li><li><span class=\"i\">[img:Angler Earring]<span><span>Angler Earring</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:High Test Fishing Line]</linked><span><span><linked>High Test Fishing Line</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tackle Box]</linked><span><span><linked>Tackle Box</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Angler Earring]</linked><span><span><linked>Angler Earring</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "enemies",
   "title": "Diseaster Bunny",
   "summaries": [
-    "<b>Diseaster Bunnies</b> come from the small eggs laid by Lepus, and therefore look like a miniature version of it. They also appear instead of Bunnies during Easter, at any time of the day, and so long as the world has been in play for a couple of in-game days. It acts exactly like a Corrupt Bunny. They can be quite annoying for new players, due to their high attack, health, speed and jumping ability, and the fact that they can spawn anywhere on the surface at any time."
+    "<b>Diseaster Bunnies</b> come from the small eggs laid by <linked>Lepus</linked>, and therefore look like a miniature version of it. They also appear instead of <linked>Bunnies</linked> during <linked>Easter</linked>, at any time of the day, and so long as the world has been in play for a couple of in-game days. It acts exactly like a <linked>Corrupt Bunny</linked>. They can be quite annoying for new players, due to their high attack, health, speed and jumping ability, and the fact that they can spawn anywhere on the surface at any time."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "20",
     "Max Life": "70",
     "Defense": "4"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li class=\"m-normal\"><div><span class=\"i\">[img:Bunny Hood]<span><span>Bunny Hood</span></span></span></div><div>1.33%</div></li><li class=\"m-normal\"><div><span class=\"i\">[img:Suspicious Looking Egg]<span><span>Suspicious Looking Egg</span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span></span></span> (1–2)</div><div>100%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li class=\"m-normal\"><div><span class=\"i\"><linked>[img:Bunny Hood]</linked><span><span><linked>Bunny Hood</linked></span></span></span></div><div>1.33%</div></li><li class=\"m-normal\"><div><span class=\"i\"><linked>[img:Suspicious Looking Egg]</linked><span><span><linked>Suspicious Looking Egg</linked></span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span></span></span> (1–2)</div><div>100%</div></li></ul>"
 }

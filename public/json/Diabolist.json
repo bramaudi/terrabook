@@ -2,14 +2,14 @@
   "type": "enemies",
   "title": "Diabolist",
   "summaries": [
-    "The <b>Diabolist</b> is a Hardmode enemy found in the post-Plantera Dungeon. It is most common in areas backed by Tiled Walls. These are identified by the related Faction Flag, the Diabolic Sigil.",
-    "Diabolists attack by firing blazing magic bolts that can travel through blocks at the player. Their magic bolts explode, creating an \"inferno\", a large flaming sphere that lasts for nearly 4 seconds and deals massive damage on contact, inflicting the On Fire! debuff. Diabolists teleport to a different location on-screen every time they are hit."
+    "The <b>Diabolist</b> is a <linked>Hardmode</linked> <linked>enemy</linked> found in the <linked>post-Plantera Dungeon</linked>. It is most common in areas backed by <linked>Tiled Walls</linked>. These are identified by the related <linked>Faction Flag</linked>, the <linked>Diabolic Sigil</linked>.",
+    "Diabolists attack by firing blazing magic bolts that can travel through <linked>blocks</linked> at the player. Their magic bolts explode, creating an \"inferno\", a large flaming sphere that lasts for nearly 4 seconds and deals massive damage on contact, inflicting the <linked>On Fire!</linked> <linked>debuff</linked>. Diabolists teleport to a different location on-screen every time they are hit."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Dungeon </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Dungeon </linked></span></div>",
     "AI Type": "Caster AI",
-    "Banner": "<span class=\"i -w\">[img:Diabolist Banner]<span><span>Diabolist Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Diabolist Banner]</linked><span><span><linked>Diabolist Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Poisoned, Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Inferno Fork]<span><span>Inferno Fork</span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">5%</span><span class=\"m-expert-master\"><abbr class=\"expert\" title=\"Expert Mode\">7.38%</abbr></span></span></div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Inferno Fork]</linked><span><span><linked>Inferno Fork</linked></span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">5%</span><span class=\"m-expert-master\"><linked>7.38%</linked></span></span></div></li></ul>"
 }

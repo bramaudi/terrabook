@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Necromantic Scroll",
   "summaries": [
-    "The <b>Necromantic Scroll</b> is a Hardmode, post-Plantera accessory dropped by Mourning Wood during the Pumpkin Moon event. It increases the player's maximum number of minions by one and increases the damage of all summon weapons by 10%."
+    "The <b>Necromantic Scroll</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>accessory</linked> dropped by <linked>Mourning Wood</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked>. It increases the player's maximum number of <linked>minions</linked> by one and increases the damage of all <linked>summon weapons</linked> by 10%."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases your max number of minions by 1<br>Increases summon damage by 10%</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Papyrus Scarab]<span><span>Papyrus Scarab</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Papyrus Scarab]</linked><span><span><linked>Papyrus Scarab</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Necromantic Scroll]<span><span>Necromantic Scroll</span></span></span></li><li><span class=\"i\">[img:Hercules Beetle]<span><span>Hercules Beetle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Necromantic Scroll]</linked><span><span><linked>Necromantic Scroll</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hercules Beetle]</linked><span><span><linked>Hercules Beetle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

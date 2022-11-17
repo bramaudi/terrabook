@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Regal Delicacy",
   "summaries": [
-    "The <b>Regal Delicacy</b> is a pet-summoning item which is dropped by Queen Slime in Master Mode with a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance. It summons a pet <b>Slime Princess</b> which follows the player around. The pet resembles a miniature Queen Slime with blush, small dotted eyes and a pinpoint mouth."
+    "The <b>Regal Delicacy</b> is a <linked>pet</linked>-summoning item which is dropped by <linked>Queen Slime</linked> in <linked>Master Mode</linked> with a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance. It summons a pet <b>Slime Princess</b> which follows the player around. The pet resembles a miniature Queen Slime with blush, small dotted eyes and a pinpoint mouth."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a Slime Princess<br>'A dessert fit for a queen!'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: Fiery red]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: Fiery red]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Resplendent Dessert]<span><span>Resplendent Dessert</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Resplendent Dessert]</linked><span><span><linked>Resplendent Dessert</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Royal Delight]<span><span>Royal Delight</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Regal Delicacy]<span><span>Regal Delicacy</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Royal Delight]</linked><span><span><linked>Royal Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Regal Delicacy]</linked><span><span><linked>Regal Delicacy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "By Hand"
+          "value": "<linked>By Hand</linked>"
         }
       }
     ]

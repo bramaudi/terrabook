@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Obsidian Shield",
   "summaries": [
-    "The <b>Obsidian Shield</b> is a Shield accessory made from the Cobalt Shield and Obsidian Skull, and combines their functionality as well as their defense boosts. It grants immunity from knockback, as well as immunity from the Burning debuff, and provides 2 defense."
+    "The <b>Obsidian Shield</b> is a <linked>Shield</linked> <linked>accessory</linked> made from the <linked>Cobalt Shield</linked> and <linked>Obsidian Skull</linked>, and combines their functionality as well as their defense boosts. It grants immunity from <linked>knockback</linked>, as well as immunity from the <linked>Burning</linked> debuff, and provides 2 defense."
   ],
   "statistics": {
     "Defense": "2",
     "Tooltip": "<i><span class=\"gameText\">Grants immunity to knockback<br>Grants immunity to fire blocks</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Shield]</linked><span><span><linked>Obsidian Shield</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cobalt Shield]<span><span>Cobalt Shield</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Shield]</linked><span><span><linked>Cobalt Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull]</linked><span><span><linked>Obsidian Skull</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -31,14 +31,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ankh Shield]<span><span>Ankh Shield</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ankh Shield]</linked><span><span><linked>Ankh Shield</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span></li><li><span class=\"i\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Shield]</linked><span><span><linked>Obsidian Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ankh Charm]</linked><span><span><linked>Ankh Charm</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

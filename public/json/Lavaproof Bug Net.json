@@ -3,13 +3,13 @@
   "title": "Lavaproof Bug Net",
   "toolpower": [],
   "summaries": [
-    "The <b>Lavaproof Bug Net</b> is an upgraded version of the Bug Net. It allows the player to successfully catch the Lavafly, Magma Snail, and Hell Butterfly. It swings faster than the Bug Net and can destroy tall grass and vines.",
-    "Its upgraded version is the Golden Bug Net which is faster and bigger."
+    "The <b>Lavaproof Bug Net</b> is an upgraded version of the <linked>Bug Net</linked>. It allows the player to successfully catch the <linked>Lavafly</linked>, <linked>Magma Snail</linked>, and <linked>Hell Butterfly</linked>. It swings faster than the <linked>Bug Net</linked> and can destroy tall grass and <linked>vines</linked>.",
+    "Its upgraded version is the <linked>Golden Bug Net</linked> which is faster and bigger."
   ],
   "statistics": {
     "Use time": "21 <span class=\"usetime\">(Fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">'For when things get too hot to handle'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lavaproof Bug Net]<span><span>Lavaproof Bug Net</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavaproof Bug Net]</linked><span><span><linked>Lavaproof Bug Net</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Bug Net]<span><span>Bug Net</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Bug Net]</linked><span><span><linked>Bug Net</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Hellforge]<span><span>Hellforge</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Hellforge]</linked><span><span><linked>Hellforge</linked></span></span></span>"
         }
       }
     ]

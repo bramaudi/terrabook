@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Recall Potion",
   "summaries": [
-    "The <b>Recall Potion</b> is a potion that will teleport you to your spawn point when used. It is crafted using a Specular Fish and <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Daybloom / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Deathweed. It is identical in function to a Magic Mirror or Ice Mirror, but significantly faster in use time. It can also be found in underground pots and chests.",
-    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a bonus drop from Slimes."
+    "The <b>Recall Potion</b> is a potion that will teleport you to your <linked>spawn point</linked> when used. It is crafted using a Specular Fish and <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Daybloom / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Deathweed. It is identical in function to a <linked>Magic Mirror</linked> or <linked>Ice Mirror</linked>, but significantly faster in use time. It can also be found in underground pots and chests.",
+    "<span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tooltip": "<i><span class=\"gameText\">Teleports you home</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,23 +18,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Recall Potion]</linked><span><span><linked>Recall Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Specular Fish]</linked><span><span><linked>Specular Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Recall Potion]<span><span>Recall Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Recall Potion]</linked><span><span><linked>Recall Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Specular Fish]</linked><span><span><linked>Specular Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Deathweed]</linked><span><span><linked>Deathweed</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -42,14 +42,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Potion of Return]<span><span>Potion of Return</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Potion of Return]</linked><span><span><linked>Potion of Return</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Recall Potion]<span><span>Recall Potion</span></span></span></li><li><span class=\"i\">[img:Obsidifish]<span><span>Obsidifish</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Recall Potion]</linked><span><span><linked>Recall Potion</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidifish]</linked><span><span><linked>Obsidifish</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

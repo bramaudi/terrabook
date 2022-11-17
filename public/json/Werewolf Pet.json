@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Wolf Fang",
   "summaries": [
-    "The <b>Wolf Fang</b> is a pet-summoning item that spawns a <b>Werewolf</b> pet, which lasts until the player dies, manually cancels its buff, or summons a replacement pet. It is dropped randomly by Werewolves, or found in Gold Chests. The Werewolf Pet deals approximately 10 damage to enemies on contact."
+    "The <b>Wolf Fang</b> is a <linked>pet</linked>-summoning item that spawns a <b>Werewolf</b> <linked>pet</linked>, which lasts until the player dies, manually cancels its <linked>buff</linked>, or summons a replacement pet. It is dropped randomly by <linked>Werewolves</linked>, or found in <linked>Gold Chests</linked>. The Werewolf Pet deals approximately 10 damage to enemies on contact."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i>Summons a pet werewolf</i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>"
   },
   "crafts": {}
 }

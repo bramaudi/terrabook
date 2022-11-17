@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Sun Stone",
   "summaries": [
-    "The <b>Sun Stone</b> is a Hardmode, post-Golem accessory which has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> chance to drop from Golem. It grants the same stat bonuses as the Moon Stone; however, these bonuses only activate during the day.",
+    "The <b>Sun Stone</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>accessory</linked> which has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> chance to drop from Golem. It grants the same stat bonuses as the <linked>Moon Stone</linked>; however, these bonuses only activate during the <linked>day</linked>.",
     "The stat bonuses are:",
-    "<ul><li>+10% melee speed</li><li>+10% damage (all types)</li><li>+2% critical strike chance</li><li>+1 HP/s health regeneration</li><li>+4 defense</li><li>+15% mining speed</li><li>+0.5 minion knockback</li></ul>"
+    "<ul><li>+10% melee speed</li><li>+10% <linked>damage</linked> (all types)</li><li>+2% <linked>critical strike</linked> chance</li><li>+1 HP/s <linked>health regeneration</linked></li><li>+4 <linked>defense</linked></li><li>+15% <linked>mining speed</linked></li><li>+0.5 <linked>minion</linked> <linked>knockback</linked></li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">During daytime, grants minor increase to damage,<br>melee speed, critical strike chance, life regeneration,<br>defense, mining speed, and minion knockback</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Stone]<span><span>Celestial Stone</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Stone]</linked><span><span><linked>Celestial Stone</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sun Stone]<span><span>Sun Stone</span></span></span></li><li><span class=\"i\">[img:Moon Stone]<span><span>Moon Stone</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sun Stone]</linked><span><span><linked>Sun Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moon Stone]</linked><span><span><linked>Moon Stone</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

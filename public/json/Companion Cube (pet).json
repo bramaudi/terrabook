@@ -2,14 +2,14 @@
   "type": "pets",
   "title": "Companion Cube",
   "summaries": [
-    "The <b>Companion Cube</b> is a pet summoning item. It has a chance of being sold by the Traveling Merchant for <span class=\"coin\" title=\"5 Platinum Coins\" data-sort-value=\"5000000\"><span class=\"pc\">5</span></span>. It summons a <b>Companion Cube</b> pet that will jump around the player frantically.",
-    "When the player and the Companion Cube are in complete darkness, the Cube can occasionally \"stab\" its owner, inflicting 3 damage. The stab can eventually kill the owner, displaying the unique death message <i>\"<span class=\"gameText\">&lt;Player name&gt; was stabbed.</span>\"</i> Portable light sources, such as Torches or light pets, will completely remove chances of being stabbed by the Companion Cube.",
-    "When the Companion Cube falls into lava, it emits the Lunatic Cultist's death sound. When submerged in lava for long enough, there is a chance it may make the Moon Lord's death sound. The Companion Cube will also occasionally emit the flatulence sound normally produced by the Whoopie Cushion and its upgrades."
+    "The <b>Companion Cube</b> is a <linked>pet</linked> summoning item. It has a chance of being sold by the <linked>Traveling Merchant</linked> for <span class=\"coin\" title=\"5 Platinum Coins\" data-sort-value=\"5000000\"><span class=\"pc\">5</span></span>. It summons a <b>Companion Cube</b> pet that will jump around the player frantically.",
+    "When the player and the Companion Cube are in complete darkness, the Cube can occasionally \"stab\" its owner, inflicting 3 damage. The stab can eventually kill the owner, displaying the unique <linked>death message</linked> <i>\"<span class=\"gameText\">&lt;Player name&gt; was stabbed.</span>\"</i> Portable <linked>light sources</linked>, such as <linked>Torches</linked> or <linked>light pets</linked>, will completely remove chances of being stabbed by the Companion Cube.",
+    "When the Companion Cube falls into <linked>lava</linked>, it emits the <linked>Lunatic Cultist</linked>'s death sound. When submerged in lava for long enough, there is a chance it may make the <linked>Moon Lord</linked>'s death sound. The Companion Cube will also occasionally emit the flatulence sound normally produced by the <linked>Whoopie Cushion</linked> and its upgrades."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Susceptible to lava!</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"5 Platinum Coins\" data-sort-value=\"5000000\"><span class=\"pc\">5</span></span>",
     "Sell": "<span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Tabi",
   "summaries": [
-    "The <b>Tabi</b> is a Hardmode, post-Plantera accessory which has <span class=\"chance\"><s>8.33*</s>1/12 (8.33%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>15.97*</s>23/144 (15.97%)</span></abbr> chance to drop from Bone Lee in the post-Plantera Dungeon. It allows the player to perform a dash by double-tapping the horizontal movement key. The dash ability has a one-second cooldown between uses."
+    "The <b>Tabi</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>accessory</linked> which has <span class=\"chance\"><s>8.33*</s>1/12 (8.33%)</span> / <linked>15.97*23/144 (15.97%)</linked> chance to drop from <linked>Bone Lee</linked> in the post-Plantera <linked>Dungeon</linked>. It allows the player to perform a dash by double-tapping the horizontal movement key. The dash ability has a one-second cooldown between uses."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the ability to dash<br>Double tap a direction</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Master Ninja Gear]<span><span>Master Ninja Gear</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Master Ninja Gear]</linked><span><span><linked>Master Ninja Gear</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li><li><span class=\"i\">[img:Tabi]<span><span>Tabi</span></span></span></li><li><span class=\"i\">[img:Black Belt]<span><span>Black Belt</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tiger Climbing Gear]</linked><span><span><linked>Tiger Climbing Gear</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tabi]</linked><span><span><linked>Tabi</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Black Belt]</linked><span><span><linked>Black Belt</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

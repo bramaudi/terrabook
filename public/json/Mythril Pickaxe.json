@@ -7,10 +7,10 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Mythril Pickaxe</b> is a Hardmode pickaxe and is the pickaxe alternative to the Mythril Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore version, the Orichalcum Pickaxe, is slightly stronger than the Mythril Pickaxe.",
-    "It can mine any block except Chlorophyte Ore and Lihzahrd Bricks.",
-    "It requires 15 Mythril Bars to craft (60 Mythril Ore)",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Mythril Pickaxe</b> is a <linked>Hardmode</linked> <linked>pickaxe</linked> and is the pickaxe alternative to the <linked>Mythril Drill</linked>, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore version, the <linked>Orichalcum Pickaxe</linked>, is slightly stronger than the Mythril Pickaxe.",
+    "It can mine any block except <linked>Chlorophyte Ore</linked> and <linked>Lihzahrd Bricks</linked>.",
+    "It requires 15 <linked>Mythril Bars</linked> to craft (60 <linked>Mythril Ore</linked>)",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "15 <span class=\"small-bold\">(Melee)</span>",
@@ -19,7 +19,7 @@
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "10",
     "Tooltip": "<i><span class=\"gameText\">Can mine Adamantite and Titanium</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 62 Silver Coins\" data-sort-value=\"16200\"><span class=\"gc\">1</span><span class=\"sc\">62</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -28,14 +28,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mythril Pickaxe]<span><span>Mythril Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mythril Pickaxe]</linked><span><span><linked>Mythril Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mythril Bar]<span><span>Mythril Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Bar]</linked><span><span><linked>Mythril Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

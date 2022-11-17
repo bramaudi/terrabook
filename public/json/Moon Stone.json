@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Moon Stone",
   "summaries": [
-    "The <b>Moon Stone</b> is a Hardmode accessory which has a <span class=\"chance\"><s>2.86*</s>1/35 (2.86%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>5.63*</s>69/1225 (5.63%)</span></abbr> chance to drop from Vampires during the Solar Eclipse event. It grants the same stat bonuses as the Sun Stone, but these bonuses will only activate during the night or during a Solar Eclipse.",
+    "The <b>Moon Stone</b> is a <linked>Hardmode</linked> <linked>accessory</linked> which has a <span class=\"chance\"><s>2.86*</s>1/35 (2.86%)</span> / <linked>5.63*69/1225 (5.63%)</linked> chance to drop from <linked>Vampires</linked> during the <linked>Solar Eclipse</linked> <linked>event</linked>. It grants the same stat bonuses as the <linked>Sun Stone</linked>, but these bonuses will only activate during the <linked>night</linked> or during a Solar Eclipse.",
     "The stat bonuses are:",
-    "<ul><li>+10% melee speed</li><li>+10% damage (all types)</li><li>+2% critical strike chance</li><li>+1 HP/s health regeneration</li><li>+4 defense</li><li>+15% mining speed</li><li>+0.5 minion knockback</li></ul>"
+    "<ul><li>+10% melee speed</li><li>+10% <linked>damage</linked> (all types)</li><li>+2% <linked>critical strike</linked> chance</li><li>+1 HP/s <linked>health regeneration</linked></li><li>+4 defense</li><li>+15% <linked>mining speed</linked></li><li>+0.5 <linked>minion</linked> <linked>knockback</linked></li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">During nighttime, grants minor increase to damage,<br>melee speed, critical strike chance, life regeneration,<br>defense, mining speed, and minion knockback</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7</span><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Stone]<span><span>Celestial Stone</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Stone]</linked><span><span><linked>Celestial Stone</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sun Stone]<span><span>Sun Stone</span></span></span></li><li><span class=\"i\">[img:Moon Stone]<span><span>Moon Stone</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sun Stone]</linked><span><span><linked>Sun Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moon Stone]</linked><span><span><linked>Moon Stone</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

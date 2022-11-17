@@ -2,15 +2,15 @@
   "type": "accessories",
   "title": "Stink Potion",
   "summaries": [
-    "The <b>Stink Potion</b> is a thrown potion that operates similar to Thrown Waters, though causes no functional effect. It inflicts the Stinky debuff on enemies, players, and NPCs within a radius of 9 tiles, causing them to emit green fumes for 30 seconds, similar to the Slime Gun's dripping effect. This effect is purely cosmetic.",
-    "Its effects are unrelated to that of the Putrid Scent."
+    "The <b>Stink Potion</b> is a thrown <linked>potion</linked> that operates similar to <linked>Thrown Waters</linked>, though causes no functional effect. It inflicts the <linked>Stinky</linked> <linked>debuff</linked> on <linked>enemies</linked>, players, and <linked>NPCs</linked> within a radius of 9 tiles, causing them to emit green fumes for 30 seconds, similar to the <linked>Slime Gun</linked>'s dripping effect. This effect is purely cosmetic.",
+    "Its effects are unrelated to that of the <linked>Putrid Scent</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "9",
     "Tooltip": "<i><span class=\"gameText\">Throw this to make someone smell terrible</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -19,14 +19,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Stink Potion]<span><span>Stink Potion</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Stink Potion]</linked><span><span><linked>Stink Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinkfish]<span><span>Stinkfish</span></span></span></li><li><span class=\"i\">[img:Deathweed]<span><span>Deathweed</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stinkfish]</linked><span><span><linked>Stinkfish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Deathweed]</linked><span><span><linked>Deathweed</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

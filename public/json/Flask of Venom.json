@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Flask of Venom",
   "summaries": [
-    "The <b>Flask of Venom</b> is a Hardmode, post-Plantera flask that imbues melee and whip attacks with the Acid Venom debuff for <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 20 minutes / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 15 minutes. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, this effect will not be lost when the player dies.",
-    "The effect currently doesn't affect players in PvP scenarios. The debuff lasts for 5–9 seconds"
+    "The <b>Flask of Venom</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>flask</linked> that imbues melee and <linked>whip</linked> attacks with the <linked>Acid Venom</linked> <linked>debuff</linked> for <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 20 minutes / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 15 minutes. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, this effect will not be lost when the player <linked>dies</linked>.",
+    "The effect currently doesn't affect players in <linked>PvP</linked> scenarios. The debuff lasts for 5–9 seconds"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks inflict Acid Venom on enemies</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flask of Venom]<span><span>Flask of Venom</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flask of Venom]</linked><span><span><linked>Flask of Venom</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Vial of Venom]<span><span>Vial of Venom</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"
         }
       }
     ]

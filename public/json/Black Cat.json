@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Unlucky Yarn",
   "summaries": [
-    "The <b>Unlucky Yarn</b> is a pet-summoning item which summons a <b>Black Cat</b> pet that follows the player around. It is obtained from a Goodie Bag with a <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span> chance. It will fly on a broom to catch up with a player that moves too far away from it."
+    "The <b>Unlucky Yarn</b> is a <linked>pet</linked>-summoning item which summons a <b>Black Cat</b> pet that follows the player around. It is obtained from a <linked>Goodie Bag</linked> with a <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span> chance. It will fly on a broom to catch up with a player that moves too far away from it."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a black kitty</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

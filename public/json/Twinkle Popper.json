@@ -2,16 +2,16 @@
   "type": "enemies",
   "title": "Twinkle Popper",
   "summaries": [
-    "The <b>Twinkle Popper</b> is a Hardmode, post-Lunatic Cultist ground enemy spawned by the Stardust Pillar during the Lunar Events. In addition to dealing contact damage, the Twinkle Popper can attack the player by vomiting up smaller enemies called <b>Twinkles</b>, which run around and can explode in to a fountain of damaging sparkles when close to the player or after enough time has passed."
+    "The <b>Twinkle Popper</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> ground <linked>enemy</linked> spawned by the <linked>Stardust Pillar</linked> during the <linked>Lunar Events</linked>. In addition to dealing contact damage, the Twinkle Popper can attack the player by vomiting up smaller enemies called <b>Twinkles</b>, which run around and can explode in to a fountain of damaging sparkles when close to the player or after enough time has passed."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Lunar Events </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Lunar Events </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">70</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">140</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">210</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">800</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1600</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">2400</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">40</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">60%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">64%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">68%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Twinkle Popper Banner]<span><span>Twinkle Popper Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Twinkle Popper Banner]</linked><span><span><linked>Twinkle Popper Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   }
 }

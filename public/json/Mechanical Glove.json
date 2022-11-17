@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Mechanical Glove",
   "summaries": [
-    "The <b>Mechanical Glove</b> is a Hardmode accessory that doubles all melee weapons' knockback, and increases melee damage and speed by 12%. On [img:Desktop version] Desktop, [img:Console version] Console, [img:Mobile version] Mobile, and [img:Legacy tModLoader version] Legacy tModLoader, it is only available after defeating all mechanical bosses.",
-    "On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Mechanical Glove enables autoswing for all melee weapons and whips and increases their size by 10%."
+    "The <b>Mechanical Glove</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that doubles all <linked>melee weapons</linked>' <linked>knockback</linked>, and increases melee <linked>damage</linked> and speed by 12%. On <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, <linked>[img:Mobile version]</linked><linked> Mobile</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked>, it is only available after defeating all <linked>mechanical bosses</linked>.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Mechanical Glove enables <linked>autoswing</linked> for all melee weapons and <linked>whips</linked> and increases their size by 10%."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases melee knockback<br>12% increased melee damage and speed<br>Enables auto swing for melee weapons<br>Increases the size of melee weapons</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mechanical Glove]<span><span>Mechanical Glove</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mechanical Glove]</linked><span><span><linked>Mechanical Glove</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Power Glove]<span><span>Power Glove</span></span></span></li><li><span class=\"i\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Power Glove]</linked><span><span><linked>Power Glove</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Avenger Emblem]</linked><span><span><linked>Avenger Emblem</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -31,14 +31,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fire Gauntlet]<span><span>Fire Gauntlet</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fire Gauntlet]</linked><span><span><linked>Fire Gauntlet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Magma Stone]<span><span>Magma Stone</span></span></span></li><li><span class=\"i\">[img:Mechanical Glove]<span><span>Mechanical Glove</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Stone]</linked><span><span><linked>Magma Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Glove]</linked><span><span><linked>Mechanical Glove</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

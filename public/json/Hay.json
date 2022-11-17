@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Hay",
   "summaries": [
-    "<b>Hay</b> is a type of block that is harvested from tall grass by using a Sickle. It can be used to make Target Dummies."
+    "<b>Hay</b> is a type of <linked>block</linked> that is harvested from tall grass by using a <linked>Sickle</linked>. It can be used to make <linked>Target Dummies</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hay]<span><span>Hay</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hay]</linked><span><span><linked>Hay</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hay Wall]<span><span>Hay Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hay Wall]</linked><span><span><linked>Hay Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ],
@@ -30,27 +30,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Target Dummy]<span><span>Target Dummy</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Target Dummy]</linked><span><span><linked>Target Dummy</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\">[img:Hay]<span><span>Hay</span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Hay]</linked><span><span><linked>Hay</linked></span></span></span> <span class=\"note-text\">(50)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Sawmill]<span><span>Sawmill</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Sawmill]</linked><span><span><linked>Sawmill</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hay Wall]<span><span>Hay Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hay Wall]</linked><span><span><linked>Hay Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hay]<span><span>Hay</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hay]</linked><span><span><linked>Hay</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

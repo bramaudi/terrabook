@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Tally Counter",
   "summaries": [
-    "The <b>Tally Counter</b> is an informational accessory which displays how many enemies of a type have been killed. The Tally Counter will first display <i>\"Kill count unavailable\"</i> underneath the map/health area and after an enemy has been attacked, the text will display how many times that enemy has ever been killed by all players combined in that world. The kill count will only display the last enemy struck by the player or their minions. It will count deaths from world creation rather than from when it was equipped.",
-    "It has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> chance of being dropped from Angry Bones, Cursed Skulls, and Dark Casters, all of which are found in the Dungeon.",
-    "The Tally Counter is one of the three parts necessary to make the R.E.K. 3000, with the others being the Lifeform Analyzer and the Radar, and as such is a required ingredient in making the Cell Phone."
+    "The <b>Tally Counter</b> is an <linked>informational accessory</linked> which displays how many <linked>enemies</linked> of a type have been killed. The Tally Counter will first display <i>\"Kill count unavailable\"</i> underneath the <linked>map</linked>/<linked>health</linked> area and after an enemy has been attacked, the text will display how many times that enemy has ever been killed by all players combined in that world. The kill count will only display the last enemy struck by the player or their <linked>minions</linked>. It will count deaths from world creation rather than from when it was equipped.",
+    "It has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> chance of being dropped from <linked>Angry Bones</linked>, <linked>Cursed Skulls</linked>, and <linked>Dark Casters</linked>, all of which are found in the <linked>Dungeon</linked>.",
+    "The Tally Counter is one of the three parts necessary to make the <linked>R.E.K. 3000</linked>, with the others being the <linked>Lifeform Analyzer</linked> and the <linked>Radar</linked>, and as such is a required ingredient in making the <linked>Cell Phone</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Displays how many monsters have been killed</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:R.E.K. 3000]<span><span>R.E.K. 3000</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:R.E.K. 3000]</linked><span><span><linked>R.E.K. 3000</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tally Counter]<span><span>Tally Counter</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lifeform Analyzer]<span><span>Lifeform Analyzer</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Radar]<span><span>Radar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tally Counter]</linked><span><span><linked>Tally Counter</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lifeform Analyzer]</linked><span><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Radar]</linked><span><span><linked>Radar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

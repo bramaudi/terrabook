@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Stucco",
   "summaries": [
-    "<b>Stucco</b> blocks are decorative building materials that are available in four different colors."
+    "<b>Stucco</b> <linked>blocks</linked> are decorative building materials that are available in four different colors."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -18,38 +18,38 @@
           "value": "<span class=\"i multi-line\">[img:Gray Stucco]<span><span title=\"Gray Stucco\">Gray Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Green Thread]<span><span>Green Thread</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Green Thread]</linked><span><span><linked>Green Thread</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Japanese Console version] only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Japanese Console version]</linked> only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:White Thread]<span><span>White Thread</span><span class=\"eico s j\" title=\"Japanese console version\"></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:White Thread]</linked><span><span><linked>White Thread</linked></span><span class=\"eico s j\" title=\"Japanese console version\"></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Purple Thread]<span><span>Purple Thread</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Purple Thread]</linked><span><span><linked>Purple Thread</linked></span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -58,7 +58,7 @@
           "value": "<span class=\"i multi-line\">[img:Red Stucco]<span><span title=\"Red Stucco\">Red Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Clay Block]<span><span>Clay Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         }
       },
       {
@@ -67,7 +67,7 @@
           "value": "<span class=\"i multi-line\">[img:Yellow Stucco]<span><span title=\"Yellow Stucco\">Yellow Stucco</span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Silt Block]<span><span>Silt Block</span></span></span></li><li><span class=\"i\">[img:Sand Block]<span><span>Sand Block</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         }
       },
       {
@@ -76,11 +76,11 @@
           "value": "<span class=\"i multi-line\">[img:Gray Stucco]<span><span title=\"Gray Stucco\">Gray Stucco</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gray Stucco Wall]<span><span>Gray Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gray Stucco Wall]</linked><span><span><linked>Gray Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
@@ -89,7 +89,7 @@
           "value": "<span class=\"i multi-line\">[img:Green Stucco]<span><span title=\"Green Stucco\">Green Stucco</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Green Stucco Wall]<span><span>Green Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Stucco Wall]</linked><span><span><linked>Green Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       },
       {
@@ -98,7 +98,7 @@
           "value": "<span class=\"i multi-line\">[img:Red Stucco]<span><span title=\"Red Stucco\">Red Stucco</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Red Stucco Wall]<span><span>Red Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Red Stucco Wall]</linked><span><span><linked>Red Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       },
       {
@@ -107,7 +107,7 @@
           "value": "<span class=\"i multi-line\">[img:Yellow Stucco]<span><span title=\"Yellow Stucco\">Yellow Stucco</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Yellow Stucco Wall]<span><span>Yellow Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Yellow Stucco Wall]</linked><span><span><linked>Yellow Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       }
     ],
@@ -115,41 +115,41 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Gray Stucco Wall]<span><span>Gray Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gray Stucco Wall]</linked><span><span><linked>Gray Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gray Stucco]<span><span>Gray Stucco</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gray Stucco]</linked><span><span><linked>Gray Stucco</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Green Stucco Wall]<span><span>Green Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Green Stucco Wall]</linked><span><span><linked>Green Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Green Stucco]<span><span>Green Stucco</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Red Stucco Wall]<span><span>Red Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Red Stucco Wall]</linked><span><span><linked>Red Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Red Stucco]<span><span>Red Stucco</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Red Stucco]</linked><span><span><linked>Red Stucco</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Yellow Stucco Wall]<span><span>Yellow Stucco Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco Wall]</linked><span><span><linked>Yellow Stucco Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Yellow Stucco]<span><span>Yellow Stucco</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span></li></ul>"
         }
       }
     ]

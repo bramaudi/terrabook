@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Spectre Pickaxe</b> is a Hardmode, post-Plantera pickaxe.  It has a mining range boost of three blocks, giving it a long range compared to most pickaxes.  It can mine any block except Lihzahrd Bricks. Unlike most Hardmode pickaxes, this one has no drill counterpart.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Spectre Pickaxe</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>pickaxe</linked>.  It has a mining range boost of three <linked>blocks</linked>, giving it a long range compared to most pickaxes.  It can mine any block except <linked>Lihzahrd Bricks</linked>. Unlike most Hardmode pickaxes, this one has no <linked>drill</linked> counterpart.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "32 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "24 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "8 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 10 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,23 +26,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spectre Pickaxe]</linked><span><span><linked>Spectre Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Spectre Bar]<span><span>Spectre Bar</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Spectre Pickaxe]<span><span>Spectre Pickaxe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Spectre Pickaxe]</linked><span><span><linked>Spectre Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ectoplasm]<span><span>Ectoplasm</span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         }
       }
     ]

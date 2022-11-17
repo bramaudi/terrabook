@@ -7,9 +7,9 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Orichalcum Pickaxe</b> is a Hardmode pickaxe and is the pickaxe alternative to the Orichalcum Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the Mythril Pickaxe, is slightly weaker than the Orichalcum Pickaxe.",
-    "It can mine any block except Chlorophyte Ore and Lihzahrd Bricks.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Orichalcum Pickaxe</b> is a <linked>Hardmode</linked> <linked>pickaxe</linked> and is the pickaxe alternative to the <linked>Orichalcum Drill</linked>, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the <linked>Mythril Pickaxe</linked>, is slightly weaker than the Orichalcum Pickaxe.",
+    "It can mine any block except <linked>Chlorophyte Ore</linked> and <linked>Lihzahrd Bricks</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "17 <span class=\"small-bold\">(Melee)</span>",
@@ -18,7 +18,7 @@
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "9",
     "Tooltip": "<i><span class=\"gameText\">Can mine Adamantite and Titanium</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 98 Silver Coins\" data-sort-value=\"19800\"><span class=\"gc\">1</span><span class=\"sc\">98</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -27,14 +27,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Orichalcum Pickaxe]<span><span>Orichalcum Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Orichalcum Pickaxe]</linked><span><span><linked>Orichalcum Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Orichalcum Bar]<span><span>Orichalcum Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Orichalcum Bar]</linked><span><span><linked>Orichalcum Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

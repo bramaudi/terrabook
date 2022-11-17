@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Honey Balloon",
   "summaries": [
-    "The <b>Honey Balloon</b> is an accessory that combines the functions of a Shiny Red Balloon and a Honey Comb. It boosts jump height by 33% and jump speed by 30%, increasing your first jump's height to ~10½ blocks (~75% increase), while oddly <i>reducing</i> it when underwater, from 8 blocks-to 7 blocks, and releases a small swarm of angry bees when the player is hurt, which seek out and deal small amounts of damage to enemies. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it also grants the Honey buff after being damaged."
+    "The <b>Honey Balloon</b> is an <linked>accessory</linked> that combines the functions of a <linked>Shiny Red Balloon</linked> and a <linked>Honey Comb</linked>. It boosts jump height by 33% and jump speed by 30%, increasing your first jump's height to ~10½ blocks (~75% increase), while oddly <i>reducing</i> it when underwater, from 8 blocks-to 7 blocks, and releases a small swarm of angry bees when the player is hurt, which seek out and deal small amounts of damage to <linked>enemies</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it also grants the <linked>Honey</linked> buff after being damaged."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases jump height<br>Releases bees and douses the user in honey when damaged</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Honey Balloon]</linked><span><span><linked>Honey Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Honey Comb]</linked><span><span><linked>Honey Comb</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Amber Horseshoe Balloon]<span><span>Amber Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amber Horseshoe Balloon]</linked><span><span><linked>Amber Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Balloon]</linked><span><span><linked>Honey Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

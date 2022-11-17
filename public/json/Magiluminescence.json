@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Magiluminescence",
   "summaries": [
-    "The <b>Magiluminescence</b> is a pre-Hardmode accessory that increases the player's maximum movement speed by 15% and their acceleration and deceleration by 75%. This increase stacks with the bonus of the Hermes Boots and their variants. It also creates an aura of light around the player, which can be useful when exploring underground."
+    "The <b>Magiluminescence</b> is a <linked>pre-Hardmode</linked> <linked>accessory</linked> that increases the player's maximum <linked>movement speed</linked> by 15% and their acceleration and deceleration by 75%. This increase stacks with the bonus of the <linked>Hermes Boots</linked> and their variants. It also creates an aura of light around the player, which can be useful when exploring underground."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases movement speed and acceleration<br>Provides light when worn<br>'A brief light in my dark life.'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,19 +15,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Magiluminescence]<span><span>Magiluminescence</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magiluminescence]</linked><span><span><linked>Magiluminescence</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Topaz]<span><span>Topaz</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Topaz]</linked><span><span><linked>Topaz</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Topaz]<span><span>Topaz</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Topaz]</linked><span><span><linked>Topaz</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         }
       }
     ]

@@ -2,13 +2,13 @@
   "type": "armors",
   "title": "Diving Helmet",
   "summaries": [
-    "The <b>Diving Helmet</b> is an armor piece for the helmet slot. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>5*</s>1/20 (5%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance of being dropped by Sharks and <span class=\"eil\"><span>Orcas</span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>. When equipped, it causes the breath meter to deplete much slower and slows the rate at which drowning damage is taken."
+    "The <b>Diving Helmet</b> is an <linked>armor</linked> piece for the helmet slot. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>5*</s>1/20 (5%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance of being dropped by <linked>Sharks</linked> and <span class=\"eil\"><span><linked>Orcas</linked></span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>. When equipped, it causes the <linked>breath meter</linked> to deplete much slower and slows the rate at which <linked>drowning</linked> damage is taken."
   ],
   "statistics": {
     "Defense": "2",
     "Body slot": "Helmet",
     "Tooltip": "<i><span class=\"gameText\">Greatly extends underwater breathing</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Diving Gear]<span><span>Diving Gear</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Diving Gear]</linked><span><span><linked>Diving Gear</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flipper]<span><span>Flipper</span></span></span></li><li><span class=\"i\">[img:Diving Helmet]<span><span>Diving Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flipper]</linked><span><span><linked>Flipper</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Diving Helmet]</linked><span><span><linked>Diving Helmet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

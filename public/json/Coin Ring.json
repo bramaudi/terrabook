@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Coin Ring",
   "summaries": [
-    "The <b>Coin Ring</b> is a Hardmode accessory created by other accessories exclusively dropped from pirate enemies during Pirate Invasion. It causes enemies to occasionally drop 1 to 10 more coins when hit and increases the pickup range for coins - the two effects provided by the materials used to create it. This can be useful for picking up money the player would otherwise miss and making farms more efficient."
+    "The <b>Coin Ring</b> is a <linked>Hardmode</linked> <linked>accessory</linked> created by other accessories exclusively dropped from pirate <linked>enemies</linked> during <linked>Pirate Invasion</linked>. It causes enemies to occasionally drop 1 to 10 more <linked>coins</linked> when hit and increases the pickup range for coins - the two effects provided by the materials used to create it. This can be useful for picking up money the player would otherwise miss and making farms more efficient."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases coin pickup range<br>Hitting enemies will sometimes drop extra coins</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Coin Ring]<span><span>Coin Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Coin Ring]</linked><span><span><linked>Coin Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Gold Ring]<span><span>Gold Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Coin]<span><span>Lucky Coin</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ring]</linked><span><span><linked>Gold Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Coin]</linked><span><span><linked>Lucky Coin</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Greedy Ring]<span><span>Greedy Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Greedy Ring]</linked><span><span><linked>Greedy Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Coin Ring]<span><span>Coin Ring</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Discount Card]<span><span>Discount Card</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Coin Ring]</linked><span><span><linked>Coin Ring</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Discount Card]</linked><span><span><linked>Discount Card</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

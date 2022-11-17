@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Blindfold",
   "summaries": [
-    "The <b>Blindfold</b> is a Hardmode accessory that has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Corrupt Slimes, Slimelings, Shadow Slimes (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>), Crimslimes (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>), Dark Mummies, and <span class=\"eil\"><span>Blood Mummies</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. This item grants immunity for the equipped player to the Darkness debuff; however, it will not protect the player from Blackout or Obstructed, nor cancel out the positive effects of Shine or Night Owl.",
-    "It is one of the ingredients required to make the <span class=\"eil\"><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, which are a crafting material required to make the Ankh Charm, an accessory further required to make the Ankh Shield."
+    "The <b>Blindfold</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <linked>2*1/50 (2%)</linked> chance to drop from <linked>Corrupt Slimes</linked>, <linked>Slimelings</linked>, <linked>Shadow Slimes</linked> (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>), <linked>Crimslimes</linked> (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>), <linked>Dark Mummies</linked>, and <span class=\"eil\"><span><linked>Blood Mummies</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. This item grants immunity for the equipped player to the <linked>Darkness</linked> <linked>debuff</linked>; however, it will not protect the player from <linked>Blackout</linked> or <linked>Obstructed</linked>, nor cancel out the positive effects of <linked>Shine</linked> or <linked>Night Owl</linked>.",
+    "It is one of the ingredients required to make the <span class=\"eil\"><span><linked>Reflective Shades</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, which are a crafting material required to make the <linked>Ankh Charm</linked>, an accessory further required to make the <linked>Ankh Shield</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Immunity to Darkness</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blindfold]<span><span>Blindfold</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blindfold]</linked><span><span><linked>Blindfold</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pocket Mirror]<span><span>Pocket Mirror</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pocket Mirror]</linked><span><span><linked>Pocket Mirror</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,36 +31,36 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pocket Mirror]<span><span>Pocket Mirror</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pocket Mirror]</linked><span><span><linked>Pocket Mirror</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blindfold]</linked><span><span><linked>Blindfold</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ankh Charm]</linked><span><span><linked>Ankh Charm</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Armor Bracing]</linked><span><span><linked>Armor Bracing</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Medicated Bandage]</linked><span><span><linked>Medicated Bandage</linked></span></span></span></li><li><span class=\"i\"><linked>[img:The Plan]</linked><span><span><linked>The Plan</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Countercurse Mantra]</linked><span><span><linked>Countercurse Mantra</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blindfold]</linked><span><span><linked>Blindfold</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Reflective Shades]</linked><span><span><linked>Reflective Shades</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li><li><span class=\"i\">[img:Pocket Mirror]<span><span>Pocket Mirror</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blindfold]</linked><span><span><linked>Blindfold</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pocket Mirror]</linked><span><span><linked>Pocket Mirror</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

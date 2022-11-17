@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Flying Carpet",
   "summaries": [
-    "The <b>Flying Carpet</b> is an accessory that allows the player to float for about four seconds, similar to the Hoverboard. It can be found inside Chests located within Pyramids in the Desert. On the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, it can also be obtained by throwing a Pharaoh's Robe into Shimmer.",
-    "The Flying Carpet is activated by holding <span class=\"key\"><kbd><span title=\"Space Bar (PC default): Makes character jump\">↷ Jump</span></kbd></span> in mid-air, after all double-jumping accessories are used. Once it is activated, the player is put on an imaginary horizontal rail. Releasing the key deactivates the carpet, but it may be reactivated at a lower height if there is still flight time left."
+    "The <b>Flying Carpet</b> is an <linked>accessory</linked> that allows the player to float for about four seconds, similar to the <linked>Hoverboard</linked>. It can be found inside <linked>Chests</linked> located within <linked>Pyramids</linked> in the <linked>Desert</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can also be obtained by throwing a <linked>Pharaoh's Robe</linked> into <linked>Shimmer</linked>.",
+    "The Flying Carpet is activated by holding <span class=\"key\"><linked>↷ Jump</linked></span> in mid-air, after all <linked>double-jumping</linked> accessories are used. Once it is activated, the player is put on an imaginary horizontal rail. Releasing the key deactivates the carpet, but it may be reactivated at a lower height if there is still flight time left."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the owner to float for a few seconds</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flying Carpet]<span><span>Flying Carpet</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flying Carpet]</linked><span><span><linked>Flying Carpet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pharaoh's Robe]<span><span>Pharaoh's Robe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pharaoh's Robe]</linked><span><span><linked>Pharaoh's Robe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,14 +31,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] only:</div><span class=\"i multi-line\">[img:Pharaoh's Robe]<span><span>Pharaoh's Robe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pharaoh's Robe]</linked><span><span><linked>Pharaoh's Robe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flying Carpet]<span><span>Flying Carpet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flying Carpet]</linked><span><span><linked>Flying Carpet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

@@ -7,8 +7,8 @@
     "[img:Axe mask] 75%"
   ],
   "summaries": [
-    "The <b>Palladium Chainsaw</b> is a Hardmode chainsaw that is obtainable after defeating the Wall of Flesh, and is the Chainsaw alternative to the Palladium Waraxe. It is one of the earliest available Chainsaws upon entering Hardmode, as is its slightly weaker alternative, the Cobalt Chainsaw. Like all Axes and Chainsaws, it is used to cut down Trees, Cacti and Giant Glowing Mushrooms.",
-    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+    "The <b>Palladium Chainsaw</b> is a <linked>Hardmode</linked> <linked>chainsaw</linked> that is obtainable after defeating the <linked>Wall of Flesh</linked>, and is the Chainsaw alternative to the <linked>Palladium Waraxe</linked>. It is one of the earliest available <linked>Chainsaws</linked> upon entering Hardmode, as is its slightly weaker alternative, the <linked>Cobalt Chainsaw</linked>. Like all Axes and Chainsaws, it is used to cut down <linked>Trees</linked>, <linked>Cacti</linked> and <linked>Giant Glowing Mushrooms</linked>.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
   ],
   "statistics": {
     "Damage": "26 <span class=\"small-bold\">(Melee)</span>",
@@ -18,7 +18,7 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "40",
     "Tool speed": "7",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -27,14 +27,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Palladium Chainsaw]<span><span>Palladium Chainsaw</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Palladium Chainsaw]</linked><span><span><linked>Palladium Chainsaw</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Palladium Bar]<span><span>Palladium Bar</span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

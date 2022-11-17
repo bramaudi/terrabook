@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Frog Flipper",
   "summaries": [
-    "The <b>Frog Flipper</b> is an accessory crafted from a Frog Leg and a Flipper. It combines the abilities of these two items, increasing the player's jump speed and safe falling distance, allowing auto-jump, and giving the player the ability to swim."
+    "The <b>Frog Flipper</b> is an <linked>accessory</linked> crafted from a <linked>Frog Leg</linked> and a <linked>Flipper</linked>. It combines the abilities of these two items, increasing the player's <linked>jump speed</linked> and <linked>safe falling distance</linked>, allowing auto-jump, and giving the player the ability to swim."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Grants the ability to swim<br>Increases jump speed and allows auto-jump<br>Increases fall resistance</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Frog Flipper]<span><span>Frog Flipper</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Flipper]</linked><span><span><linked>Frog Flipper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Leg]<span><span>Frog Leg</span></span></span></li><li><span class=\"i\">[img:Flipper]<span><span>Flipper</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Leg]</linked><span><span><linked>Frog Leg</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flipper]</linked><span><span><linked>Flipper</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Frog Gear]<span><span>Frog Gear</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Gear]</linked><span><span><linked>Frog Gear</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Flipper]<span><span>Frog Flipper</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Flipper]</linked><span><span><linked>Frog Flipper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Tiger Climbing Gear]</linked><span><span><linked>Tiger Climbing Gear</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

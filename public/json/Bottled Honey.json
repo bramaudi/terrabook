@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Bottled Honey",
   "summaries": [
-    "<b>Bottled Honey</b> is a health-restoring item and crafting material. It restores 80 health on use and causes Potion Sickness like other healing potions. On [img:Desktop version] Desktop, [img:Console version] Console, and [img:Mobile version] Mobile, it also gives 15 seconds of Honey Buff. Bottled Honey is dropped by the Queen Bee boss found in Bee Hives, and can be crafted."
+    "<b>Bottled Honey</b> is a <linked>health</linked>-restoring item and <linked>crafting material</linked>. It restores 80 health on use and causes <linked>Potion Sickness</linked> like other healing potions. On <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile</linked>, it also gives 15 seconds of <linked>Honey</linked> Buff. Bottled Honey is dropped by the <linked>Queen Bee</linked> <linked>boss</linked> found in <linked>Bee Hives</linked>, and can be crafted."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Heals Health": "80",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Improves natural healing for a short time</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bottled Honey]<span><span>Bottled Honey</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottle]<span><span>Bottle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Honey]<span><span>Honey</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Honey]</linked><span><span><linked>Honey</linked></span></span></span>"
         }
       }
     ],
@@ -33,27 +33,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Old-gen console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Abeemination]<span><span>Abeemination</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Abeemination]</linked><span><span><linked>Abeemination</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Block]<span><span>Honey Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li><li><span class=\"i\">[img:Hive]<span><span>Hive</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Bottled Honey]<span><span>Bottled Honey</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "By Hand"
+          "value": "<linked>By Hand</linked>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Abeemination]<span><span>Abeemination</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Abeemination]</linked><span><span><linked>Abeemination</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Block]<span><span>Honey Block</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li><li><span class=\"i\">[img:Hive]<span><span>Hive</span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\">[img:Bottled Honey]<span><span>Bottled Honey</span></span></span></li><li><span class=\"i\">[img:Crispy Honey Block]<span><span>Crispy Honey Block</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Obsidian]<span><span>Obsidian</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Demon Altar]<span><span>Demon Altar</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Crimson Altar]<span><span>Crimson Altar</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Demon Altar]</linked><span><span><linked>Demon Altar</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Crimson Altar]</linked><span><span><linked>Crimson Altar</linked></span></span></span>"
         }
       }
     ]

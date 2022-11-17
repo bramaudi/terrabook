@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Rocket Boots",
   "summaries": [
-    "<b>Rocket Boots</b> are an accessory that allows a player to fly for a period of around 1.6 seconds (100 game frames). They require a jump from midair to activate (a double-jump, or a jump while falling). During flight, they emit a jet animation that produces a good deal of light. Rocket Boots are purchased from the Goblin Tinkerer for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>.",
-    "Flight time is reset immediately when the player lands on any solid object, or latches onto a surface with a Hook (even if you do not let it reel you all the way to the target).",
-    "If the Cloud in a Bottle is also equipped, its double-jump effect will engage first; pressing and holding the jump key afterward while still in midair will then activate the Rocket Boots."
+    "<b>Rocket Boots</b> are an <linked>accessory</linked> that allows a player to fly for a period of around 1.6 seconds (100 game frames). They require a jump from midair to activate (a double-jump, or a jump while falling). During flight, they emit a jet animation that produces a good deal of light. Rocket Boots are purchased from the <linked>Goblin Tinkerer</linked> for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>.",
+    "Flight time is reset immediately when the player lands on any solid object, or latches onto a surface with a <linked>Hook</linked> (even if you do not let it reel you all the way to the target).",
+    "If the <linked>Cloud in a Bottle</linked> is also equipped, its double-jump effect will engage first; pressing and holding the jump key afterward while still in midair will then activate the Rocket Boots."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows flight</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -18,29 +18,29 @@
       {
         "result": {
           "rowspan": 4,
-          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Dunerider Boots]<span><span>Dunerider Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dunerider Boots]</linked><span><span><linked>Dunerider Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Flurry Boots]<span><span>Flurry Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flurry Boots]</linked><span><span><linked>Flurry Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hermes Boots]<span><span>Hermes Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hermes Boots]</linked><span><span><linked>Hermes Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sailfish Boots]<span><span>Sailfish Boots</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sailfish Boots]</linked><span><span><linked>Sailfish Boots</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       }
     ]

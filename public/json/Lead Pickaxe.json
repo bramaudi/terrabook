@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Lead Pickaxe</b> is an early-game pickaxe that is stronger than the Copper and Tin Pickaxes, but weaker than the Silver and Tungsten Pickaxes. Compared to its alternate ore version, the Iron Pickaxe, it has more pickaxe power, deals 1 more damage, and is slightly faster in terms of mining speed. Like other low-tier pickaxes, it can only mine blocks and ores weaker than Meteorite (which requires a pickaxe with at least 50% pickaxe power, e.g. a Tungsten Pickaxe).",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Lead Pickaxe</b> is an early-game <linked>pickaxe</linked> that is stronger than the <linked>Copper</linked> and <linked>Tin Pickaxes</linked>, but weaker than the <linked>Silver</linked> and <linked>Tungsten Pickaxes</linked>. Compared to its alternate <linked>ore</linked> version, the <linked>Iron Pickaxe</linked>, it has more <linked>pickaxe power</linked>, deals 1 more damage, and is slightly faster in terms of <linked>mining speed</linked>. Like other low-tier pickaxes, it can only mine <linked>blocks</linked> and ores weaker than <linked>Meteorite</linked> (which requires a pickaxe with at least 50% pickaxe power, e.g. a <linked>Tungsten Pickaxe</linked>).",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "6 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
     "Tool speed": "12",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"6 Silver Coins\" data-sort-value=\"600\"><span class=\"sc\">6</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,23 +25,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lead Pickaxe]<span><span>Lead Pickaxe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Lead Pickaxe]</linked><span><span><linked>Lead Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Lead Pickaxe]<span><span>Lead Pickaxe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Lead Pickaxe]</linked><span><span><linked>Lead Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Magma Skull",
   "summaries": [
-    "The <b>Magma Skull</b> is a pre-Hardmode accessory that grants the player immunity from blocks that inflict the Burning debuff and grants immunity to lava for 7 seconds. The Magma Skull can also be worn in a Social Accessory Slot as a vanity head item."
+    "The <b>Magma Skull</b> is a pre-<linked>Hardmode</linked> <linked>accessory</linked> that grants the player immunity from blocks that inflict the <linked>Burning</linked> <linked>debuff</linked> and grants immunity to <linked>lava</linked> for 7 seconds. The Magma Skull can also be worn in a Social Accessory Slot as a vanity head item."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Provides 7 seconds of immunity to lava<br>Grants immunity to fire blocks</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2</span><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magma Skull]</linked><span><span><linked>Magma Skull</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Skull]</linked><span><span><linked>Obsidian Skull</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Charm]</linked><span><span><linked>Lava Charm</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,19 +30,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Molten Skull Rose]<span><span>Molten Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Molten Skull Rose]</linked><span><span><linked>Molten Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Skull]</linked><span><span><linked>Magma Skull</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Rose]</linked><span><span><linked>Obsidian Rose</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Magma Skull]<span><span>Magma Skull</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Obsidian Skull Rose]<span><span>Obsidian Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Skull]</linked><span><span><linked>Magma Skull</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull Rose]</linked><span><span><linked>Obsidian Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

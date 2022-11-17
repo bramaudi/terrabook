@@ -2,19 +2,19 @@
   "type": "npcs",
   "title": "Princess",
   "summaries": [
-    "The <b>Princess</b> is an NPC vendor that will spawn once the following conditions have been met:",
-    "<ul><li>There is an empty house.</li><li>All other town NPCs (not including Santa Claus or town pets) are present, meaning that she can only spawn after defeating Plantera which is when the Cyborg NPC can move in.</li></ul>",
+    "The <b>Princess</b> is an <linked>NPC</linked> vendor that will spawn once the following conditions have been met:",
+    "<ul><li>There is an empty <linked>house</linked>.</li><li>All other town NPCs (not including <linked>Santa Claus</linked> or <linked>town pets</linked>) are present, meaning that she can only spawn after defeating <linked>Plantera</linked> which is when the <linked>Cyborg NPC</linked> can move in.</li></ul>",
     "These requirements only apply to the initial spawning. If the Princess is killed, she will automatically respawn after some time.",
-    "The Princess will attack nearby enemies with the Resonance Scepter to defend herself."
+    "The Princess will attack nearby enemies with the <linked>Resonance Scepter</linked> to defend herself."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Valid house </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Valid house </linked></span></div>",
     "AI Type": "Passive AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-all\">10</span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">250</span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">15</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">50%</span></span>"
   },
-  "living_preferences": "<p>The Princess is unique in that she does not have any biome or neighbor preferences. She loves up to three NPCs that live nearby and is liked by all NPCs around her.</p><p>She also hates being lonely and her unhappiness is maxed to 150% if she is not surrounded by at least 2 other NPCs within 25 tiles, or 2 other NPCs that are between 25 and 120 tiles away.</p>",
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Resonance Scepter]<span><span>Resonance Scepter</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>12.5%</div></li></ul>"
+  "living_preferences": "<p>The Princess is unique in that she does not have any biome or neighbor preferences. She loves up to three <linked>NPCs</linked> that live nearby and is liked by all NPCs around her.</p><p>She also hates being lonely and her unhappiness is maxed to 150% if she is not surrounded by at least 2 other NPCs within 25 tiles, or 2 other NPCs that are between 25 and 120 tiles away.</p>",
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Resonance Scepter]</linked><span><span><linked>Resonance Scepter</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>12.5%</div></li></ul>"
 }

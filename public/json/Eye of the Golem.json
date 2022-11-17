@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Eye of the Golem",
   "summaries": [
-    "The <b>Eye of the Golem</b> is a Hardmode, post-Golem accessory that grants +10% critical strike chance. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> chance of being dropped by the Golem."
+    "The <b>Eye of the Golem</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>accessory</linked> that grants +10% critical strike chance. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"chance\"><s>12.5*</s>1/8 (12.5%)</span> chance of being dropped by the <linked>Golem</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">10% increased critical strike chance</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Destroyer Emblem]<span><span>Destroyer Emblem</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Destroyer Emblem]</linked><span><span><linked>Destroyer Emblem</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span></li><li><span class=\"i\">[img:Eye of the Golem]<span><span>Eye of the Golem</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Avenger Emblem]</linked><span><span><linked>Avenger Emblem</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Eye of the Golem]</linked><span><span><linked>Eye of the Golem</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

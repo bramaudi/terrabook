@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Tungsten Pickaxe</b> is an early-game pickaxe that is stronger than the Iron and Lead Pickaxes, but weaker than the Gold and Platinum Pickaxes. Compared to its alternate ore version, the Silver Pickaxe, it has more pickaxe power but is significantly slower in terms of mining speed. Unlike the Silver Pickaxe, it is able to mine Meteorite.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Tungsten Pickaxe</b> is an early-game <linked>pickaxe</linked> that is stronger than the <linked>Iron</linked> and <linked>Lead Pickaxes</linked>, but weaker than the <linked>Gold</linked> and <linked>Platinum Pickaxes</linked>. Compared to its alternate <linked>ore</linked> version, the <linked>Silver Pickaxe</linked>, it has more <linked>pickaxe power</linked> but is significantly slower in terms of <linked>mining speed</linked>. Unlike the Silver Pickaxe, it is able to mine <linked>Meteorite</linked>.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "6 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Use time": "21 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "19",
     "Tooltip": "<i><span class=\"gameText\">Can mine Meteorite</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,23 +26,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Tungsten Pickaxe]<span><span>Tungsten Pickaxe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Pickaxe]</linked><span><span><linked>Tungsten Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Tungsten Pickaxe]<span><span>Tungsten Pickaxe</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Pickaxe]</linked><span><span><linked>Tungsten Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       }
     ]

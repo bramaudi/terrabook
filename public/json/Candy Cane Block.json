@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Candy Cane Blocks",
   "summaries": [
-    "<b>Candy Cane Blocks</b> are blocks that are dropped in stacks of 20–49 from Presents obtained during the Christmas event, with a chance of 16.803% in pre-Hardmode and 15.683% in Hardmode. They have no value other than as building material, and in crafting Candy Cane Wall. Despite them both being Candy Cane Blocks, they do not \"merge\" when placed next to each other."
+    "<b>Candy Cane Blocks</b> are <linked>blocks</linked> that are dropped in stacks of 20–49 from <linked>Presents</linked> obtained during the <linked>Christmas</linked> event, with a chance of 16.803% in <linked>pre-Hardmode</linked> and 15.683% in <linked>Hardmode</linked>. They have no value other than as building material, and in crafting <linked>Candy Cane Wall</linked>. Despite them both being Candy Cane Blocks, they do not \"merge\" when placed next to each other."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -18,11 +18,11 @@
           "value": "<span class=\"i multi-line\">[img:Candy Cane Block]<span><span title=\"Candy Cane Block\">Candy Cane Block</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Candy Cane Wall]<span><span>Candy Cane Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
@@ -31,7 +31,7 @@
           "value": "<span class=\"i multi-line\">[img:Green Candy Cane Block]<span><span title=\"Green Candy Cane Block\">Green Candy Cane Block</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Green Candy Cane Wall]<span><span>Green Candy Cane Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       }
     ],
@@ -39,23 +39,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Candy Cane Wall]<span><span>Candy Cane Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Candy Cane Block]<span><span>Candy Cane Block</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Candy Cane Block]</linked><span><span><linked>Candy Cane Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Green Candy Cane Wall]<span><span>Green Candy Cane Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Green Candy Cane Block]<span><span>Green Candy Cane Block</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Candy Cane Block]</linked><span><span><linked>Green Candy Cane Block</linked></span></span></span></li></ul>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Shackle",
   "summaries": [
-    "The <b>Shackle</b> is an accessory that grants 1 point of defense. It is dropped by most kinds of Zombies with a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance. Shackles are most useful early in the game, when defense is at a premium."
+    "The <b>Shackle</b> is an <linked>accessory</linked> that grants 1 point of <linked>defense</linked>. It is dropped by most kinds of <linked>Zombies</linked> with a <span class=\"chance\"><s>2*</s>1/50 (2%)</span> chance. Shackles are most useful early in the game, when defense is at a premium."
   ],
   "statistics": {
     "Defense": "1",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Magic Cuffs]<span><span>Magic Cuffs</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Cuffs]</linked><span><span><linked>Magic Cuffs</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span></li><li><span class=\"i\">[img:Shackle]<span><span>Shackle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Regeneration Band]</linked><span><span><linked>Mana Regeneration Band</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shackle]</linked><span><span><linked>Shackle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

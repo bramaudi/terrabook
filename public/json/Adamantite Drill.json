@@ -7,10 +7,10 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Adamantite Drill</b> is a Hardmode drill, and is the drill alternative to the Adamantite Pickaxe. Appearances and sounds aside, the two tools are nearly functionally identical. The drill, however is half a second faster. But, unlike pickaxes, most drills cannot be reforged with size, speed, or <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> knockback modifiers.",
-    "It can mine any block except Chlorophyte Ore and Lihzahrd Bricks.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount.",
-    "<span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Its best modifier is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect its speed, either."
+    "The <b>Adamantite Drill</b> is a <linked>Hardmode</linked> <linked>drill</linked>, and is the drill alternative to the <linked>Adamantite Pickaxe</linked>. Appearances and sounds aside, the two <linked>tools</linked> are nearly functionally identical. The drill, however is half a second faster. But, unlike <linked>pickaxes</linked>, most drills cannot be reforged with size, speed, or <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <linked>knockback</linked> <linked>modifiers</linked>.",
+    "It can mine any block except <linked>Chlorophyte Ore</linked> and <linked>Lihzahrd Bricks</linked>.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount.",
+    "<span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Its best <linked>modifier</linked> is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it, and furthermore cannot get modifiers that affect its speed, either."
   ],
   "statistics": {
     "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
@@ -20,7 +20,7 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "32",
     "Tool speed": "4",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 16 Silver Coins\" data-sort-value=\"21600\"><span class=\"gc\">2</span><span class=\"sc\">16</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -29,14 +29,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Adamantite Drill]<span><span>Adamantite Drill</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Adamantite Drill]</linked><span><span><linked>Adamantite Drill</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Ice Brick",
   "summaries": [
-    "The <b>Ice Brick</b> is a brick type made from Ice Blocks. It does not have the sliding properties of ice, nor does it cause snow to fall like Snow Bricks."
+    "The <b>Ice Brick</b> is a <linked>brick</linked> type made from <linked>Ice Blocks</linked>. It does not have the sliding properties of ice, nor does it cause snow to fall like <linked>Snow Bricks</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,19 +15,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Ice Brick]<span><span>Ice Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ice Brick]</linked><span><span><linked>Ice Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ice Block]<span><span>Ice Block</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ice Brick Wall]<span><span>Ice Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         }
       }
     ],
@@ -35,14 +35,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ice Brick Wall]<span><span>Ice Brick Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ice Brick]<span><span>Ice Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Brick]</linked><span><span><linked>Ice Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Ankh Charm",
   "summaries": [
-    "The <b>Ankh Charm</b> is a Hardmode accessory which combines the effects of the Armor Bracing, Medicated Bandage, The Plan, Countercurse Mantra, and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Reflective Shades / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Blindfold.",
-    "It provides immunity to all of the following debuffs:"
+    "The <b>Ankh Charm</b> is a <linked>Hardmode</linked> <linked>accessory</linked> which combines the effects of the <linked>Armor Bracing</linked>, <linked>Medicated Bandage</linked>, <linked>The Plan</linked>, <linked>Countercurse Mantra</linked>, and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Reflective Shades</linked> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <linked>Blindfold</linked>.",
+    "It provides immunity to all of the following <linked>debuffs</linked>:"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Grants immunity to most debuffs</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,23 +16,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ankh Charm]</linked><span><span><linked>Ankh Charm</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Reflective Shades]<span><span>Reflective Shades</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Armor Bracing]</linked><span><span><linked>Armor Bracing</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Medicated Bandage]</linked><span><span><linked>Medicated Bandage</linked></span></span></span></li><li><span class=\"i\"><linked>[img:The Plan]</linked><span><span><linked>The Plan</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Countercurse Mantra]</linked><span><span><linked>Countercurse Mantra</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Reflective Shades]</linked><span><span><linked>Reflective Shades</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ankh Charm]</linked><span><span><linked>Ankh Charm</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span></li><li><span class=\"i\">[img:Medicated Bandage]<span><span>Medicated Bandage</span></span></span></li><li><span class=\"i\">[img:The Plan]<span><span>The Plan</span></span></span></li><li><span class=\"i\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span></li><li><span class=\"i\">[img:Blindfold]<span><span>Blindfold</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Armor Bracing]</linked><span><span><linked>Armor Bracing</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Medicated Bandage]</linked><span><span><linked>Medicated Bandage</linked></span></span></span></li><li><span class=\"i\"><linked>[img:The Plan]</linked><span><span><linked>The Plan</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Countercurse Mantra]</linked><span><span><linked>Countercurse Mantra</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blindfold]</linked><span><span><linked>Blindfold</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -40,14 +40,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ankh Shield]<span><span>Ankh Shield</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ankh Shield]</linked><span><span><linked>Ankh Shield</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span></li><li><span class=\"i\">[img:Ankh Charm]<span><span>Ankh Charm</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Shield]</linked><span><span><linked>Obsidian Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ankh Charm]</linked><span><span><linked>Ankh Charm</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

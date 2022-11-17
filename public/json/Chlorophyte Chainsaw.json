@@ -7,8 +7,8 @@
     "[img:Axe mask] 115%"
   ],
   "summaries": [
-    "The <b>Chlorophyte Chainsaw</b> is a Hardmode chainsaw that is crafted from Chlorophyte Bars, and is the chainsaw alternative to the Chlorophyte Greataxe. Like all axes and chainsaws, it is used to cut down trees, cacti and giant glowing mushrooms.",
-    "Its best modifier is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+    "The <b>Chlorophyte Chainsaw</b> is a <linked>Hardmode</linked> <linked>chainsaw</linked> that is crafted from <linked>Chlorophyte Bars</linked>, and is the chainsaw alternative to the <linked>Chlorophyte Greataxe</linked>. Like all <linked>axes</linked> and chainsaws, it is used to cut down <linked>trees</linked>, <linked>cacti</linked> and giant <linked>glowing mushrooms</linked>.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
   ],
   "statistics": {
     "Damage": "50 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Velocity": "46",
     "Tool speed": "4",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Chlorophyte Chainsaw]<span><span>Chlorophyte Chainsaw</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Chlorophyte Chainsaw]</linked><span><span><linked>Chlorophyte Chainsaw</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Chlorophyte Bar]<span><span>Chlorophyte Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Ancient Cobalt armor",
   "summaries": [
-    "<b>Ancient Cobalt armor</b> is an armor set obtained from Hornets and Man Eaters in the Underground Jungle. Each piece is dropped individually with a <span class=\"chance\"><s>0.33*</s>1/300 (0.33%)</span> chance.",
-    "The Ancient Cobalt armor design is based on a version of Cobalt armor that appeared before the 1.0.3 update, when it was replaced by Jungle armor. The old design was later re-introduced, in 1.2, as Ancient Cobalt armor. It currently shares identical stats with Jungle armor, but differs in appearance. Furthermore, Jungle armor and Ancient Cobalt armor pieces can be mixed and matched while still providing their set bonus.",
-    "With a full set equipped, the player leaves an after-image effect when in motion, similar to Shadow armor, Necro armor, and the current version of Cobalt armor."
+    "<b>Ancient Cobalt armor</b> is an <linked>armor</linked> set obtained from <linked>Hornets</linked> and <linked>Man Eaters</linked> in the <linked>Underground Jungle</linked>. Each piece is dropped individually with a <span class=\"chance\"><s>0.33*</s>1/300 (0.33%)</span> chance.",
+    "The Ancient Cobalt armor design is based on a version of Cobalt armor that appeared before the <linked>1.0.3</linked> update, when it was replaced by <linked>Jungle armor</linked>. The old design was later re-introduced, in <linked>1.2</linked>, as Ancient Cobalt armor. It currently shares identical stats with Jungle armor, but differs in appearance. Furthermore, Jungle armor and Ancient Cobalt armor pieces can be mixed and matched while still providing their set bonus.",
+    "With a full set equipped, the player leaves an after-image effect when in motion, similar to <linked>Shadow armor</linked>, <linked>Necro armor</linked>, and the current version of Cobalt armor."
   ],
   "statistics": {
     "Defense": "17<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">16% reduced mana usage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -20,11 +20,11 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Breastplate]<span><span title=\"Ancient Cobalt Breastplate\">Ancient Cobalt Breastplate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Shirt]<span><span>Jungle Shirt</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Shirt]</linked><span><span><linked>Jungle Shirt</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Helmet]<span><span title=\"Ancient Cobalt Helmet\">Ancient Cobalt Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Hat]<span><span>Jungle Hat</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Hat]</linked><span><span><linked>Jungle Hat</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -42,7 +42,7 @@
           "value": "<span class=\"i multi-line\">[img:Ancient Cobalt Leggings]<span><span title=\"Ancient Cobalt Leggings\">Ancient Cobalt Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Jungle Pants]<span><span>Jungle Pants</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Jungle Pants]</linked><span><span><linked>Jungle Pants</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -50,32 +50,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jungle Hat]<span><span>Jungle Hat</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Jungle Hat]</linked><span><span><linked>Jungle Hat</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Helmet]<span><span>Ancient Cobalt Helmet</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Helmet]</linked><span><span><linked>Ancient Cobalt Helmet</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jungle Pants]<span><span>Jungle Pants</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Jungle Pants]</linked><span><span><linked>Jungle Pants</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Leggings]<span><span>Ancient Cobalt Leggings</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Leggings]</linked><span><span><linked>Ancient Cobalt Leggings</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Jungle Shirt]<span><span>Jungle Shirt</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Jungle Shirt]</linked><span><span><linked>Jungle Shirt</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Ancient Cobalt Breastplate]<span><span>Ancient Cobalt Breastplate</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Cobalt Breastplate]</linked><span><span><linked>Ancient Cobalt Breastplate</linked></span></span></span></li></ul>"
         }
       }
     ]

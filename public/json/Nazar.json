@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Nazar",
   "summaries": [
-    "The <b>Nazar</b> is a post-Skeletron accessory that grants immunity to the Cursed debuff. It has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>2*</s>1/50 (2%)</span></abbr> chance to drop from Cursed Skulls, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Giant Cursed Skulls, Cursed Hammers, Enchanted Swords, or Crimson Axes.",
-    "It is one of the ingredients of the Countercurse Mantra, which is a crafting material required to make the Ankh Charm, an accessory which can be further crafted into the Ankh Shield."
+    "The <b>Nazar</b> is a post-<linked>Skeletron</linked> <linked>accessory</linked> that grants immunity to the <linked>Cursed</linked> <linked>debuff</linked>. It has a <span class=\"chance\"><s>1*</s>1/100 (1%)</span> / <linked>2*1/50 (2%)</linked> chance to drop from <linked>Cursed Skulls</linked>, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Giant Cursed Skulls</linked>, <linked>Cursed Hammers</linked>, <linked>Enchanted Swords</linked>, or <linked>Crimson Axes</linked>.",
+    "It is one of the ingredients of the <linked>Countercurse Mantra</linked>, which is a <linked>crafting material</linked> required to make the <linked>Ankh Charm</linked>, an accessory which can be further crafted into the <linked>Ankh Shield</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Immunity to Curse</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Nazar]<span><span>Nazar</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Nazar]</linked><span><span><linked>Nazar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Megaphone]<span><span>Megaphone</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Megaphone]</linked><span><span><linked>Megaphone</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,27 +31,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Megaphone]<span><span>Megaphone</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Megaphone]</linked><span><span><linked>Megaphone</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nazar]<span><span>Nazar</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nazar]</linked><span><span><linked>Nazar</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Countercurse Mantra]<span><span>Countercurse Mantra</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Countercurse Mantra]</linked><span><span><linked>Countercurse Mantra</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Megaphone]<span><span>Megaphone</span></span></span></li><li><span class=\"i\">[img:Nazar]<span><span>Nazar</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Megaphone]</linked><span><span><linked>Megaphone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Nazar]</linked><span><span><linked>Nazar</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

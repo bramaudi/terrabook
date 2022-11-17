@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Flask of Poison",
   "summaries": [
-    "The <b>Flask of Poison</b> is a flask that will cause any melee weapons or whips to inflict the Poisoned debuff. On the [img:Desktop version] Desktop version, [img:Console version] Console version, [img:Mobile version] Mobile version, and [img:Legacy tModLoader version] Legacy tModLoader version, this effect will not be lost when the player dies.",
-    "The Flask of Poison cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. This item currently does not apply the debuff in PvP scenarios. The debuff lasts for 5–10 seconds"
+    "The <b>Flask of Poison</b> is a <linked>flask</linked> that will cause any <linked>melee weapons</linked> or <linked>whips</linked> to inflict the <linked>Poisoned</linked> <linked>debuff</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, this effect will not be lost when the player <linked>dies</linked>.",
+    "The Flask of Poison cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. This item currently does not apply the debuff in <linked>PvP</linked> scenarios. The debuff lasts for 5–10 seconds"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks poison enemies</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,23 +18,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Poison]</linked><span><span><linked>Flask of Poison</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Poison]<span><span>Flask of Poison</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Poison]</linked><span><span><linked>Flask of Poison</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Stinger]<span><span>Stinger</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         }
       }
     ]

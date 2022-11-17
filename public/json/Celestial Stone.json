@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Celestial Stone",
   "summaries": [
-    "The <b>Celestial Stone</b> is a Hardmode post-Golem accessory crafted from a Moon Stone and a Sun Stone at the Tinkerer's Workshop. It offers the same boosts as its components do, and as such, it is active during both day and night. It can be combined with the Moon Shell to form a Celestial Shell.",
+    "The <b>Celestial Stone</b> is a <linked>Hardmode</linked> post-<linked>Golem</linked> <linked>accessory</linked> crafted from a <linked>Moon Stone</linked> and a <linked>Sun Stone</linked> at the <linked>Tinkerer's Workshop</linked>. It offers the same boosts as its components do, and as such, it is active during both <linked>day and night</linked>. It can be combined with the <linked>Moon Shell</linked> to form a <linked>Celestial Shell</linked>.",
     "Stat boosts:",
-    "<ul><li>+10% melee speed</li><li>+10% damage (all types)</li><li>+2% critical strike chance</li><li>+1 HP/s life regeneration</li><li>+4 defense</li><li>+15% mining speed</li><li>+0.5 minion knockback</li></ul>"
+    "<ul><li>+10% melee speed</li><li>+10% damage (all types)</li><li>+2% <linked>critical strike</linked> chance</li><li>+1 HP/s life regeneration</li><li>+4 defense</li><li>+15% <linked>mining speed</linked></li><li>+0.5 minion <linked>knockback</linked></li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Minor increase to damage, melee speed,<br>critical strike chance, life regeneration,<br>defense, mining speed, and minion knockback</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Stone]<span><span>Celestial Stone</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Stone]</linked><span><span><linked>Celestial Stone</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sun Stone]<span><span>Sun Stone</span></span></span></li><li><span class=\"i\">[img:Moon Stone]<span><span>Moon Stone</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sun Stone]</linked><span><span><linked>Sun Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moon Stone]</linked><span><span><linked>Moon Stone</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -32,14 +32,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Shell]<span><span>Celestial Shell</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Shell]</linked><span><span><linked>Celestial Shell</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Celestial Stone]<span><span>Celestial Stone</span></span></span></li><li><span class=\"i\">[img:Moon Shell]<span><span>Moon Shell</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Celestial Stone]</linked><span><span><linked>Celestial Stone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moon Shell]</linked><span><span><linked>Moon Shell</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

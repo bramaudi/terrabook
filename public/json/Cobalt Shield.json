@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Cobalt Shield",
   "summaries": [
-    "The <b>Cobalt Shield</b> is a Shield accessory that grants the player immunity from knockback when equipped. It also provides 1 defense, which stacks with other defense-granting accessories, such as Obsidian Skulls and Shackles. It is obtained from Gold Chests found in the Dungeon, or by opening Golden Lock Boxes found in Dungeon Crates."
+    "The <b>Cobalt Shield</b> is a <linked>Shield</linked> <linked>accessory</linked> that grants the player immunity from <linked>knockback</linked> when equipped. It also provides 1 <linked>defense</linked>, which stacks with other defense-granting accessories, such as <linked>Obsidian Skulls</linked> and <linked>Shackles</linked>. It is obtained from <linked>Gold Chests</linked> found in the <linked>Dungeon</linked>, or by opening <linked>Golden Lock Boxes</linked> found in <linked>Dungeon Crates</linked>."
   ],
   "statistics": {
     "Defense": "1",
     "Tooltip": "<i><span class=\"gameText\">Grants immunity to knockback</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 75 Silver Coins\" data-sort-value=\"17500\"><span class=\"gc\">1</span><span class=\"sc\">75</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Shield]<span><span>Obsidian Shield</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Shield]</linked><span><span><linked>Obsidian Shield</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cobalt Shield]<span><span>Cobalt Shield</span></span></span></li><li><span class=\"i\">[img:Obsidian Skull]<span><span>Obsidian Skull</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Shield]</linked><span><span><linked>Cobalt Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull]</linked><span><span><linked>Obsidian Skull</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

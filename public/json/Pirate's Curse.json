@@ -2,11 +2,11 @@
   "type": "enemies",
   "title": "Pirate's Curse",
   "summaries": [
-    "The <b>Pirate's Curse</b> is an enemy that spawns during the Pirate Invasion event when a Pirate Captain is defeated. It can fly and move through blocks. It is completely unaffected by all traps, making it difficult to avoid in automated farms.",
+    "The <b>Pirate's Curse</b> is an <linked>enemy</linked> that spawns during the <linked>Pirate Invasion</linked> <linked>event</linked> when a <linked>Pirate Captain</linked> is defeated. It can fly and move through blocks. It is completely unaffected by all <linked>traps</linked>, making it difficult to avoid in automated farms.",
     "If the player dies, it will momentarily hover and despawn."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Pirate Invasion </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Pirate Invasion </linked></span></div>",
     "AI Type": "Pirate's Curse AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">75</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">225</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">500</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1500</span></span></span>",

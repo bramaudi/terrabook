@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Lihzahrd",
   "summaries": [
-    "<b>Lihzahrds</b> are enemies found only inside the Jungle Temple. They initially move as ordinary walking Fighter AI enemies. As soon as their health is reduced to below 55% (220 / <abbr class=\"expert\" title=\"Expert Mode\">440</abbr> / <abbr class=\"master\" title=\"Master Mode\">660</abbr>), they enter their second, crawling form, which consists of a more lizard-like creature running on four legs. In this form they are much faster, have additional damage and defense, and are immune to knockback, but have reduced jump height."
+    "<b>Lihzahrds</b> are <linked>enemies</linked> found only inside the <linked>Jungle Temple</linked>. They initially move as ordinary walking <linked>Fighter AI</linked> enemies. As soon as their health is reduced to below 55% (220 / <linked>440</linked> / <linked>660</linked>), they enter their second, crawling form, which consists of a more lizard-like creature running on four legs. In this form they are much faster, have additional damage and defense, and are immune to <linked>knockback</linked>, but have reduced jump height."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Jungle Temple </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Jungle Temple </linked></span></div>",
     "AI Type": "Fighter AI",
-    "Banner": "<span class=\"i\">[img:Lihzahrd Banner]<span><span>Lihzahrd Banner</span></span></span>",
+    "Banner": "<span class=\"i\"><linked>[img:Lihzahrd Banner]</linked><span><span><linked>Lihzahrd Banner</linked></span></span></span>",
     "Immune to": "Poisoned"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Lihzahrd Power Cell]<span><span>Lihzahrd Power Cell</span></span></span></div><div>2%</div></li><li><div><span class=\"i\">[img:Lizard Egg]<span><span>Lizard Egg</span></span></span></div><div>0.1%</div></li><li><div><span class=\"i\">[img:Solar Tablet Fragment]<span><span>Solar Tablet Fragment</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (1-2)</div><div>14.29%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Lihzahrd Power Cell]</linked><span><span><linked>Lihzahrd Power Cell</linked></span></span></span></div><div>2%</div></li><li><div><span class=\"i\"><linked>[img:Lizard Egg]</linked><span><span><linked>Lizard Egg</linked></span></span></span></div><div>0.1%</div></li><li><div><span class=\"i\"><linked>[img:Solar Tablet Fragment]</linked><span><span><linked>Solar Tablet Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (1-2)</div><div>14.29%</div></li></ul>"
 }

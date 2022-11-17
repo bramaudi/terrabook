@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Lava Waders",
   "summaries": [
-    "The <b>Lava Waders</b> are an accessory that allow the player to walk on the surface of all liquids, including water, honey, shimmer and even lava, without taking lava damage or triggering the On Fire! debuff (unlike the Water Walking Boots and Obsidian Water Walking Boots, which only allow walking on water and honey).",
-    "Lava Waders also allow the player to submerge in lava safely for 7 seconds (press the <span class=\"key\"><kbd><span title=\"S (PC default)\">▼ Down</span></kbd></span> key to submerge), without incurring lava damage or triggering the On Fire! debuff. The 7-second countdown is signified by a lava meter that displays over the player's head, similar to the Breath meter, but displaying flame icons instead of bubbles. Lava immunity time is recharged gradually by exiting lava, the same way breathing time is recharged by exiting water (albeit much more slowly).",
+    "The <b>Lava Waders</b> are an <linked>accessory</linked> that allow the player to walk on the surface of all <linked>liquids</linked>, including <linked>water</linked>, <linked>honey</linked>, <linked>shimmer</linked> and even <linked>lava</linked>, without taking lava damage or triggering the <linked>On Fire!</linked> <linked>debuff</linked> (unlike the <linked>Water Walking Boots</linked> and <linked>Obsidian Water Walking Boots</linked>, which only allow walking on water and honey).",
+    "Lava Waders also allow the player to submerge in lava safely for 7 seconds (press the <span class=\"key\"><linked>▼ Down</linked></span> key to submerge), without incurring lava damage or triggering the On Fire! debuff. The 7-second countdown is signified by a lava meter that displays over the player's head, similar to the <linked>Breath meter</linked>, but displaying flame icons instead of bubbles. Lava immunity time is recharged gradually by exiting lava, the same way breathing time is recharged by exiting water (albeit much more slowly).",
     "All liquids, including lava, can be walked on indefinitely while the Lava Waders are equipped. The countdown only applies when submerged in lava, whereas the player can stand on its surface indefinitely.",
-    "Lava Waders additionally provide immunity to the Burning debuff incurred from contact with Meteorite, Hellstone or Hellstone Brick. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It also reduces lava's base damage from 80 to 35."
+    "Lava Waders additionally provide immunity to the <linked>Burning</linked> <linked>debuff</linked> incurred from contact with <linked>Meteorite</linked>, <linked>Hellstone</linked> or <linked>Hellstone Brick</linked>. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> It also reduces <linked>lava</linked>'s base <linked>damage</linked> from 80 to 35."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Provides the ability to walk on water, honey &amp; lava<br>Grants immunity to fire blocks and 7 seconds of immunity to lava<br>Reduces damage from touching lava</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,43 +18,43 @@
       {
         "result": {
           "rowspan": 5,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Lava Waders]</linked><span><span><linked>Lava Waders</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Water Walking Boots]</linked><span><span><linked>Obsidian Water Walking Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Charm]</linked><span><span><linked>Lava Charm</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Rose]</linked><span><span><linked>Obsidian Rose</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Molten Charm]<span><span>Molten Charm</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Molten Charm]</linked><span><span><linked>Molten Charm</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Water Walking Boots]</linked><span><span><linked>Obsidian Water Walking Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Rose]</linked><span><span><linked>Obsidian Rose</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Molten Charm]<span><span>Molten Charm</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Water Walking Boots]<span><span>Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Obsidian Rose]<span><span>Obsidian Rose</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Molten Charm]</linked><span><span><linked>Molten Charm</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Water Walking Boots]</linked><span><span><linked>Water Walking Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Rose]</linked><span><span><linked>Obsidian Rose</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Molten Skull Rose]<span><span>Molten Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Molten Skull Rose]</linked><span><span><linked>Molten Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Water Walking Boots]</linked><span><span><linked>Obsidian Water Walking Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Molten Skull Rose]<span><span>Molten Skull Rose</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Water Walking Boots]<span><span>Water Walking Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Molten Skull Rose]</linked><span><span><linked>Molten Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Water Walking Boots]</linked><span><span><linked>Water Walking Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Lava Waders]<span><span>Lava Waders</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Lava Waders]</linked><span><span><linked>Lava Waders</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Obsidian Water Walking Boots]<span><span>Obsidian Water Walking Boots</span></span></span></li><li><span class=\"i\">[img:Lava Charm]<span><span>Lava Charm</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Water Walking Boots]</linked><span><span><linked>Obsidian Water Walking Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Charm]</linked><span><span><linked>Lava Charm</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -62,14 +62,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Terraspark Boots]<span><span>Terraspark Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Terraspark Boots]</linked><span><span><linked>Terraspark Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frostspark Boots]<span><span>Frostspark Boots</span></span></span></li><li><span class=\"i\">[img:Lava Waders]<span><span>Lava Waders</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frostspark Boots]</linked><span><span><linked>Frostspark Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Waders]</linked><span><span><linked>Lava Waders</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

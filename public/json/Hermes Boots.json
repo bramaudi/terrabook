@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Hermes Boots",
   "summaries": [
-    "<b>Hermes Boots</b> are an accessory that can be found in Chests in the Underground and Cavern layers. When equipped, they allow the player to gain a movement speed boost after running for a certain distance continuously. The speed will continue increasing until maximum speed is attained. At full sprint, they will increase the player's horizontal movement speed to 30 mph. However, if the player runs into a wall without autojumping, the player will stop and have to speed up again. <i>(See Sprinting accessories for more information on the sprint effect).</i>",
-    "The Hermes Boots, Flurry Boots and the Sailfish Boots have identical functionality, with their only differences being aesthetic. In the case of the Hermes Boots, the user will leave a lasting trail of small dust clouds as they run, which persists for a few seconds. The Dunerider Boots function similarly, the only difference being that they allow the player to run faster on sand.",
-    "All four listed boots are interchangeable when crafting Spectre Boots."
+    "<b>Hermes Boots</b> are an <linked>accessory</linked> that can be found in <linked>Chests</linked> in the <linked>Underground</linked> and <linked>Cavern</linked> layers. When equipped, they allow the <linked>player</linked> to gain a <linked>movement speed</linked> boost after running for a certain distance continuously. The speed will continue increasing until maximum speed is attained. At full sprint, they will increase the <linked>player's</linked> horizontal movement speed to 30 mph. However, if the player runs into a wall without autojumping, the player will stop and have to speed up again. <i>(See <linked>Sprinting accessories</linked> for more information on the sprint effect).</i>",
+    "The Hermes Boots, <linked>Flurry Boots</linked> and the <linked>Sailfish Boots</linked> have identical functionality, with their only differences being aesthetic. In the case of the Hermes Boots, the user will leave a lasting trail of small dust clouds as they run, which persists for a few seconds. The <linked>Dunerider Boots</linked> function similarly, the only difference being that they allow the player to run faster on <linked>sand</linked>.",
+    "All four listed boots are interchangeable when crafting <linked>Spectre Boots</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">The wearer can run super fast</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hermes Boots]<span><span>Hermes Boots</span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hermes Boots]</linked><span><span><linked>Hermes Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

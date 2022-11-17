@@ -2,13 +2,13 @@
   "type": "pets",
   "title": "Shark Bait",
   "summaries": [
-    "The <b>Shark Bait</b> is a Pet summon item that summons a pet <b>Shark Pup</b>. It can be found in Water Chests and Ocean/Seaside Crates.",
+    "The <b>Shark Bait</b> is a <linked>Pet</linked> summon item that summons a pet <b>Shark Pup</b>. It can be found in <linked>Water Chests</linked> and <linked>Ocean</linked>/<linked>Seaside Crates</linked>.",
     "When underwater, the shark pet swims around freely. When out of water, it is encased in a bubble. If you walk too far from the shark, it will not teleport. Instead, it will move swiftly toward the player."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a Shark Pup<br>'Doo, doo, doo, doo, doo, doo'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

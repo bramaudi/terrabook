@@ -7,8 +7,8 @@
     "[img:Axe mask] 150%"
   ],
   "summaries": [
-    "The <b>Molten Hamaxe</b> is a tool which functions as both a hammer and an axe, and is an upgrade from the Meteor Hamaxe. It is crafted solely using Hellstone Bars. This tool has a chance of inflicting the On Fire! debuff. Its hammer and axe powers are the highest of all pre-Hardmode tools. While it has more axe power than most Hardmode axes, it is hindered in usage by its comparatively slow tool speed, making many later tools a better choice.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Molten Hamaxe</b> is a <linked>tool</linked> which functions as <linked>both a hammer and an axe</linked>, and is an upgrade from the <linked>Meteor Hamaxe</linked>. It is crafted solely using <linked>Hellstone Bars</linked>. This tool has a chance of inflicting the <linked>On Fire!</linked> <linked>debuff</linked>. Its <linked>hammer</linked> and <linked>axe</linked> powers are the highest of all <linked>pre-Hardmode</linked> tools. While it has more axe power than most Hardmode axes, it is hindered in usage by its comparatively slow <linked>tool speed</linked>, making many later tools a better choice.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "27 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "14",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,14 +25,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Molten Hamaxe]<span><span>Molten Hamaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Molten Hamaxe]</linked><span><span><linked>Molten Hamaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Hellstone Bar]<span><span>Hellstone Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

@@ -2,19 +2,19 @@
   "type": "enemies",
   "title": "Ice Mimic",
   "summaries": [
-    "<b>Mimics</b> are rare Hardmode enemies disguised as chests, appearing as the appropriate chest type for the environment.",
-    "Mimics can be spawned by the player using the Chest Statue, even prior to Hardmode. However, Mimics spawned this way only drop the Mimic Banner.",
-    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Rare Hallowed, Corrupt, and Crimson Mimics can also be spawned manually by players via a Key of Light or Key of Night (see the Biome Mimic section below)."
+    "<b>Mimics</b> are rare <linked>Hardmode</linked> <linked>enemies</linked> disguised as <linked>chests</linked>, appearing as the appropriate chest type for the environment.",
+    "Mimics can be spawned by the player using the <linked>Chest Statue</linked>, even <linked>prior to Hardmode</linked>. However, Mimics spawned this way only drop the <linked>Mimic Banner</linked>.",
+    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Rare <linked>Hallowed</linked>, <linked>Corrupt</linked>, and <linked>Crimson</linked> Mimics can also be spawned manually by players via a <linked>Key of Light</linked> or <linked>Key of Night</linked> (see <linked>the Biome Mimic section below</linked>)."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ice biome </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Ice biome </linked></span></div>",
     "AI Type": "Mimic AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">80</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">160</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">240</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">500</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1500</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">30</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">70%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">73%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">76%</span></span></span>",
-    "Banner": "<span class=\"i\">[img:Mimic Banner]<span><span>Mimic Banner</span></span></span>",
+    "Banner": "<span class=\"i\"><linked>[img:Mimic Banner]</linked><span><span><linked>Mimic Banner</linked></span></span></span>",
     "Immune to": "Poisoned, Frostburn, Confused, Hellfire, Frostbite, On Fire!"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Frostbrand]<span><span>Frostbrand</span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\">[img:Ice Bow]<span><span>Ice Bow</span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\">[img:Flower of Frost]<span><span>Flower of Frost</span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\">[img:Toy Sled]<span><span>Toy Sled</span></span></span></div><div>5%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Frostbrand]</linked><span><span><linked>Frostbrand</linked></span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\"><linked>[img:Ice Bow]</linked><span><span><linked>Ice Bow</linked></span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\"><linked>[img:Flower of Frost]</linked><span><span><linked>Flower of Frost</linked></span></span></span></div><div>31.67%</div></li><li><div><span class=\"i\"><linked>[img:Toy Sled]</linked><span><span><linked>Toy Sled</linked></span></span></span></div><div>5%</div></li></ul>"
 }

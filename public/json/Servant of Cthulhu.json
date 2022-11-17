@@ -2,10 +2,10 @@
   "type": "enemies",
   "title": "Servant of Cthulhu",
   "summaries": [
-    "<b>Servants of Cthulhu</b> are weak flying enemies spawned by the Eye of Cthulhu boss in its first stage."
+    "<b>Servants of Cthulhu</b> are weak flying <linked>enemies</linked> spawned by the <linked>Eye of Cthulhu</linked> <linked>boss</linked> in its first stage."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface  +  Night </span><span class=\"tag\"> Space  +  Night </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked> + <linked> Night </linked></span><span class=\"tag\"><linked> Space </linked> + <linked> Night </linked></span></div>",
     "AI Type": "Flying AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">12</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">24</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">36</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">8</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">12</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">15</span></span></span>",

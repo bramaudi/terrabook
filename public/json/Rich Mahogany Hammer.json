@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Rich Mahogany Hammer</b> is a low-tier hammer. It is identical in utility to the Copper Hammer, so a beginning player wishing to conserve metal for armor might choose to make this hammer instead, assuming they can reach the Jungle.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Rich Mahogany Hammer</b> is a low-tier <linked>hammer</linked>. It is identical in utility to the <linked>Copper Hammer</linked>, so a beginning player wishing to conserve metal for armor might choose to make this hammer instead, assuming they can reach the <linked>Jungle</linked>.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "4 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "33 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "23",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,14 +25,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Rich Mahogany Hammer]<span><span>Rich Mahogany Hammer</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Rich Mahogany Hammer]</linked><span><span><linked>Rich Mahogany Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Rich Mahogany]<span><span>Rich Mahogany</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

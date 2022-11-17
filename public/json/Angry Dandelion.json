@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Angry Dandelion",
   "summaries": [
-    "The <b>Angry Dandelion</b> is an enemy that spawns on grass during the Windy Day event at daytime. It is stationary and shoots 1–3 damaging Dandelion Seed projectiles at the player every 0.67 seconds."
+    "The <b>Angry Dandelion</b> is an <linked>enemy</linked> that spawns on <linked>grass</linked> during the <linked>Windy Day</linked> <linked>event</linked> at daytime. It is stationary and shoots 1–3 damaging Dandelion Seed projectiles at the player every 0.67 seconds."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Windy Day </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Windy Day </linked></span></div>",
     "AI Type": "Angry Dandelion AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">15</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">30</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">80</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">45</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">120</span></span></span> <span class=\"note-text small\">(contact)</span><br><span class=\"mode-content\"><span class=\"m-normal\">14</span><span class=\"m-expert\"><abbr class=\"expert\" title=\"Expert Mode\">28</abbr></span><span class=\"m-master\"><abbr class=\"master\" title=\"Master Mode\">42</abbr></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Dandelion Seed</span>)</span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">100</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">220</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">330</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">150</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">330</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">495</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">100%</span></span>",
-    "Banner": "<span class=\"i -w\">[img:Angry Dandelion Banner]<span><span>Angry Dandelion Banner</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Angry Dandelion Banner]</linked><span><span><linked>Angry Dandelion Banner</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span> (1–2)</div><div>50%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span> (1–2)</div><div>50%</div></li></ul>"
 }

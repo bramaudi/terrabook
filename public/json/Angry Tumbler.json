@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Angry Tumbler",
   "summaries": [
-    "The <b>Angry Tumbler</b> is an enemy that spawns in the Desert during Sandstorms. It attacks by rolling towards the player, moving at very high speeds when rolling with the flow of the Mighty Wind. Combined with its considerable contact damage, this makes the Angry Tumbler difficult to deal with for new players."
+    "The <b>Angry Tumbler</b> is an <linked>enemy</linked> that spawns in the <linked>Desert</linked> during <linked>Sandstorms</linked>. It attacks by rolling towards the player, moving at very high speeds when rolling with the flow of the <linked>Mighty Wind</linked>. Combined with its considerable contact damage, this makes the Angry Tumbler difficult to deal with for new players."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Sandstorm </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Sandstorm </linked></span></div>",
     "AI Type": "Unicorn AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">30</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">60</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">54</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">108</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">90</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">81</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">162</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">100</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">110</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">220</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">150</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">165</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">330</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-normal\">6</span><span class=\"ssep\">/</span><span class=\"m-expert-master expert\"><span class=\"s\" title=\"Pre-Hardmode\">6</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">6</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">12</span></span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">20%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">28%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">36%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Angry Tumbler Banner]<span><span>Angry Tumbler Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Angry Tumbler Banner]</linked><span><span><linked>Angry Tumbler Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Nachos]<span><span>Nachos</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>3.33%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Nachos]</linked><span><span><linked>Nachos</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>3.33%</div></li></ul>"
 }

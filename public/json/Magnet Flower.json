@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Magnet Flower",
   "summaries": [
-    "The <b>Magnet Flower</b> is an accessory that reduces mana usage by 8%, automatically uses Mana Potions when needed, and increases pickup range for Stars by 18.75 tiles. It will use the first available Mana Potion in the player's inventory when out of mana (from left to right and top to bottom).",
+    "The <b>Magnet Flower</b> is an <linked>accessory</linked> that reduces <linked>mana</linked> usage by 8%, automatically uses <linked>Mana Potions</linked> when needed, and increases pickup range for <linked>Stars</linked> by 18.75 tiles. It will use the first available Mana Potion in the player's inventory when out of mana (from left to right and top to bottom).",
     "The Magnet Flower has the exact same functional effects of both its component items."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">8% reduced mana cost<br>Automatically use mana potions when needed<br>Increases pickup range for mana stars</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Magnet Flower]<span><span>Magnet Flower</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magnet Flower]</linked><span><span><linked>Magnet Flower</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Celestial Magnet]<span><span>Celestial Magnet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Celestial Magnet]</linked><span><span><linked>Celestial Magnet</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

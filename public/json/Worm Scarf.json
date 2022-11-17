@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Worm Scarf",
   "summaries": [
-    "The <b>Worm Scarf</b> is an Expert Mode accessory that reduces incoming damage by 17%. The Worm Scarf is always obtained from the Eater of Worlds' Treasure Bag.",
+    "The <b>Worm Scarf</b> is an <linked>Expert Mode</linked> <linked>accessory</linked> that reduces incoming damage by 17%. The Worm Scarf is always obtained from the <linked>Eater of Worlds</linked>' <linked>Treasure Bag</linked>.",
     "This damage reduction from this item is calculated after defense is applied:",
     "<code>Damage_taken = ( Raw_damage - (Defense * (.5 or .75 or 1 for normal/expert/master modes respectively)) ) * (1 - .17)</code>",
     "Visually, it appears to be piercing through the player’s shoulder."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Reduces damage taken by 17%</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: Rainbow]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: Rainbow]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

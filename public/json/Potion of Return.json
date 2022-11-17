@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Potion of Return",
   "summaries": [
-    "The <b>Potion of Return</b> is a potion that teleports the player back to their spawn point, similar to the Recall Potion, and additionally creates a portal exit at the location where the potion was consumed. A portal entrance will be created at the spawn point, which can be used to teleport back to where the player consumed the potion. The portal can only be used once and will disappear afterwards. In addition to being crafted, the Potion of Return can be found in Shadow Chests and Pots in the Underworld."
+    "The <b>Potion of Return</b> is a <linked>potion</linked> that teleports the player back to their <linked>spawn point</linked>, similar to the <linked>Recall Potion</linked>, and additionally creates a portal exit at the location where the potion was consumed. A portal entrance will be created at the spawn point, which can be used to teleport back to where the player consumed the potion. The portal can only be used once and will disappear afterwards. In addition to being crafted, the Potion of Return can be found in <linked>Shadow Chests</linked> and <linked>Pots</linked> in <linked>the Underworld</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tooltip": "<i><span class=\"gameText\">Teleports you home and creates a portal<br>Use portal to return when you are done<br>'Good for one round trip!'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Potion of Return]<span><span>Potion of Return</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Potion of Return]</linked><span><span><linked>Potion of Return</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Recall Potion]<span><span>Recall Potion</span></span></span></li><li><span class=\"i\">[img:Obsidifish]<span><span>Obsidifish</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Recall Potion]</linked><span><span><linked>Recall Potion</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidifish]</linked><span><span><linked>Obsidifish</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

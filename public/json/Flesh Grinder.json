@@ -7,8 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Flesh Grinder</b> is a hammer which is obtainable after the Brain of Cthulhu has been defeated. Like its Corruption counterpart, The Breaker, it is much more useful as a weapon than previous hammers, dealing a fair amount of damage and being capable of autoswing. Compared to The Breaker, the Flesh Grinder deals lower damage, but is faster and has slightly more range.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Flesh Grinder</b> is a <linked>hammer</linked> which is obtainable after the <linked>Brain of Cthulhu</linked> has been defeated. Like its <linked>Corruption</linked> <linked>counterpart</linked>, <linked>The Breaker</linked>, it is much more useful as a weapon than previous hammers, dealing a fair amount of damage and being capable of <linked>autoswing</linked>. Compared to The Breaker, the Flesh Grinder deals lower damage, but is faster and has slightly more range.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "23 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "40 <span class=\"usetime\">(Very slow)</span>",
     "Tool speed": "19",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,14 +25,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Flesh Grinder]<span><span>Flesh Grinder</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flesh Grinder]</linked><span><span><linked>Flesh Grinder</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Crimtane Bar]<span><span>Crimtane Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Tissue Sample]<span><span>Tissue Sample</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

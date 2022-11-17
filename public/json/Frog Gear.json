@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Frog Gear",
   "summaries": [
-    "The <b>Frog Gear</b> is an accessory that combines the effects of the Frog Leg, Flipper, and Tiger Climbing Gear."
+    "The <b>Frog Gear</b> is an <linked>accessory</linked> that combines the effects of the <linked>Frog Leg</linked>, <linked>Flipper</linked>, and <linked>Tiger Climbing Gear</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Grants the ability to swim<br>Allows the ability to climb walls<br>Increases jump speed and allows auto-jump<br>Increases fall resistance<br>'It ain't easy being green'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,19 +15,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Frog Gear]<span><span>Frog Gear</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Gear]</linked><span><span><linked>Frog Gear</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Webbing]<span><span>Frog Webbing</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Flipper]<span><span>Flipper</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Webbing]</linked><span><span><linked>Frog Webbing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Flipper]</linked><span><span><linked>Flipper</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Frog Flipper]<span><span>Frog Flipper</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Tiger Climbing Gear]<span><span>Tiger Climbing Gear</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Frog Flipper]</linked><span><span><linked>Frog Flipper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Tiger Climbing Gear]</linked><span><span><linked>Tiger Climbing Gear</linked></span></span></span></li></ul>"
         }
       }
     ]

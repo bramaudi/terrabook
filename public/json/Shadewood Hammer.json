@@ -7,9 +7,9 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Shadewood Hammer</b> is a low-tier hammer. It lies between the Copper and Tin Hammers and the Lead and Iron Hammers in hammering utility, so it is recommended for a starting player to chop down a tree when they first locate the Crimson and make this hammer.",
-    "Its Corruption counterpart is the Ebonwood Hammer. The stats of the Ebonwood Hammer are identical to the Shadewood Hammer's.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Shadewood Hammer</b> is a low-tier <linked>hammer</linked>. It lies between the <linked>Copper</linked> and <linked>Tin Hammers</linked> and the <linked>Lead</linked> and <linked>Iron Hammers</linked> in hammering utility, so it is recommended for a starting player to chop down a <linked>tree</linked> when they first locate <linked>the Crimson</linked> and make this hammer.",
+    "Its <linked>Corruption</linked> counterpart is the <linked>Ebonwood Hammer</linked>. The stats of the Ebonwood Hammer are identical to the Shadewood Hammer's.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "7 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "20",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shadewood Hammer]<span><span>Shadewood Hammer</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shadewood Hammer]</linked><span><span><linked>Shadewood Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shadewood]<span><span>Shadewood</span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

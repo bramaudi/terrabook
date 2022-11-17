@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Demonite Brick",
   "summaries": [
-    "<b>Demonite Bricks</b> are crafted from Demonite Ore and Ebonstone. A box of it also appears after the Wall of Flesh has been defeated on a Corruption world (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> in any type of world). It is not resistant to explosions, and gives off a faint glow."
+    "<b>Demonite Bricks</b> are crafted from <linked>Demonite Ore</linked> and <linked>Ebonstone</linked>. A box of it also appears after the <linked>Wall of Flesh</linked> has been defeated on a <linked>Corruption</linked> world (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> in any type of world). It is not resistant to explosions, and gives off a faint glow."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,27 +15,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Demonite Brick]<span><span>Demonite Brick</span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Ore]<span><span>Demonite Ore</span></span></span></li><li><span class=\"i\">[img:Ebonstone Block]<span><span>Ebonstone Block</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Demonite Brick]<span><span>Demonite Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Brick Wall]<span><span>Demonite Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Brick Wall]</linked><span><span><linked>Demonite Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ],
@@ -43,14 +43,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Demonite Brick Wall]<span><span>Demonite Brick Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick Wall]</linked><span><span><linked>Demonite Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Brick]<span><span>Demonite Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

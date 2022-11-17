@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Seedling",
   "summaries": [
-    "The <b>Seedling</b> is a pet-summoning item. It has a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance of being dropped by Plantera. It summons a <b>Pet Sapling</b> that follows the player. If the player flies too high or otherwise moves far enough away from it, it will sprout leaflets and use them to fly with the player, acting as \"wings\"."
+    "The <b>Seedling</b> is a <linked>pet</linked>-summoning item. It has a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance of being dropped by <linked>Plantera</linked>. It summons a <b>Pet Sapling</b> that follows the player. If the player flies too high or otherwise moves far enough away from it, it will sprout leaflets and use them to fly with the player, acting as \"wings\"."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a Pet Sapling</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

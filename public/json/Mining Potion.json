@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Mining Potion",
   "summaries": [
-    "The <b>Mining Potion</b> is a buff potion which grants the <b>Mining</b> buff when consumed. The buff increases mining speed by 25%. This lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 8 / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 5 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]), or  by double-tapping the buff icon ([img:Mobile version]).",
-    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a bonus drop from Slimes."
+    "The <b>Mining Potion</b> is a <linked>buff potion</linked> which grants the <b>Mining</b> <linked>buff</linked> when consumed. The buff increases <linked>mining speed</linked> by 25%. This lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 8 / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 5 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>).",
+    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Increases mining speed by 25%</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mining Potion]<span><span>Mining Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mining Potion]</linked><span><span><linked>Mining Potion</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Antlion Mandible]<span><span>Antlion Mandible</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Antlion Mandible]</linked><span><span><linked>Antlion Mandible</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

@@ -2,15 +2,15 @@
   "type": "accessories",
   "title": "Paladin's Shield",
   "summaries": [
-    "<b>Paladin's Shield</b> is a Hardmode post-Plantera Shield accessory that functions primarily in multiplayer. While equipped, and when the wearer's health is above 25%, it grants all nearby players on their team the <b>Paladin's Shield</b> buff: this buff causes 25% of any damage inflicted on them to transfer to the wearer of the shield instead.",
-    "In both singleplayer and multiplayer, Paladin's Shield also provides the wearer immunity to knockback (like the Cobalt Shield and its variants), and provides an additional 6 defense.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The shield can be combined with the Frozen Turtle Shell or the Flesh Knuckles to craft the Frozen Shield or the Hero Shield, respectively.",
-    "Paladin's Shield is dropped by Paladins with a chance of <span class=\"chance\"><s>9.33*</s>7/75 (9.33%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>13.56*</s>763/5625 (13.56%)</span></abbr>."
+    "<b>Paladin's Shield</b> is a <linked>Hardmode</linked> post-<linked>Plantera</linked> <linked>Shield</linked> <linked>accessory</linked> that functions primarily in <linked>multiplayer</linked>. While equipped, and when the wearer's health is above 25%, it grants all nearby players on their <linked>team</linked> the <b>Paladin's Shield</b> <linked>buff</linked>: this buff causes 25% of any damage inflicted on them to transfer to the wearer of the shield instead.",
+    "In both singleplayer and <linked>multiplayer</linked>, Paladin's Shield also provides the wearer immunity to <linked>knockback</linked> (like the <linked>Cobalt Shield</linked> and its variants), and provides an additional 6 <linked>defense</linked>.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The shield can be combined with the <linked>Frozen Turtle Shell</linked> or the <linked>Flesh Knuckles</linked> to craft the <linked>Frozen Shield</linked> or the <linked>Hero Shield</linked>, respectively.",
+    "Paladin's Shield is dropped by <linked>Paladins</linked> with a chance of <span class=\"chance\"><s>9.33*</s>7/75 (9.33%)</span> / <linked>13.56*763/5625 (13.56%)</linked>."
   ],
   "statistics": {
     "Defense": "6",
     "Tooltip": "<i><span class=\"gameText\">Absorbs 25% of damage done to players on your team when above 25% life<br>Grants immunity to knockback</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -19,23 +19,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Frozen Shield]<span><span>Frozen Shield</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frozen Shield]</linked><span><span><linked>Frozen Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Paladin's Shield]<span><span>Paladin's Shield</span></span></span></li><li><span class=\"i\">[img:Frozen Turtle Shell]<span><span>Frozen Turtle Shell</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Frozen Turtle Shell]</linked><span><span><linked>Frozen Turtle Shell</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hero Shield]<span><span>Hero Shield</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hero Shield]</linked><span><span><linked>Hero Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Paladin's Shield]<span><span>Paladin's Shield</span></span></span></li><li><span class=\"i\">[img:Flesh Knuckles]<span><span>Flesh Knuckles</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

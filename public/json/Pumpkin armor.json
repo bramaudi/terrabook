@@ -2,12 +2,12 @@
   "type": "armors",
   "title": "Pumpkin armor",
   "summaries": [
-    "The <b>Pumpkin armor</b> is an armor set crafted from Pumpkins at any Work Bench. Wearing a full set increases all damage dealt by the player by 10%. 75 Pumpkins are required to craft a full set."
+    "The <b>Pumpkin armor</b> is an <linked>armor</linked> set crafted from <linked>Pumpkins</linked> at any <linked>Work Bench</linked>. Wearing a full set increases all <linked>damage</linked> dealt by the player by 10%. 75 Pumpkins are required to craft a full set."
   ],
   "statistics": {
     "Defense": "7<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">10% increased damage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>"
   },
   "crafts": {
     "Recipes": [
@@ -17,11 +17,11 @@
           "value": "<span class=\"i multi-line\">[img:Pumpkin Breastplate]<span><span title=\"Pumpkin Breastplate\">Pumpkin Breastplate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
@@ -30,7 +30,7 @@
           "value": "<span class=\"i multi-line\">[img:Pumpkin Helmet]<span><span title=\"Pumpkin Helmet\">Pumpkin Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
@@ -39,7 +39,7 @@
           "value": "<span class=\"i multi-line\">[img:Pumpkin Leggings]<span><span title=\"Pumpkin Leggings\">Pumpkin Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Pumpkin]<span><span>Pumpkin</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       }
     ]

@@ -3,12 +3,12 @@
   "title": "Guide to Critter Companionship",
   "toolpower": [],
   "summaries": [
-    "The <b>Guide to Critter Companionship</b> is a tool that prevents player attacks from harming critters. It is not an accessory and will work as long as it is in the player's main inventory. It is purchased from the Zoologist for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>.",
-    "After pressing <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> on it in the inventory or hotbar, it will turn into the <b>Guide to Critter Companionship (Inactive)</b>, temporarily disabling its effects."
+    "The <b>Guide to Critter Companionship</b> is a <linked>tool</linked> that prevents player attacks from harming <linked>critters</linked>. It is not an <linked>accessory</linked> and will work as long as it is in the player's main inventory. It is purchased from the <linked>Zoologist</linked> for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>.",
+    "After pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on it in the inventory or <linked>hotbar</linked>, it will turn into the <b>Guide to Critter Companionship (Inactive)</b>, temporarily disabling its effects."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Prevents you from hurting critters while in the inventory<br>Right click to deactivate effects</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Guide to Peaceful Coexistence]<span><span>Guide to Peaceful Coexistence</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Guide to Peaceful Coexistence]</linked><span><span><linked>Guide to Peaceful Coexistence</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Any Guide to Critter Companionship]<span><span>Any Guide to Critter Companionship</span></span></span></li><li><span class=\"i\">[img:Any Guide to Environmental Preservation]<span><span>Any Guide to Environmental Preservation</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Guide to Critter Companionship]</linked><span><span><linked>Any Guide to Critter Companionship</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Guide to Environmental Preservation]</linked><span><span><linked>Any Guide to Environmental Preservation</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Lavaproof Fishing Hook",
   "summaries": [
-    "The <b>Lavaproof Fishing Hook</b> is an accessory that can be found in Obsidian Crates and Hellstone Crates, obtained from Fishing in Lava. When equipped, it allows the player to catch fish in lava with any bait and any fishing pole."
+    "The <b>Lavaproof Fishing Hook</b> is an <linked>accessory</linked> that can be found in <linked>Obsidian Crates</linked> and <linked>Hellstone Crates</linked>, obtained from <linked>Fishing</linked> in <linked>Lava</linked>. When equipped, it allows the player to catch fish in lava with any <linked>bait</linked> and any <linked>fishing pole</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows fishing in lava</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 7]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lavaproof Tackle Bag]<span><span>Lavaproof Tackle Bag</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavaproof Tackle Bag]</linked><span><span><linked>Lavaproof Tackle Bag</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lavaproof Fishing Hook]<span><span>Lavaproof Fishing Hook</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Angler Tackle Bag]</linked><span><span><linked>Angler Tackle Bag</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lavaproof Fishing Hook]</linked><span><span><linked>Lavaproof Fishing Hook</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

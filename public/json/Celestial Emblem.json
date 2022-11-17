@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Celestial Emblem",
   "summaries": [
-    "The <b>Celestial Emblem</b> is a Hardmode accessory that offers 15% increased magic damage and a 18.75-tile increased pickup range for Stars (21.375 tile total range)."
+    "The <b>Celestial Emblem</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that offers 15% increased <linked>magic damage</linked> and a 18.75-tile increased pickup range for <linked>Stars</linked> (21.375 tile total range)."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases pickup range for mana stars<br>15% increased magic damage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 5]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold 20 Silver Coins\" data-sort-value=\"32000\"><span class=\"gc\">3</span><span class=\"sc\">20</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Emblem]<span><span>Celestial Emblem</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Emblem]</linked><span><span><linked>Celestial Emblem</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Celestial Magnet]<span><span>Celestial Magnet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Avenger Emblem]<span><span>Avenger Emblem</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Celestial Magnet]</linked><span><span><linked>Celestial Magnet</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Avenger Emblem]</linked><span><span><linked>Avenger Emblem</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

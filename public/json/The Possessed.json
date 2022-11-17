@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "The Possessed",
   "summaries": [
-    "<b>The Possessed</b> is an enemy from the Solar Eclipse event. Despite not resembling one, she acts similarly to spider enemies such as Wall Creepers, Blood Crawlers, Black Recluses, and Jungle Creepers, climbing on background walls when able to and walking on the ground at all other times. While climbing on walls, The Possessed seems to have an increased movement speed, similar to the other enemies that share this wall-climbing trait, and a 100% resistance to knockback."
+    "<b>The Possessed</b> is an <linked>enemy</linked> from the <linked>Solar Eclipse</linked> event. Despite not resembling one, she acts similarly to spider enemies such as <linked>Wall Creepers</linked>, <linked>Blood Crawlers</linked>, <linked>Black Recluses</linked>, and <linked>Jungle Creepers</linked>, climbing on <linked>background walls</linked> when able to and walking on the ground at all other times. While climbing on walls, The Possessed seems to have an increased movement speed, similar to the other enemies that share this wall-climbing trait, and a 100% resistance to <linked>knockback</linked>."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Solar Eclipse </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Solar Eclipse </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">68</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">136</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">204</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">600</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1200</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1800</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">28</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">65%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">69%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">72%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:The Possessed Banner]<span><span>The Possessed Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
-    "Immune to": "Poisoned, Acid Venom"
+    "Banner": "<span class=\"i -w\"><linked>[img:The Possessed Banner]</linked><span><span><linked>The Possessed Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Immune to": "Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Steak]<span><span>Steak</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1%</div></li><li><div><span class=\"i\">[img:This Is Getting Out Of Hand]<span><span>This Is Getting Out Of Hand</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.67%</div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Steak]</linked><span><span><linked>Steak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1%</div></li><li><div><span class=\"i\"><linked>[img:This Is Getting Out Of Hand]</linked><span><span><linked>This Is Getting Out Of Hand</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></div><div>1.67%</div></li></ul>"
 }

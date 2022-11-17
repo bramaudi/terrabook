@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Putrid Scent",
   "summaries": [
-    "The <b>Putrid Scent</b> is a Hardmode accessory. When equipped, it will increase damage and critical strike chance by 5%, as well as decreases aggro by 400.",
-    "It has a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance to drop from Corrupt Mimics, which can be found in the Underground Corruption or summoned by putting the Key of Night in a chest in a Corrupt world.",
-    "It is unrelated to the Stinky debuff."
+    "The <b>Putrid Scent</b> is a <linked>Hardmode</linked> <linked>accessory</linked>. When equipped, it will increase <linked>damage</linked> and <linked>critical strike chance</linked> by 5%, as well as decreases <linked>aggro</linked> by 400.",
+    "It has a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance to drop from <linked>Corrupt Mimics</linked>, which can be found in the <linked>Underground Corruption</linked> or summoned by putting the <linked>Key of Night</linked> in a chest in a <linked>Corrupt</linked> world.",
+    "It is unrelated to the <linked>Stinky</linked> debuff."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Enemies are less likely to target you<br>5% increased damage and critical strike chance</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,32 +17,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Arcane Flower]<span><span>Arcane Flower</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Arcane Flower]</linked><span><span><linked>Arcane Flower</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Flower]<span><span>Mana Flower</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Recon Scope]<span><span>Recon Scope</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Recon Scope]</linked><span><span><linked>Recon Scope</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sniper Scope]<span><span>Sniper Scope</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sniper Scope]</linked><span><span><linked>Sniper Scope</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Stalker's Quiver]<span><span>Stalker's Quiver</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Stalker's Quiver]</linked><span><span><linked>Stalker's Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Magic Quiver]<span><span>Magic Quiver</span></span></span></li><li><span class=\"i\">[img:Putrid Scent]<span><span>Putrid Scent</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magic Quiver]</linked><span><span><linked>Magic Quiver</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ]

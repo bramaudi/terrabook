@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Pink Horseshoe Balloon",
   "summaries": [
-    "The <b>Pink Horseshoe Balloon</b> is an accessory that grants immunity to fall damage, increases jump height by 33% and jump speed by 30%, and grants a double jump. The height of the first jump is increased from 6 blocks to 10½ blocks (~75% increase), while the double jump's height is increased from 7 blocks to 13 blocks, reaching a total of 23½ blocks with both jumps.",
+    "The <b>Pink Horseshoe Balloon</b> is an <linked>accessory</linked> that grants immunity to fall damage, increases jump height by 33% and jump speed by 30%, and grants a double jump. The height of the first jump is increased from 6 blocks to 10½ blocks (~75% increase), while the double jump's height is increased from 7 blocks to 13 blocks, reaching a total of 23½ blocks with both jumps.",
     "Jump height is oddly <i>reduced</i> when underwater, reducing your total underwater height from 17½ blocks (8 blocks + 9½ blocks from Tsunami jump) to 15 blocks (7 blocks + 8 blocks from Tsunami jump)."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump<br>Increases jump height and negates fall damage</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pink Horseshoe Balloon]<span><span>Pink Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pink Horseshoe Balloon]</linked><span><span><linked>Pink Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sharkron Balloon]<span><span>Sharkron Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sharkron Balloon]</linked><span><span><linked>Sharkron Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

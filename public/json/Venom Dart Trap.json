@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Venom Dart Trap",
   "summaries": [
-    "The <b>Venom Dart Trap</b> is a trap that fires a venomous dart when triggered via wire. It is a direct upgrade to the Dart Trap, functioning identically except it dealing more damage and inflicting Acid Venom for 5 seconds."
+    "The <b>Venom Dart Trap</b> is a <linked>trap</linked> that fires a venomous dart when triggered via <linked>wire</linked>. It is a direct upgrade to the <linked>Dart Trap</linked>, functioning identically except it dealing more damage and inflicting <linked>Acid Venom</linked> for 5 seconds."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Venom Dart Trap]<span><span>Venom Dart Trap</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Venom Dart Trap]</linked><span><span><linked>Venom Dart Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Dart Trap]<span><span>Dart Trap</span></span></span></li><li><span class=\"i\">[img:Spider Fang]<span><span>Spider Fang</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dart Trap]</linked><span><span><linked>Dart Trap</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Spider Fang]</linked><span><span><linked>Spider Fang</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

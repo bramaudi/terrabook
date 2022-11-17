@@ -2,15 +2,15 @@
   "type": "accessories",
   "title": "Flask of Cursed Flames",
   "summaries": [
-    "The <b>Flask of Cursed Flames</b> is a Hardmode flask that, when applied, causes melee weapons (and Whips) to inflict the Cursed Inferno debuff for 3–6 seconds on a successful hit. Melee weapons that fire projectiles will also inflict the debuff on enemies hit by the projectiles.",
+    "The <b>Flask of Cursed Flames</b> is a <linked>Hardmode</linked> <linked>flask</linked> that, when applied, causes <linked>melee weapons</linked> (and <linked>Whips</linked>) to inflict the <linked>Cursed Inferno</linked> <linked>debuff</linked> for 3–6 seconds on a successful hit. Melee weapons that fire projectiles will also inflict the debuff on enemies hit by the projectiles.",
     "The Flask of Cursed Flames cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. However, like other flasks, the effect will last across death.",
-    "The Flask of Cursed Flames will not inflict the Cursed Flames debuff in PvP scenarios."
+    "The Flask of Cursed Flames will not inflict the Cursed Flames debuff in <linked>PvP</linked> scenarios."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks inflict enemies with cursed flames</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -19,23 +19,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Cursed Flames]</linked><span><span><linked>Flask of Cursed Flames</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Cursed Flame]<span><span>Cursed Flame</span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Imbuing Station]<span><span>Imbuing Station</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Flask of Cursed Flames]<span><span>Flask of Cursed Flames</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Cursed Flames]</linked><span><span><linked>Flask of Cursed Flames</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Cursed Flame]<span><span>Cursed Flame</span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
         }
       }
     ]

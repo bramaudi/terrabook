@@ -2,18 +2,18 @@
   "type": "enemies",
   "title": "Wraith",
   "summaries": [
-    "<b>Wraiths</b> are Hardmode ghost-like enemies who can travel through blocks and can inflict the Slow debuff on the player. They have black bodies, which render them almost completely invisible in dark areas, but have two glowing red eyes which are visible from within the darkness. They spawn at the surface layer at night.",
+    "<b>Wraiths</b> are <linked>Hardmode</linked> ghost-like <linked>enemies</linked> who can travel through <linked>blocks</linked> and can inflict the <linked>Slow</linked> <linked>debuff</linked> on the player. They have black bodies, which render them almost completely invisible in dark areas, but have two glowing red eyes which are visible from within the darkness. They spawn at the <linked>surface</linked> layer at <linked>night</linked>.",
     "Although Wraiths appear to fly freely, they can only hover slightly above the ground. They need foreground blocks to \"swim\" through in order to fly any higher."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Surface  +  Night </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked> + <linked> Night </linked></span></div>",
     "AI Type": "Hovering AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">65</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">130</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">195</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">160</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">320</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">480</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">16</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">30%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">37%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">44%</span></span></span>",
-    "Banner": "<span class=\"i\">[img:Wraith Banner]<span><span>Wraith Banner</span></span></span>",
+    "Banner": "<span class=\"i\"><linked>[img:Wraith Banner]</linked><span><span><linked>Wraith Banner</linked></span></span></span>",
     "Immune to": ""
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Fast Clock]<span><span>Fast Clock</span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">1%</span><span class=\"m-expert-master\"><abbr class=\"expert\" title=\"Expert Mode\">2%</abbr></span></span></div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Fast Clock]</linked><span><span><linked>Fast Clock</linked></span></span></span></div><div><span class=\"mode-content\"><span class=\"m-normal\">1%</span><span class=\"m-expert-master\"><linked>2%</linked></span></span></div></li></ul>"
 }

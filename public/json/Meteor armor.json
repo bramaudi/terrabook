@@ -2,13 +2,13 @@
   "type": "armors",
   "title": "Meteor armor",
   "summaries": [
-    "The <b>Meteor armor</b> is an armor set that consists of the <b>Meteor Helmet</b>, <b>Meteor Suit</b>, and <b>Meteor Leggings</b>. Equipping the full set reduces the mana cost of the Space Gun to 0. In the [img:Desktop version] Desktop version, [img:Console version] Console version, and [img:Mobile version] Mobile version, the Gray Zapinator and Orange Zapinator are also affected by this change. Each piece of the armor worn increases magic damage by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 9% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 7%. If the full set is visible, the player leaves a trail of flames as they move.",
-    "Crafting a full set requires a total of <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 45 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 60 Meteorite Bars (<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>135 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 180 Meteorite ore)."
+    "The <b>Meteor armor</b> is an <linked>armor</linked> set that consists of the <b>Meteor Helmet</b>, <b>Meteor Suit</b>, and <b>Meteor Leggings</b>. Equipping the full set reduces the <linked>mana</linked> cost of the <linked>Space Gun</linked> to 0. In the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the <linked>Gray Zapinator</linked> and <linked>Orange Zapinator</linked> are also affected by this change. Each piece of the armor worn increases <linked>magic damage</linked> by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 9% / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 7%. If the full set is visible, the player leaves a trail of flames as they move.",
+    "Crafting a full set requires a total of <span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 45 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 60 <linked>Meteorite Bars</linked> (<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span>135 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 180 <linked>Meteorite</linked> ore)."
   ],
   "statistics": {
     "Defense": "16<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Space Gun costs 0 mana</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2</span><span class=\"sc\">10</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -16,59 +16,59 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Meteor Helmet]<span><span title=\"Meteor Helmet\">Meteor Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Helmet]<span><span title=\"Meteor Helmet\">Meteor Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Meteor Helmet]<span><span title=\"Meteor Helmet\">Meteor Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Helmet]<span><span title=\"Meteor Helmet\">Meteor Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Meteor Leggings]<span><span title=\"Meteor Leggings\">Meteor Leggings</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Leggings]<span><span title=\"Meteor Leggings\">Meteor Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Meteor Leggings]<span><span title=\"Meteor Leggings\">Meteor Leggings</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Leggings]<span><span title=\"Meteor Leggings\">Meteor Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Meteor Suit]<span><span title=\"Meteor Suit\">Meteor Suit</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Suit]<span><span title=\"Meteor Suit\">Meteor Suit</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Meteor Suit]<span><span title=\"Meteor Suit\">Meteor Suit</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Meteor Suit]<span><span title=\"Meteor Suit\">Meteor Suit</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Meteorite Bar]<span><span>Meteorite Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       }
     ]

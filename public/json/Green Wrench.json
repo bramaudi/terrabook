@@ -3,15 +3,15 @@
   "title": "Wrenches",
   "toolpower": [],
   "summaries": [
-    "<b>Wrenches</b> are tools for placing Wires, which are used to connect mechanisms together, such as a trap with a Pressure Plate. There are four different wrenches: the <b>Red Wrench</b>, <b>Green Wrench</b>, <b>Blue Wrench</b>, and the <b><span class=\"eil\"><span>Yellow Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></b>, each placing its respective color of Wire. All wrenches are purchased from the Mechanic for <span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> each.",
-    "All Wrenches use the same ordinary Wire item as ammunition, but the color of wrench used will determine the color of Wire when placed. The colors all function identically, but can be placed so as to overlap or intersect each other without interfering with each other. <span class=\"eil\"><span>Junction Boxes</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> can further be used to keep intersecting Wire paths of the same color from interfering with each other.",
-    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> All four wrenches can be combined to make a Multicolor Wrench, a single tool that can place Wire of any color.",
-    "Ordinary wrenches cannot be used to remove placed Wires. Instead, a Wire Cutter or one of its derivatives is required. All Wire colors become the same ordinary Wire item again when freed."
+    "<b>Wrenches</b> are <linked>tools</linked> for placing <linked>Wires</linked>, which are used to connect <linked>mechanisms</linked> together, such as a <linked>trap</linked> with a <linked>Pressure Plate</linked>. There are four different wrenches: the <b>Red Wrench</b>, <b>Green Wrench</b>, <b>Blue Wrench</b>, and the <b><span class=\"eil\"><span>Yellow Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></b>, each placing its respective color of Wire. All wrenches are purchased from the <linked>Mechanic</linked> for <span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> each.",
+    "All Wrenches use the same ordinary Wire item as <linked>ammunition</linked>, but the color of wrench used will determine the color of Wire when placed. The colors all function identically, but can be placed so as to overlap or intersect each other without interfering with each other. <span class=\"eil\"><span><linked>Junction Boxes</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> can further be used to keep intersecting Wire paths of the same color from interfering with each other.",
+    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> All four wrenches can be combined to make a <linked>Multicolor Wrench</linked>, a single tool that can place Wire of any color.",
+    "Ordinary wrenches cannot be used to remove placed Wires. Instead, a <linked>Wire Cutter</linked> or one of its derivatives is required. All Wire colors become the same ordinary Wire item again when freed."
   ],
   "statistics": {
     "Bonus": "+20 range",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Buy": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Sell": "<span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
@@ -21,14 +21,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Multicolor Wrench]<span><span>Multicolor Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Red Wrench]<span><span>Red Wrench</span></span></span></li><li><span class=\"i\">[img:Green Wrench]<span><span>Green Wrench</span></span></span></li><li><span class=\"i\">[img:Blue Wrench]<span><span>Blue Wrench</span></span></span></li><li><span class=\"i\">[img:Yellow Wrench]<span><span>Yellow Wrench</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Wire Cutter]<span><span>Wire Cutter</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Red Wrench]</linked><span><span><linked>Red Wrench</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Green Wrench]</linked><span><span><linked>Green Wrench</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blue Wrench]</linked><span><span><linked>Blue Wrench</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Yellow Wrench]</linked><span><span><linked>Yellow Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire Cutter]</linked><span><span><linked>Wire Cutter</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

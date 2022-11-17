@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Super Mana Potion",
   "summaries": [
-    "The <b>Super Mana Potion</b> is a potion that restores 300 mana and gives the Mana Sickness debuff upon use.It is fairly easy to obtain, and is the most potent of all mana restoration items (except the Strange Brew on [img:Legacy tModLoader version] Legacy tModLoader), restoring more mana than the Greater Mana Potion."
+    "The <b>Super Mana Potion</b> is a <linked>potion</linked> that restores 300 <linked>mana</linked> and gives the <linked>Mana Sickness</linked> <linked>debuff</linked> upon use.It is fairly easy to obtain, and is the most potent of all mana restoration items (except the <linked>Strange Brew</linked> on <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked>), restoring more mana than the <linked>Greater Mana Potion</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Heals Mana": "300",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Super Mana Potion]<span><span>Super Mana Potion</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Super Mana Potion]</linked><span><span><linked>Super Mana Potion</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Greater Mana Potion]<span><span>Greater Mana Potion</span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\">[img:Fallen Star]<span><span>Fallen Star</span></span></span></li><li><span class=\"i\">[img:Crystal Shard]<span><span>Crystal Shard</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Unicorn Horn]<span><span>Unicorn Horn</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Greater Mana Potion]</linked><span><span><linked>Greater Mana Potion</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crystal Shard]</linked><span><span><linked>Crystal Shard</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

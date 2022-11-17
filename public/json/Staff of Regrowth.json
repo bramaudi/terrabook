@@ -3,9 +3,9 @@
   "title": "Staff of Regrowth",
   "toolpower": [],
   "summaries": [
-    "The <b>Staff of Regrowth</b> is a tool that can be found in Ivy Chests as well as <span class=\"eil\"><span>Jungle</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span>Bramble Crates</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. Unlike other tools, it does not destroy most vegetation when swung, unless the tile is directly targeted. It also increases the yield of herbs and their seeds when harvesting them, and allows obtaining seeds from mature but non-blooming herbs, which is impossible with other tools. In addition, using the Staff of Regrowth on Dirt Blocks will plant grass, without the need for seeds.",
-    "On the [img:Legacy tModLoader version] Legacy tModLoader version, the Staff of Regrowth can furthermore be used to grow moss on Stone Blocks. The type of moss will vary depending on the proximity to other types of moss, with the maximum range for same type of moss being 27 tiles. As such, one can spread the Lava Moss from the Cavern's lava layers all the way up to the surface.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Staff of Regrowth</b> is a <linked>tool</linked> that can be found in <linked>Ivy Chests</linked> as well as <span class=\"eil\"><span><linked>Jungle</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Bramble Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>. Unlike other tools, it does not destroy most vegetation when swung, unless the tile is directly targeted. It also increases the yield of <linked>herbs</linked> and their <linked>seeds</linked> when harvesting them, and allows obtaining seeds from <linked>mature but non-blooming herbs</linked>, which is impossible with other tools. In addition, using the Staff of Regrowth on <linked>Dirt Blocks</linked> will plant <linked>grass</linked>, without the need for seeds.",
+    "On the <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, the Staff of Regrowth can furthermore be used to grow <linked>moss</linked> on <linked>Stone Blocks</linked>. The type of moss will vary depending on the proximity to other types of moss, with the maximum range for same type of moss being 27 tiles. As such, one can spread the Lava Moss from the <linked>Cavern</linked>'s <linked>lava</linked> layers all the way up to the surface.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "7 <span class=\"small-bold\">(Melee)</span>",
@@ -14,7 +14,7 @@
     "Critical chance": "4%",
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Creates grass on dirt<br>Increases alchemy plant collection when used to gather</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -23,19 +23,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Axe of Regrowth]<span><span>Axe of Regrowth</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Axe of Regrowth]</linked><span><span><linked>Axe of Regrowth</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Copper Axe]<span><span>Copper Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Copper Axe]</linked><span><span><linked>Copper Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Tin Axe]<span><span>Tin Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       }
     ]

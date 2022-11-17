@@ -2,15 +2,15 @@
   "type": "armors",
   "title": "Lead armor",
   "summaries": [
-    "<b>Lead armor</b> is the 4th weakest metal armor, being the stronger alternative to Iron armor.",
-    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 75 Lead Bars to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 180 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 225 Lead Ores.",
+    "<b>Lead armor</b> is the 4th weakest metal armor, being the stronger alternative to <linked>Iron armor</linked>.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 75 <linked>Lead Bars</linked> to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 180 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 225 <linked>Lead Ores</linked>.",
     "It consists of a <b>Lead Helmet</b>, <b>Lead Chainmail</b> and <b>Lead Greaves</b>.",
     "A full set grants a basic 8 defense plus a set bonus of 3 defense, which equals a total of 11 defense, 2 more than its iron counterpart."
   ],
   "statistics": {
     "Defense": "11 (8+3)<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"36 Silver Coins\" data-sort-value=\"3600\"><span class=\"sc\">36</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -18,59 +18,59 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Chainmail]<span><span title=\"Lead Chainmail\">Lead Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Greaves]<span><span title=\"Lead Greaves\">Lead Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Lead Helmet]<span><span title=\"Lead Helmet\">Lead Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Lead Bar]<span><span>Lead Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       }
     ]

@@ -2,12 +2,12 @@
   "type": "blocks",
   "title": "Iridescent Brick",
   "summaries": [
-    "<b>Iridescent Brick</b> is a cheap brick. It can be mined with any pickaxe or drill. It and its walls can either be crafted, or collected from Jungle Shrines in the Underground Jungle."
+    "<b>Iridescent Brick</b> is a cheap <linked>brick</linked>. It can be mined with any <linked>pickaxe</linked> or <linked>drill</linked>. It and its walls can either be crafted, or collected from <linked>Jungle Shrines</linked> in the <linked>Underground Jungle</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
@@ -15,23 +15,23 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Iridescent Brick]<span><span>Iridescent Brick</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iridescent Brick]</linked><span><span><linked>Iridescent Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Stone Block]<span><span>Stone Block</span></span></span></li><li><span class=\"i\">[img:Ash Block]<span><span>Ash Block</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ash Block]</linked><span><span><linked>Ash Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Furnace]<span><span>Furnace</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iridescent Brick Wall]<span><span>Iridescent Brick Wall</span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iridescent Brick Wall]</linked><span><span><linked>Iridescent Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ],
@@ -39,14 +39,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Iridescent Brick Wall]<span><span>Iridescent Brick Wall</span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iridescent Brick Wall]</linked><span><span><linked>Iridescent Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iridescent Brick]<span><span>Iridescent Brick</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iridescent Brick]</linked><span><span><linked>Iridescent Brick</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

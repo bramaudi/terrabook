@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Heartreach Potion",
   "summaries": [
-    "The <b>Heartreach Potion</b> is a buff potion which grants the <b>Heartreach</b> buff when consumed. The buff increases the pickup range of life recovery Hearts by 15.625 tiles, from 2.625 tiles to a total of 18.25 tiles. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon ([img:Desktop version] [img:Legacy tModLoader version]),  by selecting the icon and canceling it in the equipment menu ([img:Console version] [img:Old-gen console version]),  by double-tapping the buff icon ([img:Mobile version]), or  by canceling the buff from the buffs screen ([img:Nintendo 3DS version]).",
-    "This potion can only be crafted with access to a Crimson biome due to the Crimson Tigerfish requirement, but can be also be obtained as a random reward from fished crates in any world. Wooden Crates drop buff potions at a rate of 1 in 7, Iron at 1 in 4, and Golden at 1 in 3."
+    "The <b>Heartreach Potion</b> is a <linked>buff potion</linked> which grants the <b>Heartreach</b> <linked>buff</linked> when consumed. The buff increases the pickup range of life recovery <linked>Hearts</linked> by 15.625 tiles, from 2.625 tiles to a total of 18.25 tiles. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "This potion can only be crafted with access to a <linked>Crimson</linked> <linked>biome</linked> due to the <linked>Crimson Tigerfish</linked> requirement, but can be also be obtained as a random reward from <linked>fished</linked> <linked>crates</linked> in any world. <linked>Wooden Crates</linked> drop buff potions at a rate of 1 in 7, <linked>Iron</linked> at 1 in 4, and <linked>Golden</linked> at 1 in 3."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Increases pickup range for life hearts</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,23 +18,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Heartreach Potion]</linked><span><span><linked>Heartreach Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Crimson Tigerfish]<span><span>Crimson Tigerfish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Tigerfish]</linked><span><span><linked>Crimson Tigerfish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] only:</div><span class=\"i multi-line\">[img:Heartreach Potion]<span><span>Heartreach Potion</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Heartreach Potion]</linked><span><span><linked>Heartreach Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Crimson Tigerfish]<span><span>Crimson Tigerfish</span></span></span></li><li><span class=\"i\">[img:Daybloom]<span><span>Daybloom</span></span></span></li><li><span class=\"i\">[img:Moonglow]<span><span>Moonglow</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Tigerfish]</linked><span><span><linked>Crimson Tigerfish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Moonglow]</linked><span><span><linked>Moonglow</linked></span></span></span></li></ul>"
         }
       }
     ]

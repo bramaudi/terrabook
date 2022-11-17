@@ -3,12 +3,12 @@
   "title": "Shellphone",
   "toolpower": [],
   "summaries": [
-    "The <b>Shellphone</b> is a post-Skeletron informational item that combines the function of Cell Phone, Magic Conch, and Demon Conch. The player can press <span class=\"key\"><kbd><span title=\"Right Click (PC default): Activate environment object or talk to NPC\">⚷ Open / Activate</span></kbd></span> to cycle through four teleport locations: World Spawn, Ocean, Underworld, and Spawn Point (set via Bed)."
+    "The <b>Shellphone</b> is a post-<linked>Skeletron</linked> <linked>informational item</linked> that combines the function of <linked>Cell Phone</linked>, <linked>Magic Conch</linked>, and <linked>Demon Conch</linked>. The player can press <span class=\"key\"><linked>⚷ Open / Activate</linked></span> to cycle through four teleport locations: World Spawn, <linked>Ocean</linked>, <linked>Underworld</linked>, and <linked>Spawn Point</linked> (set via <linked>Bed</linked>)."
   ],
   "statistics": {
     "Use time": "90 <span class=\"usetime\">(Snail)</span>",
     "Tooltip": "<i><span class=\"gameText\">Displays everything<br>Right click to toggle destination<br>'If you listen closely, you can hear something about your car's warranty'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 8]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shellphone]<span><span>Shellphone</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shellphone]</linked><span><span><linked>Shellphone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cell Phone]<span><span>Cell Phone</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magic Conch]<span><span>Magic Conch</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Demon Conch]<span><span>Demon Conch</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cell Phone]</linked><span><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Conch]</linked><span><span><linked>Magic Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Demon Conch]</linked><span><span><linked>Demon Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Sweetheart Necklace",
   "summaries": [
-    "The <b>Sweetheart Necklace</b> is an accessory which grants the player the Panic! and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Honey buffs when damaged, increasing movement speed by 50% for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 5 seconds and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> health regeneration for 5 seconds, and releases a concentrated burst of bees."
+    "The <b>Sweetheart Necklace</b> is an <linked>accessory</linked> which grants the player the <linked>Panic!</linked> and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Honey</linked> buffs when damaged, increasing movement speed by 50% for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 5 seconds and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> health regeneration for 5 seconds, and releases a concentrated burst of bees."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Releases bees, douses the user in honey and increases movement speed when damaged</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sweetheart Necklace]<span><span>Sweetheart Necklace</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sweetheart Necklace]</linked><span><span><linked>Sweetheart Necklace</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li><li><span class=\"i\">[img:Panic Necklace]<span><span>Panic Necklace</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Comb]</linked><span><span><linked>Honey Comb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Panic Necklace]</linked><span><span><linked>Panic Necklace</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

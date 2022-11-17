@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Nature's Gift",
   "summaries": [
-    "<b>Nature's Gift</b> is an accessory that reduces the mana cost of using magic weapons and other mana-consuming items by 6%. It is acquired by harvesting a rare flower that grows on Jungle grass in the Underground Jungle, using any weapon or tool. The flower appears as a blue version of the Jungle Rose."
+    "<b>Nature's Gift</b> is an <linked>accessory</linked> that reduces the <linked>mana</linked> cost of using <linked>magic weapons</linked> and other mana-consuming items by 6%. It is acquired by harvesting a rare flower that grows on <linked>Jungle grass</linked> in the <linked>Underground Jungle</linked>, using any <linked>weapon</linked> or <linked>tool</linked>. The flower appears as a blue version of the <linked>Jungle Rose</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span>",
     "Tooltip": "<i><span class=\"gameText\">6% reduced mana cost</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Mana Flower]<span><span>Mana Flower</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mana Flower]</linked><span><span><linked>Mana Flower</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Nature's Gift]<span><span>Nature's Gift</span></span></span></li><li><span class=\"i\">[img:Mana Potion]<span><span>Mana Potion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nature's Gift]</linked><span><span><linked>Nature's Gift</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

@@ -7,9 +7,9 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Titanium Pickaxe</b> is a Hardmode pickaxe and the pickaxe alternative to the Titanium Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the Adamantite Pickaxe, is slightly weaker than the Titanium Pickaxe.",
-    "It can mine all blocks except Chlorophyte Ore and Lihzahrd Bricks.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Titanium Pickaxe</b> is a <linked>Hardmode</linked> <linked>pickaxe</linked> and the pickaxe alternative to the <linked>Titanium Drill</linked>, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the <linked>Adamantite Pickaxe</linked>, is slightly weaker than the Titanium Pickaxe.",
+    "It can mine all blocks except <linked>Chlorophyte Ore</linked> and <linked>Lihzahrd Bricks</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "27 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "7",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 52 Silver Coins\" data-sort-value=\"25200\"><span class=\"gc\">2</span><span class=\"sc\">52</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Titanium Pickaxe]<span><span>Titanium Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Titanium Pickaxe]</linked><span><span><linked>Titanium Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Titanium Bar]<span><span>Titanium Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

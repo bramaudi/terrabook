@@ -7,9 +7,9 @@
     "[img:Axe mask] 75%"
   ],
   "summaries": [
-    "The <b>War Axe of the Night</b> is an axe crafted from Demonite Bars. It is stronger than the Gold and Platinum Axes, but weaker than the Meteor Hamaxe. It has a Crimtane counterpart, the Blood Lust Cluster, which is stronger but also slightly slower. Like all axes, it is used to cut down Trees, Cacti and Giant Glowing Mushrooms.",
-    "Despite having a higher base damage and autoswing, its slow speed means that the maximum damage output is similar to manual-swing swords such as the Gold and Platinum Broadsword, and especially less than the Light's Bane.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>War Axe of the Night</b> is an <linked>axe</linked> crafted from <linked>Demonite Bars</linked>. It is stronger than the <linked>Gold</linked> and <linked>Platinum Axes</linked>, but weaker than the <linked>Meteor Hamaxe</linked>. It has a <linked>Crimtane</linked> counterpart, the <linked>Blood Lust Cluster</linked>, which is stronger but also slightly slower. Like all axes, it is used to cut down <linked>Trees</linked>, <linked>Cacti</linked> and <linked>Giant Glowing Mushrooms</linked>.",
+    "Despite having a higher base damage and autoswing, its slow speed means that the maximum damage output is similar to manual-swing swords such as the <linked>Gold</linked> and <linked>Platinum Broadsword</linked>, and especially less than the <linked>Light's Bane</linked>.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "15",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:War Axe of the Night]<span><span>War Axe of the Night</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:War Axe of the Night]</linked><span><span><linked>War Axe of the Night</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Demonite Bar]<span><span>Demonite Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Magic Cuffs",
   "summaries": [
-    "The <b>Magic Cuffs</b> are a pre-Hardmode accessory which increases maximum mana by 20 and restores mana when the wearer is damaged.",
-    "Mana restored is equal to the damage of the attack before factoring defense, but will never be lower than 10. Damage from drowning and debuffs does not trigger this effect, while damage from falling will. This effect does not stack with the mana restoration effect of the Celestial Cuffs."
+    "The <b>Magic Cuffs</b> are a <linked>pre-Hardmode</linked> <linked>accessory</linked> which increases maximum <linked>mana</linked> by 20 and restores mana when the wearer is damaged.",
+    "Mana restored is equal to the damage of the attack before factoring <linked>defense</linked>, but will never be lower than 10. Damage from <linked>drowning</linked> and <linked>debuffs</linked> does not trigger this effect, while <linked>damage from falling</linked> will. This effect does not stack with the mana restoration effect of the <linked>Celestial Cuffs</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 20<br>Restores mana when damaged</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Magic Cuffs]<span><span>Magic Cuffs</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Cuffs]</linked><span><span><linked>Magic Cuffs</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Mana Regeneration Band]<span><span>Mana Regeneration Band</span></span></span></li><li><span class=\"i\">[img:Shackle]<span><span>Shackle</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mana Regeneration Band]</linked><span><span><linked>Mana Regeneration Band</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shackle]</linked><span><span><linked>Shackle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -31,14 +31,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Celestial Cuffs]<span><span>Celestial Cuffs</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Celestial Cuffs]</linked><span><span><linked>Celestial Cuffs</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Celestial Magnet]<span><span>Celestial Magnet</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Magic Cuffs]<span><span>Magic Cuffs</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Celestial Magnet]</linked><span><span><linked>Celestial Magnet</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Cuffs]</linked><span><span><linked>Magic Cuffs</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

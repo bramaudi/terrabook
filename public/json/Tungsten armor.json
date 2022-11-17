@@ -2,14 +2,14 @@
   "type": "armors",
   "title": "Tungsten armor",
   "summaries": [
-    "<b>Tungsten armor</b> is an alternative to Silver armor. It takes a total of 60 Tungsten Bars to craft a full suit, this translates to 240 Tungsten Ore to craft all the necessary bars for this armor.",
+    "<b>Tungsten armor</b> is an alternative to <linked>Silver armor</linked>. It takes a total of 60 <linked>Tungsten Bars</linked> to craft a full suit, this translates to 240 <linked>Tungsten Ore</linked> to craft all the necessary bars for this armor.",
     "It consists of a <b>Tungsten Helmet</b>, <b>Tungsten Chainmail</b> and <b>Tungsten Greaves</b>.",
-    "A full set grants a basic 12 defense plus a set bonus of 3 defense, which equals a total of 15 defense. This is 2 more than its silver counterpart, and 1 less than the next type, Gold armor."
+    "A full set grants a basic 12 defense plus a set bonus of 3 defense, which equals a total of 15 <linked>defense</linked>. This is 2 more than its silver counterpart, and 1 less than the next type, <linked>Gold armor</linked>."
   ],
   "statistics": {
     "Defense": "15 (12+3)<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"90 Silver Coins\" data-sort-value=\"9000\"><span class=\"sc\">90</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
@@ -17,59 +17,59 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Tungsten Chainmail]<span><span title=\"Tungsten Chainmail\">Tungsten Chainmail</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Chainmail]<span><span title=\"Tungsten Chainmail\">Tungsten Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Tungsten Chainmail]<span><span title=\"Tungsten Chainmail\">Tungsten Chainmail</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Chainmail]<span><span title=\"Tungsten Chainmail\">Tungsten Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Tungsten Greaves]<span><span title=\"Tungsten Greaves\">Tungsten Greaves</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Greaves]<span><span title=\"Tungsten Greaves\">Tungsten Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Tungsten Greaves]<span><span title=\"Tungsten Greaves\">Tungsten Greaves</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Greaves]<span><span title=\"Tungsten Greaves\">Tungsten Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Tungsten Helmet]<span><span title=\"Tungsten Helmet\">Tungsten Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Helmet]<span><span title=\"Tungsten Helmet\">Tungsten Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Tungsten Helmet]<span><span title=\"Tungsten Helmet\">Tungsten Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Tungsten Helmet]<span><span title=\"Tungsten Helmet\">Tungsten Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tungsten Bar]<span><span>Tungsten Bar</span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       }
     ]

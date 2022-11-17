@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Armor Polish",
   "summaries": [
-    "The <b>Armor Polish</b> is a Hardmode accessory that provides immunity to the Broken Armor debuff. It has a 1% / <abbr class=\"expert\" title=\"Expert Mode\">2%</abbr> (1/100 / <abbr class=\"expert\" title=\"Expert Mode\">1/50</abbr>) chance to drop from Blue Armored Bones and Armored Skeletons.",
-    "It is one of the ingredients required to make the Armor Bracing, which is a crafting material required to make the Ankh Charm, an accessory further required to make the Ankh Shield."
+    "The <b>Armor Polish</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that provides immunity to the <linked>Broken Armor</linked> <linked>debuff</linked>. It has a 1% / <linked>2%</linked> (1/100 / <linked>1/50</linked>) chance to drop from <linked>Blue Armored Bones</linked> and <linked>Armored Skeletons</linked>.",
+    "It is one of the ingredients required to make the <linked>Armor Bracing</linked>, which is a <linked>crafting material</linked> required to make the <linked>Ankh Charm</linked>, an accessory further required to make the <linked>Ankh Shield</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Immunity to Broken Armor</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Armor Polish]<span><span>Armor Polish</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Armor Polish]</linked><span><span><linked>Armor Polish</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Vitamins]<span><span>Vitamins</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Vitamins]</linked><span><span><linked>Vitamins</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -31,27 +31,27 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Vitamins]<span><span>Vitamins</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Vitamins]</linked><span><span><linked>Vitamins</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Polish]<span><span>Armor Polish</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Armor Polish]</linked><span><span><linked>Armor Polish</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Armor Bracing]<span><span>Armor Bracing</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Armor Bracing]</linked><span><span><linked>Armor Bracing</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Armor Polish]<span><span>Armor Polish</span></span></span></li><li><span class=\"i\">[img:Vitamins]<span><span>Vitamins</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Armor Polish]</linked><span><span><linked>Armor Polish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vitamins]</linked><span><span><linked>Vitamins</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

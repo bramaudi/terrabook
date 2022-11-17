@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Shiny Red Balloon",
   "summaries": [
-    "The <b>Shiny Red Balloon</b> is an accessory that increases the player's jump height by 33% and jump speed by 30%, increasing the height that the player can jump from 6 blocks (12 feet) to ~10½ blocks (21 feet), effectively a ~75% boost. However, it oddly <i>reduces</i> jump height when underwater, from 8 blocks (16 feet) to ~7 blocks (14 feet). It can be found in Skyware Chests on Floating Islands, as well as in <span class=\"eil\"><span>Sky Crates</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>obtained from fishing in Sky Lakes.",
+    "The <b>Shiny Red Balloon</b> is an <linked>accessory</linked> that increases the player's jump height by 33% and jump speed by 30%, increasing the height that the player can jump from 6 blocks (12 feet) to ~10½ blocks (21 feet), effectively a ~75% boost. However, it oddly <i>reduces</i> jump height when underwater, from 8 blocks (16 feet) to ~7 blocks (14 feet). It can be found in <linked>Skyware Chests</linked> on <linked>Floating Islands</linked>, as well as in <span class=\"eil\"><span><linked>Sky Crates</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>obtained from fishing in <linked>Sky Lakes</linked>.",
     "The Shiny Red Balloon stacks with other jump-boosting accessories:",
-    "<ul><li>The Cloud in a Bottle's double-jump height is increased from 5 blocks (10 feet) to 9 blocks (18 feet), for a total jump height of 19½ blocks (39 feet).</li><li>The Blizzard in a Bottle's double-jump height is increased from 8 blocks (16 feet) to 14½ blocks (29 feet), for a total jump height of 25 blocks (50 feet).</li><li>The Sandstorm in a Bottle's double-jump height is increased from 14½ blocks (29 feet) to 26½ blocks (53 feet), for a total jump height of 37 blocks (74 feet).</li><li>The Fart in a Jar's double-jump height is increased from 10½ blocks (21 feet) to 18½ blocks (37 feet), for a total jump height of 29 blocks (58 feet).</li><li>The Tsunami in a Bottle's double-jump height is increased from 7 blocks (14 feet) to 12 blocks (24 feet), for a total jump height of 23½ blocks (47 feet).</li><li>With the Rocket/Spectre Boots, flight is accelerated, making the same flight time carry the player higher and/or farther.</li><li>The Frog Leg jump bonus stacks additively with the Shiny Red Balloon bonus, letting the first jump reach 16½ blocks (33 feet).</li><li>With wings, flight time is increased.</li></ul>",
-    "However, the Honey Balloon and Balloon Pufferfish do not stack with the Shiny Red Balloon; they all grant the same benefits."
+    "<ul><li>The <linked>Cloud in a Bottle's</linked> double-jump height is increased from 5 blocks (10 feet) to 9 blocks (18 feet), for a total jump height of 19½ blocks (39 feet).</li><li>The <linked>Blizzard in a Bottle's</linked> double-jump height is increased from 8 blocks (16 feet) to 14½ blocks (29 feet), for a total jump height of 25 blocks (50 feet).</li><li>The <linked>Sandstorm in a Bottle's</linked> double-jump height is increased from 14½ blocks (29 feet) to 26½ blocks (53 feet), for a total jump height of 37 blocks (74 feet).</li><li>The <linked>Fart in a Jar's</linked> double-jump height is increased from 10½ blocks (21 feet) to 18½ blocks (37 feet), for a total jump height of 29 blocks (58 feet).</li><li>The <linked>Tsunami in a Bottle's</linked> double-jump height is increased from 7 blocks (14 feet) to 12 blocks (24 feet), for a total jump height of 23½ blocks (47 feet).</li><li>With the <linked>Rocket</linked>/<linked>Spectre</linked> Boots, flight is accelerated, making the same flight time carry the player higher and/or farther.</li><li>The <linked>Frog Leg</linked> jump bonus stacks additively with the Shiny Red Balloon bonus, letting the first jump reach 16½ blocks (33 feet).</li><li>With <linked>wings</linked>, flight time is increased.</li></ul>",
+    "However, the <linked>Honey Balloon</linked> and <linked>Balloon Pufferfish</linked> do not stack with the Shiny Red Balloon; they all grant the same benefits."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases jump height</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Balloon Pufferfish]<span><span>Balloon Pufferfish</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Balloon Pufferfish]</linked><span><span><linked>Balloon Pufferfish</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\">[img:Shimmer]<span><span>Shimmer Transmutation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
@@ -33,50 +33,50 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Blizzard in a Bottle]<span><span>Blizzard in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blizzard in a Bottle]</linked><span><span><linked>Blizzard in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 5,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fart in a Balloon]<span><span>Fart in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fart in a Balloon]</linked><span><span><linked>Fart in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Fart in a Jar]</linked><span><span><linked>Fart in a Jar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Honey Balloon]<span><span>Honey Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Honey Balloon]</linked><span><span><linked>Honey Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li><li><span class=\"i\">[img:Honey Comb]<span><span>Honey Comb</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Honey Comb]</linked><span><span><linked>Honey Comb</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sandstorm in a Balloon]</linked><span><span><linked>Sandstorm in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sandstorm in a Bottle]<span><span>Sandstorm in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sandstorm in a Bottle]</linked><span><span><linked>Sandstorm in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         }
       }
     ]

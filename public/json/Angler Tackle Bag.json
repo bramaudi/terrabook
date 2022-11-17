@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Angler Tackle Bag",
   "summaries": [
-    "The <b>Angler Tackle Bag</b> is an accessory that combines the functionality of its components: the Angler Earring's 10% boost to Fishing power, the Tackle Box's chance to not consume bait, and the unbreakable quality of the High Test Fishing Line.",
-    "The Angler Tackle Bag's increase in fishing power stacks with that of the Angler Earring and Lavaproof Tackle Bag, granting a total boost of 30% if all three are equipped. The decreased chance to consume bait does not stack with that of the Tackle Box or the Lavaproof Tackle Bag."
+    "The <b>Angler Tackle Bag</b> is an <linked>accessory</linked> that combines the functionality of its components: the <linked>Angler Earring</linked>'s 10% boost to Fishing power, the <linked>Tackle Box</linked>'s chance to not consume bait, and the unbreakable quality of the <linked>High Test Fishing Line</linked>.",
+    "The Angler Tackle Bag's increase in fishing power stacks with that of the Angler Earring and <linked>Lavaproof Tackle Bag</linked>, granting a total boost of 30% if all three are equipped. The decreased chance to consume bait does not stack with that of the Tackle Box or the Lavaproof Tackle Bag."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Fishing line will never break, decreases chance of bait consumption, increases fishing power by 10</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 3]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Angler Tackle Bag]</linked><span><span><linked>Angler Tackle Bag</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:High Test Fishing Line]<span><span>High Test Fishing Line</span></span></span></li><li><span class=\"i\">[img:Tackle Box]<span><span>Tackle Box</span></span></span></li><li><span class=\"i\">[img:Angler Earring]<span><span>Angler Earring</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:High Test Fishing Line]</linked><span><span><linked>High Test Fishing Line</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tackle Box]</linked><span><span><linked>Tackle Box</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Angler Earring]</linked><span><span><linked>Angler Earring</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -31,14 +31,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lavaproof Tackle Bag]<span><span>Lavaproof Tackle Bag</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavaproof Tackle Bag]</linked><span><span><linked>Lavaproof Tackle Bag</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Angler Tackle Bag]<span><span>Angler Tackle Bag</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lavaproof Fishing Hook]<span><span>Lavaproof Fishing Hook</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Angler Tackle Bag]</linked><span><span><linked>Angler Tackle Bag</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lavaproof Fishing Hook]</linked><span><span><linked>Lavaproof Fishing Hook</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

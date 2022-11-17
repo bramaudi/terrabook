@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Armored Viking",
   "summaries": [
-    "The <b>Armored Viking</b> is a Hardmode enemy found in the Ice biome. It is similar to the Undead Viking, but has greatly increased defense, damage and health."
+    "The <b>Armored Viking</b> is a <linked>Hardmode</linked> <linked>enemy</linked> found in the <linked>Ice biome</linked>. It is similar to the <linked>Undead Viking</linked>, but has greatly increased <linked>defense</linked>, damage and health."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Ice biome </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Ice biome </linked></span></div>",
     "AI Type": "Fighter AI",
     "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">50</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">100</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">150</span></span></span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">280</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">560</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">840</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">28</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">55%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">60%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">64%</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Armored Viking Banner]<span><span>Armored Viking Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Armored Viking Banner]</linked><span><span><linked>Armored Viking Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Frostbite, Frostburn, Poisoned"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Ice Sickle]<span><span>Ice Sickle</span></span></span></div><div><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1% / <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.56%</div></li><li><div><span class=\"i\">[img:Compass]<span><span>Compass</span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>2% <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Ice Sickle]</linked><span><span><linked>Ice Sickle</linked></span></span></span></div><div><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1% / <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 0.56%</div></li><li><div><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></div><div>2% <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></div></li></ul>"
 }

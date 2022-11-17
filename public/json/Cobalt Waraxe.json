@@ -7,8 +7,8 @@
     "[img:Axe mask] 70%"
   ],
   "summaries": [
-    "The <b>Cobalt Waraxe</b> is a Hardmode axe that is obtainable after defeating the Wall of Flesh, and is the axe alternative to the Cobalt Chainsaw. Like all other axes and chainsaws, it is solely used to cut down trees, cacti, and Giant Glowing Mushrooms.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Cobalt Waraxe</b> is a <linked>Hardmode</linked> <linked>axe</linked> that is obtainable after defeating the <linked>Wall of Flesh</linked>, and is the axe alternative to the <linked>Cobalt Chainsaw</linked>. Like all other <linked>axes</linked> and <linked>chainsaws</linked>, it is solely used to cut down <linked>trees</linked>, <linked>cacti</linked>, and <linked>Giant Glowing Mushrooms</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "33 <span class=\"small-bold\">(Melee)</span>",
@@ -16,7 +16,7 @@
     "Critical chance": "4%",
     "Use time": "35 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "13",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 8 Silver Coins\" data-sort-value=\"10800\"><span class=\"gc\">1</span><span class=\"sc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -25,14 +25,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cobalt Waraxe]<span><span>Cobalt Waraxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cobalt Waraxe]</linked><span><span><linked>Cobalt Waraxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cobalt Bar]<span><span>Cobalt Bar</span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       }
     ]

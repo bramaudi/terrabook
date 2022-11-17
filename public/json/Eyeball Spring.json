@@ -2,12 +2,12 @@
   "type": "pets",
   "title": "Eye Spring",
   "summaries": [
-    "The <b>Eye Spring</b> is a pet-summoning item that has a <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> / <abbr class=\"expert\" title=\"Expert Mode\"><span class=\"chance\"><s>10*</s>1/10 (10%)</span></abbr> chance of being dropped by Eyezor during a Solar Eclipse. Using this item gives the character a buff which causes an <b>Eyeball Spring</b> pet to tag along. To catch up with the player, the Eyeball Spring spins its tentacles."
+    "The <b>Eye Spring</b> is a <linked>pet</linked>-summoning item that has a <span class=\"chance\"><s>6.67*</s>1/15 (6.67%)</span> / <linked>10*1/10 (10%)</linked> chance of being dropped by <linked>Eyezor</linked> during a <linked>Solar Eclipse</linked>. Using this item gives the character a <linked>buff</linked> which causes an <b>Eyeball Spring</b> pet to tag along. To catch up with the player, the Eyeball Spring spins its tentacles."
   ],
   "statistics": {
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons an eyeball spring</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 6]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },

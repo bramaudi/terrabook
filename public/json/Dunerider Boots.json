@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Dunerider Boots",
   "summaries": [
-    "The <b>Dunerider Boots</b> are an accessory that increases the player's maximum movement speed. It can be found in Sandstone Chests in the Underground Desert, and in Oasis Crates or Mirage Crates.",
+    "The <b>Dunerider Boots</b> are an <linked>accessory</linked> that increases the player's maximum <linked>movement speed</linked>. It can be found in <linked>Sandstone Chests</linked> in the <linked>Underground Desert</linked>, and in <linked>Oasis Crates</linked> or <linked>Mirage Crates</linked>.",
     "When equipped, it grants the following bonuses:",
-    "<ul><li>Increases the player's maximum movement speed to 22.5 tiles/second (<abbr title=\"31 miles per hour (as measured by the Stopwatch item) or 22.5 tiles per second\" class=\"nowrap\"><span class=\"gameText\">31 mph</span></abbr>)</li><li>When moving on any Sand, Sandstone, or Hardened Sand, increases maximum movement speed by 15% (to 39.38 tiles/second or <abbr title=\"54 miles per hour (as measured by the Stopwatch item) or 39.38 tiles per second\" class=\"nowrap\"><span class=\"gameText\">54 mph</span></abbr> by default) and increases acceleration and deceleration by 75%, from 0.3 tiles/second² to 0.525 tiles/second² and from 0.75 tiles/second² to 1.3125 tiles/second², respectively</li></ul>"
+    "<ul><li>Increases the player's maximum <linked>movement speed</linked> to 22.5 tiles/second (<abbr title=\"31 miles per hour (as measured by the Stopwatch item) or 22.5 tiles per second\" class=\"nowrap\"><span class=\"gameText\">31 mph</span></abbr>)</li><li>When moving on any <linked>Sand</linked>, <linked>Sandstone</linked>, or <linked>Hardened Sand</linked>, increases maximum movement speed by 15% (to 39.38 tiles/second or <abbr title=\"54 miles per hour (as measured by the Stopwatch item) or 39.38 tiles per second\" class=\"nowrap\"><span class=\"gameText\">54 mph</span></abbr> by default) and increases acceleration and deceleration by 75%, from 0.3 tiles/second² to 0.525 tiles/second² and from 0.75 tiles/second² to 1.3125 tiles/second², respectively</li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">The wearer can run super fast, and even faster on sand<br>'Walk without rhythm and you won't attract the worm'</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Spectre Boots]<span><span>Spectre Boots</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Dunerider Boots]<span><span>Dunerider Boots</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Rocket Boots]<span><span>Rocket Boots</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dunerider Boots]</linked><span><span><linked>Dunerider Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

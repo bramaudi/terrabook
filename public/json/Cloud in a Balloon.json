@@ -2,12 +2,12 @@
   "type": "accessories",
   "title": "Cloud in a Balloon",
   "summaries": [
-    "The <b>Cloud in a Balloon</b> is an accessory that combines the functionality of the Cloud in a Bottle and the Shiny Red Balloon. It boosts jump height by 33%, and jump speed by 30%, increasing the player's first jump's height to 10.5 blocks (~75% increase), and provides a double jump that hits 9 blocks, for a total height of 19.5 blocks.",
+    "The <b>Cloud in a Balloon</b> is an <linked>accessory</linked> that combines the functionality of the <linked>Cloud in a Bottle</linked> and the <linked>Shiny Red Balloon</linked>. It boosts jump height by 33%, and jump speed by 30%, increasing the player's first jump's height to 10.5 blocks (~75% increase), and provides a double jump that hits 9 blocks, for a total height of 19.5 blocks.",
     "Jump height is oddly <i>reduced</i> when underwater, reducing your total underwater height from 15 blocks (8 + 7 from Cloud jump) to 13 blocks (7 + 6 from Cloud jump)."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump<br>Increases jump height</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -16,14 +16,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -31,42 +31,42 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Blue Horseshoe Balloon]<span><span>Blue Horseshoe Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blue Horseshoe Balloon]</linked><span><span><linked>Blue Horseshoe Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 5,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Bundle of Balloons]<span><span>Bundle of Balloons</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bundle of Balloons]</linked><span><span><linked>Bundle of Balloons</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sandstorm in a Balloon]</linked><span><span><linked>Sandstorm in a Balloon</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 3,
-          "value": "<span class=\"i multi-line\">[img:Bundle of Horseshoe Balloons]<span><span>Bundle of Horseshoe Balloons</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bundle of Horseshoe Balloons]</linked><span><span><linked>Bundle of Horseshoe Balloons</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Yellow Horseshoe Balloon]<span><span>Yellow Horseshoe Balloon</span></span></span></li><li><span class=\"i\">[img:Any Cloud Balloon]<span><span>Any Cloud Balloon</span></span></span></li><li><span class=\"i\">[img:Any Blizzard Balloon]<span><span>Any Blizzard Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Yellow Horseshoe Balloon]</linked><span><span><linked>Yellow Horseshoe Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Cloud Balloon]</linked><span><span><linked>Any Cloud Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Blizzard Balloon]</linked><span><span><linked>Any Blizzard Balloon</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:White Horseshoe Balloon]<span><span>White Horseshoe Balloon</span></span></span></li><li><span class=\"i\">[img:Any Cloud Balloon]<span><span>Any Cloud Balloon</span></span></span></li><li><span class=\"i\">[img:Any Sandstorm Balloon]<span><span>Any Sandstorm Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:White Horseshoe Balloon]</linked><span><span><linked>White Horseshoe Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Cloud Balloon]</linked><span><span><linked>Any Cloud Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Sandstorm Balloon]</linked><span><span><linked>Any Sandstorm Balloon</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Balloon]<span><span>Cloud in a Balloon</span></span></span></li><li><span class=\"i\">[img:Blizzard in a Balloon]<span><span>Blizzard in a Balloon</span></span></span></li><li><span class=\"i\">[img:Sandstorm in a Balloon]<span><span>Sandstorm in a Balloon</span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Balloon]</linked><span><span><linked>Cloud in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blizzard in a Balloon]</linked><span><span><linked>Blizzard in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sandstorm in a Balloon]</linked><span><span><linked>Sandstorm in a Balloon</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         }
       }
     ]

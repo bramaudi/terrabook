@@ -7,9 +7,9 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Iron Hammer</b> is an early-game hammer, being stronger than the Copper Hammer and weaker than the Silver Hammer. Its counterpart for worlds containing Lead is the Lead Hammer, which is slightly stronger. Like all hammers, it is used to remove background walls and shape blocks.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The Iron Hammer can be crafted with 8 Iron Bars and 3 of any Wood. However, it is also obtained upon creation of a Journey mode character, placed in the fourth slot of the Hotbar.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Iron Hammer</b> is an early-game <linked>hammer</linked>, being stronger than the <linked>Copper Hammer</linked> and weaker than the <linked>Silver Hammer</linked>. Its counterpart for worlds containing <linked>Lead</linked> is the <linked>Lead Hammer</linked>, which is slightly stronger. Like all hammers, it is used to remove <linked>background walls</linked> and shape <linked>blocks</linked>.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The Iron Hammer can be crafted with 8 <linked>Iron Bars</linked> and 3 of any <linked>Wood</linked>. However, it is also obtained upon creation of a <linked>Journey mode</linked> character, placed in the fourth slot of the Hotbar.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "7 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "20",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 0]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Silver 20 Copper Coins\" data-sort-value=\"320\"><span class=\"sc\">3</span><span class=\"cc\">20</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,23 +26,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Iron Hammer]<span><span>Iron Hammer</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Iron Hammer]</linked><span><span><linked>Iron Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Bar]</linked><span><span><linked>Iron Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Iron Anvil]<span><span>Iron Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Lead Anvil]<span><span>Lead Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Iron Hammer]<span><span>Iron Hammer</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Iron Hammer]</linked><span><span><linked>Iron Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Iron Bar]<span><span>Iron Bar</span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\">[img:Any Wood]<span><span>Any Wood</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Bar]</linked><span><span><linked>Iron Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       }
     ]

@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Wormhole Potion",
   "summaries": [
-    "The <b>Wormhole Potion</b> is a potion which allows a player to instantly teleport to another team member's location in multiplayer, by selecting their player icon in the full-screen map (accessible by pressing the <span class=\"key\"><kbd><span title=\"M (PC default): Cycles map display\">Toggle Full Map</span></kbd></span> key). It is only possible to teleport to players of the same team, and the teleport will be announced in a status message. It is not possible to use Wormhole Potions if the player has the minimap disabled.",
-    "Wormhole Potions can drop from Pots and slimes, but only in multiplayer. Note that other players do not have to be online for the potion to drop, so just selecting multiplayer and hosting the game can allow collecting the potions. Wormhole Potions can be crafted in a singleplayer world as well.",
-    "It has a small chance to appear as a bonus drop from Slimes."
+    "The <b>Wormhole Potion</b> is a <linked>potion</linked> which allows a player to instantly teleport to another team member's location in <linked>multiplayer</linked>, by selecting their player icon in the full-screen <linked>map</linked> (accessible by pressing the <span class=\"key\"><linked>Toggle Full Map</linked></span> key). It is only possible to teleport to players of the same <linked>team</linked>, and the teleport will be announced in a <linked>status message</linked>. It is not possible to use Wormhole Potions if the player has the minimap disabled.",
+    "Wormhole Potions can drop from <linked>Pots</linked> and <linked>slimes</linked>, but only in multiplayer. Note that other players do not have to be online for the potion to drop, so just selecting multiplayer and hosting the game can allow collecting the potions. Wormhole Potions can be crafted in a singleplayer world as well.",
+    "It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Tooltip": "<i><span class=\"gameText\">Teleports you to a party member<br>Click their head on the fullscreen map</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
@@ -18,23 +18,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Desktop version] [img:Console version] [img:Mobile version] only:</div><span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Wormhole Potion]</linked><span><span><linked>Wormhole Potion</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Specular Fish]</linked><span><span><linked>Specular Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Placed Bottle]<span><span>Placed Bottle</span></span></span><br><i><b>or</b></i><br><span class=\"i -w\">[img:Alchemy Table]<span><span>Alchemy Table</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\">[img:Old-gen console version] [img:Nintendo 3DS version] [img:Legacy tModLoader version] only:</div><span class=\"i multi-line\">[img:Wormhole Potion]<span><span>Wormhole Potion</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Wormhole Potion]</linked><span><span><linked>Wormhole Potion</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Bottled Water]<span><span>Bottled Water</span></span></span></li><li><span class=\"i\">[img:Specular Fish]<span><span>Specular Fish</span></span></span></li><li><span class=\"i\">[img:Blinkroot]<span><span>Blinkroot</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Specular Fish]</linked><span><span><linked>Specular Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Blinkroot]</linked><span><span><linked>Blinkroot</linked></span></span></span></li></ul>"
         }
       }
     ]

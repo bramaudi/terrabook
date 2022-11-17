@@ -7,9 +7,9 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Adamantite Pickaxe</b> is a Hardmode pickaxe, and is the pickaxe alternative to the Adamantite Drill, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the Titanium Pickaxe, is faster than the Adamantite Pickaxe.",
-    "It can mine any block except Chlorophyte Ore and Lihzahrd Bricks.",
-    "Its best modifier is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light mine at equal speeds for this tool."
+    "The <b>Adamantite Pickaxe</b> is a <linked>Hardmode</linked> <linked>pickaxe</linked>, and is the pickaxe alternative to the <linked>Adamantite Drill</linked>, having a slower mining speed but longer range and benefiting from mining speed bonuses. Its alternate ore counterpart, the <linked>Titanium Pickaxe</linked>, is faster than the Adamantite Pickaxe.",
+    "It can mine any block except <linked>Chlorophyte Ore</linked> and <linked>Lihzahrd Bricks</linked>.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
     "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
@@ -17,7 +17,7 @@
     "Critical chance": "4%",
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "8",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"2 Gold 16 Silver Coins\" data-sort-value=\"21600\"><span class=\"gc\">2</span><span class=\"sc\">16</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -26,14 +26,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Adamantite Pickaxe]<span><span>Adamantite Pickaxe</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Adamantite Pickaxe]</linked><span><span><linked>Adamantite Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Adamantite Bar]<span><span>Adamantite Bar</span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Mythril Anvil]<span><span>Mythril Anvil</span></span></span><br><i><b>or</b></i><br><span class=\"i\">[img:Orichalcum Anvil]<span><span>Orichalcum Anvil</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
         }
       }
     ]

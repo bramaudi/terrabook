@@ -2,14 +2,14 @@
   "type": "enemies",
   "title": "Tomb Crawler",
   "summaries": [
-    "The <b>Tomb Crawler</b> is a burrowing enemy found in the Underground Desert. Following the same AI pattern as Giant Worms, it moves through solid blocks to attack the player by charging. The sound of its burrowing grows louder and faster as it draws near. Like many other worm-type enemies, its head segment deals more damage on contact, but is also the part of its body most vulnerable to damage. It is the pre-Hardmode counterpart of the Dune Splicer."
+    "The <b>Tomb Crawler</b> is a burrowing <linked>enemy</linked> found in the <linked>Underground Desert</linked>. Following the same <linked>AI</linked> pattern as <linked>Giant Worms</linked>, it moves through solid <linked>blocks</linked> to attack the player by charging. The sound of its burrowing grows louder and faster as it draws near. Like many other worm-type enemies, its head segment deals more damage on contact, but is also the part of its body most vulnerable to damage. It is the <linked>pre-Hardmode</linked> counterpart of the <linked>Dune Splicer</linked>."
   ],
   "statistics": {
-    "Environment": "<div class=\"tags\"><span class=\"tag\"> Underground Desert </span><span class=\"tag\"> Sandstorm </span></div>",
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Underground Desert </linked></span><span class=\"tag\"><linked> Sandstorm </linked></span></div>",
     "AI Type": "Worm AI",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">60</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\" title=\"Pre-Hardmode\">120</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">264</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">396</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\" title=\"Pre-Hardmode\">180</span><span class=\"sep\">›</span><span class=\"s\" title=\"Hardmode\">396</span><span class=\"sep\">›</span><span class=\"s\" title=\"Post-Plantera\">594</span></span></span>",
-    "Banner": "<span class=\"i -w\">[img:Tomb Crawler Banner]<span><span>Tomb Crawler Banner</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Tomb Crawler Banner]</linked><span><span><linked>Tomb Crawler Banner</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>",
     "Immune to": "Confused"
   },
-  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\">[img:Sturdy Fossil]<span><span>Sturdy Fossil</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (1-2)</div><div>50% <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></div></li></ul>"
+  "drops": "<ul class=\"drops items\"><li><strong>Item <small>(Quantity)</small></strong><strong>Rate</strong></li><li><div><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> (1-2)</div><div>50% <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></div></li></ul>"
 }

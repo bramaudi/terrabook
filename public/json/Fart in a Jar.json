@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Fart in a Jar",
   "summaries": [
-    "The <b>Fart in a Jar</b> is an accessory that allows the player to perform a double jump, accompanied by a farting sound effect. The Fart jump goes 10.5 tiles into the air, totalling 16.5 tiles when put together with the first jump."
+    "The <b>Fart in a Jar</b> is an <linked>accessory</linked> that allows the player to perform a double jump, accompanied by a farting sound effect. The Fart jump goes 10.5 tiles into the air, totalling 16.5 tiles when put together with the first jump."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the holder to double jump</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 2]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fart in a Jar]</linked><span><span><linked>Fart in a Jar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Cloud in a Bottle]<span><span>Cloud in a Bottle</span></span></span></li><li><span class=\"i\">[img:Whoopie Cushion]<span><span>Whoopie Cushion</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Whoopie Cushion]</linked><span><span><linked>Whoopie Cushion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -30,14 +30,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Fart in a Balloon]<span><span>Fart in a Balloon</span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Fart in a Balloon]</linked><span><span><linked>Fart in a Balloon</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Fart in a Jar]<span><span>Fart in a Jar</span></span></span></li><li><span class=\"i\">[img:Shiny Red Balloon]<span><span>Shiny Red Balloon</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Fart in a Jar]</linked><span><span><linked>Fart in a Jar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiny Red Balloon]</linked><span><span><linked>Shiny Red Balloon</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

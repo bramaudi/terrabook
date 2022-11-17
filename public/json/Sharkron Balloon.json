@@ -2,13 +2,13 @@
   "type": "accessories",
   "title": "Sharkron Balloon",
   "summaries": [
-    "The <b>Sharkron Balloon</b> is an accessory that combines the effects of the Tsunami in a Bottle and the Balloon Pufferfish. It boosts jump height by 33% and jump speed by 30% increasing your first jump's height to ~10½ blocks (~75% increase), and provides a double jump that now goes 13 blocks, for a total height of 23½ blocks.",
+    "The <b>Sharkron Balloon</b> is an <linked>accessory</linked> that combines the effects of the <linked>Tsunami in a Bottle</linked> and the <linked>Balloon Pufferfish</linked>. It boosts jump height by 33% and jump speed by 30% increasing your first jump's height to ~10½ blocks (~75% increase), and provides a double jump that now goes 13 blocks, for a total height of 23½ blocks.",
     "Jump height is oddly <i>reduced</i> when underwater, reducing your total underwater height from 17½ blocks (8 blocks + 9½ blocks from Tsunami jump) to 15 blocks (7 blocks + 8 blocks from Tsunami jump).",
-    "It can be combined with a Lucky Horseshoe at a Tinkerer's Workshop to make a Pink Horseshoe Balloon."
+    "It can be combined with a <linked>Lucky Horseshoe</linked> at a <linked>Tinkerer's Workshop</linked> to make a <linked>Pink Horseshoe Balloon</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases jump height<br>Allows the holder to double jump</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -17,14 +17,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Sharkron Balloon]<span><span>Sharkron Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sharkron Balloon]</linked><span><span><linked>Sharkron Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Tsunami in a Bottle]<span><span>Tsunami in a Bottle</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Balloon Pufferfish]<span><span>Balloon Pufferfish</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tsunami in a Bottle]</linked><span><span><linked>Tsunami in a Bottle</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Balloon Pufferfish]</linked><span><span><linked>Balloon Pufferfish</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ],
@@ -32,14 +32,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Pink Horseshoe Balloon]<span><span>Pink Horseshoe Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pink Horseshoe Balloon]</linked><span><span><linked>Pink Horseshoe Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Sharkron Balloon]<span><span>Sharkron Balloon</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Lucky Horseshoe]<span><span>Lucky Horseshoe</span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sharkron Balloon]</linked><span><span><linked>Sharkron Balloon</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lucky Horseshoe]</linked><span><span><linked>Lucky Horseshoe</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

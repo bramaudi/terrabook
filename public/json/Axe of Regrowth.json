@@ -7,8 +7,8 @@
     "[img:Axe mask] 150%"
   ],
   "summaries": [
-    "The <b>Axe of Regrowth</b> is a multi-purpose tool. It functions identically to the Staff of Regrowth, increasing herb and herb seed collection by the same amount, and can be used to create grass on dirt. It can also be used as an axe, with the unique aspect that it instantly places down an Acorn on the grass block directly underneath the tree after it is chopped.",
-    "Its best modifier is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
+    "The <b>Axe of Regrowth</b> is a multi-purpose <linked>tool</linked>. It functions identically to the <linked>Staff of Regrowth</linked>, increasing <linked>herb</linked> and herb seed collection by the same amount, and can be used to create <linked>grass</linked> on <linked>dirt</linked>. It can also be used as an <linked>axe</linked>, with the unique aspect that it instantly places down an <linked>Acorn</linked> on the grass block directly underneath the <linked>tree</linked> after it is chopped.",
+    "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
     "Damage": "20 <span class=\"small-bold\">(Melee)</span>",
@@ -18,7 +18,7 @@
     "Use time": "24 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "12",
     "Tooltip": "<i><span class=\"gameText\">Creates grass on dirt<br>Increases alchemy plant collection when used to gather<br>Plants acorns when cutting down trees</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 4]</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -27,19 +27,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Axe of Regrowth]<span><span>Axe of Regrowth</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Axe of Regrowth]</linked><span><span><linked>Axe of Regrowth</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Copper Axe]<span><span>Copper Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Copper Axe]</linked><span><span><linked>Copper Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\">[img:Work Bench]<span><span>Work Bench</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Staff of Regrowth]<span><span>Staff of Regrowth</span></span></span></li><li><span class=\"i\">[img:Tin Axe]<span><span>Tin Axe</span></span></span></li><li><span class=\"i\">[img:Jungle Spores]<span><span>Jungle Spores</span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\">[img:Vine]<span><span>Vine</span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
         }
       }
     ]

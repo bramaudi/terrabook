@@ -2,11 +2,11 @@
   "type": "accessories",
   "title": "Hand Of Creation",
   "summaries": [
-    "The <b>Hand Of Creation</b> is a post-Skeletron accessory. It combines the effects of the Ancient Chisel, Architect Gizmo Pack, Step Stool, and Treasure Magnet, providing increases to mining speed, block and wall reach and placement speed, and item pickup range, as well as the ability to increase jump reach and automatically apply paints."
+    "The <b>Hand Of Creation</b> is a post-<linked>Skeletron</linked> <linked>accessory</linked>. It combines the effects of the <linked>Ancient Chisel</linked>, <linked>Architect Gizmo Pack</linked>, <linked>Step Stool</linked>, and <linked>Treasure Magnet</linked>, providing increases to <linked>mining speed</linked>, <linked>block</linked> and <linked>wall</linked> reach and placement speed, and item <linked>pickup range</linked>, as well as the ability to increase <linked>jump reach</linked> and automatically apply <linked>paints</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases mining speed by 25%<br>Increases block &amp; wall placement speed<br>Increases block placement &amp; tool range by 3<br>Increases pickup range for items<br>Automatically paints or coats placed objects<br>Hold Up to reach higher</span></i>",
-    "Rarity": "<span class=\"rarity\">[img:Rarity level: 1]</span> <span class=\"eico s i1\" title=\"Desktop version\"><b></b><i></i></span> / <span class=\"rarity\">[img:Rarity level: 1]</span> <span class=\"eico s i2 i4\" title=\"Console and Mobile versions\"><b></b><i></i></span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> <span class=\"eico s i1\" title=\"Desktop version\"><b></b><i></i></span> / <span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> <span class=\"eico s i2 i4\" title=\"Console and Mobile versions\"><b></b><i></i></span>",
     "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
@@ -15,14 +15,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Hand Of Creation]<span><span>Hand Of Creation</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hand Of Creation]</linked><span><span><linked>Hand Of Creation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\">[img:Architect Gizmo Pack]<span><span>Architect Gizmo Pack</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Ancient Chisel]<span><span>Ancient Chisel</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Treasure Magnet]<span><span>Treasure Magnet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\">[img:Step Stool]<span><span>Step Stool</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Architect Gizmo Pack]</linked><span><span><linked>Architect Gizmo Pack</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ancient Chisel]</linked><span><span><linked>Ancient Chisel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Treasure Magnet]</linked><span><span><linked>Treasure Magnet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Step Stool]</linked><span><span><linked>Step Stool</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\">[img:Tinkerer's Workshop]<span><span>Tinkerer's Workshop</span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]
