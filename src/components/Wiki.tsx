@@ -41,7 +41,7 @@ export default function(props: { slug: string }) {
 				if (item.name !== items().title &&
 					!excludeTypes.includes(item.type)) {
 					const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
-					text = text.replace(item.name, `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a>`)
+					text = text.replace(new RegExp(`${item.name}[^'"|<\\/a>]`, 'g'), `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a> `)
 				}
 			}
 			return text
