@@ -26,6 +26,12 @@ function parseImg($el) {
         }
     }
 }
+function parseLinks($el) {
+	for (const elm of $el.querySelectorAll('a')) {
+        $el.innerHTML = $el.innerHTML
+            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
+    }
+}
 function clearSpan($el) {
     for (const span of $el.querySelectorAll('span')) {
     	if (span.getAttribute('style') || span.classList.contains('nowrap')) {
@@ -67,7 +73,7 @@ function parseCraftTable() {
                 if (!el) return undefined
                 clearSpan(el)
                 parseImg(el)
-                removeTags(el, ['a'], false)
+                parseLinks(el)
                 normalizeText(el)
                 const rowspan = ~~el.getAttribute('rowspan') || undefined
                 const value = el.innerHTML
@@ -105,7 +111,7 @@ const summaries = (() => {
         clearSpan(walk)
         parseImg(walk)
         removeTags(walk, ['sup', 'br'])
-        removeTags(walk, ['a'], false)
+        parseLinks(walk)
         removeSoundTag(walk)
         normalizeText(walk)
         if (walk.nodeName === 'UL') {
@@ -128,7 +134,7 @@ const statistics = (() => {
         clearSpan(col2)
         parseImg(col2)
         removeTags(col2, ['s'])
-        removeTags(col2, ['a'], false)
+        parseLinks(col2)
         const value = col2.innerHTML
     	rows[key] = value
     }

@@ -26,6 +26,12 @@ function parseImg($el) {
         }
     }
 }
+function parseLinks($el) {
+	for (const elm of $el.querySelectorAll('a')) {
+        $el.innerHTML = $el.innerHTML
+            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
+    }
+}
 function clearSpan($el) {
     for (const span of $el.querySelectorAll('span')) {
         if (span.getAttribute('style') || span.classList.contains('nowrap')) {
@@ -72,7 +78,7 @@ const summaries = (() => {
         clearSpan(walk)
         parseImg(walk)
         removeTags(walk, ['sup', 'br'])
-        removeTags(walk, ['a'], false)
+        parseLinks(walk)
         removeSoundTag(walk)
         normalizeText(walk)
         if (walk.nodeName === 'UL') {
@@ -95,7 +101,7 @@ const statistics = (() => {
         clearSpan(col2)
         parseImg(col2)
         removeTags(col2, ['s','sup'])
-        removeTags(col2, ['a'], false)
+        parseLinks(col2)
         let value = col2.innerHTML
         if (key === 'Immune to') {
         	value = [...col2.querySelectorAll('span.i')]
@@ -113,7 +119,7 @@ const format = el => {
     clearSpan(el)
     parseImg(el)
     removeTags(el, ['s','sup'])
-    removeTags(el, ['a'], false)
+    parseLinks(el)
     return el
 }
 

@@ -26,6 +26,12 @@ function parseImg($el) {
         }
     }
 }
+function parseLinks($el) {
+	for (const elm of $el.querySelectorAll('a')) {
+        $el.innerHTML = $el.innerHTML
+            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
+    }
+}
 function clearSpan($el) {
     for (const span of $el.querySelectorAll('span')) {
         if (span.getAttribute('style') || span.classList.contains('nowrap')) {
@@ -46,7 +52,7 @@ function format(el) {
     clearSpan(el)
     parseImg(el)
     removeTags(el, ['s','sup'])
-    removeTags(el, ['a'], false)
+    parseLinks(el)
     return el
 }
 
@@ -72,7 +78,7 @@ const summaries = (() => {
         clearSpan(walk)
         parseImg(walk)
         removeTags(walk, ['sup', 'br'])
-        removeTags(walk, ['a'], false)
+        parseLinks(walk)
         normalizeText(walk)
         if (walk.nodeName === 'UL') {
             data.push(walk.outerHTML)
@@ -100,7 +106,7 @@ const statistics = (() => {
         clearSpan(col2)
         parseImg(col2)
         removeTags(col2, ['s','sup'])
-        removeTags(col2, ['a'], false)
+        parseLinks(col2)
         const value = col2.innerHTML
         rows[key] = value
     }

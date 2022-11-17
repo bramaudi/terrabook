@@ -26,6 +26,12 @@ function parseImg($el) {
         }
     }
 }
+function parseLinks($el) {
+	for (const elm of $el.querySelectorAll('a')) {
+        $el.innerHTML = $el.innerHTML
+            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
+    }
+}
 function clearSpan($el) {
     for (const span of $el.querySelectorAll('span')) {
     	if (span.getAttribute('style') || span.classList.contains('nowrap')) {
@@ -60,7 +66,7 @@ function parseCraftTable() {
                 if (!el) return undefined
                 clearSpan(el)
                 parseImg(el)
-                removeTags(el, ['a'], false)
+                parseLinks(el)
                 normalizeText(el)
                 const rowspan = ~~el.getAttribute('rowspan') || undefined
                 const value = el.innerHTML
@@ -79,8 +85,8 @@ function format(el, tags = ['s']) {
     normalizeText(el)
     clearSpan(el)
     parseImg(el)
+    parseLinks(el)
     removeTags(el, tags)
-    removeTags(el, ['a'], false)
 }
 
 const title = document.querySelector('#firstHeading').textContent

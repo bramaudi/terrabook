@@ -52,7 +52,7 @@ const statistics = (() => {
     clearSpan(row)
     parseImg(row)
     removeTags(row, ['s'])
-    removeTags(row, ['a'], false)
+    parseLinks(row)
     normalizeText(row)
     const [,,,Power,Velocity,Sell,Rarity] = row.children
     return {
