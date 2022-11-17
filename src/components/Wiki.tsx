@@ -37,11 +37,9 @@ export default function(props: { slug: string }) {
 			// sort longest name first
 			dict.sort((a,b) => b.name.length - a.name.length)
 			for (const item of dict) {
-				const excludeTypes = ['blocks','enemies','pets']
-				if (item.name !== items().title &&
-					!excludeTypes.includes(item.type)) {
+				if (item.name !== items().title) {
 					const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
-					text = text.replace(new RegExp(`${item.name}[^'"|<\\/a>]`, 'g'), `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a> `)
+					text = text.replace(`<linked>${item.name}</linked>`, `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a> `)
 				}
 			}
 			return text
