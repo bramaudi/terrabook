@@ -26,6 +26,12 @@ function parseImg($el) {
         }
     }
 }
+function parseLinks($el) {
+	for (const elm of $el.querySelectorAll('a')) {
+        $el.innerHTML = $el.innerHTML
+            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
+    }
+}
 function clearSpan($el) {
     for (const span of $el.querySelectorAll('span')) {
     	if (span.getAttribute('style') || span.classList.contains('nowrap')) {
