@@ -1,0 +1,35 @@
+{
+  "type": "ammunitions",
+  "title": "Silver Bullet",
+  "summaries": [
+    "<b>Silver Bullets</b> are a type of <linked>bullets</linked> used by <linked>guns</linked>. They deal 2 more damage and are slightly faster than <linked>Musket Balls</linked>, but otherwise have no special properties.",
+    "During <linked>Hardmode</linked> Silver Bullets can be bought from the <linked>Arms Dealer</linked> for <span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15</span></span> each, or <span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span> for 1000 rounds in worlds with <linked>Silver</linked>. Prior to Hardmode, they are only sold during <linked>Blood Moons</linked>, but become available anytime once Hardmode begins. They can also be found replacing <linked>Wooden Arrows</linked> in <linked>Pots</linked> during Hardmode, in <linked>Shadow Chests</linked>, or crafted using Silver Bars. It is the counterpart to <linked>Tungsten Bullets</linked> <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>."
+  ],
+  "statistics": {
+    "Damage": "9 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Base Velocity": "4.5",
+    "Velocity Multiplier": "2×",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15</span></span>",
+    "Sell": "<span class=\"coin\" title=\"3 Copper Coins\" data-sort-value=\"3\"><span class=\"cc\">3</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Silver Bullet]</linked><span><span><linked>Silver Bullet</linked></span></span></span> <span class=\"note-text\">(70)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(70)</span></li><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

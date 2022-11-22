@@ -1,0 +1,34 @@
+{
+  "type": "ammunitions",
+  "title": "Luminite Arrow",
+  "summaries": [
+    "<b>Luminite Arrows</b> are one of the strongest types of <linked>arrows</linked>. When fired, they are followed by a laser-like projectile after a short delay. The arrows and lasers have a fast travel time, and can pierce through three enemies, dissipating upon impact of the fourth. Luminite Arrows are destroyed upon use."
+  ],
+  "statistics": {
+    "Damage": "15 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3.5 <span class=\"knockback\">(Weak)</span>",
+    "Base Velocity": "3",
+    "Velocity Multiplier": "2×",
+    "Tooltip": "<i><span class=\"gameText\">'Shooting them down at the speed of sound!'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 9]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Arrow]</linked><span><span><linked>Luminite Arrow</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(333)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "type": "ammunitions",
+  "title": "Grasshopper",
+  "summaries": [
+    "The <b>Grasshopper</b> is a type of <linked>critter</linked> that can be found when destroying grass. It can be caught with any <linked>Bug Net</linked> to be carried around in the <linked>inventory</linked> and released later, or crafted into a <linked>Grasshopper Cage</linked> to be used as decorative <linked>furniture</linked>. Once crafted, the caged Grasshopper cannot be released again, and when placed down it moves around inside the cage as it would do outside.Grasshoppers can also be used as <linked>bait</linked> for <linked>fishing</linked>."
+  ],
+  "statistics": {
+    "Bait Power": "10%",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver 50 Copper Coins\" data-sort-value=\"250\"><span class=\"sc\">2</span><span class=\"cc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Grasshopper Cage]</linked><span><span><linked>Grasshopper Cage</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Grasshopper]</linked><span><span><linked>Grasshopper</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Grasshopper Statue]</linked><span><span><linked>Grasshopper Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Grasshopper]</linked><span><span><linked>Grasshopper</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Grasshopper Statue]</linked><span><span><linked>Grasshopper Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Grasshopper]</linked><span><span><linked>Grasshopper</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

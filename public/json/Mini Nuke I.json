@@ -1,0 +1,32 @@
+{
+  "type": "ammunitions",
+  "title": "Mini Nuke I",
+  "summaries": [
+    "The <b>Mini Nuke I</b> is a type of <linked>rocket ammunition</linked>. Unlike the <linked>Mini Nuke II</linked>, it does not destroy tiles. It is a direct upgrade to the <linked>Rocket III</linked>, dealing more damage over a larger blast radius, but with lower knockback."
+  ],
+  "statistics": {
+    "Damage": "75 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "4 <span class=\"knockback\">(Weak)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Huge blast radius. Will not destroy tiles</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Crafting": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Mini Nuke I]</linked><span><span><linked>Mini Nuke I</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(100)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rocket III]</linked><span><span><linked>Rocket III</linked></span></span></span> <span class=\"note-text\">(100)</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Autohammer]</linked><span><span><linked>Autohammer</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

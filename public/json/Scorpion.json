@@ -1,0 +1,70 @@
+{
+  "type": "ammunitions",
+  "title": "Scorpions",
+  "summaries": [
+    "<b>Scorpion</b> and <b>Black Scorpion</b> are <linked>critters</linked>. As all other critters, they have 5 health, no defense, and are often killed instantly by other enemies or the player. They are most commonly found in a <linked>Desert</linked>. For detailed spawning conditions, see <linked>Notes</linked>.",
+    "Scorpions can be caught using a <linked>Bug Net</linked>. They can be used as <linked>baits</linked> for <linked>fishing</linked>. They can be carried around in the <linked>inventory</linked> and released later, or crafted into a <linked>Scorpion</linked>/<linked>Black Scorpion Cage</linked>. Caged Scorpions cannot be released once crafted.",
+    "The Scorpion Cage occupies a 6×3 space. The Scorpion inside may follow the following patterns randomly:",
+    "<ul><li>Run from one side to the other of the cage</li><li>Submerge in sand</li><li>Stab with its stinger for a few times</li><li>Wave its stinger</li><li>Snip with its chelae</li></ul>"
+  ],
+  "statistics": {
+    "Bait Power": "15%",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br>No value <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Black Scorpion Cage]</linked><span><span><linked>Black Scorpion Cage</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Black Scorpion]</linked><span><span><linked>Black Scorpion</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<linked>By Hand</linked>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Scorpion Cage]</linked><span><span><linked>Scorpion Cage</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Scorpion]</linked><span><span><linked>Scorpion</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Scorpion Statue]</linked><span><span><linked>Scorpion Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Scorpion]</linked><span><span><linked>Any Scorpion</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Scorpion Statue]</linked><span><span><linked>Scorpion Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Scorpion]</linked><span><span><linked>Any Scorpion</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

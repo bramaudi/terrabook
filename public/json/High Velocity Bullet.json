@@ -1,0 +1,35 @@
+{
+  "type": "ammunitions",
+  "title": "High Velocity Bullet",
+  "summaries": [
+    "<b>High Velocity Bullets</b> are a type of <linked>ammunition</linked> obtainable after at least one <linked>mechanical boss</linked> has been defeated. They are the fastest traveling bullets in the game, traveling at the same speed as bullets fired from the <linked>Sniper Rifle</linked>. They are one of six types of craftable <linked>bullets</linked> made from <linked>Empty Bullets</linked>, which are sold by the <linked>Arms Dealer</linked> after <linked>Hardmode</linked> has been enabled.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, they will pierce up to two enemies, coming to a stop when hitting the third. However, the second target will only take 85% of the base damage, and the third target will only take 85% of that (i.e. 72.25% of base).",
+    "The <linked>cost</linked> of a stack of 50 High Velocity Bullets is <span class=\"coin\" title=\"9 Silver 50 Copper Coins\" data-sort-value=\"950\"><span class=\"sc\">9</span><span class=\"cc\">50</span></span>, which is <span class=\"coin\" title=\"19 Copper Coins\" data-sort-value=\"19\"><span class=\"cc\">19</span></span> per bullet. The cost of crafting 1000 High Velocity Bullets (20 stacks of 50) is <span class=\"coin\" title=\"1 Gold 90 Silver Coins\" data-sort-value=\"19000\"><span class=\"gc\">1</span><span class=\"sc\">90</span></span>."
+  ],
+  "statistics": {
+    "Damage": "11 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br>10 <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "4 <span class=\"knockback\">(Weak)</span>",
+    "Base Velocity": "4",
+    "Velocity Multiplier": "8×",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:High Velocity Bullet]</linked><span><span><linked>High Velocity Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Bullet]</linked><span><span><linked>Empty Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

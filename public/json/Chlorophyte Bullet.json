@@ -1,0 +1,44 @@
+{
+  "type": "ammunitions",
+  "title": "Chlorophyte Bullet",
+  "summaries": [
+    "<b>Chlorophyte Bullets</b> are homing <linked>bullets</linked> which are capable of turning sharply in midair and even curve instantly around to hit <linked>enemies</linked> behind the player. They will home in on the closest target first but if that one is killed, any remaining airborne pellets will change targets, going after the next one.",
+    "Chlorophyte Bullets will also produce a momentary streak effect that emits a large amount of green light."
+  ],
+  "statistics": {
+    "Damage": "9 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 10 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 15 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "4.5 <span class=\"knockback\">(Average)</span>",
+    "Base Velocity": "5",
+    "Velocity Multiplier": "3×",
+    "Tooltip": "<i><span class=\"gameText\">Chases after your enemy</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Bullet]</linked><span><span><linked>Chlorophyte Bullet</linked></span></span></span> <span class=\"note-text\">(70)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(70)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Bullet]</linked><span><span><linked>Chlorophyte Bullet</linked></span></span></span> <span class=\"note-text\">(60)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(60)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

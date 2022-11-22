@@ -1,0 +1,61 @@
+{
+  "type": "ammunitions",
+  "title": "Gold Worm",
+  "summaries": [
+    "The <b>Gold Worm</b> is a <linked>critter</linked>. It is a rare, golden recolor of an ordinary <linked>Worm</linked>, with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.25*</s>1/400 (0.25%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span> chance of spawning in place of the ordinary version. It can also be rarely obtained from opening a <linked>Can Of Worms</linked>.",
+    "As with all other golden critters, it can be caught with a <linked>Bug Net</linked> and sold for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>. It can also be used as <linked>bait</linked>, and along with the other golden bait critters, it has a bait power of 50%, the highest usable value among bait. When used for fishing, it has a particularly low chance of being consumed (only <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance).",
+    "Unlike its original counterpart, the Worm, the Gold Worm cannot be crafted into an <linked>Enchanted Nightcrawler</linked>.",
+    "It is one of the few entities that can be detected by the <span class=\"eil\"><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Bait Power": "50%",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">3 required</abbr>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Worm Cage]</linked><span><span><linked>Gold Worm Cage</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Worm]</linked><span><span><linked>Gold Worm</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Golden Delight]</linked><span><span><linked>Golden Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Worm]</linked><span><span><linked>Gold Worm</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Cooking Pot]</linked><span><span><linked>Cooking Pot</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Cauldron]</linked><span><span><linked>Cauldron</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Gummy Worm]</linked><span><span><linked>Gummy Worm</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Worm]</linked><span><span><linked>Gold Worm</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

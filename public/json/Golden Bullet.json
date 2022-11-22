@@ -1,0 +1,35 @@
+{
+  "type": "ammunitions",
+  "title": "Golden Bullet",
+  "summaries": [
+    "<b>Golden Bullets</b> are one of six types of craftable <linked>ammunition</linked> made from <linked>Empty Bullets</linked>, which are sold by the <linked>Arms Dealer</linked> after <linked>Hardmode</linked> has been enabled. Like the <linked>Flask of Gold</linked>, they inflict the <linked>Midas</linked> <linked>debuff</linked> on <linked>enemies</linked>, causing them to drop 10%-50% more <linked>Coins</linked> when killed. Note that the debuff wears off after 2 seconds.",
+    "The <linked>cost</linked> of a stack of 50 Golden Bullets is <span class=\"coin\" title=\"19 Silver 50 Copper Coins\" data-sort-value=\"1950\"><span class=\"sc\">19</span><span class=\"cc\">50</span></span>, which is <span class=\"coin\" title=\"39 Copper Coins\" data-sort-value=\"39\"><span class=\"cc\">39</span></span> per bullet. The cost of crafting 1000 Golden Bullets (20 stacks of 50) is <span class=\"coin\" title=\"3 Gold 90 Silver Coins\" data-sort-value=\"39000\"><span class=\"gc\">3</span><span class=\"sc\">90</span></span>."
+  ],
+  "statistics": {
+    "Damage": "10 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3.6 <span class=\"knockback\">(Weak)</span>",
+    "Base Velocity": "4.6",
+    "Velocity Multiplier": "3×",
+    "Tooltip": "<i><span class=\"gameText\">Enemies killed will drop more money</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Golden Bullet]</linked><span><span><linked>Golden Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Bullet]</linked><span><span><linked>Empty Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Gold Dust]</linked><span><span><linked>Gold Dust</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

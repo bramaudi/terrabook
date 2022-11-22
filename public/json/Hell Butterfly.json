@@ -1,0 +1,152 @@
+{
+  "type": "ammunitions",
+  "title": "Butterflies",
+  "summaries": [
+    "<b>Butterflies</b> are small <linked>critters</linked> that can be found in <linked>Forests</linked> during <linked>daytime</linked>. They can be caught with a <linked>Bug Net</linked> and carried in the inventory, or crafted into <linked>Butterfly Jars</linked>. They can also be used as <linked>bait</linked> for <linked>fishing</linked>. The <linked>Underworld</linked> variant, Hell Butterfly, can be found in the Underworld during daytime."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Forest </linked></span></div>",
+    "AI Type": "Butterfly AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">5</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">0%</span></span>"
+  },
+  "crafts": {
+    "Used in": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Butterfly Jar]</linked><span><span><linked>Gold Butterfly Jar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 10,
+          "value": "<linked>By Hand</linked>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Hell Butterfly Jar]</linked><span><span><linked>Hell Butterfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hell Butterfly]</linked><span><span><linked>Hell Butterfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Julia Butterfly Jar]</linked><span><span><linked>Julia Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Julia Butterfly]</linked><span><span><linked>Julia Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Monarch Butterfly Jar]</linked><span><span><linked>Monarch Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Monarch Butterfly]</linked><span><span><linked>Monarch Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Purple Emperor Butterfly Jar]</linked><span><span><linked>Purple Emperor Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Purple Emperor Butterfly]</linked><span><span><linked>Purple Emperor Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Red Admiral Butterfly Jar]</linked><span><span><linked>Red Admiral Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Red Admiral Butterfly]</linked><span><span><linked>Red Admiral Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Sulphur Butterfly Jar]</linked><span><span><linked>Sulphur Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sulphur Butterfly]</linked><span><span><linked>Sulphur Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Tree Nymph Butterfly Jar]</linked><span><span><linked>Tree Nymph Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tree Nymph Butterfly]</linked><span><span><linked>Tree Nymph Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Ulysses Butterfly Jar]</linked><span><span><linked>Ulysses Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ulysses Butterfly]</linked><span><span><linked>Ulysses Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Zebra Swallowtail Butterfly Jar]</linked><span><span><linked>Zebra Swallowtail Butterfly Jar</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Zebra Swallowtail Butterfly]</linked><span><span><linked>Zebra Swallowtail Butterfly</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Golden Delight]</linked><span><span><linked>Golden Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Cooking Pot]</linked><span><span><linked>Cooking Pot</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Cauldron]</linked><span><span><linked>Cauldron</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Butterfly Statue]</linked><span><span><linked>Butterfly Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Butterfly]</linked><span><span><linked>Any Butterfly</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Butterfly Statue]</linked><span><span><linked>Butterfly Statue</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Butterfly]</linked><span><span><linked>Any Butterfly</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

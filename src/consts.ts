@@ -1,6 +1,7 @@
 export const MENUS = [
 	{ slug: 'tools',			icon: 'Emote_Item_Pickaxe' },
 	{ slug: 'weapons',			icon: 'Emote_Item_Sword' },
+	{ slug: 'ammunitions',		icon: 'Musket_Ball' },
 	{ slug: 'armors',			icon: 'Emote_Platinum_Chainmail' },
 	{ slug: 'accessories',		icon: 'Emote_Hermes_Boots' },
 	{ slug: 'blocks',			icon: 'Stone_Block' },

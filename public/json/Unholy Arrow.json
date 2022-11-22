@@ -1,0 +1,43 @@
+{
+  "type": "ammunitions",
+  "title": "Unholy Arrow",
+  "summaries": [
+    "<b>Unholy Arrows</b> are a type of <linked>arrow</linked>. Compared to the <linked>Wooden Arrows</linked> used to craft them, they are stronger and have a piercing effect, allowing each arrow to hit up to five <linked>enemies</linked>. Against multi-section monsters, a single Unholy Arrow can damage multiple sections. <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> A fired Unholy Arrow has a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance of being recoverable after hitting an enemy or a wall.",
+    "In addition to being crafted, Unholy Arrows are dropped by the <linked>Eye of Cthulhu</linked> in worlds that generated with <linked>Corruption</linked>. Furthermore, they can be purchased from the <linked>Arms Dealer</linked> at <linked>night</linked> for <span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span> once the <linked>Eater of Worlds</linked> or <linked>Brain of Cthulhu</linked> has been defeated. After activating <linked>Hardmode</linked>, they become available during the day as well."
+  ],
+  "statistics": {
+    "Damage": "12 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Velocity": "3.4",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
+    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Worm Tooth]</linked><span><span><linked>Worm Tooth</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Vertebra]</linked><span><span><linked>Vertebra</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "ammunitions",
+  "title": "Luminite Bullet",
+  "summaries": [
+    "<b>Luminite Bullets</b> are a type of <linked>Hardmode</linked>, post-<linked>Moon Lord</linked> <linked>bullet</linked> crafted from <linked>Luminite Bars</linked>. They have the highest base damage of all bullets, and they can pierce through multiple targets."
+  ],
+  "statistics": {
+    "Damage": "20 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Base Velocity": "2",
+    "Velocity Multiplier": "6×",
+    "Tooltip": "<i><span class=\"gameText\">'Line 'em up and knock 'em down...'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 9]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Bullet]</linked><span><span><linked>Luminite Bullet</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(333)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

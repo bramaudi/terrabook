@@ -1,0 +1,34 @@
+{
+  "type": "ammunitions",
+  "title": "Crystal Dart",
+  "summaries": [
+    "<b>Crystal Darts</b> are a type of <linked>dart</linked> used with the <linked>Blowgun</linked>, <linked>Blowpipe</linked>, <linked>Dart Pistol</linked>, and <linked>Dart Rifle</linked>. They move in a straight line and are unaffected by gravity when shot, ricocheting or piercing 6 times before disappearing. The darts will also bounce off tiles, and will automatically target <linked>enemies</linked> if they are close enough."
+  ],
+  "statistics": {
+    "Damage": "14 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 15 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3.5 <span class=\"knockback\">(Weak)</span>",
+    "Base Velocity": "1",
+    "Velocity Multiplier": "2×",
+    "Tooltip": "<i><span class=\"gameText\">Bounces between enemies</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"6 Copper Coins\" data-sort-value=\"6\"><span class=\"cc\">6</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "Recipes": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Crystal Dart]</linked><span><span><linked>Crystal Dart</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(100)</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Shard]</linked><span><span><linked>Crystal Shard</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      }
+    ]
+  }
+}
