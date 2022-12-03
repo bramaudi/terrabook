@@ -17,8 +17,8 @@ export default function (props: Props) {
 			// sort longest name first
 			dict.sort((a,b) => b.name.length - a.name.length)
 			for (const item of dict) {
-				const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
-				text = text.replace(`<linked>${item.name}</linked>`, `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a> `)
+				const path = `/wiki/${item.type}/${item.name}`.replaceAll("'", "\\\'")
+				text = text.replace(`<linked>${item.name}</linked>`, `<a href="#" onclick="window.location.href='${path}'">${item.name}</a> `)
 			}
 			return text
 		}

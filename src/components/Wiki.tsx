@@ -38,8 +38,8 @@ export default function(props: { slug: string }) {
 			dict.sort((a,b) => b.name.length - a.name.length)
 			for (const item of dict) {
 				if (item.name !== items().title) {
-					const path = `/search/${item.type}/${item.name}`.replaceAll("'", "\\\'")
-					text = text.replace(`<linked>${item.name}</linked>`, `<a href="#" onclick="window.location.href='${encodeURIComponent(path)}'">${item.name}</a> `)
+					const path = `/wiki/${item.type}/${item.name}`.replaceAll("'", "\\\'")
+					text = text.replace(`<linked>${item.name}</linked>`, `<a href="#" onclick="window.location.href='${path}'">${item.name}</a> `)
 				}
 			}
 			return text
