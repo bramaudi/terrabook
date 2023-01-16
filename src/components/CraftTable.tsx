@@ -30,7 +30,7 @@ export default function (props: Props) {
 			<div class="mt-4 text-center font-semibold text-sm">Loading ...</div>
 		</Show>
 		<Show when={!completeItems.loading && !completeItems.error}>
-			<div class="mt-3 font-semibold">{props.title}</div>
+			<div class="mt-3 font-semibold craft-title" innerHTML={parseImg(props.title)}></div>
 			<div class="overflow-auto">
 				<table class="box-wiki mt-2 w-full text-sm text-left">
 					<thead>
