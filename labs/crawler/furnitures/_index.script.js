@@ -7,5 +7,4 @@ for (const itemlist of itemlists) {
     }
 }
 
-list.pop()
 print(list)
