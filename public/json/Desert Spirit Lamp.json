@@ -1,0 +1,31 @@
+{
+  "type": "furnitures",
+  "title": "Desert Spirit Lamp",
+  "summaries": [
+    "The <b>Desert Spirit Lamp</b> is a decorative <linked>furniture</linked> item and <linked>crafting material</linked>. It must be placed on a <linked>platform</linked> or other <linked>flat-surface item</linked>. It has a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> chance of being dropped from <linked>Desert Spirits</linked>, which can be encountered in the <linked>Corrupted</linked> or <linked>Crimson</linked> <linked>Underground Desert</linked>. However, the Desert Spirit will only drop one of its special drops at a time (i.e. it may drop either the Desert Spirit Lamp or the <linked>Djinn's Curse</linked>, but never both). It will first attempt to drop the Desert Spirit Lamp, and if it fails to do so, it will attempt to drop the Djinn's Curse."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Spirit Flame]</linked><span><span><linked>Spirit Flame</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Desert Spirit Lamp]</linked><span><span><linked>Desert Spirit Lamp</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Soul of Night]</linked><span><span><linked>Soul of Night</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "furnitures",
+  "title": "Fireplace",
+  "summaries": [
+    "The <b>Fireplace</b> is a decorative <linked>furniture</linked> item with a style similar to that of the <linked>Chimney</linked>. A Fireplace operates similarly to a <linked>Campfire</linked>, having the same dimensions, emitting light, and granting nearby players the <b>Cozy Fire</b> regeneration buff. The buff is applied to any players standing within a rectangular area of 170×125 tiles centered on the Fireplace.",
+    "A Fireplace differs from a Campfire in the following ways:",
+    "<ul><li>A Fireplace has a flat surface on which other items can be placed, and will function as a valid surface for a <linked>Placed Bottle</linked> <linked>crafting station</linked>.</li><li>A Fireplace functions as a valid light source for <linked>NPC housing</linked>, while the Campfire does not.</li><li>A Fireplace cannot be toggled manually via the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button, while the Campfire can be. However, both can be toggled via <linked>Wire</linked>.</li><li>When switched off, a Fireplace will still provide the Cozy Fire regeneration buff, while a switched-off Campfire will not.</li><li>A Fireplace cannot be used to produce a <linked>Cooked Marshmallow</linked>, while a Campfire can.</li><li>A Fireplace will function within <linked>water</linked>, while a Campfire will not.<ul><li>Exceptions to this are the Coral Campfire, Cursed Campfire, and Ichor Campfire.</li></ul></li></ul>"
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Fireplace]</linked><span><span><linked>Fireplace</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gray Brick]</linked><span><span><linked>Gray Brick</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

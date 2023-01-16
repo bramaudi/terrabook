@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Featherfall Potion",
   "summaries": [
-    "The <b>Featherfall Potion</b> is a <linked>buff potion</linked> which grants the <b>Featherfall</b> <linked>buff</linked> when consumed. The buff reduces the player's fall speed and <linked>gravity</linked> by 1/3, allowing them to jump higher than normal. This lasts for <span class=\"etxt\"><span>10 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>5 minutes</span><span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "The <b>Featherfall Potion</b> is a <linked>buff potion</linked> which grants the <b>Featherfall</b> <linked>buff</linked> when consumed. The buff reduces the player's fall speed and <linked>gravity</linked> by 1/3, allowing them to jump higher than normal. This lasts for <span class=\"etxt\"><span>10 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>5 minutes</span><span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
     "The player can hold the <span class=\"key\"><linked>▼ Down</linked></span> key to cancel the effects or the <span class=\"key\"><linked>▲ Up</linked></span> key to further reduce fall speed and gravity to 90%. While under the effects of both Featherfall Potion and <linked>Gravitation Potion</linked>, holding the <span class=\"key\"><linked>▲ Up</linked></span> key will make the player fall up at normal speed. The player will fall up at a slowed speed when holding no direction.",
     "The effects of the Featherfall Potion can also be used to jump higher. By holding <span class=\"key\"><linked>▲ Up</linked></span>, grappling a <linked>platform</linked> above you, and releasing the grapple before it is complete, one may achieve jumping heights of several hundred blocks. You can also jump higher in a <linked>minecart</linked> by holding <span class=\"key\"><linked>▲ Up</linked></span> to gain some more height than if you jumped while under the effect.",
     "<linked>Fall damage</linked> is also negated, even when falling normally. It is worth noting that the Featherfall Potion also increases the distance players are knocked back when hit by an attack."
@@ -16,7 +16,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -27,7 +27,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

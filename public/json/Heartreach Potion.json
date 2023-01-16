@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Heartreach Potion",
   "summaries": [
-    "The <b>Heartreach Potion</b> is a <linked>buff potion</linked> which grants the <b>Heartreach</b> <linked>buff</linked> when consumed. The buff increases the pickup range of life recovery <linked>Hearts</linked> by 15.625 tiles, from 2.625 tiles to a total of 18.25 tiles. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "The <b>Heartreach Potion</b> is a <linked>buff potion</linked> which grants the <b>Heartreach</b> <linked>buff</linked> when consumed. The buff increases the pickup range of life recovery <linked>Hearts</linked> by 15.625 tiles, from 2.625 tiles to a total of 18.25 tiles. This lasts for 8 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
     "This potion can only be crafted with access to a <linked>Crimson</linked> <linked>biome</linked> due to the <linked>Crimson Tigerfish</linked> requirement, but can be also be obtained as a random reward from <linked>fished</linked> <linked>crates</linked> in any world. <linked>Wooden Crates</linked> drop buff potions at a rate of 1 in 7, <linked>Iron</linked> at 1 in 4, and <linked>Golden</linked> at 1 in 3."
   ],
   "statistics": {
@@ -14,18 +14,18 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Heartreach Potion]</linked><span><span><linked>Heartreach Potion</linked></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Heartreach Potion]</linked><span><span><linked>Heartreach Potion</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Tigerfish]</linked><span><span><linked>Crimson Tigerfish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {

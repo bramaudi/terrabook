@@ -1,0 +1,65 @@
+{
+  "type": "furnitures",
+  "title": "Timers",
+  "summaries": [
+    "A <b>Timer</b> is a triggering <linked>mechanism</linked> that periodically sends an activation signal to other mechanisms. There are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> five / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> three different types of timers, which differ in the interval at which the signal is sent: <b>5 Second Timer</b>, <b>3 Second Timer</b>, <b>1 Second Timer</b>, <b><span class=\"eil\"><span>1/2 Second Timer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b>, and <b><span class=\"eil\"><span>1/4 Second Timer</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></b>.",
+    "Timers need to be placed in order to function; they require either a <linked>block</linked> or a <linked>platform</linked> beneath them. They are toggled on and off by pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button on them. Timers can also be activated and deactivated using other mechanism activation items. For example, a <linked>Switch</linked> on the same path of <linked>wires</linked> will toggle a timer on and off. Multiple timers on the same circuit will also repeatedly toggle each other on and off.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile</linked> versions, timers can be crafted at an <linked>Iron or Lead Anvil</linked>. On <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, <linked>[img:Mobile version]</linked><linked> Mobile</linked>, and <linked>3DS</linked><linked>[img:Nintendo 3DS version]</linked>, they can be purchased from the <linked>Mechanic</linked>."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:1 Second Timer]<span><span title=\"1 Second Timer\">1 Second Timer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Watch]</linked><span><span><linked>Gold Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 6,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Watch]</linked><span><span><linked>Platinum Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:3 Second Timer]<span><span title=\"3 Second Timer\">3 Second Timer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Watch]</linked><span><span><linked>Silver Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Watch]</linked><span><span><linked>Tungsten Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\">[img:5 Second Timer]<span><span title=\"5 Second Timer\">5 Second Timer</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Watch]</linked><span><span><linked>Copper Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Watch]</linked><span><span><linked>Tin Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -3,7 +3,7 @@
   "title": "Obsidian Skin Potion",
   "summaries": [
     "The <b>Obsidian Skin Potion</b> is a <linked>buff potion</linked> which grants the <b>Obsidian Skin</b> <linked>buff</linked> when consumed. The buff makes the player immune to <linked>lava</linked>, <linked>Hellstone</linked>, <linked>Meteorite</linked>, and the <linked>On Fire!</linked> debuff for its duration. Obsidian Skin Potions can be crafted, dropped by <linked>Pots</linked> in the <linked>Underworld</linked>, or found in <linked>Shadow Chests</linked> and <linked>crates</linked>.",
-    "This lasts for <span class=\"etxt\"><span>6 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>4 minutes</span><span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>)."
+    "This lasts for <span class=\"etxt\"><span>6 minutes</span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span>4 minutes</span><span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>)."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -14,7 +14,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -25,7 +25,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

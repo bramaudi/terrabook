@@ -1,0 +1,41 @@
+{
+  "type": "furnitures",
+  "title": "Pumps",
+  "summaries": [
+    "<b>Inlet</b> and <b>Outlet Pumps</b> are <linked>mechanisms</linked> used to transport <linked>liquids</linked> (<linked>water</linked>, <linked>lava</linked>, <linked>honey</linked>, and <linked>shimmer</linked>), without having to construct pathways through <linked>blocks</linked> or rely on gravity. Instead, an Inlet and Outlet Pump need only be connected to each other with <linked>Wires</linked> and activated, which transfers fluid from the Inlet to the Outlet. Each activation transfers up to four tiles of liquid. For continuous automated pumping, a <linked>timer</linked> can be used.",
+    "Despite its appearance as a pipe that takes in liquid from beside it, an Inlet Pump must be submerged in liquid, as it removes liquid that lies directly over its graphic, and does so equally from all of its 2×2 tile space. Similarly, an Outlet Pump spawns liquid directly over its graphic, and does so equally over all of its 2×2 tile space."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Sends water to outlet pumps</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Inlet Pump]<span><span title=\"Inlet Pump\">Inlet Pump</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Outlet Pump]<span><span title=\"Outlet Pump\">Outlet Pump</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

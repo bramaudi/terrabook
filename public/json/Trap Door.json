@@ -1,0 +1,34 @@
+{
+  "type": "furnitures",
+  "title": "Trap Door",
+  "summaries": [
+    "<b>Trap Doors</b> are <linked>furniture</linked> items. They are essentially full-block horizontal <linked>Doors</linked>. Trap Doors can be opened using <span class=\"key\"><linked>⚷ Open / Activate</linked></span>, causing them to expand into a 2x2 block. They are valid for use in <linked>housing</linked>.",
+    "Trap Doors open upward if the character opening it is below the Trap Door's level, and downward if above. The reference point for character altitude seems to be the character's center, not the feet: the character's feet can be about one half tile below the bottom of a closed Trap Door (standing on a stair), and the door will still open downward.",
+    "Trap Doors can be blocked by furniture and will then always open on the free side, regardless of character position. If a Trap Door is blocked on both sides, it will not open. An open Trap Door is too narrow to be used at the end of a ramp or stairway so that a character can climb through it without jumping, as it needs to be surrounded by solid blocks, not platforms or other Trap Doors.",
+    "Like normal doors, Trap Doors can be <linked>wired</linked> to be opened and closed remotely.",
+    "Unlike normal <linked>doors</linked>, Trap Doors cannot be opened by <linked>Zombies</linked> during a <linked>Blood Moon</linked> event and can be useful for early players in defending their base."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Trap Door]</linked><span><span><linked>Trap Door</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

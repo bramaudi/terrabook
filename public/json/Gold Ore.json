@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Gold Ore",
   "summaries": [
-    "<b>Gold Ore</b> is an early game <linked>ore</linked> which spawns in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is to make <linked>Gold Bars</linked>, which can be used to make the Gold tier of equipment, as well as <linked>crowns</linked>, <linked>Thrones</linked>, and several other items. The equivalent of Gold Ore is <linked>Platinum Ore</linked>, which will sometimes replace Gold in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Gold Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>."
+    "<b>Gold Ore</b> is an early game <linked>ore</linked> which spawns in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is to make <linked>Gold Bars</linked>, which can be used to make the Gold tier of equipment, as well as <linked>crowns</linked>, <linked>Thrones</linked>, and several other items. The equivalent of Gold Ore is <linked>Platinum Ore</linked>, which will sometimes replace Gold in a world. <span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span> Gold Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -12,7 +12,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
@@ -36,7 +36,7 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -75,7 +75,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
@@ -91,7 +91,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {

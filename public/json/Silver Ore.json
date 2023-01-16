@@ -2,17 +2,17 @@
   "type": "blocks",
   "title": "Silver Ore",
   "summaries": [
-    "<b>Silver Ore</b> is an early game <linked>ore</linked> which spawns in the <linked>Underground</linked> and <linked>Cavern</linked> layers as well as on <linked>Floating Islands</linked>. Its primary use is to make <linked>Silver Bars</linked>, which can be used to make the Silver tier of equipment. The equivalent of Silver Ore is <linked>Tungsten Ore</linked>, which will sometimes replace Silver in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Silver Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>."
+    "<b>Silver Ore</b> is an early game <linked>ore</linked> which spawns in the <linked>Underground</linked> and <linked>Cavern</linked> layers as well as on <linked>Floating Islands</linked>. Its primary use is to make <linked>Silver Bars</linked>, which can be used to make the Silver tier of equipment. The equivalent of Silver Ore is <linked>Tungsten Ore</linked>, which will sometimes replace Silver in a world. <span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span> Silver Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
@@ -36,7 +36,7 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -75,7 +75,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Brick]</linked><span><span><linked>Silver Brick</linked></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Brick]</linked><span><span><linked>Silver Brick</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Silver Ore]</linked><span><span><linked>Silver Ore</linked></span></span></span></li></ul>"

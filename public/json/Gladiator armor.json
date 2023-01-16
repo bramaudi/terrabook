@@ -2,14 +2,15 @@
   "type": "armors",
   "title": "Gladiator armor",
   "summaries": [
-    "<b>Gladiator armor</b> is an <linked>armor</linked> set consisting of the <b>Gladiator Helmet</b>, <b>Gladiator Breastplate</b>, and <b>Gladiator Leggings</b>. Each piece is dropped by <linked>Hoplites</linked>, which spawn in <linked>Marble Caves</linked>, with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance to drop per piece.",
-    "It grants a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 16 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 7 defense. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, wearing the full set provides immunity to <linked>knockback</linked>."
+    "<b>Gladiator armor</b> is an <linked>armor</linked> set consisting of the <b>Gladiator Helmet</b>, the <b>Gladiator Breastplate</b>, and the <b>Gladiator Leggings</b>. <linked>Hoplites</linked> have a <span class=\"chance\"><s>14.29*</s>1/7 (14.29%)</span> chance to drop a single random piece of the set.",
+    "A full set of Gladiator armor provides the following benefits:",
+    "<ul><li>+16 defense</li><li>Immunity to <linked>knockback</linked></li></ul>"
   ],
   "statistics": {
-    "Defense": "16 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 7 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"note-text\"> (set)</span>",
+    "Defense": "16<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Grants immunity to knockback</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"84 Silver Coins\" data-sort-value=\"8400\"><span class=\"sc\">84</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"96 Silver Coins\" data-sort-value=\"9600\"><span class=\"sc\">96</span></span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"84 Silver Coins\" data-sort-value=\"8400\"><span class=\"sc\">84</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {}
 }

@@ -5,7 +5,7 @@
     "<b>Meteorite</b> is a type of <linked>ore</linked> mined from <linked>Meteorite crash sites</linked>. Crash sites are not generated upon world creation, but instead generate throughout the game based on certain <linked>conditions</linked>. Mining Meteorite requires a <linked>Tungsten Pickaxe</linked> or better. <linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> Additionally, <linked>Meteor Heads</linked> also have a 2% chance to drop a single piece of Meteorite, though only in <linked>pre-Hardmode</linked>.",
     "Crash sites can occur anywhere, accompanied by a message signifying the event. Meteorite is required to craft <linked>Meteorite Bars</linked>.",
     "Contact with Meteorite blocks causes the player to be inflicted with the <linked>Burning</linked> <linked>debuff</linked>, unless the player has the <linked>Obsidian Skull</linked> accessory (or its upgrades) equipped, or is using an <linked>Obsidian Skin Potion</linked>. Meteorite can be mined without these defenses, and the ore is safe to collect once mined.",
-    "Any area with at least <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <span class=\"eico i3 i6\" title=\"Old-gen console and Legacy tModLoader versions\"><b></b><i></i></span> 50 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 23 Meteorite blocks in close proximity (e.g. a natural crash site) becomes a <linked>Meteorite biome</linked>, which will spawn <linked>Meteor Heads</linked>."
+    "Any area with at least <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 50 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 23 Meteorite blocks in close proximity (e.g. a natural crash site) becomes a <linked>Meteorite biome</linked>, which will spawn <linked>Meteor Heads</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -15,7 +15,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -32,7 +32,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span></li></ul>"
@@ -41,7 +41,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span></li></ul>"

@@ -4,7 +4,7 @@
   "summaries": [
     "<b>Obsidian</b> is a unique <linked>pre-Hardmode ore</linked> which is created when <linked>Water</linked> and <linked>Lava</linked> collide, at which point it forms placed <linked>blocks</linked> of Obsidian which can be mined and collected. Though Obsidian is considered an ore and is gathered similarly, it has no <linked>bar</linked> form of its own (although it is used to craft <linked>Hellstone Bars</linked>).",
     "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, mining Obsidian requires a <linked>pickaxe</linked> with at least 55% pickaxe power (the <linked>Gold Pickaxe</linked> and its counterpart, the <linked>Platinum Pickaxe</linked>, are the weakest pickaxes able to do so).",
-    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, mining Obsidian requires a <linked>pickaxe</linked> with at least 65% pickaxe power (the <linked>Nightmare Pickaxe</linked> and its counterpart, the <linked>Deathbringer Pickaxe</linked>, are the weakest pickaxes able to do so).",
+    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, mining Obsidian requires a <linked>pickaxe</linked> with at least 65% pickaxe power (the <linked>Nightmare Pickaxe</linked> and its counterpart, the <linked>Deathbringer Pickaxe</linked>, are the weakest pickaxes able to do so).",
     "If the player lacks a viable pickaxe, <linked>Explosives</linked> can also be used to obtain Obsidian."
   ],
   "statistics": {
@@ -14,7 +14,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -29,11 +29,11 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demon Torch]</linked><span><span><linked>Demon Torch</linked></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demon Torch]</linked><span><span><linked>Demon Torch</linked></span></span></span> <span class=\"note-text\">(3)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
@@ -65,17 +65,8 @@
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 4,
+          "rowspan": 3,
           "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span> <span class=\"note-text\">(2)</span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
         }
       },
       {
@@ -112,7 +103,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Longcoat]</linked><span><span><linked>Obsidian Longcoat</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Longcoat]</linked><span><span><linked>Obsidian Longcoat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
@@ -126,7 +117,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Outlaw Hat]</linked><span><span><linked>Obsidian Outlaw Hat</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Outlaw Hat]</linked><span><span><linked>Obsidian Outlaw Hat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -140,7 +131,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Pants]</linked><span><span><linked>Obsidian Pants</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Pants]</linked><span><span><linked>Obsidian Pants</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -154,37 +145,6 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Longcoat]</linked><span><span><linked>Obsidian Longcoat</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 3,
-          "value": "<span class=\"i\"><linked>[img:Loom]</linked><span><span><linked>Loom</linked></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Outlaw Hat]</linked><span><span><linked>Obsidian Outlaw Hat</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Pants]</linked><span><span><linked>Obsidian Pants</linked></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
           "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Skin Potion]</linked><span><span><linked>Obsidian Skin Potion</linked></span></span></span>"
         },
         "ingredients": {
@@ -192,7 +152,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -224,7 +184,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Sink]</linked><span><span><linked>Obsidian Sink</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Sink]</linked><span><span><linked>Obsidian Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"

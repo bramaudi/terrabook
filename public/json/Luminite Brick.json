@@ -11,36 +11,27 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 2,
+          "rowspan": 1,
           "value": "<span class=\"i\"><linked>[img:Furnace]</linked><span><span><linked>Furnace</linked></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick Wall]</linked><span><span><linked>Luminite Brick Wall</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick Wall]</linked><span><span><linked>Luminite Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -48,14 +39,14 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
           "value": "<span class=\"i multi-line\"><linked>[img:Astra Brick]</linked><span><span><linked>Astra Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Third Quarter</linked> <linked>[img:Moon_phase_3]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 8,
@@ -68,7 +59,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cosmic Ember Brick]</linked><span><span><linked>Cosmic Ember Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Waxing Gibbous</linked> <linked>[img:Moon_phase_8]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -77,7 +68,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cryocore Brick]</linked><span><span><linked>Cryocore Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>First Quarter</linked> <linked>[img:Moon_phase_7]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -86,7 +77,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Dark Celestial Brick]</linked><span><span><linked>Dark Celestial Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Waning Crescent</linked> <linked>[img:Moon_phase_4]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -95,7 +86,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Heavenforge Brick]</linked><span><span><linked>Heavenforge Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Full Moon</linked> <linked>[img:Moon_phase_full]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -104,7 +95,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lunar Rust Brick]</linked><span><span><linked>Lunar Rust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Waning Gibbous</linked> <linked>[img:Moon_phase_2]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -113,7 +104,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mercury Brick]</linked><span><span><linked>Mercury Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>New Moon</linked> <linked>[img:Moon_phase_new]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -122,16 +113,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Star Royale Brick]</linked><span><span><linked>Star Royale Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(During a <linked>Waxing Crescent</linked> <linked>[img:Moon_phase_6]</linked>)</div>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick Wall]</linked><span><span><linked>Luminite Brick Wall</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick Wall]</linked><span><span><linked>Luminite Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -2,11 +2,11 @@
   "type": "ammunitions",
   "title": "Unholy Arrow",
   "summaries": [
-    "<b>Unholy Arrows</b> are a type of <linked>arrow</linked>. The Unholy Arrow can pierce up to 4 targets, hitting a total of 5 targets. Damage of the Unholy Arrow decreases by 5% for each target it pierces. Against multi-section monsters, a single Unholy Arrow can damage multiple sections. <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> A fired Unholy Arrow has a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance of being recoverable after hitting an enemy or a wall.",
-    "In addition to being crafted, Unholy Arrows are dropped by the <linked>Eye of Cthulhu</linked> in worlds that generated with <linked>Corruption</linked>. Furthermore, they can be purchased from the <linked>Arms Dealer</linked> at <linked>night</linked> for <span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span> once the <linked>Eater of Worlds</linked> or <linked>Brain of Cthulhu</linked> has been defeated. After activating <linked>Hardmode</linked>, they become available during the day as well."
+    "The <b>Unholy Arrow</b> is a type of <linked>arrow</linked>. The Unholy Arrow can pierce up to 4 targets, hitting a total of 5 targets. The damage of the Unholy Arrow decreases by 5% for each target it pierces. Against enemies with multiple segments, like the <linked>Eater of Worlds</linked>, a single Unholy Arrow can damage multiple segments. <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> A fired Unholy Arrow has a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance of being recoverable after hitting an <linked>enemy</linked> or <linked>block</linked>.",
+    "In addition to being crafted, Unholy Arrows are dropped by the <linked>Eye of Cthulhu</linked> in worlds that generated with <linked>Corruption</linked>. Furthermore, they can be purchased from the <linked>Arms Dealer</linked> at <linked>night</linked> for <span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span> once the Eater of Worlds or <linked>Brain of Cthulhu</linked> has been defeated. After activating <linked>Hardmode</linked>, they become available during the day as well."
   ],
   "statistics": {
-    "Damage": "12 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Damage": "12 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
     "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
     "Velocity": "3.4",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
@@ -15,7 +15,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,

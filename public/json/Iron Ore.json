@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Iron Ore",
   "summaries": [
-    "<b>Iron Ore</b> is an early-game <linked>ore</linked> that generates upon world creation on the surface, as well as in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is in crafting <linked>Iron Bars</linked>, which can then be used to craft the Iron tier of <linked>tools</linked>, <linked>weapons</linked>, and <linked>armor</linked>, as well as <linked>Buckets</linked>, <linked>Chains</linked>, and several other items. The equivalent of Iron Ore is <linked>Lead Ore</linked>, which will sometimes replace Iron in a world. <span class=\"eico i1 i2 i4 i5 i6\" title=\"Desktop, Console, Mobile, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Iron Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>. Furthermore, it can be obtained from all types of <linked>crates</linked>.",
+    "<b>Iron Ore</b> is an early-game <linked>ore</linked> that generates upon world creation on the surface, as well as in the <linked>Underground</linked> and <linked>Cavern</linked> layers. Its primary use is in crafting <linked>Iron Bars</linked>, which can then be used to craft the Iron tier of <linked>tools</linked>, <linked>weapons</linked>, and <linked>armor</linked>, as well as <linked>Buckets</linked>, <linked>Chains</linked>, and several other items. The equivalent of Iron Ore is <linked>Lead Ore</linked>, which will sometimes replace Iron in a world. <span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span> Iron Ore has a small chance to appear as a <linked>bonus drop</linked> from <linked>slimes</linked>. Furthermore, it can be obtained from all types of <linked>crates</linked>.",
     "As Iron Bars are needed to create an <linked>Iron Anvil</linked>, Iron Ore must usually be obtained before any weapons or armor can be created out of metal <linked>bars</linked>. While this can be circumvented by purchasing an Iron Anvil from the <linked>Merchant</linked>, that is generally inefficient, as it is not difficult to find 15 Iron Ore early on in the game."
   ],
   "statistics": {
@@ -13,7 +13,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
@@ -37,7 +37,7 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -83,7 +83,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {

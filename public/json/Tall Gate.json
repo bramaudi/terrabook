@@ -1,0 +1,32 @@
+{
+  "type": "furnitures",
+  "title": "Tall Gate",
+  "summaries": [
+    "<b>Tall Gates</b> are <linked>furniture</linked> items. They are essentially tall, sliding doors that can be opened and closed by using <span class=\"key\"><linked>⚷ Open / Activate</linked></span>.",
+    "Tall Gates differ from traditional <linked>Doors</linked> in the following ways:",
+    "<ul><li>The Tall Gate's opening is 5 tiles in height, which is large enough to allow players on <linked>Mounts</linked> to pass through without dismounting (unlike Doors, which are only 3 tiles tall).</li><li>Unlike Doors, Tall Gates do not occupy additional space when opened; hence <linked>blocks</linked> or furniture placed on either side will not prevent them from opening.</li><li>Tall Gates come in only one variety (unlike Doors, which have a different version available for each furniture theme).</li></ul>"
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 5 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Tall Gate]</linked><span><span><linked>Tall Gate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

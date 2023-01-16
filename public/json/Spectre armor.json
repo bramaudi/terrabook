@@ -3,10 +3,10 @@
   "title": "Spectre armor",
   "summaries": [
     "<b>Spectre armor</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>armor</linked> set that offers <linked>magic weapon</linked> boosts. The set consists of the <b>Spectre Robe</b> and <b>Spectre Pants</b>, with either the <b>Spectre Hood</b> or <b>Spectre Mask <span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></b> headpiece. Wearing a full set causes small white orbs to manifest whenever the player hits an enemy with a magic weapon. The effect of these orbs depends on the headpiece option chosen: The Spectre Mask causes the orbs to act as homing projectiles, while the Spectre Hood causes the orbs to travel to a player, healing them.",
-    "<span class=\"eico i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> Crafting a full set with one headpiece requires 54 <linked>Spectre Bars</linked> (27 <linked>Ectoplasm</linked> and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 270 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 324 <linked>Chlorophyte Ore</linked>). The full set with both headpieces requires 66 Spectre Bars (33 Ectoplasm and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 330 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 396 Chlorophyte Ore).",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Crafting a full set with one headpiece requires 54 <linked>Spectre Bars</linked> (27 <linked>Ectoplasm</linked> and 270 <linked>Chlorophyte Ore</linked>). The full set with both headpieces requires 66 Spectre Bars (33 Ectoplasm and 330 Chlorophyte Ore).",
     "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Crafting a full set with one headpiece requires 54 Chlorophyte Bars (324 Chlorophyte Ore) and 54 Ectoplasm. The full set with both headpieces requires 66 Chlorophyte Bars (396 Chlorophyte Ore) and 66 Ectoplasm.",
     "<b>Spectre Mask set bonus:</b> Homing orb projectiles spawn when dealing magic damage to an enemy, which attack nearby enemies, or the same enemy. The orbs deal <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 100% / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 50% of the damage dealt by the magic weapon fired, before it is doubled by a <linked>critical hit</linked> (if a critical hit deals 200 damage, the orb will have <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 100 / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 50 base damage). The orb projectile itself can deal critical hits.",
-    "<b>Spectre Hood set bonus:</b> <linked>Lifesteal</linked> orbs spawn when dealing magic damage to an enemy, which fly to the player and restore health by <span class=\"eico i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 20% / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 8% of damage done (e.g. dealing 50 magic damage heals <span class=\"eico i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> 10 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 4 health). In <linked>multiplayer</linked>, the player with the lowest health on the <linked>team</linked> is healed instead. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Equipping full set with the Spectre Hood / <span class=\"eico i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> the Spectre Hood incurs a 40% magic damage decrease."
+    "<b>Spectre Hood set bonus:</b> <linked>Lifesteal</linked> orbs spawn when dealing magic damage to an enemy, which fly to the player and restore health by <span class=\"eico i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span> 20% / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 8% of damage done (e.g. dealing 50 magic damage heals <span class=\"eico i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span> 10 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i></span> 4 health). In <linked>multiplayer</linked>, the player with the lowest health on the <linked>team</linked> is healed instead. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Equipping full set with the Spectre Hood / <span class=\"eico i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span> the Spectre Hood incurs a 40% magic damage decrease."
   ],
   "statistics": {
     "Defense": "<span class=\"i\">[img:Spectre Hood]</span> : 30 / <span class=\"i\">[img:Spectre Mask]</span> : 42<span class=\"note-text\"> (set)</span>",
@@ -15,14 +15,14 @@
     "Sell": "<span class=\"coin\" title=\"18 Gold Coins\" data-sort-value=\"180000\"><span class=\"gc\">18</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
           "value": "<span class=\"i multi-line\">[img:Spectre Hood]<span><span title=\"Spectre Hood\">Spectre Hood</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         },
         "station": {
           "rowspan": 8,
@@ -44,7 +44,7 @@
           "value": "<span class=\"i multi-line\">[img:Spectre Mask]<span><span title=\"Spectre Mask\">Spectre Mask</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       },
       {
@@ -62,7 +62,7 @@
           "value": "<span class=\"i multi-line\">[img:Spectre Pants]<span><span title=\"Spectre Pants\">Spectre Pants</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
         }
       },
       {
@@ -80,7 +80,7 @@
           "value": "<span class=\"i multi-line\">[img:Spectre Robe]<span><span title=\"Spectre Robe\">Spectre Robe</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(24)</span></li></ul>"
         }
       },
       {

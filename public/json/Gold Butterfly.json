@@ -2,10 +2,10 @@
   "type": "ammunitions",
   "title": "Gold Butterfly",
   "summaries": [
-    "The <b>Gold Butterfly</b> is a harmless <linked>Critter</linked>. It is a rare, golden recolor of an ordinary <linked>Butterfly</linked>. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.25*</s>1/400 (0.25%)</span> / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span> chance of spawning in place of a regular Butterfly.",
+    "The <b>Gold Butterfly</b> is a harmless <linked>Critter</linked>. It is a rare, golden recolor of an ordinary <linked>Butterfly</linked>. It has a <span class=\"chance\"><s>0.25*</s>1/400 (0.25%)</span> chance of spawning in place of a regular Butterfly.",
     "As with all other gold critters, it can be caught with a <linked>Bug Net</linked> and sold for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>.",
     "It can be used as <linked>bait</linked> and along with the other golden bait critters has a bait power of 50%, the highest usable value among bait (along with the <linked>Master Bait</linked>), excluding the <linked>Truffle Worm</linked>.",
-    "It is one of the few entities that can be detected by the <span class=\"eil\"><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> or its upgrades."
+    "It is one of the few entities that can be detected by the <span class=\"eil\"><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> or its upgrades."
   ],
   "statistics": {
     "Bait Power": "50%",
@@ -16,14 +16,14 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">3 required</abbr>"
   },
   "crafts": {
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Gold Butterfly Jar]</linked><span><span><linked>Gold Butterfly Jar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Butterfly Jar]</linked><span><span><linked>Gold Butterfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -36,7 +36,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Golden Delight]</linked><span><span><linked>Golden Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Butterfly]</linked><span><span><linked>Gold Butterfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

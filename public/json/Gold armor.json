@@ -3,9 +3,9 @@
   "title": "Gold armor",
   "summaries": [
     "<b>Gold armor</b> is the fourth <linked>armor</linked> set in the game.",
-    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 90 <linked>Gold Bars</linked> to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 300 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 360 <linked>Gold Ores</linked>.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 75 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 90 <linked>Gold Bars</linked> to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 300 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 360 <linked>Gold Ores</linked>.",
     "It consists of a <b>Gold Helmet</b>, <b>Gold Chainmail</b> and <b>Gold Greaves</b>.",
-    "The <b>Ancient Gold Helmet</b> is a rare drop from <linked>Skeletons</linked> in the <linked>Underground</linked>, and is functionally identical to the Gold Helmet. The two helmets are interchangeable, with no bonus loss.",
+    "The <b>Ancient Gold Helmet</b> is a rare drop from <linked>Skeletons</linked> in the <linked>Underground</linked> or can also be obtained from dropping a <b>Gold Helmet</b> into <linked>Shimmer</linked>, and is functionally identical to the Gold Helmet. The two helmets are interchangeable, with no bonus loss.",
     "A full set grants a basic 13 <linked>defense</linked> plus a set bonus of 3 defense, which equals a total of 16 defense."
   ],
   "statistics": {
@@ -15,7 +15,7 @@
     "Sell": "<span class=\"coin\" title=\"1 Gold 20 Silver Coins\" data-sort-value=\"12000\"><span class=\"gc\">1</span><span class=\"sc\">20</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -32,7 +32,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Chainmail]<span><span title=\"Gold Chainmail\">Gold Chainmail</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Chainmail]<span><span title=\"Gold Chainmail\">Gold Chainmail</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(35)</span></li></ul>"
@@ -50,7 +50,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Greaves]<span><span title=\"Gold Greaves\">Gold Greaves</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Greaves]<span><span title=\"Gold Greaves\">Gold Greaves</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
@@ -68,7 +68,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Helmet]<span><span title=\"Gold Helmet\">Gold Helmet</span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Gold Helmet]<span><span title=\"Gold Helmet\">Gold Helmet</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
@@ -88,7 +88,7 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,

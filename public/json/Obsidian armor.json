@@ -3,23 +3,22 @@
   "title": "Obsidian armor",
   "summaries": [
     "<b>Obsidian armor</b> is an <linked>armor</linked> set that consists of the <b>Obsidian Outlaw Hat</b>, <b>Obsidian Longcoat</b>, and the <b>Obsidian Pants</b>.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Wearing the full set provides",
+    "A full set of Obsidian armor provides the following benefits:",
     "<ul><li>+31% <linked>summon damage</linked></li><li>+1 minion slot</li><li>+15% <linked>whip</linked> speed</li><li>+30% whip range</li></ul>",
-    "Obsidian armor does not grant any stats except for defense on the <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>.",
-    "Crafting a full set requires a total of 60 <linked>Obsidian</linked>, 30 <linked>Silk</linked>, and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 20 <linked>Shadow Scales</linked> or <linked>Tissue Samples</linked>."
+    "Crafting a full set requires a total of 60 <linked>Obsidian</linked>, 30 <linked>Silk</linked>, and 20 <linked>Shadow Scales</linked> or <linked>Tissue Samples</linked>."
   ],
   "statistics": {
-    "Defense": "15 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 13 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> <span class=\"note-text\"> (set)</span>",
+    "Defense": "15<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Increases whip range by 30% and speed by 15%,<br>Increases summon damage by 15%</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
     "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Obsidian Longcoat]<span><span title=\"Obsidian Longcoat\">Obsidian Longcoat</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Obsidian Longcoat]<span><span title=\"Obsidian Longcoat\">Obsidian Longcoat</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
@@ -37,7 +36,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Obsidian Outlaw Hat]<span><span title=\"Obsidian Outlaw Hat\">Obsidian Outlaw Hat</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Obsidian Outlaw Hat]<span><span title=\"Obsidian Outlaw Hat\">Obsidian Outlaw Hat</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -51,7 +50,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Obsidian Pants]<span><span title=\"Obsidian Pants\">Obsidian Pants</span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Obsidian Pants]<span><span title=\"Obsidian Pants\">Obsidian Pants</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
@@ -60,37 +59,6 @@
       {
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Obsidian Longcoat]<span><span title=\"Obsidian Longcoat\">Obsidian Longcoat</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 3,
-          "value": "<span class=\"i\"><linked>[img:Loom]</linked><span><span><linked>Loom</linked></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\">[img:Obsidian Outlaw Hat]<span><span title=\"Obsidian Outlaw Hat\">Obsidian Outlaw Hat</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Obsidian Pants]<span><span title=\"Obsidian Pants\">Obsidian Pants</span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
         }
       }
     ]

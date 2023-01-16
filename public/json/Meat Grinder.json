@@ -1,0 +1,38 @@
+{
+  "type": "furnitures",
+  "title": "Meat Grinder",
+  "summaries": [
+    "The <b>Meat Grinder</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> used to craft <linked>Flesh Blocks</linked> and <linked>Lesion Blocks</linked>. It has a <span class=\"chance\"><s>0.5*</s>1/200 (0.5%)</span> chance of being dropped by several <linked>Crimson</linked> and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Corruption</linked> enemies.",
+    "Flesh and Lesion Blocks can be used as building materials, and crafted into flesh-/lesion-themed <linked>walls</linked> and <linked>furniture</linked> via the <linked>Decay Chamber</linked>/<linked>Flesh Cloning Vat</linked>. As a result, the Meat Grinder is of little use without them."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used to craft objects</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimstone Block]</linked><span><span><linked>Crimstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

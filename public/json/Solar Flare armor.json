@@ -2,12 +2,12 @@
   "type": "armors",
   "title": "Solar Flare armor",
   "summaries": [
-    "<b>Solar Flare armor</b> is a post-<linked>Moon Lord</linked> set of <linked>armor</linked> that provides <linked>melee weapon</linked> boosts. It is currently the final melee set available on the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>. This armor set also provides the most base <linked>defense</linked>. Crafting it requires a total of 36 <linked>Luminite Bars</linked> (144 <linked>Luminite</linked>) and 45 <linked>Solar Fragments</linked>.",
+    "<b>Solar Flare armor</b> is a post-<linked>Moon Lord</linked> set of <linked>armor</linked> that provides <linked>melee weapon</linked> boosts. It is currently the final melee set available on the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>. This armor set also provides the most base <linked>defense</linked>. Crafting it requires a total of 36 <linked>Luminite Bars</linked> (144 <linked>Luminite</linked>) and 45 <linked>Solar Fragments</linked>.",
     "A full set of the Solar Flare armor will provide the following benefits:",
-    "<ul><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +26% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +17%  melee <linked>critical hit</linked> chance</li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> +29% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> +22% <linked>melee damage</linked></li><li>+15% <linked>melee speed</linked></li><li>+15% <linked>movement speed</linked></li><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Increased life regeneration (+3 HP/sec)</li><li>+900 <linked>aggro</linked></li></ul>",
-    "Equipping the full set additionally provides a special set bonus that builds the longer the player avoids damage, up to 3 \"charges\" (similar to <linked>Beetle armor</linked>). Each takes <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 3 / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 5 seconds to build. The charges provide a fixed <linked>damage reduction</linked> of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 20% / <span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> 30% regardless of the number of charges. The number of charges built is indicated by a shield that appears after the first charge, with two and three spikes appearing on the shield on the second and third charges, respectively.",
+    "<ul><li>+26% melee <linked>critical hit</linked> chance</li><li>+29% <linked>melee damage</linked></li><li>+15% <linked>melee speed</linked></li><li>+15% <linked>movement speed</linked></li><li>Increased life regeneration (+3 HP/sec)</li><li>+900 <linked>aggro</linked></li></ul>",
+    "Equipping the full set additionally provides a special set bonus that builds the longer the player avoids damage, up to 3 \"charges\" (similar to <linked>Beetle armor</linked>). Each takes 3 seconds to build. The charges provide a fixed <linked>damage reduction</linked> of 20% regardless of the number of charges. The number of charges built is indicated by a shield that appears after the first charge, with two and three spikes appearing on the shield on the second and third charges, respectively.",
     "Taking damage causes one charge to deplete, and discharges fire explosions around the player that can damage enemies in the vicinity. A charge can also be discharged manually by using the shield's special \"dash\" attack, activated by double-tapping <span class=\"key\"><linked>◀ Left</linked></span> or <span class=\"key\"><linked>▶ Right</linked></span>. Dashing only consumes a charge if it strikes an enemy, and upon doing so causes a similar explosion. Regardless of depleted charges, a player can only dash once per second.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The set bonus also grants 12% base damage reduction, which stacks multiplicatively with the damage reduction from the shield.",
+    "The set bonus also grants 12% base damage reduction, which stacks multiplicatively with the damage reduction from the shield.",
     "Each piece equipped (even if hidden by <linked>vanity</linked> items) causes the player to emit light, with a higher light level for each additional piece equipped. Additionally, equipping the full set displays both an after-image motion effect and a pulsating effect, similar to <linked>Hallowed armor</linked>."
   ],
   "statistics": {
@@ -17,36 +17,36 @@
     "Sell": "<span class=\"coin\" title=\"31 Gold 50 Silver Coins\" data-sort-value=\"315000\"><span class=\"gc\">31</span><span class=\"sc\">50</span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Solar Flare Breastplate]<span><span title=\"Solar Flare Breastplate\">Solar Flare Breastplate</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Solar Flare Breastplate]<span><span title=\"Solar Flare Breastplate\">Solar Flare Breastplate</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Solar Flare Helmet]<span><span title=\"Solar Flare Helmet\">Solar Flare Helmet</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Solar Flare Helmet]<span><span title=\"Solar Flare Helmet\">Solar Flare Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Solar Flare Leggings]<span><span title=\"Solar Flare Leggings\">Solar Flare Leggings</span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Solar Flare Leggings]<span><span title=\"Solar Flare Leggings\">Solar Flare Leggings</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
         }
       }
     ]

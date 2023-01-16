@@ -1,0 +1,43 @@
+{
+  "type": "furnitures",
+  "title": "Keg",
+  "summaries": [
+    "The <b>Keg</b> is a minor <linked>crafting station</linked> used to brew <linked>Ale</linked>. It may be placed on top of solid blocks, <linked>Flat surface items</linked>, and <linked>platforms</linked>. Though it's normally crafted, it can also sometimes be found in <linked>underground cabins</linked>."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used for brewing ale</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver 20 Copper Coins\" data-sort-value=\"120\"><span class=\"sc\">1</span><span class=\"cc\">20</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Keg]</linked><span><span><linked>Keg</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Sawmill]</linked><span><span><linked>Sawmill</linked></span></span></span>"
+        }
+      }
+    ],
+    "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Ale]</linked><span><span><linked>Ale</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mug]</linked><span><span><linked>Mug</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

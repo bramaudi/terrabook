@@ -3,9 +3,8 @@
   "title": "The Grand Design",
   "toolpower": [],
   "summaries": [
-    "<b>The Grand Design</b> is a <linked>tool</linked> for working with wiring and <linked>mechanisms</linked>.  It combines and extends the abilities of its components:  It allows a controlled view of wiring (<linked>Mechanical Lens</linked>), and allows the player to place or remove any color of <linked>wire</linked> (<linked>Multicolor Wrench</linked>); unlike its components, it also shows and works with <linked>Actuators</linked>.  It also provides the <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <linked>Mechanical Ruler</linked> / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> <linked>Ruler</linked>'s ability to measure distances and relative positions.",
-    "On <linked>[img:Desktop version]</linked><linked> Desktop</linked>, <linked>[img:Console version]</linked><linked> Console</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile</linked>, creating the Grand Design costs <span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span> in total. Its components are all bought from a <linked>NPC</linked>, the <linked>Mechanic</linked>. Given the requirements of this two NPC spawning, it can only be created after <linked>Skeletron</linked> has been defeated.",
-    "On <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked>, <linked>3DS</linked><linked>[img:Nintendo 3DS version]</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked>, creating the Grand Design costs <span class=\"coin\" title=\"14 Gold 10 Silver Coins\" data-sort-value=\"141000\"><span class=\"gc\">14</span><span class=\"sc\">10</span></span> in total. Its components are all bought from two <linked>NPCs</linked>: Most from the <linked>Mechanic</linked>, but the <linked>Ruler</linked> comes from the <linked>Goblin Tinkerer</linked>. Given the requirements of these two NPCs spawning, it can only be created after both <linked>Skeletron</linked> and a <linked>Goblin Army</linked> have been defeated.",
+    "<b>The Grand Design</b> is a <linked>tool</linked> for working with wiring and <linked>mechanisms</linked>.  It combines and extends the abilities of its components:  It allows a controlled view of wiring (<linked>Mechanical Lens</linked>), and allows the player to place or remove any color of <linked>wire</linked> (<linked>Multicolor Wrench</linked>); unlike its components, it also shows and works with <linked>Actuators</linked>. It also provides the <linked>Mechanical Ruler</linked>'s ability to measure distances and relative positions.",
+    "Creating the Grand Design costs <span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span> in total. Its components are all bought from the <linked>Mechanic</linked>. Given the requirements of this NPC spawning, it can only be created after <linked>Skeletron</linked> has been defeated.",
     "The Grand Design can be used at any part of the screen, regardless of block placement range. When pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> with the tool, a small menu will pop up at the cursor's position with six different buttons in a radial pattern. The outside buttons can be used to select which wire colors (including Actuators) can be interacted with, and the middle button will toggle between placing or harvesting the designated wires. In addition, as long as The Grand Design is anywhere in the inventory, seven buttons will appear on the left-hand side of the screen, controlling whether to display the ruler or not and whether to highlight actuators and/or the four different colors of wires."
   ],
   "statistics": {
@@ -13,31 +12,22 @@
     "Velocity": "10",
     "Tooltip": "<i><span class=\"gameText\">Allows ultimate control over wires!<br>Right click while holding to edit wire settings</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span> <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Ruler]</linked><span><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Ruler]</linked><span><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
         },
         "station": {
-          "rowspan": 2,
-          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
-        }
-      },
-      {
-        "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ruler]</linked><span><span><linked>Ruler</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
         }
       }
     ]

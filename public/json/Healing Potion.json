@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Healing Potion",
   "summaries": [
-    "The <b>Healing Potion</b> is a healing item that restores 100 <linked>health</linked> when used.",
+    "The <b>Healing Potion</b> is a healing item that restores 100 <linked>health</linked> and inflicts <linked>Potion Sickness</linked> for 60 seconds when used. This duration can be reduced via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>.",
     "In addition to being crafted, Healing Potions can be found naturally in <linked>pots</linked> after <linked>Hardmode</linked> activation and pots in the <linked>Underworld</linked> before Hardmode. Several are also dropped by the <linked>Wall of Flesh</linked> and <linked>Skeletron</linked>. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They are also sold by the <linked>Merchant</linked> and the <linked>Skeleton Merchant</linked> in Hardmode.",
     "It is the second tier of healing <linked>potions</linked>, the first being the <linked>Lesser Healing Potion</linked>, the third being the <linked>Greater Healing Potion</linked> and the fourth being the <linked>Super Healing Potion</linked>."
   ],
@@ -15,7 +15,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -26,11 +26,11 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -41,7 +41,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

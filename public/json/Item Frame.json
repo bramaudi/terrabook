@@ -1,0 +1,31 @@
+{
+  "type": "furnitures",
+  "title": "Item Frame",
+  "summaries": [
+    "The <b>Item Frame</b> is a <linked>furniture</linked> item that can be placed on a 2×2 area of <linked>background wall</linked>, placed on or hung from <linked>blocks</linked>, or placed on top of <linked>platforms</linked>. Once an Item Frame is placed, pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> key on it while holding any item places and displays that item in the Item Frame. Hitting the Item Frame with a <linked>pickaxe</linked> or <linked>drill</linked>, or pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> again will retrieve the item."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Right click to place item on item frame</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Item Frame]</linked><span><span><linked>Item Frame</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Sawmill]</linked><span><span><linked>Sawmill</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

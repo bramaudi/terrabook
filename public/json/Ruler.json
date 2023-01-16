@@ -3,8 +3,8 @@
   "title": "Ruler",
   "summaries": [
     "The <b>Ruler</b> is an item purchased from the <linked>Goblin Tinkerer</linked>.",
-    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked>, it is an <linked>informational accessory</linked> which aids the precise placement of <linked>blocks</linked>, and can be purchased for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. On <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked>, it displays measurement lines for counting blocks while building, whereas on <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked>, it displays a grid framework similar to that of the <span class=\"eil\"><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span>.",
-    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Ruler is an <linked>autoswinging</linked> <linked>shortsword</linked> and can be purchased for <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>. On these versions, the measurement lines can always be toggled via the \"<span class=\"gameText\">Ruler On</span>\"/\"<span class=\"gameText\">Ruler Off</span>\" button in the upper left of the <linked>inventory</linked>.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Ruler is an <linked>autoswinging</linked> <linked>shortsword</linked> and can be purchased for <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>. On these versions, the \"<span class=\"gameText\">Ruler On</span>\"/\"<span class=\"gameText\">Ruler Off</span>\" button in the upper left of the <linked>inventory</linked> toggles the display of measurement lines for counting blocks while building.",
+    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, the Ruler is an <linked>informational accessory</linked> which aids the precise placement of <linked>blocks</linked>, and can be purchased for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. It displays a grid framework similar to that of the <span class=\"eil\"><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>.",
     "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Its best <linked>modifier</linked> is <b>Legendary</b>."
   ],
   "statistics": {
@@ -18,21 +18,5 @@
     "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
-  "crafts": {
-    "Used in": [
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ruler]</linked><span><span><linked>Ruler</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
-        }
-      }
-    ]
-  }
+  "crafts": {}
 }

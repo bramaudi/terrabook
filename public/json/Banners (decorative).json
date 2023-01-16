@@ -1,0 +1,59 @@
+{
+  "type": "furnitures",
+  "title": "Banners (decorative)",
+  "summaries": [
+    "<b>Banners</b> are <linked>decorative</linked> <linked>furniture</linked> items that can be placed on the underside of <linked>blocks</linked>. Many are found naturally-placed in various <linked>biomes</linked>. There are also four crafted Banners (red, green, blue, and yellow). Banners can be hung off of <linked>blocks</linked> and off of <linked>platforms</linked> which are in their bottom position (after being struck three times with a hammer).",
+    "Faction Flags are Banners found in <linked>Dungeons</linked>. In post-<linked>Plantera</linked> worlds, the Faction Flags found hanging in a particular Dungeon area correspond to the background <linked>wall</linked> type (brick, slab, or tile), both of which signify the types of enemies that will spawn there. See <linked>Dungeon</linked> for more info.",
+    "There are currently a total of 23 decorative Banners: 4 crafted, 6 Faction Flags, 3 <linked>Floating Island</linked>, 6 <linked>Underworld</linked>, 3 <linked>Pyramid</linked>, 1 dropped from the <linked>Dark Mage</linked> during the <linked>Old One's Army</linked> event."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 3 high)</span>",
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Blue Banner]<span><span title=\"Blue Banner\">Blue Banner</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\"><linked>[img:Loom]</linked><span><span><linked>Loom</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Green Banner]<span><span title=\"Green Banner\">Green Banner</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Red Banner]<span><span title=\"Red Banner\">Red Banner</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Yellow Banner]<span><span title=\"Yellow Banner\">Yellow Banner</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -2,8 +2,7 @@
   "type": "ammunitions",
   "title": "Endless Musket Pouch",
   "summaries": [
-    "The <b>Endless Musket Pouch</b> is a <linked>Hardmode</linked> item that acts as <linked>ammunition</linked>, and can be placed in the ammo slots of the player's <linked>inventory</linked>. While in the inventory, it acts as a single <linked>Musket Ball</linked> that can be fired from any appropriate <linked>gun</linked> infinitely. Guns with unique shot types will fire their special attacks as well, including those that specifically require Musket Balls for their specialized shot types to work, such as the <linked>Uzi</linked>.",
-    "Crafting the Endless Musket Pouch requires 4 full stacks of Musket Balls (999 each)."
+    "The <b>Endless Musket Pouch</b> is a <linked>Hardmode</linked> item that acts as <linked>ammunition</linked>, and can be placed in the ammo slots of the player's <linked>inventory</linked>. While in the inventory, it acts as a single <linked>Musket Ball</linked> that can be fired from any appropriate <linked>gun</linked> infinitely. Guns with unique shot types will fire their special attacks as well, including those that specifically require Musket Balls for their specialized shot types to work, such as the <linked>Uzi</linked>."
   ],
   "statistics": {
     "Damage": "7 <span class=\"small-bold\">(Ranged)</span>",
@@ -15,11 +14,11 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Endless Musket Pouch]</linked><span><span><linked>Endless Musket Pouch</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Endless Musket Pouch]</linked><span><span><linked>Endless Musket Pouch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(3996)</span></li></ul>"

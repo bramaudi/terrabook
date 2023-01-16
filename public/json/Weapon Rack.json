@@ -1,0 +1,33 @@
+{
+  "type": "furnitures",
+  "title": "Weapon Rack",
+  "summaries": [
+    "The <b>Weapon Rack</b> is a <linked>furniture</linked> item that can be placed on <linked>background walls</linked>. By pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button on it, a player can mount any <linked>weapon</linked>-type item for display, including damage-dealing <linked>tools</linked>. To display other items in addition to weapons, see the <span class=\"eil\"><span><linked>Item Frame</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, a smaller but more versatile display panel.",
+    "Displayed items are oriented the same way the rack was placed, and large item graphics may be resized to fit on it. A <linked>pickaxe</linked> or <linked>drill</linked> will remove the displayed item before freeing the Weapon Rack itself."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Right click to place item on weapon rack</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"50 Copper Coins\" data-sort-value=\"50\"><span class=\"cc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Weapon Rack]</linked><span><span><linked>Weapon Rack</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Sawmill]</linked><span><span><linked>Sawmill</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

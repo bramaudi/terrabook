@@ -2,23 +2,24 @@
   "type": "ammunitions",
   "title": "Flaming Arrow",
   "summaries": [
-    "<b>Flaming Arrows</b> are a type of <linked>arrow</linked>. They are an upgrade to the <linked>Wooden Arrow</linked>, dealing slightly more damage and having a chance to inflict the <linked>On Fire!</linked> <linked>debuff</linked> on <linked>enemies</linked>. They are fairly easy to craft, requiring only <linked>Torches</linked> and <linked>Wooden Arrows</linked>.",
-    "Flaming Arrows emit light when fired or dropped, making them useful for temporary lighting in a cave. However, they will not emit light if fired into <linked>water</linked>. <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> Flaming Arrows are recoverable after hitting a wall or enemy 1/3 of the time, but only 1/3 of those that do remain lit; the rest drop as Wooden Arrows. Wooden Arrows fired from the <linked>Molten Fury</linked> behave similarly and have a chance to be recovered as Flaming Arrows."
+    "The <b>Flaming Arrow</b> is a type of <linked>arrow</linked>. It is an upgrade to the <linked>Wooden Arrow</linked>, dealing slightly more damage and having a chance to inflict the <linked>On Fire!</linked> <linked>debuff</linked> on <linked>enemies</linked>. It emits light when fired or dropped, making it useful for temporary lighting in a cave.",
+    "If a Flaming Arrow gets in contact with <linked>water</linked>, <linked>honey</linked>, or <span class=\"eil\"><span><linked>shimmer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, it will no longer emit light or inflict the On Fire! debuff. Its sprite also becomes identical to the Wooden Arrow's sprite.",
+    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Flaming Arrows have a chance to be recoverable after hitting a surface or a target. If they remained lit, they have a <span class=\"chance\"><s>11.11*</s>1/9 (11.11%)</span> chance to drop as Flaming Arrows and a <span class=\"chance\"><s>22.22*</s>2/9 (22.22%)</span> chance to drop as Wooden Arrows. Otherwise, they have a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance to drop as Wooden Arrows."
   ],
   "statistics": {
-    "Damage": "7 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 6 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Damage": "7 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 6 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
     "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
     "Velocity": "3.5",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"3 Copper Coins\" data-sort-value=\"3\"><span class=\"cc\">3</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"3 Copper Coins\" data-sort-value=\"3\"><span class=\"cc\">3</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flaming Arrow]</linked><span><span><linked>Flaming Arrow</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flaming Arrow]</linked><span><span><linked>Flaming Arrow</linked></span></span></span> <span class=\"note-text\">(10)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"

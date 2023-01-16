@@ -2,33 +2,33 @@
   "type": "accessories",
   "title": "Restoration Potion",
   "summaries": [
-    "The <b>Restoration Potion</b> restores <linked>health</linked> (and <linked>mana</linked> on <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked>, <linked>3DS</linked><linked>[img:Nintendo 3DS version]</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader</linked>) when used. Despite its appearance, it is not created by upgrading <linked>Lesser Restoration Potions</linked>.",
+    "The <b>Restoration Potion</b> restores <linked>health</linked> (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> and <linked>mana</linked>) and inflicts <linked>Potion Sickness</linked> when used. Despite its appearance, it is not created by upgrading <linked>Lesser Restoration Potions</linked>.",
     "Consuming a Restoration Potion has the following effect:",
-    "<ul><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Restores 90 health. <linked>Potion Sickness</linked> only lasts for 45 seconds.</li><li><span class=\"eico i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> Restores 80 health and 80 mana. Potion Sickness only lasts for 50 seconds.</li><li><span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Restores 100 health and 100 mana. Potion Sickness lasts for the full 60 seconds.</li></ul>"
+    "<ul><li><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Restores 90 health and inflicts <linked>Potion Sickness</linked> for only 45 seconds (rather than the usual 60 of health-restoring potions).<ul><li>The duration of Potion Sickness can be further reduced to 33.75 seconds via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>.</li></ul></li><li><span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Restores 100 health and 100 mana. Potion Sickness lasts for the full 60 seconds.</li></ul>"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
-    "Heals Mana": "80 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
-    "Heals Health": "90 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 80 <span class=\"eico s i6\" title=\"Legacy tModLoader version\"><b></b><i></i></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Heals Mana": "100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Heals Health": "90 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Reduced potion cooldown</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"8 Silver Coins\" data-sort-value=\"800\"><span class=\"sc\">8</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / <span class=\"coin\" title=\"8 Silver Coins\" data-sort-value=\"800\"><span class=\"sc\">8</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         },
         "station": {
-          "rowspan": 3,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "rowspan": 2,
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -38,15 +38,6 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Healing Potion]</linked><span><span><linked>Healing Potion</linked></span></span></span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       }
     ]

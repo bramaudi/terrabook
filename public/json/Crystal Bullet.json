@@ -2,10 +2,10 @@
   "type": "ammunitions",
   "title": "Crystal Bullet",
   "summaries": [
-    "<b>Crystal Bullets</b> are a type of <linked>ammunition</linked> for <linked>guns</linked>, obtainable in <linked>Hardmode</linked>. They shatter on impact with an <linked>enemy</linked> or solid <linked>block</linked>, splitting into <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> two / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> three small shards that have limited range and deal 50% of the original bullet's damage."
+    "<b>Crystal Bullets</b> are a type of <linked>ammunition</linked> for <linked>guns</linked>, obtainable in <linked>Hardmode</linked>. They shatter on impact with an <linked>enemy</linked> or solid <linked>block</linked>, splitting into <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> two / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> three small shards that have limited range and deal 50% of the original bullet's damage."
   ],
   "statistics": {
-    "Damage": "9 <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Damage": "9 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
     "Knockback": "1 <span class=\"knockback\">(Extremely weak)</span>",
     "Base Velocity": "5",
     "Velocity Multiplier": "2×",
@@ -15,11 +15,11 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Legacy tModLoader version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crystal Bullet]</linked><span><span><linked>Crystal Bullet</linked></span></span></span> <span class=\"note-text\">(100)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crystal Bullet]</linked><span><span><linked>Crystal Bullet</linked></span></span></span> <span class=\"note-text\">(100)</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(100)</span></li><li><span class=\"i\"><linked>[img:Crystal Shard]</linked><span><span><linked>Crystal Shard</linked></span></span></span></li></ul>"

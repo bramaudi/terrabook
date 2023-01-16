@@ -2,20 +2,20 @@
   "type": "accessories",
   "title": "Panic Necklace",
   "summaries": [
-    "The <b>Panic Necklace</b> is an <linked>accessory</linked>. When equipped, it grants the player the <b>Panic!</b> <linked>buff</linked> for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 / <span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> 5 seconds when harmed by any source of damage besides fire blocks. The buff increases <linked>movement speed</linked> by 50%. The Panic Necklace can be found by smashing <linked>Crimson Hearts</linked> in <linked>the Crimson</linked> <linked>biome</linked>, but it can also be obtained by opening <span class=\"eil\"><span><linked>Crimson</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Hematic Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> which are obtained by <linked>fishing</linked> in the Crimson. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can furthermore be crafted."
+    "The <b>Panic Necklace</b> is an <linked>accessory</linked>. When equipped, it grants the player the <b>Panic!</b> <linked>buff</linked> for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 5 seconds when harmed by any source of damage besides fire blocks. The buff increases <linked>movement speed</linked> by 50%. The Panic Necklace can be found by smashing <linked>Crimson Hearts</linked> in <linked>the Crimson</linked> <linked>biome</linked>, but it can also be obtained by opening <span class=\"eil\"><span><linked>Crimson</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Hematic Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> which are obtained by <linked>fishing</linked> in the Crimson. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can furthermore be crafted."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases movement speed after taking damage</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> <span class=\"eico s i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> /<br> <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Panic Necklace]</linked><span><span><linked>Panic Necklace</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Panic Necklace]</linked><span><span><linked>Panic Necklace</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Band of Starpower]</linked><span><span><linked>Band of Starpower</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Life Crystal]</linked><span><span><linked>Life Crystal</linked></span></span></span></li></ul>"
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -43,7 +43,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Band of Starpower]</linked><span><span><linked>Band of Starpower</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Band of Starpower]</linked><span><span><linked>Band of Starpower</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Panic Necklace]</linked><span><span><linked>Panic Necklace</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Mana Crystal]</linked><span><span><linked>Mana Crystal</linked></span></span></span></li></ul>"

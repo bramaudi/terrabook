@@ -1,0 +1,20 @@
+{
+  "type": "furnitures",
+  "title": "Drum Set",
+  "summaries": [
+    "The <b>Drum Set</b> is a novelty <linked>furniture</linked> item used in conjunction with the <b>Drumstick</b> to produce drum sounds. The Drum Set and Drumstick can be purchased from the <linked>Merchant</linked> after one of the following <linked>bosses</linked> is defeated: <linked>Eater of Worlds</linked>, <linked>Brain of Cthulhu</linked>, <linked>Skeletron</linked>, or <linked>Wall of Flesh</linked>.",
+    "To play drum sounds, a player holding a Drumstick must be standing directly over the Drum Set and press <span class=\"key\"><linked>⚒ Use / Attack</linked></span>.",
+    "The particular drum sound played is determined by the distance from the character to the cursor.",
+    "From closest to farthest, by distance from the player (approximate percentage of the screen away from the character):",
+    "<ul><li>0-2.5%: Kick Drum</li><li>2.5-5%: Low Tom</li><li>5-7.5%: Mid Tom</li><li>7.5-11%: Hi Tom</li><li>11-13.3%: Snare Drum</li><li>13.3-16.6%: Floor Tom</li><li>16.6-19%: Hi-Hat (closed)</li><li>19-22.5%: Hi-Hat (open)</li><li>22.5-25%: Cymbal 1</li><li>25%+: Cymbal 2</li></ul>"
+  ],
+  "statistics": {
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Playable next to Drum Set<br>'The coffee is strong...and vulgar'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

@@ -2,8 +2,8 @@
   "type": "accessories",
   "title": "Rage Potion",
   "summaries": [
-    "The <b>Rage Potion</b> is a <linked>buff potion</linked> which grants the <b>Rage</b> <linked>buff</linked> when consumed. The buff increases a player's <linked>critical strike</linked> chance by 10%. This lasts for 4 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked> <linked>[img:Legacy tModLoader version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
-    "<span class=\"eico i3 i5 i6\" title=\"Old-gen console, 3DS and Legacy tModLoader versions\"><b></b><i></i></span> This potion can only be crafted in worlds with <linked>Crimson</linked> due to it requiring the <linked>Hemopiranha</linked>, although it is possible to make an artificial Crimson <linked>biome</linked> in a <linked>Corruption</linked> world by importing either Crimson <linked>blocks</linked>, <linked>Red Solution</linked>, or <linked>Crimson Seeds</linked>.",
+    "The <b>Rage Potion</b> is a <linked>buff potion</linked> which grants the <b>Rage</b> <linked>buff</linked> when consumed. The buff increases a player's <linked>critical strike</linked> chance by 10%. This lasts for 4 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> This potion can only be crafted in worlds with <linked>Crimson</linked> due to it requiring the <linked>Hemopiranha</linked>, although it is possible to make an artificial Crimson <linked>biome</linked> in a <linked>Corruption</linked> world by importing either Crimson <linked>blocks</linked>, <linked>Red Solution</linked>, or <linked>Crimson Seeds</linked>.",
     "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> As of version 1.4.0.1, it is possible to naturally acquire a Rage Potion in a Corruption world by purchasing <linked>Crimson Seeds</linked> from the <linked>Dryad</linked> in a <linked>Hardmode</linked> <linked>Graveyard</linked> biome, and using the Crimson Seeds to make an artificial Crimson biome to <linked>fish</linked> in."
   ],
   "statistics": {
@@ -15,7 +15,7 @@
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
@@ -26,7 +26,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       }
     ]

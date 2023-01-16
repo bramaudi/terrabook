@@ -1,0 +1,118 @@
+{
+  "type": "furnitures",
+  "title": "Pressure Plates",
+  "summaries": [
+    "<b>Pressure Plates</b> are activation <linked>mechanisms</linked> that trigger <linked>wired</linked> mechanisms when stepped on. A pressure plate's color determines which characters can trigger it.",
+    "Pressure plates can be purchased from a <linked>Mechanic</linked> or taken from a natural source since the Red, Brown, Gray, Orange and Lihzahrd pressure plates are randomly generated on the map during world creation as the trigger for <linked>traps</linked>. Pressure plates only take up very small space on top of <linked>blocks</linked>, so they may be difficult to spot. The color of naturally spawned pressure plates is dependent on the color of the block it is generated on top of. They should be approached with caution as each one is (usually) connected to a <linked>trap</linked> mechanism.",
+    "The <linked>Mechanic</linked> sells all types, except for <linked>Lihzahrd</linked> Pressure Plates, which have their distinct color of brown to blend in with <linked>Lihzahrd Bricks</linked>, and the Weighted Pressure Plates, which are crafted.",
+    "The <b>Teal Pressure Pad</b> is a special kind of pressure plate that responds to projectiles impacting it and from <linked>pets</linked> touching it. Unlike regular pressure plates, the Teal Pressure Pad can be placed on the floor, ceiling, or sidewall, but not on platforms.",
+    "<b>Weighted Pressure Plates</b> activate once on being depressed, and again on being released. Weighted Pressure Plates of the same color share a single state. As long as one Weighted Pressure Plate of a given color is already pressed down within a circuit, stepping on another identical plate will not send a new signal."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Activates when stepped on</span> (Red, Green)<br><span class=\"gameText\">Activates when a player steps on it</span> (Gray, Brown, Blue, Lihzahrd)<br><span class=\"gameText\">Activates when anything but a player steps on it</span> (Yellow)<br><span class=\"gameText\">Activates and breaks when a player steps on it</span> (Orange)<br><span class=\"gameText\">Activates when a player steps on or off it</span> (Weighted)</i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span> (Gray, Brown, Blue, Red, Green, Yellow, Orange, Lihzahrd)<br><span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> (Weighted)",
+    "Buy": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Cyan Weighted Pressure Plate]<span><span title=\"Cyan Weighted Pressure Plate\">Cyan Weighted Pressure Plate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Orange Weighted Pressure Plate]<span><span title=\"Orange Weighted Pressure Plate\">Orange Weighted Pressure Plate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Pink Weighted Pressure Plate]<span><span title=\"Pink Weighted Pressure Plate\">Pink Weighted Pressure Plate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Purple Weighted Pressure Plate]<span><span title=\"Purple Weighted Pressure Plate\">Purple Weighted Pressure Plate</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Pressure Plate Track]</linked><span><span><linked>Pressure Plate Track</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Minecart Track]</linked><span><span><linked>Minecart Track</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Cyan Weighted Pressure Plate]</linked><span><span><linked>Cyan Weighted Pressure Plate</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<span class=\"i\"><linked>[img:Tinkerer's Workshop]</linked><span><span><linked>Tinkerer's Workshop</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Orange Weighted Pressure Plate]</linked><span><span><linked>Orange Weighted Pressure Plate</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Pink Weighted Pressure Plate]</linked><span><span><linked>Pink Weighted Pressure Plate</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Purple Weighted Pressure Plate]</linked><span><span><linked>Purple Weighted Pressure Plate</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

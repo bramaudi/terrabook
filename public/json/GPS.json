@@ -4,23 +4,23 @@
   "summaries": [
     "The <b>GPS</b> is an <linked>informational</linked> <linked>accessory</linked> that enables an on-screen display of the player's current <linked>depth</linked>, lateral position, and <linked>time</linked>.",
     "Depth is displayed as follows:",
-    "<ul><li>On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, and <linked>[img:Legacy tModLoader version]</linked><linked> Legacy tModLoader version</linked> of the game, depth is measured in feet, with one tile equivalent to two feet.</li><li>On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, depth is measured in meters, with two tiles equivalent to one meter.</li></ul>"
+    "<ul><li>On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked> of the game, depth is measured in feet, with one tile equivalent to two feet.</li><li>On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, depth is measured in meters, with two tiles equivalent to one meter.</li></ul>"
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Shows position<br>Tells the time</span></i>",
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span> <span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span><br><span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span> <linked>[img:Old-gen console version]</linked>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span> <linked>[img:Old-gen console version]</linked>",
     "Sell": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>",
     "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
-    "Recipes": [
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:GPS]</linked><span><span><linked>GPS</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:GPS]</linked><span><span><linked>GPS</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Watch]</linked><span><span><linked>Gold Watch</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Watch]</linked><span><span><linked>Gold Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -29,18 +29,18 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Watch]</linked><span><span><linked>Platinum Watch</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Watch]</linked><span><span><linked>Platinum Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Compass]</linked><span><span><linked>Compass</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       }
     ],
-    "Used in": [
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:GPS]</linked><span><span><linked>GPS</linked></span><span class=\"eico s i1 i2 i3 i4 i6\" title=\"Desktop, Console, Old-gen console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Fish Finder]</linked><span><span><linked>Fish Finder</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Goblin Tech]</linked><span><span><linked>Goblin Tech</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:R.E.K. 3000]</linked><span><span><linked>R.E.K. 3000</linked></span><span class=\"eico s i1 i2 i4 i6\" title=\"Desktop, Console, Mobile and Legacy tModLoader versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:GPS]</linked><span><span><linked>GPS</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Fish Finder]</linked><span><span><linked>Fish Finder</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Goblin Tech]</linked><span><span><linked>Goblin Tech</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:R.E.K. 3000]</linked><span><span><linked>R.E.K. 3000</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

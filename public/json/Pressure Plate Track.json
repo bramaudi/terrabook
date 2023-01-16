@@ -1,0 +1,33 @@
+{
+  "type": "furnitures",
+  "title": "Pressure Plate Track",
+  "summaries": [
+    "<b>Pressure Plate Tracks</b> are activation <linked>mechanisms</linked> that work similarly to <linked>Pressure Plates</linked> and are activated while riding over with a <linked>Minecart</linked>. They can be crafted using any type of Pressure Plate."
+  ],
+  "statistics": {
+    "Bonus": "+2 range",
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Not for use on slopes</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
+    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Pressure Plate Track]</linked><span><span><linked>Pressure Plate Track</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Minecart Track]</linked><span><span><linked>Minecart Track</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}
