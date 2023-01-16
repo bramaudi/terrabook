@@ -71,7 +71,7 @@ const summaries = (() => {
         (walk.nodeName === 'TABLE' && !walk.classList.contains('infobox'))
     )) {
         if (['DIV','BLOCKQUOTE','TABLE'].includes(walk.nodeName) ||
-           walk.querySelector('.gameText')) {
+           walk.querySelector('.flavor-text')) {
             walk = walk.nextElementSibling
             continue;
         }

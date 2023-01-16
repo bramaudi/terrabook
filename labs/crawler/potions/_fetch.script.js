@@ -56,8 +56,11 @@ function parseCraftTable() {
             const prev2 = $craft
             	.previousElementSibling
             	.previousElementSibling
-            const el = prev2?.nodeName === 'H3' ? prev2 : prev1
-            return el.textContent
+            const caption = prev1.querySelector('caption')
+            let el = prev2?.nodeName === 'H3' ? prev2 : prev1
+            if (caption) el = caption
+            format(el, ['s','br'])
+            return el.innerHTML
         })()
     	const rows = []
         for (const tr of $craft.querySelectorAll('tr')) {
@@ -80,6 +83,13 @@ function parseCraftTable() {
         result[title] = rows.slice(2)
     }
     return result
+}
+function format(el, tags = ['s']) {
+    normalizeText(el)
+    clearSpan(el)
+    parseImg(el)
+    parseLinks(el)
+    removeTags(el, tags)
 }
 
 const title = document.querySelector('#firstHeading').textContent

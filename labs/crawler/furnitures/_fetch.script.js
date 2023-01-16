@@ -97,6 +97,7 @@ function format(el, tags = ['s']) {
     parseImg(el)
     parseLinks(el)
     removeTags(el, tags)
+    removeSoundTag(el)
 }
 
 const title = document.querySelector('#firstHeading').textContent
@@ -118,12 +119,7 @@ const summaries = (() => {
         	walk = walk.nextElementSibling
             continue;
         }
-        clearSpan(walk)
-        parseImg(walk)
-        removeTags(walk, ['sup', 'br'])
-        parseLinks(walk)
-        removeSoundTag(walk)
-        normalizeText(walk)
+        format(walk, ['sup', 'br'])
         if (walk.nodeName === 'UL') {
         	data.push(walk.outerHTML)
         }
@@ -135,16 +131,13 @@ const summaries = (() => {
 
 const statistics = (() => {
 	const stats = document.querySelector('.section.statistics')
+    if (!stats) return undefined
     const tbody = stats.querySelector('tbody')
     const rows = {}
     for (const tr of tbody.querySelectorAll('tr')) {
         const [col1, col2] = tr.childNodes
         const key = col1.textContent.trim()
-        normalizeText(col2)
-        clearSpan(col2)
-        parseImg(col2)
-        removeTags(col2, ['s'])
-        parseLinks(col2)
+        format(col2)
         const value = col2.innerHTML
     	rows[key] = value
     }
@@ -155,7 +148,7 @@ const statistics = (() => {
 const crafts = parseCraftTable()
 
 const json_result = {
-    type: 'ammunitions',
+    type: 'furnitures',
 	title,
     summaries,
     statistics,

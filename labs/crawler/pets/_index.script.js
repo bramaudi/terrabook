@@ -13,4 +13,5 @@ for (const table of tables) {
         }
 	}
 }
-print(list)
+const removedPetsCount = list.length - 3
+print(list.splice(0, removedPetsCount))
