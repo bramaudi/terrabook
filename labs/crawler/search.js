@@ -14,6 +14,10 @@ for (const dirname of type_dirs) {
     collection = [...collection, ...list]
 }
 
+// sort by name
 collection = collection.sort((a, b) => a.name.localeCompare(b.name))
-console.log(collection);
+// unique by name
+collection = [...new Map(collection.map(item =>
+    [item['name'], item])).values()];
+
 writeFileSync(`./public/json/_search.json`, JSON.stringify(collection), { encoding: 'utf-8' })
