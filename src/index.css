@@ -376,6 +376,13 @@ ul.toolpower li img {
 	@apply visible;
 }
 
+.id {
+	@apply text-xs text-gray-300;
+}
+
+.craft-title i {
+	@apply mx-1;
+}
 
 html {
 	background: #5a433a;
