@@ -20,4 +20,5 @@ collection = collection.sort((a, b) => a.name.localeCompare(b.name))
 collection = [...new Map(collection.map(item =>
     [item['name'], item])).values()];
 
+console.log('[Success] Build search data');
 writeFileSync(`./public/json/_search.json`, JSON.stringify(collection), { encoding: 'utf-8' })

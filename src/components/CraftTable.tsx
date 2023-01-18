@@ -13,6 +13,9 @@ export default function (props: Props) {
 	const [completeItems] = useJson<CompleteItems>(`_search.json`)
 
 	function parseLinkItem(text: string, dict: CompleteItems) {
+		// fix item name causing build error
+		text = text.replaceAll('ñ', 'n')
+		
 		if (dict) {
 			// sort longest name first
 			dict.sort((a,b) => b.name.length - a.name.length)
@@ -51,7 +54,7 @@ export default function (props: Props) {
 											innerHTML={
 												parseLinkItem(
 													parseImg(result!.value),
-													completeItems()
+													completeItems()!
 												)
 											}
 										></td>
@@ -63,7 +66,7 @@ export default function (props: Props) {
 											innerHTML={
 												parseLinkItem(
 													parseImg(ingredients!.value),
-													completeItems()
+													completeItems()!
 												)
 											}
 										></td>
@@ -75,7 +78,7 @@ export default function (props: Props) {
 											innerHTML={
 												parseLinkItem(
 													parseImg(station!.value),
-													completeItems()
+													completeItems()!
 												)
 											}
 										></td>
