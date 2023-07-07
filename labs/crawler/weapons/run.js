@@ -26,7 +26,7 @@ for (const item of items) {
 		// remove "toolpower" property
 		const itemJsonDecoded = JSON.parse(itemRaw)
 		itemJsonDecoded.toolpower = undefined
-		itemRaw = JSON.stringify(itemJsonDecoded)
+		itemRaw = JSON.stringify(itemJsonDecoded, null, 2)
 
 		writeFileSync(`./public/json/${name}.json`, itemRaw, { encoding: 'utf-8' })
 	 } catch (error) {

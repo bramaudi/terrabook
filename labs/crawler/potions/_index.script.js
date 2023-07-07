@@ -26,6 +26,7 @@ for (const tr of table.querySelectorAll('tr')) {
     	list.push(
             td[0].textContent
                 .replace(/\(.*\)/g, '')
+                .replace(/\d/g, '')
                 .trim()
         )
     }

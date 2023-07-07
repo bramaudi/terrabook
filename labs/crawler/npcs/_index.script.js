@@ -6,7 +6,7 @@ for (const table of tables.splice(0, 4)) {
         if (td.length > 1) {
             const internId = td[1].querySelector('.id')
             internId?.remove()
-        	list.push(td[1].textContent.trim())
+        	list.push(td[1].textContent.replace(/\(.*\)/g,'').trim())
         }
     }
 }

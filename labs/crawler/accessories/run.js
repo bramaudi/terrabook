@@ -32,7 +32,7 @@ for (const type of accessories_types) {
 
 // filter unique
 mergedList = [...new Set(mergedList)]
-writeFileSync('./public/json/_accessories.json', JSON.stringify(mergedList), { encoding: 'utf-8' })
+writeFileSync('./public/json/_accessories.json', JSON.stringify(mergedList, null, 2), { encoding: 'utf-8' })
 
 for (const item of mergedList) {
     const name = decodeURIComponent(item)

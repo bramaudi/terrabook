@@ -56,8 +56,9 @@ function normalizeText($el) {
 }
 function parseCraftTable() {    
     const result = {}
-    const crafts = document.querySelectorAll('.crafts')
+    const crafts = document.querySelectorAll('.recipes')
     for (const $craft of crafts) {
+        if (!$craft.previousElementSibling) return
         const title = (() => {
             const prev1 = $craft.previousElementSibling
             const prev2 = $craft
@@ -87,7 +88,7 @@ function parseCraftTable() {
             const station = getCol('.station')
             rows.push({ result, ingredients, station })
         }
-        result[title] = rows.slice(2)
+        result[title] = rows.slice(1)
     }
     return result
 }
