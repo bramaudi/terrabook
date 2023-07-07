@@ -1,1 +1,21 @@
-{"type":"weapons","title":"The Bee's Knees","summaries":["<b>The Bee's Knees</b> is a <linked>bow</linked> which has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance of being dropped by <linked>Queen Bee</linked>. When fired using <linked>Wooden Arrows</linked>, the bow instead emits a special Bee Arrow projectile resembling a line of bees. On impact with an <linked>enemy</linked> or solid <linked>block</linked>, the projectile will break apart, spawning 3-6 bees which home in on nearby <linked>enemies</linked>. These bees deal 33% base damage (8 base damage), can each pierce one enemy or ricochet off solid blocks once, but not both.","Its best <linked>modifier</linked> is <b>Unreal</b>."],"statistics":{"Uses ammo":"<linked>Arrows</linked>","Damage":"23 <span class=\"small-bold\">(Ranged)</span>","Knockback":"3 <span class=\"knockback\">(Very weak)</span>","Critical chance":"4%","Use time":"23 <span class=\"usetime\">(Fast)</span>","Velocity":"8","Tooltip":"<i><span class=\"gameText\">Wooden arrows turn into a column of bees</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>","Sell":"<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "The Bee's Knees",
+  "summaries": [
+    "<b>The Bee's Knees</b> is a <linked>pre-Hardmode</linked> <linked>bow</linked> that, when consuming <linked>Wooden Arrows</linked> as <linked>ammo</linked>, fires special Bee Arrow projectiles which resemble lines of bees. Bee Arrows are unaffected by gravity and disperse upon impact with an <linked>enemy</linked> or solid <linked>block</linked>, spawning three small homing bee projectiles with three independent <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chances to spawn an extra bee. The bee projectiles deal <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> of the weapon and ammo's damage (9 base damage) before dissipating after a 10-second duration or upon contact with <linked>water</linked> or <linked>lava</linked>, and have a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> chance to deal 1 extra damage. Individual bees can pierce one enemy or ricochet off of blocks once, but never both simultaneously. The Bee's Knees has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance of being dropped by the <linked>Queen Bee</linked>.",
+    "Its best <linked>modifier</linked> is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "<linked>Arrows</linked>",
+    "Damage": "23 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "23 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "8",
+    "Tooltip": "<i><span class=\"gameText\">Wooden arrows turn into a column of bees</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

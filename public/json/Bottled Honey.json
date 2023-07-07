@@ -10,8 +10,8 @@
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Improves natural healing for a short time</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">30 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -36,7 +36,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Abeemination]</linked><span><span><linked>Abeemination</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -49,7 +49,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Abeemination]</linked><span><span><linked>Abeemination</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Stinger]</linked><span><span><linked>Stinger</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Hive]</linked><span><span><linked>Hive</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

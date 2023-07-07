@@ -1,1 +1,31 @@
-{"type":"miscellaneous","title":"Marshmallow on a Stick","summaries":["The <b>Marshmallow on a Stick</b> is an item that is used to create a <linked>Cooked Marshmallow</linked> by holding it over any lit <linked>Campfire</linked>, i.e. the Marshmallow must overlap with the 2×3-tile rectangle of the Campfire. It must be held for up to 15 real-world seconds (15 in-game minutes). The Marshmallow on a Stick must be held by the player, either by attaching it to the cursor in the <linked>inventory</linked> or selecting it in the hotbar, for the entire duration over the Campfire in order for it to be cooked. Selecting a different item in the hotbar, moving/turning away from the Campfire, or turning the Campfire off resets the timer.","The exact cooking duration is randomized and can last between 7.5 seconds and 15 seconds. The average cooking duration is 12.5 seconds."],"statistics":{"Tooltip":"<i><span class=\"gameText\">Roast it over a campfire!</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Sell":"<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Marshmallow on a Stick]</linked><span><span><linked>Marshmallow on a Stick</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Marshmallow]</linked><span><span><linked>Marshmallow</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<linked>By Hand</linked>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Marshmallow on a Stick",
+  "summaries": [
+    "The <b>Marshmallow on a Stick</b> is an item that is used to create a <linked>Cooked Marshmallow</linked> by holding it over any lit <linked>Campfire</linked>, i.e. the Marshmallow must overlap with the 2×3-tile rectangle of the Campfire. It must be held for up to 15 real-world seconds (15 in-game minutes). The Marshmallow on a Stick must be held by the player, either by attaching it to the cursor in the <linked>inventory</linked> or selecting it in the hotbar, for the entire duration over the Campfire in order for it to be cooked. Selecting a different item in the hotbar, moving/turning away from the Campfire, or turning the Campfire off resets the timer.",
+    "The exact cooking duration is randomized and can last between 7.5 seconds and 15 seconds. The average cooking duration is 12.5 seconds."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Roast it over a campfire!</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Marshmallow on a Stick]</linked><span><span><linked>Marshmallow on a Stick</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Marshmallow]</linked><span><span><linked>Marshmallow</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      }
+    ]
+  }
+}

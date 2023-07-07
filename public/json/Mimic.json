@@ -3,16 +3,17 @@
   "title": "Mimic",
   "summaries": [
     "<b>Mimics</b> are rare <linked>Hardmode</linked> <linked>enemies</linked> disguised as <linked>chests</linked>, appearing as the appropriate chest type for the environment.",
-    "Mimics can be spawned by the player using the <linked>Chest Statue</linked>, even <linked>prior to Hardmode</linked>. However, Mimics spawned this way only drop the <linked>Mimic Banner</linked>.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Rare <linked>Hallowed</linked>, <linked>Corrupt</linked>, and <linked>Crimson</linked> Mimics can also be spawned manually by players via a <linked>Key of Light</linked> or <linked>Key of Night</linked> (see <linked>the Biome Mimic section below</linked>)."
+    "Mimics can be spawned by the player using the <linked>Chest Statue</linked>, even in <linked>pre-Hardmode</linked>. However, Mimics spawned this way only drop the <linked>Mimic Banner</linked>.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Rare <linked>Hallowed</linked>, <linked>Corrupt</linked>, and <linked>Crimson</linked> Mimics can also be spawned manually by players via a <linked>Key of Light</linked> or <linked>Key of Night</linked> (see <linked>the Biome Mimic section below</linked>). They only require 25 kills to be awarded completion of their <linked>Bestiary</linked> entry and corresponding banner, as opposed to the usual 50 kills.",
+    "They are some of the few entities that can be detected by the <linked>Lifeform Analyzer</linked> and its upgrades."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked></span><span class=\"tag\"><linked> Underground </linked></span><span class=\"tag\"><linked> Cavern </linked></span><span class=\"tag\"><linked> The Underworld </linked></span></div>",
     "AI Type": "Mimic AI",
-    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">80</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">160</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">240</span></span></span>",
-    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">500</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">1000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">1500</span></span></span>",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">80</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">160</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">240</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">500</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">1000</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">1500</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">30</span></span>",
-    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">70%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">73%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">76%</span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">70%</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">73%</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">76%</span></span></span>",
     "Banner": "<span class=\"i\"><linked>[img:Mimic Banner]</linked><span><span><linked>Mimic Banner</linked></span></span></span>",
     "Immune to": "On Fire!, Confused, Poisoned, Hellfire"
   },

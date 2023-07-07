@@ -17,8 +17,8 @@
     "Use time": "40 <span class=\"usetime\">(Very slow)</span>",
     "Tool speed": "19",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"30 Silver Coins\" data-sort-value=\"3000\"><span class=\"sc\">30<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Flesh Grinder]</linked><span><span><linked>Flesh Grinder</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

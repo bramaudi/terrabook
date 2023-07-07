@@ -8,8 +8,8 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"13 Silver Coins\" data-sort-value=\"1300\"><span class=\"sc\">13</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"13 Silver Coins\" data-sort-value=\"1300\"><span class=\"sc\">13<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -23,7 +23,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -47,16 +47,16 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bubblegum Block]</linked><span><span><linked>Bubblegum Block</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bubblegum Block]</linked><span><span><linked>Bubblegum Block</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -78,7 +78,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Orichalcum Bar]</linked><span><span><linked>Orichalcum Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {

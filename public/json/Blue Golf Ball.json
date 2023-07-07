@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Golf Balls",
   "summaries": [
-    "<b>Golf Balls</b> are <linked>accessories</linked> that are used in <linked>golf</linked> and come in a variety of colors. The plain, white Golf Ball can be purchased from the <linked>Golfer</linked> for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> and can be used for crafting the colored variants.",
+    "<b>Golf Balls</b> are <linked>accessories</linked> that are used in <linked>golf</linked> and come in a variety of colors. The plain, white Golf Ball can be purchased from the <linked>Golfer</linked> for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span> and can be used for crafting the colored variants.",
     "The Golf Ball items are not required to play golf, as pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button on an empty <linked>Golf Tee</linked> will always create a Golf Ball projectile. Their main purposes are:",
     "<ul><li>Changing the color of this projectile, which is a purely visual effect. The Golf Ball item does not need to be equipped for this.</li><li>Manually placing Golf Ball projectiles anywhere in the world, even outside of Golf Tees. This is done by pressing the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> button while the Golf Ball item is selected. The item will not be consumed.</li></ul>",
     "Golf Ball projectiles can be hit with a <linked>Golf Club</linked> and despawn when entering a <linked>Golf Cup</linked>."
@@ -12,139 +12,139 @@
     "Velocity": "12",
     "Tooltip": "<i><span class=\"gameText\">Can be hit with a golf club</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Black Golf Ball]<span><span title=\"Black Golf Ball\">Black Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4242</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Black Golf Ball]<span><span title=\"Black Golf Ball\">Black Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4242</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Black Dye]</linked><span><span><linked>Black Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Black Dye]</linked><span><span><linked>Black Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 14,
-          "value": "<span class=\"i -w\"><linked>[img:Dye Vat]</linked><span><span><linked>Dye Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Dye Vat]</linked><span><span><linked>Dye Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Blue Golf Ball]<span><span title=\"Blue Golf Ball\">Blue Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4243</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Blue Golf Ball]<span><span title=\"Blue Golf Ball\">Blue Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4243</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Blue Dye]</linked><span><span><linked>Blue Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Blue Dye]</linked><span><span><linked>Blue Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Brown Golf Ball]<span><span title=\"Brown Golf Ball\">Brown Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4244</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Brown Golf Ball]<span><span title=\"Brown Golf Ball\">Brown Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4244</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Brown Dye]</linked><span><span><linked>Brown Dye</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Brown Dye]</linked><span><span><linked>Brown Dye</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Cyan Golf Ball]<span><span title=\"Cyan Golf Ball\">Cyan Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4245</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Cyan Golf Ball]<span><span title=\"Cyan Golf Ball\">Cyan Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4245</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Cyan Dye]</linked><span><span><linked>Cyan Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Cyan Dye]</linked><span><span><linked>Cyan Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Green Golf Ball]<span><span title=\"Green Golf Ball\">Green Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4246</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Green Golf Ball]<span><span title=\"Green Golf Ball\">Green Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4246</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Green Dye]</linked><span><span><linked>Green Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Green Dye]</linked><span><span><linked>Green Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lime Golf Ball]<span><span title=\"Lime Golf Ball\">Lime Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4247</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lime Golf Ball]<span><span title=\"Lime Golf Ball\">Lime Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4247</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lime Dye]</linked><span><span><linked>Lime Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Lime Dye]</linked><span><span><linked>Lime Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Orange Golf Ball]<span><span title=\"Orange Golf Ball\">Orange Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4248</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Orange Golf Ball]<span><span title=\"Orange Golf Ball\">Orange Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4248</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Orange Dye]</linked><span><span><linked>Orange Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Orange Dye]</linked><span><span><linked>Orange Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pink Golf Ball]<span><span title=\"Pink Golf Ball\">Pink Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4249</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pink Golf Ball]<span><span title=\"Pink Golf Ball\">Pink Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4249</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Dye]</linked><span><span><linked>Pink Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Dye]</linked><span><span><linked>Pink Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Purple Golf Ball]<span><span title=\"Purple Golf Ball\">Purple Golf Ball</span><div class=\"id\">Internal <linked>Item ID</linked>: 4250</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Purple Golf Ball]<span><span title=\"Purple Golf Ball\">Purple Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4250</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Purple Dye]</linked><span><span><linked>Purple Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Purple Dye]</linked><span><span><linked>Purple Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Red Golf Ball]<span><span title=\"Red Golf Ball\">Red Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4251</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Red Golf Ball]<span><span title=\"Red Golf Ball\">Red Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4251</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Red Dye]</linked><span><span><linked>Red Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Red Dye]</linked><span><span><linked>Red Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sky Blue Golf Ball]<span><span title=\"Sky Blue Golf Ball\">Sky Blue Golf Ball</span><div class=\"id\">Internal <linked>Item ID</linked>: 4252</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sky Blue Golf Ball]<span><span title=\"Sky Blue Golf Ball\">Sky Blue Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4252</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Sky Blue Dye]</linked><span><span><linked>Sky Blue Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Sky Blue Dye]</linked><span><span><linked>Sky Blue Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Teal Golf Ball]<span><span title=\"Teal Golf Ball\">Teal Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4253</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Teal Golf Ball]<span><span title=\"Teal Golf Ball\">Teal Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4253</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Teal Dye]</linked><span><span><linked>Teal Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Teal Dye]</linked><span><span><linked>Teal Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Violet Golf Ball]<span><span title=\"Violet Golf Ball\">Violet Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4254</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Violet Golf Ball]<span><span title=\"Violet Golf Ball\">Violet Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4254</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Violet Dye]</linked><span><span><linked>Violet Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Violet Dye]</linked><span><span><linked>Violet Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Yellow Golf Ball]<span><span title=\"Yellow Golf Ball\">Yellow Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4255</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Yellow Golf Ball]<span><span title=\"Yellow Golf Ball\">Yellow Golf Ball</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4255</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Yellow Dye]</linked><span><span><linked>Yellow Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Golf Ball]</linked><span><span><linked>Golf Ball</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Yellow Dye]</linked><span><span><linked>Yellow Dye</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

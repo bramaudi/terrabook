@@ -2,14 +2,14 @@
   "type": "accessories",
   "title": "Spore Sac",
   "summaries": [
-    "The <b>Spore Sac</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that is obtained from the <linked>Treasure Bag</linked> dropped by <linked>Plantera</linked> in <linked>Expert Mode</linked>. When equipped, it continuously spawns multiple stationary floating spores around the player that act as homing mines. When an enemy comes within range, they slowly swarm the enemy and cause small explosions on contact, dealing about 400 damage over 1 second. Spores have the ability to pass through <linked>blocks</linked> to reach enemies, and will inflict the <linked>Poisoned</linked> <linked>debuff</linked>. They have a small area-effect that can hit multiple targets.",
-    "Spores can only spawn near <linked>blocks</linked>, or on background <linked>walls</linked>, that are up to 25 tiles away from the player. Flying in open areas (eg. via <linked>Wings</linked> or <linked>Mounts</linked>) with no walls or blocks in range will not result in any spores spawned. When spawning near blocks, with no background walls, only a single layer of spores spawns, floating within about 3 tiles of the blocks. On background walls, spores can spawn anywhere in mid-air."
+    "The <b>Spore Sac</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that is obtained from the <linked>Treasure Bag</linked> dropped by <linked>Plantera</linked> in <linked>Expert Mode</linked>. When equipped, it continuously spawns multiple stationary floating spores around the player that act as homing mines. When an enemy comes within range, they slowly swarm the enemy and cause small explosions on contact, dealing about 400 classless damage over the course of 1 second. Spores have the ability to pass through <linked>blocks</linked> to reach enemies and will inflict the <linked>Poisoned</linked> <linked>debuff</linked> for 5–10 seconds. They have a small area of effect that can hit multiple targets.",
+    "Spores can only spawn near <linked>blocks</linked>, or on background <linked>walls</linked>, that are up to 25 tiles away from the player. Each spore fades after 20 seconds and is replaced by a new one while a valid area exists in range. Flying in open areas (eg. via <linked>Wings</linked> or <linked>Mounts</linked>) with no walls or blocks in range will not result in any spores spawned. When spawning near blocks, with no background walls, only a single layer of spores spawns, floating within about 3 tiles of the blocks. On background walls, spores can spawn anywhere in mid-air."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Summons spores over time that will damage enemies</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: Rainbow]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

@@ -9,8 +9,8 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -24,7 +24,7 @@
         },
         "station": {
           "rowspan": 7,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         }
       },
       {
@@ -84,10 +84,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Amber Stone Block]<span><span title=\"Amber Stone Block\">Amber Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Amber Stone Block]<span><span title=\"Amber Stone Block\">Amber Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Amber Stone Wall]</linked><span><span><linked>Amber Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Amber Stone Wall]</linked><span><span><linked>Amber Stone Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 7,
@@ -97,55 +97,55 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Amethyst Stone Block]<span><span title=\"Amethyst Stone Block\">Amethyst Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Amethyst Stone Block]<span><span title=\"Amethyst Stone Block\">Amethyst Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Amethyst Stone Wall]</linked><span><span><linked>Amethyst Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Amethyst Stone Wall]</linked><span><span><linked>Amethyst Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Diamond Stone Block]<span><span title=\"Diamond Stone Block\">Diamond Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Diamond Stone Block]<span><span title=\"Diamond Stone Block\">Diamond Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Diamond Stone Wall]</linked><span><span><linked>Diamond Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Diamond Stone Wall]</linked><span><span><linked>Diamond Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Emerald Stone Block]<span><span title=\"Emerald Stone Block\">Emerald Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Emerald Stone Block]<span><span title=\"Emerald Stone Block\">Emerald Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Emerald Stone Wall]</linked><span><span><linked>Emerald Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Emerald Stone Wall]</linked><span><span><linked>Emerald Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Ruby Stone Block]<span><span title=\"Ruby Stone Block\">Ruby Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Ruby Stone Block]<span><span title=\"Ruby Stone Block\">Ruby Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ruby Stone Wall]</linked><span><span><linked>Ruby Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ruby Stone Wall]</linked><span><span><linked>Ruby Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Sapphire Stone Block]<span><span title=\"Sapphire Stone Block\">Sapphire Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Sapphire Stone Block]<span><span title=\"Sapphire Stone Block\">Sapphire Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sapphire Stone Wall]</linked><span><span><linked>Sapphire Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sapphire Stone Wall]</linked><span><span><linked>Sapphire Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Topaz Stone Block]<span><span title=\"Topaz Stone Block\">Topaz Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Topaz Stone Block]<span><span title=\"Topaz Stone Block\">Topaz Stone Block</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Topaz Stone Wall]</linked><span><span><linked>Topaz Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Topaz Stone Wall]</linked><span><span><linked>Topaz Stone Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -153,7 +153,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Amber Stone Wall]</linked><span><span><linked>Amber Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amber Stone Wall]</linked><span><span><linked>Amber Stone Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Amber Stone Block]</linked><span><span><linked>Amber Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -166,7 +166,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Amethyst Stone Wall]</linked><span><span><linked>Amethyst Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Amethyst Stone Wall]</linked><span><span><linked>Amethyst Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Amethyst Stone Block]</linked><span><span><linked>Amethyst Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -175,7 +175,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Diamond Stone Wall]</linked><span><span><linked>Diamond Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Diamond Stone Wall]</linked><span><span><linked>Diamond Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Diamond Stone Block]</linked><span><span><linked>Diamond Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -184,7 +184,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Emerald Stone Wall]</linked><span><span><linked>Emerald Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Emerald Stone Wall]</linked><span><span><linked>Emerald Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Emerald Stone Block]</linked><span><span><linked>Emerald Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -193,7 +193,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ruby Stone Wall]</linked><span><span><linked>Ruby Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ruby Stone Wall]</linked><span><span><linked>Ruby Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ruby Stone Block]</linked><span><span><linked>Ruby Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -202,7 +202,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sapphire Stone Wall]</linked><span><span><linked>Sapphire Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sapphire Stone Wall]</linked><span><span><linked>Sapphire Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sapphire Stone Block]</linked><span><span><linked>Sapphire Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -211,7 +211,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Topaz Stone Wall]</linked><span><span><linked>Topaz Stone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Topaz Stone Wall]</linked><span><span><linked>Topaz Stone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Topaz Stone Block]</linked><span><span><linked>Topaz Stone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"

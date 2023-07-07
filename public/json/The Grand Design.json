@@ -4,7 +4,7 @@
   "toolpower": [],
   "summaries": [
     "<b>The Grand Design</b> is a <linked>tool</linked> for working with wiring and <linked>mechanisms</linked>.  It combines and extends the abilities of its components:  It allows a controlled view of wiring (<linked>Mechanical Lens</linked>), and allows the player to place or remove any color of <linked>wire</linked> (<linked>Multicolor Wrench</linked>); unlike its components, it also shows and works with <linked>Actuators</linked>. It also provides the <linked>Mechanical Ruler</linked>'s ability to measure distances and relative positions.",
-    "Creating the Grand Design costs <span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15</span></span> in total. Its components are all bought from the <linked>Mechanic</linked>. Given the requirements of this NPC spawning, it can only be created after <linked>Skeletron</linked> has been defeated.",
+    "Creating the Grand Design costs <span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15<i> GC</i></span></span> in total. Its components are all bought from the <linked>Mechanic</linked>. Given the requirements of this NPC spawning, it can only be created after <linked>Skeletron</linked> has been defeated.",
     "The Grand Design can be used at any part of the screen, regardless of block placement range. When pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> with the tool, a small menu will pop up at the cursor's position with six different buttons in a radial pattern. The outside buttons can be used to select which wire colors (including Actuators) can be interacted with, and the middle button will toggle between placing or harvesting the designated wires. In addition, as long as The Grand Design is anywhere in the inventory, seven buttons will appear on the left-hand side of the screen, controlling whether to display the ruler or not and whether to highlight actuators and/or the four different colors of wires."
   ],
   "statistics": {
@@ -12,18 +12,18 @@
     "Velocity": "10",
     "Tooltip": "<i><span class=\"gameText\">Allows ultimate control over wires!<br>Right click while holding to edit wire settings</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:The Grand Design]</linked><span><span><linked>The Grand Design</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Ruler]</linked><span><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(60)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Multicolor Wrench]</linked><span><span><linked>Multicolor Wrench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Lens]</linked><span><span><linked>Mechanical Lens</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Mechanical Ruler]</linked><span><span><linked>Mechanical Ruler</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span><span class=\"am\">60</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

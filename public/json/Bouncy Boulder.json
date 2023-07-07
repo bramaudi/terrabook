@@ -8,22 +8,22 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Bouncy Boulder]</linked><span><span><linked>Bouncy Boulder</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bouncy Boulder]</linked><span><span><linked>Bouncy Boulder</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boulder]</linked><span><span><linked>Boulder</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -1,1 +1,64 @@
-{"type":"weapons","title":"Enchanted Boomerang","summaries":["The <b>Enchanted Boomerang</b> is a <linked>Boomerang</linked> that can be fired rapidly, has medium range, and releases light particles during use. Like all Boomerangs, it inflicts melee damage, so melee-boosting <linked>Accessories</linked> and <linked>Armor</linked> bonuses will benefit it. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it is crafted with a <linked>Wooden Boomerang</linked> and a <linked>Fallen Star</linked>. On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, it is found rarely in naturally-occurring <linked>Gold Chests</linked>.","The Enchanted Boomerang operates at range without using any <linked>Mana</linked>, and <linked>knocks</linked> enemies back much further than most other weapons. Like most other Boomerangs, it returns to the user after reaching its maximum distance, or after colliding with an object.","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"17 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 13 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>","Knockback":"8 <span class=\"knockback\">(Very strong)</span>","Critical chance":"4%","Use time":"20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 15 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>","Velocity":"10","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>","Sell":"<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Wooden Boomerang]</linked><span><span><linked>Wooden Boomerang</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<linked>By Hand</linked>"}}],"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Flamarang]</linked><span><span><linked>Flamarang</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Trimarang]</linked><span><span><linked>Trimarang</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shroomerang]</linked><span><span><linked>Shroomerang</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ice Boomerang]</linked><span><span><linked>Ice Boomerang</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Enchanted Boomerang",
+  "summaries": [
+    "The <b>Enchanted Boomerang</b> is a <linked>Boomerang</linked> that can be fired rapidly, has medium range, and releases light particles during use. Like all Boomerangs, it inflicts melee damage, so melee-boosting <linked>Accessories</linked> and <linked>Armor</linked> bonuses will benefit it. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it is crafted with a <linked>Wooden Boomerang</linked> and a <linked>Fallen Star</linked>. On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, it is found rarely in naturally-occurring <linked>Gold Chests</linked>.",
+    "The Enchanted Boomerang operates at range without using any <linked>Mana</linked>, and <linked>knocks</linked> enemies back much further than most other weapons. Like most other Boomerangs, it returns to the user after reaching its maximum distance, or after colliding with an object.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "17 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 13 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "8 <span class=\"knockback\">(Very strong)</span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 15 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
+    "Velocity": "10",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Boomerang]</linked><span><span><linked>Wooden Boomerang</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      }
+    ],
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Flamarang]</linked><span><span><linked>Flamarang</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Trimarang]</linked><span><span><linked>Trimarang</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Enchanted Boomerang]</linked><span><span><linked>Enchanted Boomerang</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shroomerang]</linked><span><span><linked>Shroomerang</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Ice Boomerang]</linked><span><span><linked>Ice Boomerang</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

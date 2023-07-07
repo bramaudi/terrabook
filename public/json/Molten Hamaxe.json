@@ -17,8 +17,8 @@
     "Use time": "27 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "14",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Molten Hamaxe]</linked><span><span><linked>Molten Hamaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

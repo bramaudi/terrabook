@@ -1,1 +1,20 @@
-{"type":"weapons","title":"Sanguine Staff","summaries":["The <b>Sanguine Staff</b> is a <linked>Hardmode</linked> <linked>summon weapon</linked> that has a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <linked>100*1/1 (100%)</linked> chance of being dropped by the <linked>Dreadnautilus</linked>. It summons a <b>Sanguine Bat</b> minion that remains by the player's side until an enemy is in sight, and attacks by flying in an elliptical loop between the player and enemy. They immediately return to the player's side once their target dies.","Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Sanguine Staff has over a Ruthless one is <linked>knockback</linked>."],"statistics":{"Damage":"35 <span class=\"small-bold\">(Summon)</span>","Knockback":"3 <span class=\"knockback\">(Very weak)</span>","Mana":"10","Use time":"36 <span class=\"usetime\">(Very slow)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Summons a sanguine bat to fight for you</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>","Sell":"<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Sanguine Staff",
+  "summaries": [
+    "The <b>Sanguine Staff</b> is a <linked>Hardmode</linked> <linked>summon weapon</linked> that has a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <linked>100*1/1 (100%)</linked> chance of being dropped by the <linked>Dreadnautilus</linked>. It summons a <b>Sanguine Bat</b> minion that remains by the player's side until an enemy is in sight, and attacks by flying in an elliptical loop between the player and enemy. They immediately return to the player's side once their target dies.",
+    "Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Sanguine Staff has over a Ruthless one is <linked>knockback</linked>."
+  ],
+  "statistics": {
+    "Damage": "35 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "10",
+    "Use time": "36 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons a sanguine bat to fight for you</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

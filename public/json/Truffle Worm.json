@@ -1,1 +1,37 @@
-{"type":"miscellaneous","title":"Truffle Worm","summaries":["The <b>Truffle Worm</b> is a rare <linked>critter</linked> that spawns in the underground <linked>Glowing Mushroom biome</linked> during <linked>Hardmode</linked>. It is solely used to summon the <linked>Duke Fishron</linked> <linked>boss</linked>. In order to use it, it must be caught (e.g. with a <linked>Bug Net</linked>) and used as <linked>bait</linked> with a <linked>fishing pole</linked> in an <linked>Ocean</linked> biome. <linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> It only spawns in the <linked>Cavern</linked> layer and below, so it will not appear in <linked>surface</linked> Glowing Mushroom biomes.","The Truffle Worm is more difficult to catch than other critters, as it burrows away when a player comes too close. It must be approached quickly in order to successfully catch it.","Unlike most critters, the Truffle Worm cannot be used for ordinary <linked>fishing</linked>, as it is used to spawn Duke Fishron. When attempting to use it as bait, the bobber will simply sit in the water indefinitely, unless fishing in an <linked>Ocean</linked>.","The Truffle Worm will always be consumed upon summoning Duke Fishron. Items that reduce the chance of bait consumption such as the <linked>Tackle Box</linked> will have no effect.","It is one of the few entities that can be detected by the <span class=\"eil\"><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> or its upgrades."],"statistics":{"Environment":"<div class=\"tags\"><span class=\"tag\"><linked> Glowing Mushroom biome </linked></span></div>","AI Type":"Passive Worm AI","Damage":"<span class=\"npcstat\"><span class=\"m-all\">0</span></span>","Max Life":"<span class=\"npcstat\"><span class=\"m-all\">5</span></span>","Defense":"<span class=\"npcstat\"><span class=\"m-all\">0</span></span>","KB Resist":"<span class=\"npcstat\"><span class=\"m-all\">0%</span></span>"},"crafts":{"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Truffle Worm Cage]</linked><span><span><linked>Truffle Worm Cage</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Truffle Worm]</linked><span><span><linked>Truffle Worm</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<linked>By Hand</linked>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Truffle Worm",
+  "summaries": [
+    "The <b>Truffle Worm</b> is a rare <linked>critter</linked> that spawns in the underground <linked>Glowing Mushroom biome</linked> during <linked>Hardmode</linked>. It is solely used to summon the <linked>Duke Fishron</linked> <linked>boss</linked>. <linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> It only spawns in the <linked>Underground</linked> layer and below, so it will not appear in <linked>surface</linked> Glowing Mushroom biomes.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, Truffle Worms do not take damage from enemies.",
+    "The Truffle Worm can be caught with any <linked>Bug Net</linked>, however it is more difficult to catch than other critters, as it burrows away when a player comes too close. It must be approached quickly in order to successfully catch it. After being caught, it can be carried around in the <linked>inventory</linked> and released later, or crafted into animated decorative <linked>furniture</linked> (<linked>Truffle Worm Cage</linked>). Once crafted, the Truffle Worm cannot be released again.",
+    "Despite having a bait power of 666%, the Truffle Worm cannot be used for ordinary <linked>fishing</linked>, and can only be used to summon the Duke Fishron by fishing in the <linked>Ocean</linked> biome. When attempting to use it as bait elsewhere, the bobber will simply sit in the water indefinitely.",
+    "The Truffle Worm will always be consumed upon summoning Duke Fishron. Items that reduce the chance of bait consumption such as the <linked>Tackle Box</linked> will have no effect.",
+    "It is one of the few entities that can be detected by the <span class=\"eil\"><span><linked>Lifeform Analyzer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> or its upgrades."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Glowing Mushroom biome </linked></span></div>",
+    "AI Type": "Passive Worm AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-all\">5</span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">0</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">0%</span></span>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Truffle Worm Cage]</linked><span><span><linked>Truffle Worm Cage</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Truffle Worm]</linked><span><span><linked>Truffle Worm</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      }
+    ]
+  }
+}

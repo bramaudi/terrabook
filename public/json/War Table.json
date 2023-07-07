@@ -3,7 +3,7 @@
   "title": "War Table",
   "summaries": [
     "The <b>War Table</b> is an animated <linked>furniture</linked> item that is dropped by the <linked>Dark Mage</linked> during the <linked>Old One's Army</linked> <linked>event</linked>. During the last Tier 1 wave, it has a <span class=\"chance\"><s>10*</s>1/10 (10%)</span> chance to drop; during the fourth and sixth Tier 3 waves, it has a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance to drop.",
-    "Placing and pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on the War Table grants the <b>Strategist</b> <linked>buff</linked>, which increases the player's <linked>sentry</linked> capacity by 1. This lasts until the player <linked>dies</linked> or leaves the world, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>).",
+    "Placing and pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on the War Table grants the <b>Strategist</b> <linked>buff</linked>, which increases the player's <linked>sentry</linked> capacity by 1. This lasts until the player <linked>dies</linked> or leaves the world, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon using Cycle Next/Previous Buff and then pressing Remove Buff (<linked>[img:Console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>).",
     "Unlike <linked>equipment buff items</linked>, the War Table must be placed in order to activate the buff. It can be mined with a <linked>pickaxe</linked> or <linked>drill</linked> and picked up again, even while the buff is active, which will not cancel the buff. Placement is only dependent on an adequate space of 5×4 tiles being available."
   ],
   "statistics": {
@@ -11,8 +11,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Right click to have more sentries</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

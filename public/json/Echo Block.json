@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Echo Block",
   "summaries": [
-    "The <b>Echo Block</b> is a type of <linked>block</linked> which turns completely invisible once placed. It is sold by the <linked>Cyborg</linked> NPC for <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span> when he is spoken to in a <linked>Graveyard</linked>. Once placed, the Echo Block cannot be seen by the player unless they have the <linked>Spectre Goggles</linked> equipped or are near an <linked>Echo Chamber</linked>.",
+    "The <b>Echo Block</b> is a type of <linked>block</linked> which turns completely invisible once placed. It is sold by the <linked>Cyborg</linked> NPC for <span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span> when he is spoken to in a <linked>Graveyard</linked>. Once placed, the Echo Block cannot be seen by the player unless they have the <linked>Spectre Goggles</linked> equipped or are near an <linked>Echo Chamber</linked>.",
     "Despite their invisibility, Echo Blocks retain the properties of normal blocks and can thus be <linked>hammered</linked>, actuated with an <linked>Actuator</linked>, stood and <linked>grappled</linked> on, used to <linked>hoik</linked>, and mined with any <linked>pickaxe</linked> or <linked>drill</linked>."
   ],
   "statistics": {
@@ -10,19 +10,19 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Only visible with Echo Sight</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Platform]</linked><span><span><linked>Echo Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Platform]</linked><span><span><linked>Echo Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -31,7 +31,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Wall]</linked><span><span><linked>Echo Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Wall]</linked><span><span><linked>Echo Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -43,10 +43,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Echo Platform]</linked><span><span><linked>Echo Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Echo Platform]</linked><span><span><linked>Echo Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -56,23 +56,23 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Echo Chamber]</linked><span><span><linked>Echo Chamber</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Echo Chamber]</linked><span><span><linked>Echo Chamber</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Gray Brick]</linked><span><span><linked>Gray Brick</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Gray Brick]</linked><span><span><linked>Gray Brick</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Echo Wall]</linked><span><span><linked>Echo Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Echo Wall]</linked><span><span><linked>Echo Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Echo Block]</linked><span><span><linked>Echo Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

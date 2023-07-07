@@ -1,1 +1,18 @@
-{"type":"miscellaneous","title":"World Globe","summaries":["The <b>World Globe</b> is a thrown consumable item sold by the <linked>Zoologist</linked> after the <linked>Bestiary</linked> is 50% complete (270 entries). Once a World Globe is thrown and shatters on a surface, the <linked>background</linked> for the current <linked>biome</linked> changes permanently for the current world, to a random one of the backgrounds available for that biome. This lasts until another World Globe is thrown. The World Globe can be used in any biome."],"statistics":{"Consumable":"<span class=\"t-yes\">✔️</span>","Use time":"20 <span class=\"usetime\">(Very fast)</span>","Velocity":"8","Tooltip":"<i><span class=\"gameText\">Toss it to change how the world looks!<br>'Time for a change of scenery'</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>","Buy":"<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3</span></span>","Sell":"<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "miscellaneous",
+  "title": "World Globe",
+  "summaries": [
+    "The <b>World Globe</b> is a thrown consumable item sold by the <linked>Zoologist</linked> after the <linked>Bestiary</linked> is 50% complete (270 entries). Once a World Globe is thrown and shatters on a surface, the <linked>background</linked> for the current <linked>biome</linked> changes permanently for the current world, to a random one of the backgrounds available for that biome. This lasts until another World Globe is thrown. The World Globe can be used in any biome."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "8",
+    "Tooltip": "<i><span class=\"gameText\">Toss it to change how the world looks!<br>'Time for a change of scenery'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"3 Gold Coins\" data-sort-value=\"30000\"><span class=\"gc\">3<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

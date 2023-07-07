@@ -18,8 +18,8 @@
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "20",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +29,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Ebonwood Hammer]</linked><span><span><linked>Ebonwood Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

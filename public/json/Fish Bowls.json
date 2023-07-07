@@ -2,14 +2,14 @@
   "type": "furnitures",
   "title": "Fish Bowls",
   "summaries": [
-    "The <b>Fish Bowl</b>, <b>Gold Fish Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>, <b>Pupfish Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>, and <b>Lava Serpent Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> are decorative <linked>furniture</linked> items. The Fish Bowl and Gold Fish Bowl also double as wearable items that can be equipped in the player's helmet slot.",
+    "The <b>Fish Bowl</b>, <b>Gold Fish Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>, <b>Pupfish Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>, and <b>Lava Serpent Bowl</b> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> are decorative <linked>furniture</linked> items. The Fish Bowl and Gold Fish Bowl also double as wearable items that can be equipped in the player's helmet slot.",
     "Fish Bowls cause only visual effects when placed in the helmet vanity slot. When instead placed in the functional head armor slot, the <linked>breath meter</linked> appears as if the player were <linked>underwater</linked>, and if worn long enough the player will <linked>drown</linked> and <linked>die</linked>. Breathing aids like the <linked>Breathing Reed</linked> or <linked>Gills Potion</linked> will allow for normal breathing when wearing the bowl.",
     "The Fish, Gold Fish and Pupfish Bowls are crafted, while the Lava Serpent Bowl has a <span class=\"chance\"><s>19.5*</s>39/200 (19.5%)</span> chance of being found inside <linked>Obsidian Crates</linked> and <linked>Hellstone Crates</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -42,6 +42,19 @@
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pupfish]</linked><span><span><linked>Pupfish</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Fish Bowl]<span><span title=\"Fish Bowl\">Fish Bowl</span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Goldfish]</linked><span><span><linked>Goldfish</linked></span></span></span><span class=\"am\">2</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
         }
       }
     ]

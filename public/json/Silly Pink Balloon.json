@@ -2,26 +2,26 @@
   "type": "blocks",
   "title": "Silly Balloons",
   "summaries": [
-    "<b>Silly Balloons</b> are novelty blocks that can be purchased during a <linked>Party</linked> from the <linked>Party Girl</linked> for <span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span> each. When a single one is placed, it has a round appearance, just like <linked>Bubbles</linked> and <linked>Smoke Blocks</linked>. When balloons of the same color are placed together in groups, they connect to make a seemingly single larger balloon block. If placed adjacent to balloon blocks of other colors, they do not connect, and each will remain a single round balloon.",
+    "<b>Silly Balloons</b> are novelty blocks that can be purchased during a <linked>Party</linked> from the <linked>Party Girl</linked> for <span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span> each. When a single one is placed, it has a round appearance, just like <linked>Bubbles</linked> and <linked>Smoke Blocks</linked>. When balloons of the same color are placed together in groups, they connect to make a seemingly single larger balloon block. If placed adjacent to balloon blocks of other colors, they do not connect, and each will remain a single round balloon.",
     "In a similar way to <linked>Pink Slime Blocks</linked>, landing on any balloon block negates <linked>fall damage</linked> and causes the player to bounce."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\">[img:Silly Green Balloon]<span><span title=\"Silly Green Balloon\">Silly Green Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Silly Green Balloon]<span><span title=\"Silly Green Balloon\">Silly Green Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Balloon Platform]</linked><span><span><linked>Balloon Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Balloon Platform]</linked><span><span><linked>Balloon Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -30,7 +30,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Green Balloon Wall]</linked><span><span><linked>Silly Green Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Green Balloon Wall]</linked><span><span><linked>Silly Green Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -40,19 +40,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Silly Pink Balloon]<span><span title=\"Silly Pink Balloon\">Silly Pink Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Silly Pink Balloon]<span><span title=\"Silly Pink Balloon\">Silly Pink Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Pink Balloon Wall]</linked><span><span><linked>Silly Pink Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Pink Balloon Wall]</linked><span><span><linked>Silly Pink Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Silly Purple Balloon]<span><span title=\"Silly Purple Balloon\">Silly Purple Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Silly Purple Balloon]<span><span title=\"Silly Purple Balloon\">Silly Purple Balloon</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Purple Balloon Wall]</linked><span><span><linked>Silly Purple Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silly Purple Balloon Wall]</linked><span><span><linked>Silly Purple Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -60,7 +60,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Platform]</linked><span><span><linked>Balloon Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Platform]</linked><span><span><linked>Balloon Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span></li></ul>"
@@ -73,19 +73,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Work Bench]</linked><span><span><linked>Balloon Work Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Work Bench]</linked><span><span><linked>Balloon Work Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Chandelier]</linked><span><span><linked>Balloon Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Balloon Chandelier]</linked><span><span><linked>Balloon Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -98,7 +98,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Bathtub]</linked><span><span><linked>Balloon Bathtub</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 8,
@@ -111,7 +111,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Bed]</linked><span><span><linked>Balloon Bed</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -120,7 +120,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Bookcase]</linked><span><span><linked>Balloon Bookcase</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -129,7 +129,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Clock]</linked><span><span><linked>Balloon Clock</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -138,7 +138,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Dresser]</linked><span><span><linked>Balloon Dresser</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -147,7 +147,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Piano]</linked><span><span><linked>Balloon Piano</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -156,7 +156,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Sofa]</linked><span><span><linked>Balloon Sofa</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -165,7 +165,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Toilet]</linked><span><span><linked>Balloon Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -174,7 +174,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Candelabra]</linked><span><span><linked>Balloon Candelabra</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 12,
@@ -187,7 +187,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Candle]</linked><span><span><linked>Balloon Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -196,7 +196,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Chair]</linked><span><span><linked>Balloon Chair</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -205,7 +205,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Chest]</linked><span><span><linked>Balloon Chest</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -214,7 +214,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Door]</linked><span><span><linked>Balloon Door</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -223,7 +223,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Lamp]</linked><span><span><linked>Balloon Lamp</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -232,7 +232,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Lantern]</linked><span><span><linked>Balloon Lantern</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -241,7 +241,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Sink]</linked><span><span><linked>Balloon Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -250,13 +250,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Balloon Table]</linked><span><span><linked>Balloon Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Silly Green Balloon Wall]</linked><span><span><linked>Silly Green Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Silly Green Balloon Wall]</linked><span><span><linked>Silly Green Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silly Green Balloon]</linked><span><span><linked>Silly Green Balloon</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -265,7 +265,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Silly Pink Balloon Wall]</linked><span><span><linked>Silly Pink Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Silly Pink Balloon Wall]</linked><span><span><linked>Silly Pink Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silly Pink Balloon]</linked><span><span><linked>Silly Pink Balloon</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -274,7 +274,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Silly Purple Balloon Wall]</linked><span><span><linked>Silly Purple Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Silly Purple Balloon Wall]</linked><span><span><linked>Silly Purple Balloon Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Silly Purple Balloon]</linked><span><span><linked>Silly Purple Balloon</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"

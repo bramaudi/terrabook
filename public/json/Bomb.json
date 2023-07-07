@@ -1,1 +1,66 @@
-{"type":"weapons","title":"Bomb","summaries":["<b>Bombs</b> are <linked>explosives</linked> which can be purchased from the <linked>Demolitionist</linked> and <linked>Skeleton Merchant</linked> for <span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span> each or obtained from <linked>Pots</linked>, <linked>Chests</linked>, <linked>Slimes</linked>, killing an <linked>Undead Miner</linked>, or by <linked>powering</linked> <linked>Bomb Statues</linked>. They can be used as a mining tool or a weapon, although generally the former. When used, it is thrown a few blocks away from the player and rolls if the terrain allows it. After 3 seconds, it will explode, inflicting 100 points of damage to nearby enemies and destroying multiple blocks around it. The player can also inflict harm to themselves if not careful.","Bombs can destroy almost any block, <linked>with some exceptions</linked>, which can then be collected. They can also be thrown through one block thick walls, like some other tossables. Additionally, Bombs also work underwater.","<span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span> It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>."],"statistics":{"Damage":"100","Knockback":"0 <span class=\"knockback\">(No knockback)</span>","Consumable":"<span class=\"t-yes\">✔️</span>","Use time":"25 <span class=\"usetime\">(Fast)</span>","Velocity":"5","Tooltip":"<i><span class=\"gameText\">A small explosion that will destroy most tiles</span></i>","Max stack":"9999 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Buy":"<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>","Sell":"<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Bouncy Bomb]</linked><span><span><linked>Bouncy Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"},"station":{"rowspan":4,"value":"<linked>By Hand</linked>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Dirt Bomb]</linked><span><span><linked>Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Scarab Bomb]</linked><span><span><linked>Scarab Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Sticky Bomb]</linked><span><span><linked>Sticky Bomb</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gel]</linked><span><span><linked>Gel</linked></span></span></span></li></ul>"}}]}}
+{
+  "type": "weapons",
+  "title": "Bomb",
+  "summaries": [
+    "<b>Bombs</b> are <linked>explosives</linked> which can be purchased from the <linked>Demolitionist</linked> and <linked>Skeleton Merchant</linked> for <span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3<i> SC</i></span></span> each or obtained from <linked>Pots</linked>, <linked>Chests</linked>, <linked>Slimes</linked>, killing an <linked>Undead Miner</linked>, or by <linked>powering</linked> <linked>Bomb Statues</linked>. They can be used as a mining tool or a weapon, although generally the former. When used, it is thrown a few blocks away from the player and rolls if the terrain allows it. After 3 seconds, it will explode, inflicting 100 points of damage to nearby enemies and destroying multiple blocks around it. The player can also inflict harm to themselves if not careful.",
+    "Bombs can destroy almost any block, <linked>with some exceptions</linked>, which can then be collected. They can also be thrown through one block thick walls, like some other tossables. Additionally, Bombs also work underwater.",
+    "<span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i><span>(Desktop, Console, Mobile and 3DS versions)</span></span> It has a small chance to appear as a <linked>bonus drop</linked> from <linked>Slimes</linked>."
+  ],
+  "statistics": {
+    "Damage": "100",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "5",
+    "Tooltip": "<i><span class=\"gameText\">A small explosion that will destroy most tiles</span></i>",
+    "Max stack": "9999 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 100 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Bouncy Bomb]</linked><span><span><linked>Bouncy Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 4,
+          "value": "<linked>By Hand</linked>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Dirt Bomb]</linked><span><span><linked>Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">25</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Scarab Bomb]</linked><span><span><linked>Scarab Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Sticky Bomb]</linked><span><span><linked>Sticky Bomb</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Gel]</linked><span><span><linked>Gel</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

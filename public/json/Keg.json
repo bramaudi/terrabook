@@ -9,8 +9,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Used for brewing ale</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver 20 Copper Coins\" data-sort-value=\"120\"><span class=\"sc\">1</span><span class=\"cc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver 20 Copper Coins\" data-sort-value=\"120\"><span class=\"sc\">1<i> SC</i></span><span class=\"cc\">20 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -20,7 +20,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Keg]</linked><span><span><linked>Keg</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

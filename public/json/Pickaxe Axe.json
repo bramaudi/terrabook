@@ -19,8 +19,8 @@
     "Tool speed": "7",
     "Tooltip": "<i><span class=\"gameText\">'Not to be confused with a hamdrill'</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold 40 Silver Coins\" data-sort-value=\"44000\"><span class=\"gc\">4</span><span class=\"sc\">40</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold 40 Silver Coins\" data-sort-value=\"44000\"><span class=\"gc\">4<i> GC</i></span><span class=\"sc\">40<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -30,7 +30,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pickaxe Axe]</linked><span><span><linked>Pickaxe Axe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\"><linked>[img:Soul of Fright]</linked><span><span><linked>Soul of Fright</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Soul of Might]</linked><span><span><linked>Soul of Might</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Soul of Sight]</linked><span><span><linked>Soul of Sight</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span><span class=\"am\">18</span></li><li><span class=\"i\"><linked>[img:Soul of Fright]</linked><span><span><linked>Soul of Fright</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Soul of Might]</linked><span><span><linked>Soul of Might</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Soul of Sight]</linked><span><span><linked>Soul of Sight</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -6,16 +6,16 @@
     "The following restrictions apply to the biome pylons (all pylons excluding the <linked>Universal Pylon</linked>):",
     "<ul><li>Pylons can only be used when there are 2 or more living, housed <linked>NPCs</linked> (including the <linked>Old Man</linked> and <linked>town pets</linked>) within a 169-tile wide by 124-tile high rectangle centered on each pylon.<ul><li>At least a portion of the NPCs' housing tiles must be within this range, but the pylons will still work if the NPCs themselves walk out of this range. Pylons will not work if an NPC is not near their home.</li></ul></li><li>Pylons only function when in their respective biome.</li></ul>",
     "The following restrictions apply to all pylons (including the Universal Pylon):",
-    "<ul><li>Only one of each type of pylon may be placed in a world.</li><li>Pylons cannot be used during <linked>boss</linked> battles or when <linked>invasions</linked> are announced or in progress</li><li>Players must be within interaction range of a pylon (5 tiles) to use the pylon to teleport.</li><li>Pylons can only function when the <linked>Map</linked> is enabled in the <linked>Settings</linked>.<ul><li>Furthermore, pylons are functional on the <linked>overlay map</linked>, but they cannot be used to travel long distances without opening the <linked>full-screen map</linked>.</li></ul></li></ul>"
+    "<ul><li>Only one of each type of pylon may be placed in a world.</li><li>Pylons cannot be used during <linked>boss</linked> battles or when <linked>invasions</linked> are announced or in progress</li><li>Pylons can only function when the <linked>Map</linked> is enabled in the <linked>Settings</linked>.<ul><li>Furthermore, pylons are functional on the <linked>overlay map</linked>, but they cannot be used to travel long distances without opening the <linked>full-screen map</linked>.</li></ul></li><li>Players must be within interaction range of a pylon (60 tiles) to use the pylon to teleport.</li></ul>"
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 4 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Teleport to another pylon when 2 villagers are nearby<br>You can only place one per type and in the matching biome</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span> <span class=\"note-text\">(Universal: <span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1</span></span>)</span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> <span class=\"note-text\">(Universal: <span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20</span></span>)</span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span> <span class=\"note-text\">(Universal: <span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1<i> PC</i></span></span>)</span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> <span class=\"note-text\">(Universal: <span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<i> GC</i></span></span>)</span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

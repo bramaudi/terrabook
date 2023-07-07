@@ -13,8 +13,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Activates when stepped on</span> (Red, Green)<br><span class=\"gameText\">Activates when a player steps on it</span> (Gray, Brown, Blue, Lihzahrd)<br><span class=\"gameText\">Activates when anything but a player steps on it</span> (Yellow)<br><span class=\"gameText\">Activates and breaks when a player steps on it</span> (Orange)<br><span class=\"gameText\">Activates when a player steps on or off it</span> (Weighted)</i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span> (Gray, Brown, Blue, Red, Green, Yellow, Orange, Lihzahrd)<br><span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> (Weighted)",
-    "Buy": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>"
+    "Buy": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -24,7 +24,7 @@
           "value": "<span class=\"i multi-line\">[img:Cyan Weighted Pressure Plate]<span><span title=\"Cyan Weighted Pressure Plate\">Cyan Weighted Pressure Plate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -37,7 +37,7 @@
           "value": "<span class=\"i multi-line\">[img:Orange Weighted Pressure Plate]<span><span title=\"Orange Weighted Pressure Plate\">Orange Weighted Pressure Plate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -46,7 +46,7 @@
           "value": "<span class=\"i multi-line\">[img:Pink Weighted Pressure Plate]<span><span title=\"Pink Weighted Pressure Plate\">Pink Weighted Pressure Plate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -55,7 +55,7 @@
           "value": "<span class=\"i multi-line\">[img:Purple Weighted Pressure Plate]<span><span title=\"Purple Weighted Pressure Plate\">Purple Weighted Pressure Plate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -79,7 +79,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cyan Weighted Pressure Plate]</linked><span><span><linked>Cyan Weighted Pressure Plate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -92,7 +92,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Orange Weighted Pressure Plate]</linked><span><span><linked>Orange Weighted Pressure Plate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -101,7 +101,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pink Weighted Pressure Plate]</linked><span><span><linked>Pink Weighted Pressure Plate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -110,7 +110,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Purple Weighted Pressure Plate]</linked><span><span><linked>Purple Weighted Pressure Plate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Pressure Plate]</linked><span><span><linked>Any Pressure Plate</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span></li></ul>"
         }
       }
     ]

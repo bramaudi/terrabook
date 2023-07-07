@@ -19,8 +19,8 @@
     "Tool speed": "13",
     "Tooltip": "<i><span class=\"gameText\">Can mine Mythril and Orichalcum</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 8 Silver Coins\" data-sort-value=\"10800\"><span class=\"gc\">1</span><span class=\"sc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 8 Silver Coins\" data-sort-value=\"10800\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">8<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -30,7 +30,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cobalt Pickaxe]</linked><span><span><linked>Cobalt Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

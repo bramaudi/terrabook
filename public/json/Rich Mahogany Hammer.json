@@ -17,8 +17,8 @@
     "Use time": "33 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "23",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Rich Mahogany Hammer]</linked><span><span><linked>Rich Mahogany Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

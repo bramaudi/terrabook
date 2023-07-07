@@ -3,13 +3,13 @@
   "title": "Candles",
   "summaries": [
     "The <b>Candle</b> is a piece of <linked>Furniture</linked> that produces <linked>light</linked>. It can be placed on <linked>Tables</linked>, <linked>Platforms</linked>, <linked>Crates</linked> or <linked>Work Benches</linked>. Candles will produce light underwater if placed, and can be toggled on and off by <linked>mechanisms</linked>.",
-    "The <linked>Water Candle</linked> is a special type of candle found in <linked>Dungeons</linked>. It increases enemy spawn rate by 33% and maximum number of simultaneous on-screen enemies by 50% when placed or held, and can be turned off ( <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>). Multiple placed candles do not stack, but the bonuses from holding and placing a candle do. The <linked>Peace Candle</linked> reduces enemy spawn rate in contrast to the Water Candle. The <span class=\"eil\"><span><linked>Shadow Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> nullifies the enemy spawn reduction benefits of <linked>towns</linked> in the area."
+    "The <linked>Water Candle</linked> is a special type of candle found in <linked>Dungeons</linked>. It increases enemy spawn rate by 33% and maximum number of simultaneous on-screen enemies by 50% when placed or held, and can be turned off ( <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>). Multiple placed candles do not stack, but the bonuses from holding and placing a candle do. The <linked>Peace Candle</linked> reduces enemy spawn rate in contrast to the Water Candle. The <span class=\"eil\"><span><linked>Shadow Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> nullifies the enemy spawn reduction benefits of <linked>towns</linked> in the area."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "14 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> (Golden Candle)"
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Candle)"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,11 +19,11 @@
           "value": "<span class=\"i -w\">[img:Nebula Candle]<span><span title=\"Nebula Candle\">Nebula Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4192</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -32,7 +32,7 @@
           "value": "<span class=\"i -w\">[img:Solar Candle]<span><span title=\"Solar Candle\">Solar Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4150</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -41,7 +41,7 @@
           "value": "<span class=\"i -w\">[img:Stardust Candle]<span><span title=\"Stardust Candle\">Stardust Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4213</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -50,7 +50,7 @@
           "value": "<span class=\"i -w\">[img:Vortex Candle]<span><span title=\"Vortex Candle\">Vortex Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4171</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -59,16 +59,16 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\"><linked>[img:Water Candle]</linked><span><span><linked>Water Candle</linked></span><div class=\"id\">Internal <linked>Item ID</linked>: 148</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Candle]</linked><span><span><linked>Candle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Candle]</linked><span><span><linked>Platinum Candle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i\"><linked>[img:Crystal Ball]</linked><span><span><linked>Crystal Ball</linked></span></span></span> <b>and</b> <span class=\"water\"><span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Crystal Ball]</linked><span><span><linked>Crystal Ball</linked></span></span></span> <b>and</b> <span class=\"ib\"><span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Candle]</linked><span><span><linked>Platinum Candle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Candle]</linked><span><span><linked>Candle</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -77,7 +77,7 @@
           "value": "<span class=\"i -w\">[img:Lesion Candle]<span><span title=\"Lesion Candle\">Lesion Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3962</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -90,7 +90,7 @@
           "value": "<span class=\"i -w\">[img:Flesh Candle]<span><span title=\"Flesh Candle\">Flesh Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2047</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -103,7 +103,7 @@
           "value": "<span class=\"i -w\">[img:Glass Candle]<span><span title=\"Glass Candle\">Glass Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2048</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -116,7 +116,7 @@
           "value": "<span class=\"i -w\">[img:Honey Candle]<span><span title=\"Honey Candle\">Honey Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2648</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -129,7 +129,7 @@
           "value": "<span class=\"i -w\">[img:Frozen Candle]<span><span title=\"Frozen Candle\">Frozen Candle</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2049</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Ice Torch]</linked><span><span><linked>Ice Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Ice Torch]</linked><span><span><linked>Ice Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -142,7 +142,7 @@
           "value": "<span class=\"i -w\">[img:Lihzahrd Candle]<span><span title=\"Lihzahrd Candle\">Lihzahrd Candle</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2052</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -155,11 +155,11 @@
           "value": "<span class=\"i -w\">[img:Living Wood Candle]<span><span title=\"Living Wood Candle\">Living Wood Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2153</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Living Loom]</linked><span><span><linked>Living Loom</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Living Loom]</linked><span><span><linked>Living Loom</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -168,7 +168,7 @@
           "value": "<span class=\"i -w\">[img:Skyware Candle]<span><span title=\"Skyware Candle\">Skyware Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2053</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -181,7 +181,7 @@
           "value": "<span class=\"i -w\">[img:Slime Candle]<span><span title=\"Slime Candle\">Slime Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2571</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -194,7 +194,7 @@
           "value": "<span class=\"i -w\">[img:Steampunk Candle]<span><span title=\"Steampunk Candle\">Steampunk Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2649</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -207,7 +207,7 @@
           "value": "<span class=\"i -w\">[img:Ash Wood Candle]<span><span title=\"Ash Wood Candle\">Ash Wood Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5195</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 26,
@@ -220,7 +220,7 @@
           "value": "<span class=\"i -w\">[img:Balloon Candle]<span><span title=\"Balloon Candle\">Balloon Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5174</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -229,7 +229,7 @@
           "value": "<span class=\"i -w\">[img:Bamboo Candle]<span><span title=\"Bamboo Candle\">Bamboo Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4571</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -238,7 +238,7 @@
           "value": "<span class=\"i -w\">[img:Boreal Wood Candle]<span><span title=\"Boreal Wood Candle\">Boreal Wood Candle</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2556</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Ice Torch]</linked><span><span><linked>Ice Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Ice Torch]</linked><span><span><linked>Ice Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -247,7 +247,7 @@
           "value": "<span class=\"i -w\">[img:Cactus Candle]<span><span title=\"Cactus Candle\">Cactus Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2045</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -265,7 +265,7 @@
           "value": "<span class=\"i -w\">[img:Crystal Candle]<span><span title=\"Crystal Candle\">Crystal Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3890</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -274,7 +274,7 @@
           "value": "<span class=\"i -w\">[img:Dynasty Candle]<span><span title=\"Dynasty Candle\">Dynasty Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2236</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -283,7 +283,7 @@
           "value": "<span class=\"i -w\">[img:Ebonwood Candle]<span><span title=\"Ebonwood Candle\">Ebonwood Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2046</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -292,7 +292,7 @@
           "value": "<span class=\"i -w\">[img:Granite Candle]<span><span title=\"Granite Candle\">Granite Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3173</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -301,7 +301,7 @@
           "value": "<span class=\"i -w\">[img:Marble Candle]<span><span title=\"Marble Candle\">Marble Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3172</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -310,7 +310,7 @@
           "value": "<span class=\"i -w\">[img:Martian Hover Candle]<span><span title=\"Martian Hover Candle\">Martian Hover Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2818</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -319,7 +319,7 @@
           "value": "<span class=\"i -w\">[img:Meteorite Candle]<span><span title=\"Meteorite Candle\">Meteorite Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3171</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -328,7 +328,7 @@
           "value": "<span class=\"i -w\">[img:Mushroom Candle]<span><span title=\"Mushroom Candle\">Mushroom Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2542</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -337,7 +337,7 @@
           "value": "<span class=\"i -w\">[img:Palm Wood Candle]<span><span title=\"Palm Wood Candle\">Palm Wood Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2523</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -346,12 +346,12 @@
           "value": "<span class=\"i -w multi-line\"><linked>[img:Peace Candle]</linked><span><span><linked>Peace Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3117</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Pink Torch]</linked><span><span><linked>Pink Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Pink Torch]</linked><span><span><linked>Pink Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Pink Torch]</linked><span><span><linked>Pink Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Pink Torch]</linked><span><span><linked>Pink Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -360,7 +360,7 @@
           "value": "<span class=\"i -w\">[img:Pearlwood Candle]<span><span title=\"Pearlwood Candle\">Pearlwood Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2051</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -378,7 +378,7 @@
           "value": "<span class=\"i -w\">[img:Pumpkin Candle]<span><span title=\"Pumpkin Candle\">Pumpkin Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2054</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -387,7 +387,7 @@
           "value": "<span class=\"i -w\">[img:Reef Candle]<span><span title=\"Reef Candle\">Reef Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5153</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -396,7 +396,7 @@
           "value": "<span class=\"i -w\">[img:Rich Mahogany Candle]<span><span title=\"Rich Mahogany Candle\">Rich Mahogany Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2050</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -405,7 +405,7 @@
           "value": "<span class=\"i -w\">[img:Sandstone Candle]<span><span title=\"Sandstone Candle\">Sandstone Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4303</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -414,7 +414,7 @@
           "value": "<span class=\"i -w\">[img:Shadewood Candle]<span><span title=\"Shadewood Candle\">Shadewood Candle</span><div class=\"id\">Internal <linked>Item ID</linked>: 2154</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -423,7 +423,7 @@
           "value": "<span class=\"i -w\">[img:Spider Candle]<span><span title=\"Spider Candle\">Spider Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3936</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -432,7 +432,7 @@
           "value": "<span class=\"i -w\">[img:Spooky Candle]<span><span title=\"Spooky Candle\">Spooky Candle</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2650</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -441,7 +441,7 @@
           "value": "<span class=\"i -w\">[img:Shadow Candle]<span><span title=\"Shadow Candle\">Shadow Candle</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5322</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -450,7 +450,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       }
     ]

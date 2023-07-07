@@ -2,14 +2,14 @@
   "type": "tools",
   "title": "Reaver Shark",
   "toolpower": [
-    "[img:Pickaxe mask] 59% <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <br> 100% <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "[img:Pickaxe mask] 59% <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> <br> 100% <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
     "[img:Hammer mask] 0%",
     "[img:Axe mask] 0%"
   ],
   "summaries": [
     "The <b>Reaver Shark</b> is a <linked>pickaxe</linked> available through <linked>fishing</linked> in the <linked>Ocean</linked>.",
-    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can mine blocks weaker than <linked>Demonite</linked>, <linked>Crimtane</linked> ore, and <linked>Obsidian</linked>.",
-    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked> and <linked>3DS</linked><linked>[img:Nintendo 3DS version]</linked> versions, it can mine <linked>Obsidian</linked> and <linked>Hellstone</linked>, which would otherwise require fighting the <linked>Eater of Worlds</linked> or <linked>Brain of Cthulhu</linked> to craft the <linked>Nightmare</linked> or <linked>Deathbringer Pickaxe</linked>. <linked>Hellstone Bars</linked> allow the player to craft Hellstone equipment, which is a major skip of typical <linked>gameplay progression</linked>. On top of that, the Reaver Shark is capable of mining <linked>Cobalt</linked> and <linked>Palladium</linked> ore after the player enters <linked>Hardmode</linked>, meaning a <linked>Molten Pickaxe</linked> does not need to be crafted.",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can mine <linked>Demonite</linked> and <linked>Crimtane Ore</linked>, and <linked>Obsidian</linked>.",
+    "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked> and <linked>3DS</linked><linked>[img:Nintendo 3DS version]</linked> versions, it can mine <linked>Hellstone</linked>, which would otherwise require fighting the <linked>Eater of Worlds</linked> or <linked>Brain of Cthulhu</linked> to craft the <linked>Nightmare</linked> or <linked>Deathbringer Pickaxe</linked>.",
     "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
@@ -17,10 +17,10 @@
     "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
     "Critical chance": "4%",
     "Use time": "22 <span class=\"usetime\">(Fast)</span>",
-    "Tool speed": "13 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 18 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>",
+    "Tool speed": "13 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 18 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">50<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

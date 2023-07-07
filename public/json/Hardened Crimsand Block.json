@@ -8,7 +8,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -18,16 +18,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -38,7 +38,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -54,7 +54,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Wall]</linked><span><span><linked>Hardened Crimsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Wall]</linked><span><span><linked>Hardened Crimsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -67,7 +67,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Wall]</linked><span><span><linked>Hardened Ebonsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Wall]</linked><span><span><linked>Hardened Ebonsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -76,7 +76,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Pearlsand Wall]</linked><span><span><linked>Hardened Pearlsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Pearlsand Wall]</linked><span><span><linked>Hardened Pearlsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -85,7 +85,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Sand Wall]</linked><span><span><linked>Hardened Sand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Sand Wall]</linked><span><span><linked>Hardened Sand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -93,10 +93,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Corrupt Torch]</linked><span><span><linked>Corrupt Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Corrupt Torch]</linked><span><span><linked>Corrupt Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 7,
@@ -106,43 +106,43 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Crimson Torch]</linked><span><span><linked>Crimson Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Crimson Torch]</linked><span><span><linked>Crimson Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 4,
-          "value": "<span class=\"i multi-line\"><linked>[img:Desert Torch]</linked><span><span><linked>Desert Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Desert Torch]</linked><span><span><linked>Desert Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Torch]</linked><span><span><linked>Hallowed Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Torch]</linked><span><span><linked>Hallowed Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         }
       },
       {
@@ -151,16 +151,11 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
-        }
-      },
-      {
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -169,12 +164,17 @@
         }
       },
       {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+        }
+      },
+      {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -187,7 +187,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -237,7 +237,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Crimsand Wall]</linked><span><span><linked>Hardened Crimsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Crimsand Wall]</linked><span><span><linked>Hardened Crimsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Crimsand Block]</linked><span><span><linked>Hardened Crimsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -250,7 +250,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Ebonsand Wall]</linked><span><span><linked>Hardened Ebonsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Ebonsand Wall]</linked><span><span><linked>Hardened Ebonsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Ebonsand Block]</linked><span><span><linked>Hardened Ebonsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -259,7 +259,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Pearlsand Wall]</linked><span><span><linked>Hardened Pearlsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Pearlsand Wall]</linked><span><span><linked>Hardened Pearlsand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Pearlsand Block]</linked><span><span><linked>Hardened Pearlsand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
@@ -268,7 +268,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Sand Wall]</linked><span><span><linked>Hardened Sand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hardened Sand Wall]</linked><span><span><linked>Hardened Sand Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"

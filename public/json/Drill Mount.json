@@ -12,8 +12,8 @@
     "Use time": "20 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Summons a rideable Drill mount<br>&lt;left&gt; to mine blocks, Right click to mine walls</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -23,7 +23,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Drill Containment Unit]</linked><span><span><linked>Drill Containment Unit</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(40)</span></li><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span> <span class=\"note-text\">(40)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span><span class=\"am\">40</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

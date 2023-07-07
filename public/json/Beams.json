@@ -2,25 +2,25 @@
   "type": "furnitures",
   "title": "Beams",
   "summaries": [
-    "<b>Beams</b> or <b>columns</b> are background <linked>furniture</linked> items that provide support for <linked>torches</linked> and can be used as decoration. They form continuous vertical pillars when stacked. They are found naturally in <linked>Underground Cabins</linked>, and can be crafted.",
-    "Beams and columns can be stacked from the ground, and exist in the background, providing support for suspended torches that will not inhibit character movement. In this way, beams and columns provide a function similar to <linked>trees</linked> (which also exist in the background and allow the player to suspend high torches), but which the player can construct where they like. Where <linked>background walls</linked> exist, beams and columns can also be placed in \"midair\", without support from below.",
-    "Despite their appearance as background walls, beams and columns instead share a layer with other furniture items (like <linked>tables</linked>, torches, <linked>statues</linked>, <linked>Switches</linked>, <linked>timers</linked>, etc.), thus the two cannot share the same tile space. They can also prevent a <linked>door</linked> from opening."
+    "<b>Beams</b> or <b>columns</b> are background <linked>furniture</linked> items that provide support for <linked>Torches</linked> and can be used as decoration. They form continuous vertical pillars when stacked. They are found naturally in <linked>Underground Cabins</linked>, and can be crafted.",
+    "Beams and columns can be stacked from the ground, and exist in the background, providing support for suspended Torches that will not inhibit character movement. In this way, beams and columns provide a function similar to <linked>trees</linked> (which also exist in the background and allow the player to suspend high Torches), but which the player can construct where they like. Where <linked>background walls</linked> exist, beams and columns can also be placed in \"midair\", without support from below.",
+    "Despite their appearance as background walls, beams and columns instead share a layer with other furniture items (like <linked>tables</linked>, Torches, <linked>statues</linked>, <linked>Switches</linked>, <linked>timers</linked>, etc.), thus the two cannot share the same tile space. They can also prevent a <linked>door</linked> from opening."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">50 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">50 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Boreal Beam]<span><span title=\"Boreal Beam\">Boreal Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4717</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Boreal Beam]<span><span title=\"Boreal Beam\">Boreal Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4717</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 7,
@@ -30,25 +30,25 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Granite Column]<span><span title=\"Granite Column\">Granite Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4719</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Granite Column]<span><span title=\"Granite Column\">Granite Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4719</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Marble Column]<span><span title=\"Marble Column\">Marble Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4554</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Marble Column]<span><span title=\"Marble Column\">Marble Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4554</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Mushroom Beam]<span><span title=\"Mushroom Beam\">Mushroom Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4721</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Mushroom Beam]<span><span title=\"Mushroom Beam\">Mushroom Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4721</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
@@ -57,7 +57,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Beam]<span><span title=\"Rich Mahogany Beam\">Rich Mahogany Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4718</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Beam]<span><span title=\"Rich Mahogany Beam\">Rich Mahogany Beam</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4718</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span></li></ul>"
@@ -66,16 +66,16 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sandstone Column]<span><span title=\"Sandstone Column\">Sandstone Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4720</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sandstone Column]<span><span title=\"Sandstone Column\">Sandstone Column</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4720</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Wooden Beam]<span><span title=\"Wooden Beam\">Wooden Beam</span><div class=\"id\">Internal <linked>Item ID</linked>: 480</div></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i -w multi-line\">[img:Wooden Beam]<span><span title=\"Wooden Beam\">Wooden Beam</span><div class=\"id\">Internal <linked>Item ID</linked>: 480</div></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span></li></ul>"

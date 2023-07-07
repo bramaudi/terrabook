@@ -2,16 +2,17 @@
   "type": "accessories",
   "title": "Flask of Venom",
   "summaries": [
-    "The <b>Flask of Venom</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>flask</linked> that imbues melee and <linked>whip</linked> attacks with the <linked>Acid Venom</linked> <linked>debuff</linked> for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 20 minutes / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 15 minutes. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, this effect will not be lost when the player <linked>dies</linked>.",
-    "The effect currently doesn't affect players in <linked>PvP</linked> scenarios. The debuff lasts for 5–9 seconds"
+    "The <b>Flask of Venom</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>flask</linked> that causes <linked>melee weapons</linked> and <span class=\"eil\"><span><linked>whips</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> to inflict the <linked>Acid Venom</linked> <linked>debuff</linked> for 5–9 seconds on enemies hit. Melee weapons that fire <linked>projectiles</linked> will also inflict the debuff on enemies hit by the projectiles (except for the <linked>Flairon</linked>'s bubbles).",
+    "The Flask of Venom cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> Like all other flasks, the effect will not be canceled when the player <linked>dies</linked>.",
+    "The Flask of Venom will not inflict the Acid Venom debuff in <linked>PvP</linked> scenarios.<small class=\"plainlinks\"></small>"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks inflict Acid Venom on enemies</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +22,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Flask of Venom]</linked><span><span><linked>Flask of Venom</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

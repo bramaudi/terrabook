@@ -1,1 +1,35 @@
-{"type":"weapons","title":"The Meatball","summaries":["<b>The Meatball</b> is a <linked>flail</linked> crafted using <linked>Crimtane Bars</linked> and <linked>Tissue Samples</linked>. It is the equivalent of the Corruption's <linked>Ball O' Hurt</linked> (which is not crafted, but obtained by smashing a <linked>Shadow Orb</linked>).","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"34 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 16 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Melee)</span>","Knockback":"5.5 <span class=\"knockback\">(Average)</span>","Critical chance":"4%","Use time":"45 <span class=\"usetime\">(Very slow)</span>","Velocity":"12","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>","Sell":"<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:The Meatball]</linked><span><span><linked>The Meatball</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "The Meatball",
+  "summaries": [
+    "<b>The Meatball</b> is a <linked>flail</linked> crafted using <linked>Crimtane Bars</linked> and <linked>Tissue Samples</linked>. It is the equivalent of the Corruption's <linked>Ball O' Hurt</linked> (which is not crafted, but obtained by smashing a <linked>Shadow Orb</linked>).",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "34 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 16 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5.5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "12",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"54 Silver Coins\" data-sort-value=\"5400\"><span class=\"sc\">54<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:The Meatball]</linked><span><span><linked>The Meatball</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span><span class=\"am\">5</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

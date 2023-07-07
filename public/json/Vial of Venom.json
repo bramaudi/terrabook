@@ -1,1 +1,57 @@
-{"type":"miscellaneous","title":"Vial of Venom","summaries":["The <b>Vial of Venom</b> is a <linked>Hardmode</linked> <linked>crafting material</linked> purchased from the <linked>Witch Doctor</linked> for <span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span> each, after <linked>Plantera</linked> has been defeated."],"statistics":{"Tooltip":"<i><span class=\"gameText\">'Extremely toxic'</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Buy":"<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>","Sell":"<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">25 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Flask of Venom]</linked><span><span><linked>Flask of Venom</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Venom Arrow]</linked><span><span><linked>Venom Arrow</linked></span></span></span> <span class=\"note-text\">(35)</span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(35)</span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"}},{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Venom Bullet]</linked><span><span><linked>Venom Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Empty Bullet]</linked><span><span><linked>Empty Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Vial of Venom",
+  "summaries": [
+    "The <b>Vial of Venom</b> is a <linked>Hardmode</linked> <linked>crafting material</linked> purchased from the <linked>Witch Doctor</linked> for <span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15<i> SC</i></span></span> each, after <linked>Plantera</linked> has been defeated."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">'Extremely toxic'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">25 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Flask of Venom]</linked><span><span><linked>Flask of Venom</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span><span class=\"am\">5</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Imbuing Station]</linked><span><span><linked>Imbuing Station</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Venom Arrow]</linked><span><span><linked>Venom Arrow</linked></span></span></span><span class=\"am\">35</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">35</span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Venom Bullet]</linked><span><span><linked>Venom Bullet</linked></span></span></span><span class=\"am\">50</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Bullet]</linked><span><span><linked>Empty Bullet</linked></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Vial of Venom]</linked><span><span><linked>Vial of Venom</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

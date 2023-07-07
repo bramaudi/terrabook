@@ -2,19 +2,19 @@
   "type": "furnitures",
   "title": "Crystal Ball",
   "summaries": [
-    "The <b>Crystal Ball</b> is a <linked>furniture</linked> item which functions as a <linked>crafting station</linked>. Placing and pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on it grants the <b>Clairvoyance</b> <linked>buff</linked>. It is purchased from the <linked>Wizard</linked> for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>.",
+    "The <b>Crystal Ball</b> is a <linked>furniture</linked> item which functions as a <linked>crafting station</linked>. Placing and pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on it grants the <b>Clairvoyance</b> <linked>buff</linked>. It is purchased from the <linked>Wizard</linked> for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>.",
     "The Clairvoyance buff boosts the following magic-related stats:",
     "<ul><li>+20 maximum <linked>mana</linked></li><li>+5% magic damage</li><li>+2% magic <linked>critical strike chance</linked></li><li>−2% mana usage</li></ul>",
-    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Clairvoyance buff lasts until the player <linked>dies</linked> or leaves the world. On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, it lasts for 10 minutes. On all versions, the buff can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
+    "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Clairvoyance buff lasts until the player <linked>dies</linked> or leaves the world. On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, it lasts for 10 minutes. On all versions, the buff can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon using Cycle Next/Previous Buff and then pressing Remove Buff (<linked>[img:Console version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Old-gen console version]</linked>),  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>), or  by canceling the buff from the buffs screen (<linked>[img:Nintendo 3DS version]</linked>).",
     "Unlike <linked>equipment buff items</linked>, the Crystal Ball must be placed in order to activate the buff. It can be mined with a <linked>pickaxe</linked> or <linked>drill</linked> and picked up again, even while the buff is active, which will not cancel the buff. Placement is only dependent on an adequate space of 2×2 tiles being available."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
@@ -30,10 +30,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Blue Starry Block]</linked><span><span><linked>Blue Starry Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blue Starry Block]</linked><span><span><linked>Blue Starry Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -51,7 +51,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Endless Musket Pouch]</linked><span><span><linked>Endless Musket Pouch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(3996)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span><span class=\"am\">3996</span></li></ul>"
         }
       },
       {
@@ -60,70 +60,70 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Endless Quiver]</linked><span><span><linked>Endless Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(3996)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">3996</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Gold Starry Block]</linked><span><span><linked>Gold Starry Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Starry Block]</linked><span><span><linked>Gold Starry Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Living Cursed Fire Block]</linked><span><span><linked>Living Cursed Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Living Cursed Fire Block]</linked><span><span><linked>Living Cursed Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Living Demon Fire Block]</linked><span><span><linked>Living Demon Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Living Demon Fire Block]</linked><span><span><linked>Living Demon Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Demon Torch]</linked><span><span><linked>Demon Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Demon Torch]</linked><span><span><linked>Demon Torch</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Living Frost Fire Block]</linked><span><span><linked>Living Frost Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Living Frost Fire Block]</linked><span><span><linked>Living Frost Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Living Ichor Block]</linked><span><span><linked>Living Ichor Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Living Ichor Block]</linked><span><span><linked>Living Ichor Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Living Ultrabright Fire Block]</linked><span><span><linked>Living Ultrabright Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Living Ultrabright Fire Block]</linked><span><span><linked>Living Ultrabright Fire Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Ultrabright Torch]</linked><span><span><linked>Ultrabright Torch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Living Fire Block]</linked><span><span><linked>Living Fire Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Ultrabright Torch]</linked><span><span><linked>Ultrabright Torch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -138,7 +138,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Sandfall Block]</linked><span><span><linked>Sandfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sandfall Block]</linked><span><span><linked>Sandfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li></ul>"
@@ -150,7 +150,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstorm in a Bottle]</linked><span><span><linked>Sandstorm in a Bottle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud in a Bottle]</linked><span><span><linked>Cloud in a Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
@@ -170,7 +170,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Magic Water Dropper]</linked><span><span><linked>Magic Water Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
@@ -190,7 +190,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Waterfall Block]</linked><span><span><linked>Waterfall Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Waterfall Block]</linked><span><span><linked>Waterfall Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
@@ -213,7 +213,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Magic Lava Dropper]</linked><span><span><linked>Magic Lava Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       }
     ],
@@ -221,7 +221,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Honeyfall Block]</linked><span><span><linked>Honeyfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Honeyfall Block]</linked><span><span><linked>Honeyfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
@@ -233,7 +233,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Magic Honey Dropper]</linked><span><span><linked>Magic Honey Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       }
     ]

@@ -2,13 +2,14 @@
   "type": "furnitures",
   "title": "Trophies",
   "summaries": [
-    "<b>Trophies</b> are decorative <linked>furniture</linked> items which usually have a <span class=\"chance\"><s>10*</s>1/10 (10%)</span> chance to be dropped from most <linked>bosses</linked>. While they can be considered the \"boss version of <linked>banners</linked>\", they are purely cosmetic and do not provide any bonuses. Some trophies can only be rewarded by the <linked>Angler</linked> for completing <linked>fishing quests</linked>. In total, there are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 33 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 24 trophies."
+    "<b>Trophies</b> are decorative <linked>furniture</linked> items which usually have a <span class=\"chance\"><s>10*</s>1/10 (10%)</span> chance to be dropped from most <linked>bosses</linked>. While they can be considered the \"boss version of <linked>banners</linked>\", they are purely cosmetic and do not provide any bonuses. Some trophies can only be rewarded by the <linked>Angler</linked> for completing <linked>fishing quests</linked>. In total, there are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 33 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 24 trophies."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span> (Angler quest) <br> <span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> (boss-dropped)",
-    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span> (Angler quest) <br> <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span> (boss-dropped)"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span> <span class=\"note-text\">(Angler quest)</span> <br> <span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span> <span class=\"note-text\">(boss-dropped)</span>",
+    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<i> SC</i></span></span> <span class=\"note-text\">(Angler quest)</span> <br> <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span> <span class=\"note-text\">(boss-dropped)</span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

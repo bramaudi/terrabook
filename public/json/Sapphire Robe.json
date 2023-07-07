@@ -10,8 +10,8 @@
     "Body slot": "Shirt",
     "Tooltip": "<i><span class=\"gameText\">Increases maximum mana by 40<br>9% reduced mana cost</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">50<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Sapphire Robe]</linked><span><span><linked>Sapphire Robe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Robe]</linked><span><span><linked>Robe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sapphire]</linked><span><span><linked>Sapphire</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Robe]</linked><span><span><linked>Robe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sapphire]</linked><span><span><linked>Sapphire</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

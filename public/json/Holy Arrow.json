@@ -3,27 +3,27 @@
   "title": "Holy Arrow",
   "summaries": [
     "<b>Holy Arrows</b> are a type of <linked>Hardmode</linked> <linked>arrow</linked>. When the arrow impacts with tiles or entities, two Hallow Star projectiles will fall from the sky to the impact location.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The Hallow Star projectiles do not pierce, and deal one third of the base damage of the arrow. The base damage of the arrow is the combined damage of the Holy Arrow, 13, and the weapon's base damage.",
-    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> The Hallow Star projectiles can pierce once, and deal full base damage of the arrow."
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> The Hallow Star projectiles do not pierce, and deal one third of the base damage of the arrow. The base damage of the arrow is the combined damage of the Holy Arrow, 13, and the weapon's base damage.",
+    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> The Hallow Star projectiles can pierce once, and deal full base damage of the arrow."
   ],
   "statistics": {
-    "Damage": "13 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 6 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Damage": "13 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 6 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"small-bold\">(Ranged)</span>",
     "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
     "Velocity": "3.5",
     "Tooltip": "<i><span class=\"gameText\">Summons falling stars on impact</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"16 Copper Coins\" data-sort-value=\"16\"><span class=\"cc\">16</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"16 Copper Coins\" data-sort-value=\"16\"><span class=\"cc\">16 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Holy Arrow]</linked><span><span><linked>Holy Arrow</linked></span></span></span> <span class=\"note-text\">(200)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Holy Arrow]</linked><span><span><linked>Holy Arrow</linked></span></span></span><span class=\"am\">200</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(200)</span></li><li><span class=\"i\"><linked>[img:Pixie Dust]</linked><span><span><linked>Pixie Dust</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">200</span></li><li><span class=\"i\"><linked>[img:Pixie Dust]</linked><span><span><linked>Pixie Dust</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -33,10 +33,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Holy Arrow]</linked><span><span><linked>Holy Arrow</linked></span></span></span> <span class=\"note-text\">(45)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Holy Arrow]</linked><span><span><linked>Holy Arrow</linked></span></span></span><span class=\"am\">45</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(45)</span></li><li><span class=\"i\"><linked>[img:Pixie Dust]</linked><span><span><linked>Pixie Dust</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">45</span></li><li><span class=\"i\"><linked>[img:Pixie Dust]</linked><span><span><linked>Pixie Dust</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
         }
       }
     ]

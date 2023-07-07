@@ -1,1 +1,35 @@
-{"type":"weapons","title":"Spear","summaries":["The <b>Spear</b> is the most basic of all <linked>spears</linked>. It is found in <linked>Wooden Chests</linked> that are located on the <linked>surface</linked> as well as in the <linked>underground</linked> <linked>layer</linked>.","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"8 <span class=\"small-bold\">(Melee)</span>","Knockback":"6.5 <span class=\"knockback\">(Strong)</span>","Critical chance":"4%","Use time":"31 <span class=\"usetime\">(Slow)</span>","Velocity":"3.7","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Sell":"<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Trident]</linked><span><span><linked>Trident</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Spear]</linked><span><span><linked>Spear</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Spear",
+  "summaries": [
+    "The <b>Spear</b> is the most basic of all <linked>spears</linked>. It is found in <linked>Wooden Chests</linked> that are located on the <linked>surface</linked> as well as in the <linked>underground</linked> <linked>layer</linked>.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "8 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "6.5 <span class=\"knockback\">(Strong)</span>",
+    "Critical chance": "4%",
+    "Use time": "31 <span class=\"usetime\">(Slow)</span>",
+    "Velocity": "3.7",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Trident]</linked><span><span><linked>Trident</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spear]</linked><span><span><linked>Spear</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
+}

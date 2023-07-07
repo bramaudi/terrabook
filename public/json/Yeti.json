@@ -3,16 +3,16 @@
   "title": "Yeti",
   "summaries": [
     "The <b>Yeti</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>enemy</linked> that spawns during the <linked>Frost Moon</linked> <linked>event</linked>, in its later waves. It behaves similarly to <linked>Krampus</linked> and the <linked>Nutcracker</linked>, although it is much stronger and is immune to <linked>knockback</linked>.",
-    "Defeating a Yeti adds 18 points (<linked>36 points</linked>) during the Frost Moon."
+    "Defeating a Yeti adds 18 / <linked>36</linked> / <linked>45</linked> points during the Frost Moon."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Frost Moon </linked></span></div>",
     "AI Type": "Fighter AI",
-    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">140</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">280</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">420</span></span></span>",
-    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">3500</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">7000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">10500</span></span></span>",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">140</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">210</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">315</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">3500</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">5250</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">7875</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">50</span></span>",
-    "KB Resist": "100%",
-    "Banner": "<span class=\"i -w\"><linked>[img:Yeti Banner]</linked><span><span><linked>Yeti Banner</linked></span><span class=\"eico s i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">100%</span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Yeti Banner]</linked><span><span><linked>Yeti Banner</linked></span><span class=\"eico s i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i><span>(Desktop, Console, Mobile and 3DS versions)</span></span></span></span>",
     "Immune to": "Frostburn, Frostbite"
   }
 }

@@ -2,27 +2,28 @@
   "type": "ammunitions",
   "title": "Lavafly",
   "summaries": [
-    "The <b>Lavafly</b> is a <linked>critter</linked> that can be used as <linked>bait</linked> to <linked>fish</linked> in <linked>lava</linked>.",
-    "Lavaflies will spawn occasionally in the <linked>Underworld</linked> at night. They can be caught with a <linked>Lavaproof Bug Net</linked> or <linked>Golden Bug Net</linked> to be carried around and released later, or put in a <linked>bottle</linked> to be used as furniture and a light source.",
-    "Attempting to catch a Lavafly with a standard <linked>Bug Net</linked> will not work, and the player will take 1 damage and be inflicted with <linked>On Fire!</linked> for 5 seconds / <linked>10 seconds</linked> / <linked>13 seconds</linked>."
+    "The <b>Lavafly</b> is a <linked>critter</linked> that spawn occasionally in the <linked>Underworld</linked> at night. The Lavafly has only 5 <linked>health</linked> and no <linked>defense</linked>, and can be damaged by other enemies and players.",
+    "The Lavafly can only be caught with the <linked>Lavaproof Bug Net</linked> or the <linked>Golden Bug Net</linked>. Trying to catch it with a standard <linked>Bug Net</linked> will only set the player <linked>on fire</linked>. After being caught, it can be carried around in the <linked>inventory</linked> and released later, or crafted into animated decorative <linked>furniture</linked> (<linked>Lavafly in a Bottle</linked>). Once crafted, the Lavafly cannot be released again.",
+    "The Lavafly can be used as <linked>bait</linked> for <linked>fishing</linked>, with 25% bait power. Using it as bait also allows fishing in <linked>lava</linked>.",
+    ""
   ],
   "statistics": {
     "Bait Power": "25%",
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lavafly in a Bottle]</linked><span><span><linked>Lavafly in a Bottle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavafly in a Bottle]</linked><span><span><linked>Lavafly in a Bottle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lavafly]</linked><span><span><linked>Lavafly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lavafly]</linked><span><span><linked>Lavafly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -1,1 +1,31 @@
-{"type":"miscellaneous","title":"Naughty Present","summaries":["The <b>Naughty Present</b> is a post-<linked>Plantera</linked> item used to summon the <linked>Frost Moon</linked> <linked>event</linked>. It can only be used at <linked>night</linked>. Attempting to use it during the day will not begin the event, and the item will not be consumed from the player's inventory."],"statistics":{"Consumable":"<span class=\"t-yes\">✔️</span>","Use time":"45 <span class=\"usetime\">(Very slow)</span>","Tooltip":"<i><span class=\"gameText\">Summons the Frost Moon</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">3 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Naughty Present]</linked><span><span><linked>Naughty Present</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Soul of Fright]</linked><span><span><linked>Soul of Fright</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Naughty Present",
+  "summaries": [
+    "The <b>Naughty Present</b> is a post-<linked>Plantera</linked> item used to summon the <linked>Frost Moon</linked> <linked>event</linked>. It can only be used at <linked>night</linked>. Attempting to use it during the day will not begin the event, and the item will not be consumed from the player's inventory."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Summons the Frost Moon</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">3 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Naughty Present]</linked><span><span><linked>Naughty Present</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Soul of Fright]</linked><span><span><linked>Soul of Fright</linked></span></span></span><span class=\"am\">5</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -2,25 +2,25 @@
   "type": "accessories",
   "title": "Dangersense Potion",
   "summaries": [
-    "The <b>Dangersense Potion</b> is a <linked>buff potion</linked> that grants the <b>Dangersense</b> <linked>buff</linked> when consumed. The <linked>buff</linked> reveals hazardous blocks and objects (can potentially harm or impede the player) by highlighting them in red, even in complete darkness. This lasts for 10 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>)."
+    "The <b>Dangersense Potion</b> is a <linked>buff potion</linked> that grants the <b>Dangersense</b> <linked>buff</linked> when consumed. The buff reveals hazardous blocks and objects (that can potentially harm or impede the player) by highlighting them in red, even in complete darkness. This lasts for 10 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon using Cycle Next/Previous Buff and then pressing Remove Buff (<linked>[img:Console version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Old-gen console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>)."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Allows you to see nearby danger sources</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Dangersense Potion]</linked><span><span><linked>Dangersense Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Dangersense Potion]</linked><span><span><linked>Dangersense Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Cobweb]</linked><span><span><linked>Cobweb</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Cobweb]</linked><span><span><linked>Cobweb</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

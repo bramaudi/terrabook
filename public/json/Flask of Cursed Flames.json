@@ -2,17 +2,17 @@
   "type": "accessories",
   "title": "Flask of Cursed Flames",
   "summaries": [
-    "The <b>Flask of Cursed Flames</b> is a <linked>Hardmode</linked> <linked>flask</linked> that, when applied, causes <linked>melee weapons</linked> (and <linked>Whips</linked>) to inflict the <linked>Cursed Inferno</linked> <linked>debuff</linked> for 3–6 seconds on a successful hit. Melee weapons that fire projectiles will also inflict the debuff on enemies hit by the projectiles.",
-    "The Flask of Cursed Flames cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. However, like other flasks, the effect will last across death.",
-    "The Flask of Cursed Flames will not inflict the Cursed Flames debuff in <linked>PvP</linked> scenarios."
+    "The <b>Flask of Cursed Flames</b> is a <linked>Hardmode</linked> <linked>flask</linked> that causes <linked>melee weapons</linked> and <span class=\"eil\"><span><linked>whips</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> to inflict the <linked>Cursed Inferno</linked> <linked>debuff</linked> for 3–6 seconds on enemies hit. Melee weapons that fire <linked>projectiles</linked> will also inflict the debuff on enemies hit by the projectiles (except for the <linked>Flairon</linked>'s bubbles).",
+    "The Flask of Cursed Flames cannot be used in conjunction with other flasks, and using it will remove any existing flask effects. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> Like all other flasks, the effect will not be canceled when the player <linked>dies</linked>.",
+    "The Flask of Cursed Flames will not inflict the Cursed Flames debuff in <linked>PvP</linked> scenarios.<small class=\"plainlinks\"></small>"
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Melee and Whip attacks inflict enemies with cursed flames</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -22,7 +22,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Cursed Flames]</linked><span><span><linked>Flask of Cursed Flames</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -35,7 +35,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Flask of Cursed Flames]</linked><span><span><linked>Flask of Cursed Flames</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       }
     ]

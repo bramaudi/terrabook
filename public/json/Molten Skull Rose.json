@@ -8,8 +8,8 @@
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Provides 7 seconds of immunity to lava<br>Grants immunity to fire blocks<br>Reduces damage from touching lava</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 6]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Molten Skull Rose]</linked><span><span><linked>Molten Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Skull Rose]</linked><span><span><linked>Obsidian Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Charm]</linked><span><span><linked>Lava Charm</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian Skull Rose]</linked><span><span><linked>Obsidian Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Lava Charm]</linked><span><span><linked>Lava Charm</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -33,7 +33,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Skull]</linked><span><span><linked>Magma Skull</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull Rose]</linked><span><span><linked>Obsidian Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magma Skull]</linked><span><span><linked>Magma Skull</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Obsidian Skull Rose]</linked><span><span><linked>Obsidian Skull Rose</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       }
     ],

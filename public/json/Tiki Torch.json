@@ -8,8 +8,8 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 3 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tiki Torch]</linked><span><span><linked>Tiki Torch</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

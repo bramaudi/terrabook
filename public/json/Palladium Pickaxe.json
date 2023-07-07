@@ -17,10 +17,10 @@
     "Critical chance": "4%",
     "Use time": "25 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "12",
-    "Tooltip": "<i><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span> <span class=\"gameText\">Can mine Mythril and Orichalcum</span><br><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span> Can mine Mythril, Orichalcum, Adamantite, and Titanium</i>",
+    "Tooltip": "<i><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span> <span class=\"gameText\">Can mine Mythril and Orichalcum</span><br><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span> Can mine Mythril, Orichalcum, Adamantite, and Titanium</i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1</span><span class=\"sc\">44</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 44 Silver Coins\" data-sort-value=\"14400\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">44<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -30,7 +30,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Palladium Pickaxe]</linked><span><span><linked>Palladium Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

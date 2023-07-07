@@ -1,1 +1,39 @@
-{"type":"weapons","title":"Phantasm","summaries":["The <b>Phantasm</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> craftable <linked>bow</linked> that <linked>auto-fires</linked> four <linked>arrows</linked> at once, while only consuming a single arrow from the player's inventory. Arrows are loosely grouped and can fire with varied velocities and ranges (similar to the <linked>Chlorophyte Shotbow</linked>). The bow has a <span class=\"chance\"><s>66.67*</s>2/3 (66.67%)</span> chance of <linked>not consuming ammunition</linked>.","Constantly shooting with the Phantasm will gradually increase its fire rate from once per 24 frames, up to once per 18 frames, regardless of use time, meaning that the Phantasm does not benefit from speed modifiers. Stopping the attack or switching to another item will reset this effect immediately, making switching weapons inefficient.","In addition, each successful hit on an enemy causes 3 magical arrow projectiles to fire and home in on the target that was hit initially, each one dealing 30% of the original projectile's damage, without any additional <linked>ammo</linked> or <linked>mana</linked> cost. The rate of fire of these projectiles depends on the current rate of fire of the Phantasm.","Its best <linked>modifier</linked> is <b>Unreal</b>. Since it does not benefit from speed modifiers, <b>Godly</b> and <b>Demonic</b> provide the same <abbr title=\"Damage per second\">DPS</abbr> bonus as Unreal."],"statistics":{"Uses ammo":"<linked>Arrows</linked>","Damage":"50 <span class=\"small-bold\">(Ranged)</span>","Knockback":"2 <span class=\"knockback\">(Very weak)</span>","Critical chance":"4%","Use time":"12 <span class=\"usetime\">(Very fast)</span>","Velocity":"20","Tooltip":"<i><span class=\"gameText\">66% chance to save ammo</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Phantasm]</linked><span><span><linked>Phantasm</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Vortex Fragment]</linked><span><span><linked>Vortex Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Phantasm",
+  "summaries": [
+    "The <b>Phantasm</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> craftable <linked>bow</linked> that <linked>auto-fires</linked> four <linked>arrows</linked> at once, while only consuming a single arrow from the player's inventory. Arrows are loosely grouped and can fire with varied velocities and ranges (similar to the <linked>Chlorophyte Shotbow</linked>). The bow has a <span class=\"chance\"><s>66.67*</s>2/3 (66.67%)</span> chance of <linked>not consuming ammunition</linked>.",
+    "Constantly shooting with the Phantasm will gradually increase its fire rate from once per 24 frames, up to once per 18 frames, regardless of use time, meaning that the Phantasm does not benefit from speed modifiers. Stopping the attack or switching to another item will reset this effect immediately, making switching weapons inefficient.",
+    "In addition, each successful hit on an enemy causes 3 magical arrow projectiles to fire and home in on the target that was hit initially, each one dealing 30% of the original projectile's damage, without any additional <linked>ammo</linked> or <linked>mana</linked> cost. The rate of fire of these projectiles depends on the current rate of fire of the Phantasm.",
+    "Its best <linked>modifier</linked> is <b>Unreal</b>. Since it does not benefit from speed modifiers, <b>Godly</b> and <b>Demonic</b> provide the same <abbr title=\"Damage per second\">DPS</abbr> bonus as Unreal."
+  ],
+  "statistics": {
+    "Uses ammo": "<linked>Arrows</linked>",
+    "Damage": "50 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "20",
+    "Tooltip": "<i><span class=\"gameText\">66% chance to save ammo</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Phantasm]</linked><span><span><linked>Phantasm</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Fragment]</linked><span><span><linked>Vortex Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">18</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+        }
+      }
+    ]
+  }
+}

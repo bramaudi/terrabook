@@ -7,7 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Tin Pickaxe</b> is an early-game <linked>pickaxe</linked> that is weaker than the <linked>Iron</linked> and <linked>Lead Pickaxes</linked>. Compared to its alternate <linked>ore</linked> version, the <linked>Copper Pickaxe</linked>, it has the same <linked>pickaxe power</linked>, but deals 1 more damage, is slightly faster in terms of <linked>mining speed</linked>, and has a longer range by 1 tile. Like other low-tier pickaxes, it can only mine <linked>blocks</linked> and ores weaker than <linked>Meteorite</linked> (which requires a pickaxe with at least 50% pickaxe power, e.g. a <linked>Tungsten Pickaxe</linked>).",
+    "The <b>Tin Pickaxe</b> is an early-game <linked>pickaxe</linked>. Its alternate ore counterpart is the <linked>Copper Pickaxe</linked>.",
+    "Like other low-tier pickaxes, the Tin Pickaxe can only mine <linked>blocks</linked> and ores weaker than <linked>Meteorite</linked> (which requires a pickaxe with at least 50% <linked>pickaxe power</linked>, e.g. a <linked>Tungsten Pickaxe</linked>).",
     "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
@@ -17,8 +18,8 @@
     "Use time": "21 <span class=\"usetime\">(Fast)</span>",
     "Tool speed": "14",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1<i> SC</i></span><span class=\"cc\">50 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +29,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Pickaxe]</linked><span><span><linked>Tin Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -41,7 +42,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Pickaxe]</linked><span><span><linked>Tin Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ]

@@ -1,1 +1,29 @@
-{"type":"miscellaneous","title":"Bone Feather","summaries":["The <b>Bone Feather</b> is a rare <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>crafting material</linked> used solely to craft <linked>Bone Wings</linked>. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.33*</s>1/300 (0.33%)</span> / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"chance\"><s>0.22*</s>1/450 (0.22%)</span> chance of being dropped by any <linked>Armored Bones</linked> variant (<linked>Blue</linked>, <linked>Rusty</linked>, or <linked>Hell Armored Bones</linked>) in the <linked>Dungeon</linked> after Plantera has been defeated."],"statistics":{"Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>","Sell":"<span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2</span><span class=\"sc\">50</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Used_in\">Used in</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Bone Wings]</linked><span><span><linked>Bone Wings</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Soul of Flight]</linked><span><span><linked>Soul of Flight</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Bone Feather]</linked><span><span><linked>Bone Feather</linked></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Bone Feather",
+  "summaries": [
+    "The <b>Bone Feather</b> is a rare <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>crafting material</linked> used solely to craft <linked>Bone Wings</linked>. It has a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> <span class=\"chance\"><s>0.33*</s>1/300 (0.33%)</span> / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"chance\"><s>0.22*</s>1/450 (0.22%)</span> chance of being dropped by any <linked>Armored Bones</linked> variant (<linked>Blue</linked>, <linked>Rusty</linked>, or <linked>Hell Armored Bones</linked>) in the <linked>Dungeon</linked> after Plantera has been defeated."
+  ],
+  "statistics": {
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<i> GC</i></span><span class=\"sc\">50<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Bone Wings]</linked><span><span><linked>Bone Wings</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Soul of Flight]</linked><span><span><linked>Soul of Flight</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Bone Feather]</linked><span><span><linked>Bone Feather</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

@@ -1,1 +1,22 @@
-{"type":"weapons","title":"Candy Corn Rifle","summaries":["The <b>Candy Corn Rifle</b> is a <linked>Hardmode</linked> post-<linked>Plantera</linked> <linked>gun</linked> that <linked>auto-fires</linked> <linked>Candy Corn</linked> as <linked>ammunition</linked>. It is dropped rarely (1.79–14.29% chance) by the <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked>. Candy Corn drops along with the weapon, and can be purchased from the <linked>Arms Dealer</linked> when a Candy Corn Rifle is in the player's <linked>inventory</linked>.","Candy Corn shots pierce up to two enemies and ricochet up to four times, dissipating on their fifth impact or third enemy hit. The gun has a high fire rate, but unlike most guns, its projectiles are affected by gravity and do not remain airborne for long, though their ricochet ability helps them gain distance.","The Candy Corn Rifle has a base 10% <linked>critical strike chance</linked> as opposed to the usual 4%. Furthermore, it has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance <linked>not to consume ammo</linked>.","Its best <linked>modifier</linked> is <b>Unreal</b>."],"statistics":{"Uses ammo":"<linked>Candy Corn</linked>","Damage":"44 <span class=\"small-bold\">(Ranged)</span>","Knockback":"2 <span class=\"knockback\">(Very weak)</span>","Critical chance":"10%","Use time":"9 <span class=\"usetime\">(Very fast)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">33% chance to save ammo</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Candy Corn Rifle",
+  "summaries": [
+    "The <b>Candy Corn Rifle</b> is a <linked>Hardmode</linked> post-<linked>Plantera</linked> <linked>gun</linked> that <linked>auto-fires</linked> <linked>Candy Corn</linked> as <linked>ammunition</linked>. Candy Corn is always dropped alongside the weapon in an amount ranging from 50 to 100. Additional Candy Corn can be purchased from the <linked>Arms Dealer</linked> for <span class=\"coin\" title=\"5 Copper Coins\" data-sort-value=\"5\"><span class=\"cc\">5 <i>CC</i></span></span> if the Candy Corn Rifle is in the player's <linked>inventory</linked>.",
+    "Candy Corn shots pierce up to two enemies and ricochet up to four times, dissipating on their fifth impact or upon hitting a third enemy. The gun has a high fire rate, but unlike most guns, its projectiles are affected by gravity and do not remain airborne for long, though their ricocheting ability helps them gain distance. The Candy Corn Rifle has a base 10% <linked>critical strike chance</linked> as opposed to the usual 4%. Furthermore, it has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance to <linked>not consume ammo</linked>. The Candy Corn Rifle is dropped by the <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked> with a 1.56 ~ 12.5% (<linked>6.25 ~ 12.5%</linked>) chance depending on the current wave.",
+    "Its best <linked>modifier</linked> is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "<linked>Candy Corn</linked>",
+    "Damage": "44 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "10%",
+    "Use time": "9 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">33% chance to save ammo</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

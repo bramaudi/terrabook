@@ -7,8 +7,8 @@
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows the ability to climb walls</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -43,7 +43,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Frog Webbing]</linked><span><span><linked>Frog Webbing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frog Webbing]</linked><span><span><linked>Frog Webbing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Frog Leg]</linked><span><span><linked>Frog Leg</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tiger Climbing Gear]</linked><span><span><linked>Tiger Climbing Gear</linked></span></span></span></li></ul>"

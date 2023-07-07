@@ -2,22 +2,21 @@
   "type": "blocks",
   "title": "Dirt Block",
   "summaries": [
-    "<b>Dirt Blocks</b> are one of the most common <linked>block</linked> types in <i><linked>Terraria</linked></i>, covering the majority of the world's surface.",
-    "Dirt Blocks may be covered by regular <linked>grass</linked>, <linked>Corrupt grass</linked>, <linked>Crimson grass</linked>, or <linked>Hallowed grass</linked>, which spreads from nearby grass-covered Dirt Blocks. It can also be turned into regular grass by using the <linked>Staff of Regrowth</linked>.",
-    "<ul><li>In all cases, the grass applies to the block as a whole, and will appear on all exposed surfaces.</li><li>If a grass block is covered by blocks on its four sides, the grass will remain and show as markings on the block.  However, if the block is completely surrounded with eight blocks, the grass is lost and the block will revert to regular dirt.</li></ul>",
-    "Dirt occurs naturally almost everywhere throughout the world. All caves above the <linked>elevation</linked> of 0 ft are made of dirt. Below 0 ft, in the <linked>underground</linked> layer, the caves are made of roughly 50% dirt. Small patches of dirt can be found in the <linked>cavern</linked> layer, though it is mostly made of <linked>stone</linked>."
+    "The <b>Dirt Block</b> is one of the most common <linked>blocks</linked> in <i><linked>Terraria</linked></i>, occurring naturally almost everywhere throughout the world. All caves above the <linked>elevation</linked> of 0 ft are made of Dirt. Below 0 ft, in the <linked>underground</linked> layer, the caves are made of roughly 50% Dirt. Small patches of Dirt can be found in the <linked>cavern</linked> layer, though it is mostly made of <linked>Stone</linked>.",
+    "Dirt Blocks may be covered by different types of <linked>grass</linked>: regular, Corrupt, Crimson, Hallowed, mowed, or mowed Hallowed. Grass <linked>spreads</linked> onto adjacent Dirt Blocks, and it can be grown manually using <linked>seeds</linked> or the <linked>Staff of Regrowth</linked> or <span class=\"eil\"><span><linked>Axe of Regrowth</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>.",
+    "<ul><li>In all cases, the grass applies to the block as a whole, and will appear on all exposed surfaces.</li><li>If a grass block is covered by blocks on its four sides, the grass will remain and show as markings on the block. However, if the block is completely surrounded with eight blocks, the grass is lost and the block will revert to regular Dirt.</li></ul>"
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
-          "rowspan": 2,
+          "rowspan": 9,
           "value": "<span class=\"i multi-line\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span>"
         },
         "ingredients": {
@@ -25,12 +24,12 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Wall]</linked><span><span><linked>Dirt Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Wall]</linked><span><span><linked>Dirt Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 8,
@@ -38,42 +37,38 @@
         }
       },
       {
-        "result": {
-          "rowspan": 7,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span>"
-        },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cave Dirt Wall]</linked><span><span><linked>Cave Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rocky Dirt Wall]</linked><span><span><linked>Rocky Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cracked Dirt Wall]</linked><span><span><linked>Cracked Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cave Dirt Wall]</linked><span><span><linked>Cave Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crumbling Dirt Wall]</linked><span><span><linked>Crumbling Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rough Dirt Wall]</linked><span><span><linked>Rough Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Layered Dirt Wall]</linked><span><span><linked>Layered Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Layered Dirt Wall]</linked><span><span><linked>Layered Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rocky Dirt Wall]</linked><span><span><linked>Rocky Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crumbling Dirt Wall]</linked><span><span><linked>Crumbling Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rough Dirt Wall]</linked><span><span><linked>Rough Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cracked Dirt Wall]</linked><span><span><linked>Cracked Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wavy Dirt Wall]</linked><span><span><linked>Wavy Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wavy Dirt Wall]</linked><span><span><linked>Wavy Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -81,10 +76,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Dirt Bomb]</linked><span><span><linked>Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Dirt Bomb]</linked><span><span><linked>Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -94,19 +89,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Sticky Dirt Bomb]</linked><span><span><linked>Sticky Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sticky Dirt Bomb]</linked><span><span><linked>Sticky Dirt Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sticky Bomb]</linked><span><span><linked>Sticky Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sticky Bomb]</linked><span><span><linked>Sticky Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Helmet]</linked><span><span><linked>Floret Protector Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Helmet]</linked><span><span><linked>Floret Protector Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Daybloom]</linked><span><span><linked>Daybloom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -116,25 +111,25 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Pants]</linked><span><span><linked>Floret Protector Pants</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Pants]</linked><span><span><linked>Floret Protector Pants</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Shirt]</linked><span><span><linked>Floret Protector Shirt</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Floret Protector Shirt]</linked><span><span><linked>Floret Protector Shirt</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -154,13 +149,13 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Dirt Wall]</linked><span><span><linked>Dirt Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Dirt Wall]</linked><span><span><linked>Dirt Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -173,20 +168,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Cave Dirt Wall]</linked><span><span><linked>Cave Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cave Dirt Wall]</linked><span><span><linked>Cave Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 7,
-          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Cracked Dirt Wall]</linked><span><span><linked>Cracked Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cracked Dirt Wall]</linked><span><span><linked>Cracked Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -195,7 +190,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crumbling Dirt Wall]</linked><span><span><linked>Crumbling Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Crumbling Dirt Wall]</linked><span><span><linked>Crumbling Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -204,7 +199,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Layered Dirt Wall]</linked><span><span><linked>Layered Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Layered Dirt Wall]</linked><span><span><linked>Layered Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -213,7 +208,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Rocky Dirt Wall]</linked><span><span><linked>Rocky Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Rocky Dirt Wall]</linked><span><span><linked>Rocky Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -222,7 +217,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Rough Dirt Wall]</linked><span><span><linked>Rough Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Rough Dirt Wall]</linked><span><span><linked>Rough Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -231,7 +226,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Wavy Dirt Wall]</linked><span><span><linked>Wavy Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Wavy Dirt Wall]</linked><span><span><linked>Wavy Dirt Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"

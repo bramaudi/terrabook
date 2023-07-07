@@ -18,18 +18,18 @@
     "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
     "Tool speed": "4",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Digging Claw]</linked><span><span><linked>Shroomite Digging Claw</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Digging Claw]</linked><span><span><linked>Shroomite Digging Claw</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

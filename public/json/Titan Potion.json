@@ -2,25 +2,25 @@
   "type": "accessories",
   "title": "Titan Potion",
   "summaries": [
-    "The <b> Titan Potion</b> is a <linked>buff potion</linked> which grants the <b>Titan</b> <linked>buff</linked> when consumed, increasing the amount of <linked>knockback</linked> enemies will take by 50% when attacked by the player. This lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 minutes / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> 4 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>)."
+    "The <b> Titan Potion</b> is a <linked>buff potion</linked> which grants the <b>Titan</b> <linked>buff</linked> when consumed, increasing the amount of <linked>knockback</linked> enemies will take by 50% when attacked by the player. This lasts for <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 8 minutes / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span> 4 minutes, but can be canceled at any time  by right-clicking the icon (<linked>[img:Desktop version]</linked>),  by selecting the icon using Cycle Next/Previous Buff and then pressing Remove Buff (<linked>[img:Console version]</linked>),  by selecting the icon and canceling it in the equipment menu (<linked>[img:Old-gen console version]</linked>), or  by double-tapping the buff icon (<linked>[img:Mobile version]</linked>)."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Increases knockback</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Titan Potion]</linked><span><span><linked>Titan Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Titan Potion]</linked><span><span><linked>Titan Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Deathweed]</linked><span><span><linked>Deathweed</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Deathweed]</linked><span><span><linked>Deathweed</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

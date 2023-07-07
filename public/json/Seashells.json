@@ -3,8 +3,8 @@
   "title": "Seashells",
   "summaries": [
     "<b>Seashells</b> are decorative items that can be found in the <linked>Ocean</linked> biomes. They can spawn on <linked>Sand Blocks</linked> within the biome, both on the beach and underwater. When placed, they can appear as one of three variants.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Seashells can appear back on beaches and underwater, as long as no more than 3 <linked>Corals</linked> or Seashells are within an 8-tile range. Spawn rates scale with <linked>Rain</linked>, <linked>Wind</linked>, and empty space up to 14 tiles above the Sand Block. When a Seashell spawns, there is a 79.4% chance for either a regular Seashell or a Starfish, 9.8% chance for a Tulip Shell, 8.8% chance for a Lightning Whelk Shell, and 2% chance for a Junonia Shell.",
-    "<span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i></span> Seashells do not respawn and are limited to the number spawned during world generation, making them a <linked>non-renewable item</linked>."
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> Seashells can appear back on beaches and underwater, as long as no more than 3 <linked>Corals</linked> or Seashells are within an 8-tile range. Spawn rates scale with <linked>Rain</linked>, <linked>Wind</linked>, and empty space up to 14 tiles above the Sand Block. When a Seashell spawns, there is a 79.4% chance for either a regular Seashell or a Starfish, 9.8% chance for a Tulip Shell, 8.8% chance for a Lightning Whelk Shell, and 2% chance for a Junonia Shell.",
+    "<span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span> Seashells do not respawn and are limited to the number spawned during world generation, making them a <linked>non-renewable item</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -16,47 +16,47 @@
       {
         "result": {
           "rowspan": 5,
-          "value": "<span class=\"i multi-line\"><linked>[img:Shell Pile]</linked><span><span><linked>Shell Pile</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shell Pile]</linked><span><span><linked>Shell Pile</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Junonia Shell]</linked><span><span><linked>Junonia Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Seashell]</linked><span><span><linked>Seashell</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 5,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Whelk Shell]</linked><span><span><linked>Lightning Whelk Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Junonia Shell]</linked><span><span><linked>Junonia Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Seashell]</linked><span><span><linked>Seashell</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Whelk Shell]</linked><span><span><linked>Lightning Whelk Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Starfish]</linked><span><span><linked>Starfish</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tulip Shell]</linked><span><span><linked>Tulip Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tulip Shell]</linked><span><span><linked>Tulip Shell</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Starfish]</linked><span><span><linked>Starfish</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Coral]</linked><span><span><linked>Coral</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Seashell]</linked><span><span><linked>Seashell</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Coral]</linked><span><span><linked>Coral</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Seashell]</linked><span><span><linked>Seashell</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -3,15 +3,14 @@
   "title": "Bottomless Buckets",
   "toolpower": [],
   "summaries": [
-    "<b>Bottomless Buckets</b> are <linked>tools</linked> that is capable of placing an infinite amount of <linked>liquids</linked> by pressing the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> button. There are four different types of bottomless buckets:",
-    "<ul><li><b>Bottomless Water Bucket</b></li><li><b>Bottomless Lava Bucket</b></li><li><b>Bottomless Honey Bucket</b></li><li><b>Bottomless Shimmer Bucket</b></li></ul>",
-    "Bottomless Buckets can be used limitlessly and are never depleted. They are also slightly faster at placing liquids when compared to using a standard <linked>Bucket</linked> (especially when moving the cursor around while placing)."
+    "<b>Bottomless Buckets</b> are <linked>tools</linked> that are capable of placing an infinite amount of <linked>liquids</linked> by pressing the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> button. There are four different types of Bottomless Buckets, one for each type of liquid: <b>Bottomless Water Bucket</b>, <b>Bottomless Lava Bucket</b>, <b>Bottomless Honey Bucket</b>, and <b>Bottomless Shimmer Bucket</b>.",
+    "Bottomless Buckets can be used limitlessly and are never depleted. They are also slightly faster at placing liquids when compared to standard <linked>buckets</linked> (especially when moving the cursor around while placing)."
   ],
   "statistics": {
     "Bonus": "+2 range",
     "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
-    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,11 +20,11 @@
           "value": "<span class=\"i multi-line\">[img:Bottomless Shimmer Bucket]<span><span title=\"Bottomless Shimmer Bucket\">Bottomless Shimmer Bucket</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Bottomless Water Bucket]</linked><span><span><linked>Bottomless Water Bucket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite Bar]</linked><span><span><linked>Luminite Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Bottomless Water Bucket]</linked><span><span><linked>Bottomless Water Bucket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {

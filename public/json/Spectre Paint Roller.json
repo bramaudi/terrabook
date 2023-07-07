@@ -11,8 +11,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Used with paint to color walls<br>Can also apply coatings</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6</span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><br><span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6<i> GC</i></span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><br><span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span> <span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -22,7 +22,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Spectre Paint Roller]</linked><span><span><linked>Spectre Paint Roller</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spectre Bar]</linked><span><span><linked>Spectre Bar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -32,10 +32,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Spectre Paint Roller]</linked><span><span><linked>Spectre Paint Roller</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Spectre Paint Roller]</linked><span><span><linked>Spectre Paint Roller</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       }
     ]

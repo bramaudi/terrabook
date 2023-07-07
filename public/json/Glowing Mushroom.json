@@ -2,14 +2,15 @@
   "type": "blocks",
   "title": "Glowing Mushroom",
   "summaries": [
-    "<b>Glowing Mushrooms</b> are <linked>crafting materials</linked> that can be found growing on <linked>Mushroom grass</linked> in the <linked>Glowing Mushroom biome</linked>. Harvesting these mushrooms has a chance of dropping a Glowing Mushroom and may also yield <linked>Mushroom Grass Seeds</linked>. They emit their own light, making them quite easy to find. If the conditions are right, <linked>Giant Glowing Mushrooms</linked> will spawn amongst the small ones. These can be harvested with an <linked>axe</linked> to yield several Glowing Mushrooms and Mushroom Grass Seeds. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Some Mushroom vines also grow under Mushroom grass and also drop Glowing Mushrooms when broken."
+    "The <b>Glowing Mushroom</b> is a <linked>plant</linked> and <linked>crafting material</linked> that can be found on <linked>Mushroom grass</linked> in the <linked>Glowing Mushroom biome</linked>. Glowing Mushroom plants emit blue light.",
+    "Instead of placed as a plant, Glowing Mushroom items are placed as solid <linked>blocks</linked>. Glowing Mushroom items can be obtained by destroying Glowing Mushroom plants, cutting down <linked>Giant Glowing Mushrooms</linked>, and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> destroying Mushroom <linked>vines</linked> and <linked>cattails</linked>. Doing so will also yield <linked>Mushroom Grass Seeds</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Copper Coins\" data-sort-value=\"10\"><span class=\"cc\">10 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +20,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -28,7 +29,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Wall]</linked><span><span><linked>Mushroom Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Wall]</linked><span><span><linked>Mushroom Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -41,7 +42,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       }
     ],
@@ -52,7 +53,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -62,10 +63,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Campfire]</linked><span><span><linked>Mushroom Campfire</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Campfire]</linked><span><span><linked>Mushroom Campfire</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Mushroom Torch]</linked><span><span><linked>Mushroom Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Mushroom Torch]</linked><span><span><linked>Mushroom Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -75,7 +76,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
@@ -84,10 +85,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Torch]</linked><span><span><linked>Mushroom Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Torch]</linked><span><span><linked>Mushroom Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -96,7 +97,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Work Bench]</linked><span><span><linked>Mushroom Work Bench</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -105,7 +106,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Chandelier]</linked><span><span><linked>Mushroom Chandelier</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -118,11 +119,11 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Healing Potion]</linked><span><span><linked>Healing Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Healing Potion]</linked><span><span><linked>Lesser Healing Potion</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Healing Potion]</linked><span><span><linked>Lesser Healing Potion</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -131,7 +132,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mana Potion]</linked><span><span><linked>Mana Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Mana Potion]</linked><span><span><linked>Lesser Mana Potion</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Mana Potion]</linked><span><span><linked>Lesser Mana Potion</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -140,7 +141,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Restoration Potion]</linked><span><span><linked>Restoration Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mushroom]</linked><span><span><linked>Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -158,7 +159,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bathtub]</linked><span><span><linked>Mushroom Bathtub</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 10,
@@ -168,7 +169,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Beam]</linked><span><span><linked>Mushroom Beam</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Beam]</linked><span><span><linked>Mushroom Beam</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
@@ -180,25 +181,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bed]</linked><span><span><linked>Mushroom Bed</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bench]</linked><span><span><linked>Mushroom Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bench]</linked><span><span><linked>Mushroom Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bookcase]</linked><span><span><linked>Mushroom Bookcase</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Bookcase]</linked><span><span><linked>Mushroom Bookcase</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -207,43 +208,43 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Clock]</linked><span><span><linked>Mushroom Clock</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Dresser]</linked><span><span><linked>Mushroom Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Dresser]</linked><span><span><linked>Mushroom Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Piano]</linked><span><span><linked>Mushroom Piano</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Piano]</linked><span><span><linked>Mushroom Piano</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Sofa]</linked><span><span><linked>Mushroom Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Sofa]</linked><span><span><linked>Mushroom Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Toilet]</linked><span><span><linked>Mushroom Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Toilet]</linked><span><span><linked>Mushroom Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -252,7 +253,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Candelabra]</linked><span><span><linked>Mushroom Candelabra</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 12,
@@ -265,7 +266,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Candle]</linked><span><span><linked>Mushroom Candle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -274,7 +275,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Chair]</linked><span><span><linked>Mushroom Chair</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -283,7 +284,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Chest]</linked><span><span><linked>Mushroom Chest</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -292,7 +293,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Clock]</linked><span><span><linked>Mushroom Clock</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -301,16 +302,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Door]</linked><span><span><linked>Mushroom Door</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Lamp]</linked><span><span><linked>Mushroom Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Lamp]</linked><span><span><linked>Mushroom Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -319,13 +320,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Lantern]</linked><span><span><linked>Mushroom Lantern</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mushroom Platform]</linked><span><span><linked>Mushroom Platform</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
@@ -334,10 +335,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Sink]</linked><span><span><linked>Mushroom Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Sink]</linked><span><span><linked>Mushroom Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -346,13 +347,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Table]</linked><span><span><linked>Mushroom Table</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Wall]</linked><span><span><linked>Mushroom Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mushroom Wall]</linked><span><span><linked>Mushroom Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"

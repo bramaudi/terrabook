@@ -7,18 +7,18 @@
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases view range for guns (Right click to zoom out)<br>10% increased ranged damage and critical strike chance<br>Enemies are less likely to target you<br>'Enemy spotted'</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Recon Scope]</linked><span><span><linked>Recon Scope</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Recon Scope]</linked><span><span><linked>Recon Scope</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sniper Scope]</linked><span><span><linked>Sniper Scope</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sniper Scope]</linked><span><span><linked>Sniper Scope</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

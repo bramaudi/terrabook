@@ -11,7 +11,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -30,7 +30,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -83,10 +83,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -105,7 +105,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -118,7 +118,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li></ul>"
@@ -129,10 +129,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -142,7 +142,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
@@ -166,10 +166,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Blood Water]</linked><span><span><linked>Blood Water</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blood Water]</linked><span><span><linked>Blood Water</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Seeds]</linked><span><span><linked>Crimson Seeds</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Seeds]</linked><span><span><linked>Crimson Seeds</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -222,10 +222,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -238,7 +238,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

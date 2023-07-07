@@ -10,27 +10,27 @@
     "Velocity": "3",
     "Tooltip": "<i><span class=\"gameText\">Falls upwards</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Copper Coins\" data-sort-value=\"2\"><span class=\"cc\">2 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Shimmer Arrow]</linked><span><span><linked>Shimmer Arrow</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shimmer Arrow]</linked><span><span><linked>Shimmer Arrow</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hellfire Arrow]</linked><span><span><linked>Hellfire Arrow</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellfire Arrow]</linked><span><span><linked>Hellfire Arrow</linked></span></span></span></li></ul>"
         }
       }
     ]

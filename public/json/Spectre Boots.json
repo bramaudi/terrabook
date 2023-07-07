@@ -8,8 +8,8 @@
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Allows flight<br>The wearer can run super fast</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Spectre Boots]</linked><span><span><linked>Spectre Boots</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Dunerider Boots]</linked><span><span><linked>Dunerider Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hermes Boots]</linked><span><span><linked>Hermes Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -33,12 +33,12 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hermes Boots]</linked><span><span><linked>Hermes Boots</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sailfish Boots]</linked><span><span><linked>Sailfish Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sailfish Boots]</linked><span><span><linked>Sailfish Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dunerider Boots]</linked><span><span><linked>Dunerider Boots</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Rocket Boots]</linked><span><span><linked>Rocket Boots</linked></span></span></span></li></ul>"
         }
       }
     ],

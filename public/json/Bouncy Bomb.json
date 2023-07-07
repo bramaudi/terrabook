@@ -1,1 +1,37 @@
-{"type":"weapons","title":"Bouncy Bomb","summaries":["The <b>Bouncy Bomb</b> is an <linked>explosive</linked> crafted from a <linked>Bomb</linked> and a <linked>Pink Gel</linked>. It bounces off surfaces before exploding. It can be used as a mining tool or a weapon, although generally the former. When used, it is thrown a few blocks away from the player.","After 3 seconds, it will explode, inflicting 100 points of damage to nearby enemies and destroying multiple blocks around it. The player can also inflict harm to themselves if not careful.","Bombs can destroy almost any block, <linked>with some exceptions</linked>, which can then be collected. They can also be thrown through one block thick walls, like some other tossables. Additionally, Bombs also work underwater."],"statistics":{"Damage":"100","Knockback":"0 <span class=\"knockback\">(No knockback)</span>","Consumable":"<span class=\"t-yes\">✔️</span>","Use time":"25 <span class=\"usetime\">(Fast)</span>","Velocity":"5","Tooltip":"<i><span class=\"gameText\">A small explosion that will destroy most tiles<br>Very bouncy</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Sell":"<span class=\"coin\" title=\"80 Copper Coins\" data-sort-value=\"80\"><span class=\"cc\">80</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Bouncy Bomb]</linked><span><span><linked>Bouncy Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"},"station":{"rowspan":1,"value":"<linked>By Hand</linked>"}}]}}
+{
+  "type": "weapons",
+  "title": "Bouncy Bomb",
+  "summaries": [
+    "The <b>Bouncy Bomb</b> is an <linked>explosive</linked> crafted from a <linked>Bomb</linked> and a <linked>Pink Gel</linked>. It bounces off surfaces before exploding. It can be used as a mining tool or a weapon, although generally the former. When used, it is thrown a few blocks away from the player.",
+    "After 3 seconds, it will explode, inflicting 100 points of damage to nearby enemies and destroying multiple blocks around it. The player can also inflict harm to themselves if not careful.",
+    "Bombs can destroy almost any block, <linked>with some exceptions</linked>, which can then be collected. They can also be thrown through one block thick walls, like some other tossables. Additionally, Bombs also work underwater."
+  ],
+  "statistics": {
+    "Damage": "100",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "5",
+    "Tooltip": "<i><span class=\"gameText\">A small explosion that will destroy most tiles<br>Very bouncy</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"80 Copper Coins\" data-sort-value=\"80\"><span class=\"cc\">80 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Bouncy Bomb]</linked><span><span><linked>Bouncy Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bomb]</linked><span><span><linked>Bomb</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<linked>By Hand</linked>"
+        }
+      }
+    ]
+  }
+}

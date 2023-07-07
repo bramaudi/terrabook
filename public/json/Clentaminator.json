@@ -4,7 +4,7 @@
   "toolpower": [],
   "summaries": [
     "The <b>Clentaminator</b> is a <linked>Hardmode</linked> <linked>tool</linked> which can be used to create or destroy <linked>biomes</linked>. It uses <linked>Solutions</linked> as <linked>ammunition</linked>, with each Solution spreading a different biome. It has a similar firing pattern to the <linked>Flamethrower</linked>, but has a much longer range, fires through <linked>blocks</linked> and works in <linked>water</linked>. The Clentaminator is generally the fastest means of spreading or removing <linked>Hallow</linked>, <linked>Corruption</linked> and <linked>Crimson</linked>. It can also rapidly convert <linked>Jungle</linked> to <linked>Glowing Mushroom biome</linked> and vice versa.",
-    "It can be purchased from the <linked>Steampunker</linked> for <span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2</span></span>.",
+    "It can be purchased from the <linked>Steampunker</linked> for <span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2<i> PC</i></span></span>.",
     "On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, after the <linked>Moon Lord</linked> is defeated, the Clentaminator can be upgraded into the <linked>Terraformer</linked> by throwning it into <linked>Shimmer</linked>. Also, the Clentaminator will not be sold in <linked>don't dig up</linked> and <linked>get fixed boi</linked> worlds.",
     "The Clentaminator cannot be reforged, and therefore cannot have <linked>modifiers</linked>."
   ],
@@ -15,23 +15,23 @@
     "Velocity": "7",
     "Tooltip": "<i><span class=\"gameText\">Creates and destroys biomes when sprayed<br>Uses colored solution</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2</span></span>",
-    "Sell": "<span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2<i> PC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Terraformer]</linked><span><span><linked>Terraformer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><div class=\"result-note note-text small\">(After <linked>Moon Lord</linked> is defeated)</div>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Terraformer]</linked><span><span><linked>Terraformer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><div class=\"result-note note-text small\">(After <linked>Moon Lord</linked> is defeated)</div>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Clentaminator]</linked><span><span><linked>Clentaminator</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -3,7 +3,7 @@
   "title": "Sand Blocks",
   "summaries": [
     "<b>Sand Blocks</b> are <linked>soil</linked> <linked>blocks</linked> found in vast quantities in <linked>Desert</linked> <linked>biomes</linked>, at shore and bottom of <linked>Ocean</linked> biomes, and can be found as microbiomes in patches in the <linked>Underground</linked> layer. They are also shot as projectiles by <linked>Antlions</linked>. Sand can spread and be converted by the <linked>evil biomes</linked> and <linked>The Hallow</linked> (see <linked>below</linked>).",
-    "Sand is subject to gravity, a unique quality only shared by <linked>Slush</linked>, <linked>Silt</linked>, <span class=\"eil\"><span><linked>Shell Piles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, <span class=\"eil\"><span><linked>Cracked Dungeon Bricks</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>, and <linked>Ash</linked> on <span class=\"eil\"><span><linked>For the worthy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> and <span class=\"eil\"><span><linked>Get fixed boi</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> worlds. Sand Blocks will deal damage to any player or <linked>enemy</linked> they fall on. If the amount of Sand falling on the player is significant, the <linked>Suffocation</linked> <linked>debuff</linked> will be inflicted until the player manages to escape. Sand is used to craft a small number of building blocks and other items directly, but it is also the raw material for <linked>Glass</linked>, which is used for a full furniture set and a variety of other items.",
+    "Sand is subject to gravity, a unique quality only shared by <linked>Slush</linked>, <linked>Silt</linked>, <span class=\"eil\"><span><linked>Shell Piles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>, <span class=\"eil\"><span><linked>Cracked Dungeon Bricks</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>, and <linked>Ash</linked> on <span class=\"eil\"><span><linked>For the worthy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> and <span class=\"eil\"><span><linked>Get fixed boi</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> worlds. Sand Blocks will deal damage to any player or <linked>enemy</linked> they fall on. If the amount of Sand falling on the player is significant, the <linked>Suffocation</linked> <linked>debuff</linked> will be inflicted until the player manages to escape. Sand is used to craft a small number of building blocks and other items directly, but it is also the raw material for <linked>Glass</linked>, which is used for a full furniture set and a variety of other items.",
     "<span id=\"variants\"></span><b>Ebonsand</b>, <b>Crimsand</b>, and <b>Pearlsand</b> are biome variants of Sand Blocks, corresponding to the <linked>Corruption</linked>, <linked>Crimson</linked>, and <linked>Hallow</linked>, respectively. They will replace ordinary Sand in their respective biomes, wherever they overlap with a Desert or Ocean biome. Like any other Corrupt, Crimson, or Hallowed block, after <linked>Hardmode</linked> begins, they will <linked>convert</linked> susceptible blocks (including regular Sand) that are up to three tiles away into their respective variants. These Sand variants are functionally identical to regular Sand, but each variant can be used to craft a few biome-related items. They can be transformed back to normal Sand using <linked>Thrown Powder</linked> or <linked>Water</linked>, or the <linked>Clentaminator</linked> with <linked>Green Solution</linked>. Falling Sand Blocks cannot be converted.",
     "All forms of Sand are also <linked>ammunition</linked> for the <linked>Sandgun</linked>, but they cannot be stored in the <linked>ammo slots</linked> of the <linked>inventory</linked>. Similar to the Sand Ball projectiles shot by <linked>Antlions</linked>, shot Sand Blocks will be placed on the ground as blocks if there are space available."
   ],
@@ -11,7 +11,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,16 +21,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -57,7 +57,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Sandfall Block]</linked><span><span><linked>Sandfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sandfall Block]</linked><span><span><linked>Sandfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li></ul>"
@@ -83,29 +83,29 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Sandstone Slab]</linked><span><span><linked>Sandstone Slab</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sandstone Slab]</linked><span><span><linked>Sandstone Slab</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hardened Sand Block]</linked><span><span><linked>Hardened Sand Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
@@ -118,7 +118,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li></ul>"
@@ -129,10 +129,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -142,7 +142,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Water]</linked><span><span><linked>Unholy Water</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonsand Block]</linked><span><span><linked>Ebonsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Corrupt Seeds]</linked><span><span><linked>Corrupt Seeds</linked></span></span></span></li></ul>"
@@ -158,7 +158,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       }
     ],
@@ -166,10 +166,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Blood Water]</linked><span><span><linked>Blood Water</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blood Water]</linked><span><span><linked>Blood Water</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Seeds]</linked><span><span><linked>Crimson Seeds</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Crimsand Block]</linked><span><span><linked>Crimsand Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimson Seeds]</linked><span><span><linked>Crimson Seeds</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -186,7 +186,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       }
     ],
@@ -201,7 +201,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -222,10 +222,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Sand Dropper]</linked><span><span><linked>Magic Sand Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -238,7 +238,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

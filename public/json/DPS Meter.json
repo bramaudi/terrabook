@@ -2,24 +2,24 @@
   "type": "accessories",
   "title": "DPS Meter",
   "summaries": [
-    "The <b>DPS Meter</b> is an <linked>informational accessory</linked> purchased from the <linked>Traveling Merchant</linked> for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>. It displays the <abbr title=\"Damage per second\">DPS</abbr> (damage per second) of the weapon that last dealt damage to any entity."
+    "The <b>DPS Meter</b> is an <linked>informational accessory</linked> purchased from the <linked>Traveling Merchant</linked> for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>. It displays the <abbr title=\"Damage per second\">DPS</abbr> (damage per second) of the weapon that last dealt damage to any entity."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Displays your damage per second</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Goblin Tech]</linked><span><span><linked>Goblin Tech</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Goblin Tech]</linked><span><span><linked>Goblin Tech</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Metal Detector]</linked><span><span><linked>Metal Detector</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Stopwatch]</linked><span><span><linked>Stopwatch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:DPS Meter]</linked><span><span><linked>DPS Meter</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Metal Detector]</linked><span><span><linked>Metal Detector</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Stopwatch]</linked><span><span><linked>Stopwatch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:DPS Meter]</linked><span><span><linked>DPS Meter</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

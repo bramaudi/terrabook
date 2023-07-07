@@ -10,8 +10,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">'Pulsing with dark energy'</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -25,7 +25,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ],
@@ -40,16 +40,16 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Deer Thing]</linked><span><span><linked>Deer Thing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Deer Thing]</linked><span><span><linked>Deer Thing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -62,7 +62,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -75,16 +75,16 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       }
     ]

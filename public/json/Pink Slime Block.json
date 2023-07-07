@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Pink Slime Block",
   "summaries": [
-    "The <b>Pink Slime Block</b> can be created with <linked>Pink Gel</linked> if the player is near a <linked>Solidifier</linked>. Landing on a Pink Slime Block causes the player to bounce. Pink Slime Blocks negate fall damage when the player lands on one. Like with <linked>Slime Blocks</linked>, running over Pink Slime Blocks produces droplet particles.",
+    "The <b>Pink Slime Block</b> can be created with <linked>Pink Gel</linked> if the player is near a <linked>Solidifier</linked>. In a similar way to <linked>Silly Balloons</linked>, landing on Pink Slime Blocks negates <linked>fall damage</linked> and causes the player to bounce. Like with <linked>Slime Blocks</linked>, running over Pink Slime Blocks produces droplet particles.",
     "The height of the bounce is dependent on the player's speed, not on the distance they've fallen. Holding a <linked>Portal Gun</linked> or riding the <linked>Slime Mount</linked> can allow for higher bounce due to the higher speed limit."
   ],
   "statistics": {
@@ -10,7 +10,7 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Very bouncy</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -20,7 +20,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pink Slime Block]</linked><span><span><linked>Pink Slime Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pink Gel]</linked><span><span><linked>Pink Gel</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

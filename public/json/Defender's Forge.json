@@ -2,7 +2,7 @@
   "type": "furnitures",
   "title": "Defender's Forge",
   "summaries": [
-    "The <b>Defender's Forge</b> is a portable, personal <linked>storage item</linked> which is purchased from the <linked>Tavernkeep</linked> for <span class=\"etxt\"><span><span data-info=\"500000\" class=\"coins\" title=\"50 Defender Medals\"><s>500000*</s>50 [img:Defender Medal]</span></span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> / <span class=\"etxt\"><span><span data-info=\"750000\" class=\"coins\" title=\"75 Defender Medals\"><s>750000*</s>75 [img:Defender Medal]</span></span><span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span>.",
+    "The <b>Defender's Forge</b> is a portable, personal <linked>storage item</linked> which is purchased from the <linked>Tavernkeep</linked> for <span data-info=\"500000\" class=\"coins\" title=\"50 Defender Medals\"><s>500000*</s>50 [img:Defender Medal]</span>.",
     "The storage provided by the Defender's Forge is separate from the <linked>Piggy Bank</linked>, <linked>Safe</linked>, and <linked>Void Vault</linked>, so it allows the player to carry significantly more items at any given time."
   ],
   "statistics": {
@@ -11,8 +11,8 @@
     "Tooltip": "<i><span class=\"gameText\">Can be used to store your items<br>Stored items can only be accessed by you</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
     "Buy": "<span data-info=\"500000\" class=\"coins\" title=\"50 Defender Medals\">50 [img:Defender Medal]</span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

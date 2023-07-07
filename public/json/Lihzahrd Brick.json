@@ -2,14 +2,14 @@
   "type": "blocks",
   "title": "Lihzahrd Brick",
   "summaries": [
-    "<b>Lihzahrd Bricks</b> make up the structure of the <linked>Jungle Temple</linked>. They are the toughest block in the game, being impervious to <linked>explosives</linked> and only breakable using the <linked>Picksaw</linked> or a better <linked>pickaxe</linked> or <linked>drill</linked>. They also cannot be made inactive using <linked>Actuators</linked> until <linked>Plantera</linked> has been defeated, unless they are above the <linked>surface</linked> layer.",
-    "Like Jungle <linked>grass</linked>, placing 140 <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 80 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Lihzahrd Bricks in one area creates a <linked>Jungle</linked> biome."
+    "<b>Lihzahrd Bricks</b> are <linked>blocks</linked> that make up the structure of the <linked>Jungle Temple</linked>. They are the toughest block in the game, being impervious to <linked>explosives</linked> and only breakable using the <linked>Picksaw</linked> or a better <linked>pickaxe</linked> or <linked>drill</linked>. They also cannot be made inactive using <linked>Actuators</linked> until <linked>Plantera</linked> has been defeated, unless they are above the <linked>surface</linked> layer.",
+    "Like Jungle <linked>grass</linked>, placing 140 <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 80 <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> Lihzahrd Bricks in one area creates a <linked>Jungle</linked> biome."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Platform]</linked><span><span><linked>Lihzahrd Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Platform]</linked><span><span><linked>Lihzahrd Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -28,7 +28,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick Wall]</linked><span><span><linked>Lihzahrd Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick Wall]</linked><span><span><linked>Lihzahrd Brick Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -40,7 +40,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Platform]</linked><span><span><linked>Lihzahrd Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Platform]</linked><span><span><linked>Lihzahrd Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span></li></ul>"
@@ -56,7 +56,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Bathtub]</linked><span><span><linked>Lihzahrd Bathtub</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 18,
@@ -69,7 +69,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Bed]</linked><span><span><linked>Lihzahrd Bed</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -78,7 +78,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Bookcase]</linked><span><span><linked>Lihzahrd Bookcase</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -87,7 +87,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Candelabra]</linked><span><span><linked>Lihzahrd Candelabra</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -96,7 +96,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Candle]</linked><span><span><linked>Lihzahrd Candle</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -105,7 +105,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Chair]</linked><span><span><linked>Lihzahrd Chair</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -114,7 +114,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Chandelier]</linked><span><span><linked>Lihzahrd Chandelier</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -123,7 +123,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Lihzahrd Chest]</linked><span><span><linked>Lihzahrd Chest</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -132,7 +132,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Clock]</linked><span><span><linked>Lihzahrd Clock</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -141,7 +141,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Door]</linked><span><span><linked>Lihzahrd Door</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -150,7 +150,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Dresser]</linked><span><span><linked>Lihzahrd Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -159,7 +159,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Lamp]</linked><span><span><linked>Lihzahrd Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -168,7 +168,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Lantern]</linked><span><span><linked>Lihzahrd Lantern</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -177,7 +177,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Piano]</linked><span><span><linked>Lihzahrd Piano</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -186,7 +186,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Sink]</linked><span><span><linked>Lihzahrd Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -195,7 +195,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Sofa]</linked><span><span><linked>Lihzahrd Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -204,7 +204,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Table]</linked><span><span><linked>Lihzahrd Table</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -213,13 +213,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Toilet]</linked><span><span><linked>Lihzahrd Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Brick Wall]</linked><span><span><linked>Lihzahrd Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lihzahrd Brick Wall]</linked><span><span><linked>Lihzahrd Brick Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span></li></ul>"

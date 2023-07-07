@@ -7,7 +7,7 @@
     "[img:Axe mask] 40%"
   ],
   "summaries": [
-    "The <b>Tin Axe</b> is an early game <linked>axe</linked>, stronger than the starting <linked>Copper Axe</linked> and weaker than both the <linked>Iron</linked> and <linked>Lead Axe</linked>. Like all axes, it is used to cut down <linked>trees</linked>, <linked>Cacti</linked>, <linked>Giant Glowing Mushrooms</linked>, and <span class=\"eil\"><span><linked>Fallen Logs</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>.",
+    "The <b>Tin Axe</b> is an early game <linked>axe</linked>, stronger than the starting <linked>Copper Axe</linked> and weaker than both the <linked>Iron</linked> and <linked>Lead Axe</linked>. Like all axes, it is used to cut down <linked>trees</linked>, <linked>Cacti</linked>, <linked>Giant Glowing Mushrooms</linked>, and <span class=\"eil\"><span><linked>Fallen Logs</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>.",
     "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
@@ -17,8 +17,8 @@
     "Use time": "28 <span class=\"usetime\">(Average)</span>",
     "Tool speed": "20",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver 20 Copper Coins\" data-sort-value=\"120\"><span class=\"sc\">1</span><span class=\"cc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver 20 Copper Coins\" data-sort-value=\"120\"><span class=\"sc\">1<i> SC</i></span><span class=\"cc\">20 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -41,7 +41,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(9)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">9</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       }
     ],
@@ -52,7 +52,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Axe of Regrowth]</linked><span><span><linked>Axe of Regrowth</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Staff of Regrowth]</linked><span><span><linked>Staff of Regrowth</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Tin Axe]</linked><span><span><linked>Tin Axe</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Jungle Spores]</linked><span><span><linked>Jungle Spores</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Vine]</linked><span><span><linked>Vine</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

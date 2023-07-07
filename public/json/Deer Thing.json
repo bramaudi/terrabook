@@ -1,1 +1,36 @@
-{"type":"miscellaneous","title":"Deer Thing","summaries":["The <b>Deer Thing</b> is a <linked>consumable</linked> <linked>summoning item</linked> that summons the <linked>Deerclops</linked> boss. It can be used at any time of day, but only inside of a <linked>Snow</linked> or <linked>Ice</linked> biome. Attempting to use it outside of these biomes will have no effect and will not consume the item."],"statistics":{"Consumable":"<span class=\"t-yes\">✔️</span>","Use time":"45 <span class=\"usetime\">(Very slow)</span>","Tooltip":"<i><span class=\"gameText\">Summons Deerclops</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">3 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":2,"value":"<span class=\"i multi-line\"><linked>[img:Deer Thing]</linked><span><span><linked>Deer Thing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"},"station":{"rowspan":2,"value":"<span class=\"i\"><linked>[img:Demon Altar]</linked><span><span><linked>Demon Altar</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Crimson Altar]</linked><span><span><linked>Crimson Altar</linked></span></span></span>"}},{"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"}}]}}
+{
+  "type": "miscellaneous",
+  "title": "Deer Thing",
+  "summaries": [
+    "The <b>Deer Thing</b> is a <linked>consumable</linked> <linked>summoning item</linked> that summons the <linked>Deerclops</linked> boss. It can be used at any time of day, but only inside of a <linked>Snow</linked> or <linked>Ice</linked> biome. Attempting to use it outside of these biomes will have no effect and will not consume the item."
+  ],
+  "statistics": {
+    "Consumable": "<span class=\"t-yes\">✔️</span>",
+    "Use time": "45 <span class=\"usetime\">(Very slow)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Summons Deerclops</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">3 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\"><linked>[img:Deer Thing]</linked><span><span><linked>Deer Thing</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i\"><linked>[img:Demon Altar]</linked><span><span><linked>Demon Altar</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Crimson Altar]</linked><span><span><linked>Crimson Altar</linked></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flinx Fur]</linked><span><span><linked>Flinx Fur</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Lens]</linked><span><span><linked>Lens</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

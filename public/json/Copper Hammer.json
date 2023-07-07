@@ -7,7 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Copper Hammer</b> is an early-game hammer, being weaker than the <linked>Iron Hammer</linked>. It has an alternate ore version, the <linked>Tin Hammer</linked>, which is slightly stronger. Like all hammers, it is used to remove <linked>background walls</linked> and create sloped tiles and half tiles.",
+    "The <b>Copper Hammer</b> is an early-game <linked>hammer</linked>. Its alternate ore counterpart is the <linked>Tin Hammer</linked>.",
+    "Like all hammers, it is used to remove <linked>background walls</linked> and create sloped tiles and half tiles.",
     "Its best <linked>modifier</linked> is <b>Legendary</b>. While <b>Light</b> may seem to provide a better speed boost by percentages, rounding reveals that Legendary and Light <linked>mine at equal speeds</linked> for this tool."
   ],
   "statistics": {
@@ -18,8 +19,8 @@
     "Use time": "33 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "23",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"80 Copper Coins\" data-sort-value=\"80\"><span class=\"cc\">80</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"80 Copper Coins\" data-sort-value=\"80\"><span class=\"cc\">80 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +30,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Copper Hammer]</linked><span><span><linked>Copper Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -42,7 +43,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Copper Hammer]</linked><span><span><linked>Copper Hammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       }
     ]

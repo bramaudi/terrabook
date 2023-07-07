@@ -2,55 +2,54 @@
   "type": "furnitures",
   "title": "Crates",
   "summaries": [
-    "<b>Crates</b> are <linked>grab bag</linked>-type items which can be caught while <linked>fishing</linked>, containing random loot such as <linked>ores</linked>, <linked>bars</linked>, <linked>potions</linked>, <linked>accessories</linked>, and other items. In addition, <linked>biome</linked>-specific crates can contain biome-specific loot. Their content can be unloaded by pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button, either on their icon in the <linked>inventory</linked> or while holding them. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> Crates can also be placed.",
-    "Some kinds of crates can be caught anywhere, while the rest can only be caught when fishing in a certain biome. <linked>Wooden Crates</linked>, <linked>Iron Crates</linked>, and <linked>Golden Crates</linked> (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> or in Hardmode, <linked>Pearlwood</linked>, <linked>Mythril</linked>, and <linked>Titanium Crates</linked>, respectively) can be caught anywhere, with Wooden/Pearlwood being the most common, and Golden/Titanium being the rarest. In general, rarer crate types contain more valuable loot. Biome Crates, which are exclusive to the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, are slightly less rare than Golden Crates and can contain items otherwise found only in the matching <linked>Biome Chests</linked>. When fishing in an area with multiple biomes, only one biome crate type can be caught; for example, when a <linked>Floating Island</linked> is <linked>Corrupted</linked> and changes to Corruption, <linked>Sky Crates</linked> can no longer be harvested. See <linked>Fishing</linked> for details on which biomes take precedence over others.",
-    "Crates are caught every 1 in 10 catches, on average; with a <linked>Crate Potion</linked>, the chance is doubled to 1 in 5 (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 1 in 4). The kind of crate the player obtains is dependent on their <linked>Fishing Power</linked>, with higher Fishing Power increasing the probabilities of rarer crates. As an example, fishing with a Fishing Power of 100 in a lake of at least 300 valid water tiles in the Corruption would yield crates with the following probabilities: <linked>Golden Crate</linked>: <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span>; <linked>Corrupt Crate</linked>: <span class=\"chance\"><s>0.93*</s>7/750 (0.93%)</span>; <linked>Iron Crate</linked>: <span class=\"chance\"><s>2.8*</s>7/250 (2.8%)</span>; <linked>Wooden Crate</linked>: <span class=\"chance\"><s>5.6*</s>7/125 (5.6%)</span>. The Crate Potion multiplies these chances by 2 (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>) / 2.5 (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span>)."
+    "<b>Crates</b> are <linked>grab bag</linked>-type items which can be caught while <linked>fishing</linked>, containing random loot such as <linked>ores</linked>, <linked>bars</linked>, <linked>potions</linked>, <linked>accessories</linked>, and other items. In addition, <linked>biome</linked>-specific crates can contain biome-specific loot. Their content can be unloaded by pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button, either on their icon in the <linked>inventory</linked> or while holding them. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> Crates can also be placed.",
+    "The three standard types of crates (<linked>Wooden</linked>/<span class=\"eil\"><span><linked>Pearlwood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>, <linked>Iron</linked>/<span class=\"eil\"><span><linked>Mythril</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>, and <linked>Golden</linked>/<span class=\"eil\"><span><linked>Titanium</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>) can be caught anywhere, with Wooden/Pearlwood being the most common, and Golden/Titanium being the rarest. In general, rarer crate types contain more valuable loot. The other crates are biome-specific, i.e., they can only be caught in their respective biome (with the exception of the <span class=\"eil\"><span><linked>Obsidian</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>/<span class=\"eil\"><span><linked>Hellstone Crates</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>). They are slightly less rare than Golden/Titanium Crates. When fishing in an area with multiple biomes, only one biome crate type can be caught; for example, when a <linked>Floating Island</linked> is <linked>Corrupted</linked> and changes to Corruption, <linked>Sky Crates</linked> can no longer be obtained. <i>See <linked>Fishing § Biomes</linked> for details on which biomes take precedence over others.</i>",
+    "Crates are caught every 1 in 10 catches, on average; with a <linked>Crate Potion</linked>, the chance is doubled to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 1 in 4 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 1 in 5. The kind of crate the player obtains is dependent on their <linked>Fishing Power</linked>, with higher Fishing Power increasing the probabilities of rarer crates. As an example, fishing with a Fishing Power of 100 in a lake of at least 300 valid water tiles in the Corruption would yield crates with the following probabilities: <linked>Golden Crate</linked>: <span class=\"chance\"><s>0.67*</s>1/150 (0.67%)</span>; <linked>Corrupt Crate</linked>: <span class=\"chance\"><s>0.93*</s>7/750 (0.93%)</span>; <linked>Iron Crate</linked>: <span class=\"chance\"><s>2.8*</s>7/250 (2.8%)</span>; <linked>Wooden Crate</linked>: <span class=\"chance\"><s>5.6*</s>7/125 (5.6%)</span>. The Crate Potion multiplies these chances by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 2.5 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 2."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
-    "Tooltip": "<i><linked>[img:Desktop version]</linked> <span class=\"gameText\">Right click to open</span> /<br><linked>[img:Console version]</linked> L2 to open (<linked>[img:PlayStation]</linked>) /<br>LT to open (<linked>[img:Xbox One]</linked>)/ ZL to open (<linked>[img:Nintendo Switch]</linked>) /<br><linked>[img:Mobile version]</linked> Double tap to open /<br><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Use to open</i>",
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>"
+    "Tooltip": "<i><linked>[img:Desktop version]</linked> <span class=\"gameText\">Right click to open</span> /<br><linked>[img:Console version]</linked> L2 to open (<linked>[img:PlayStation]</linked>) /<br>LT to open (<linked>[img:Xbox One]</linked>)/ ZL to open (<linked>[img:Nintendo Switch]</linked>) /<br><linked>[img:Mobile version]</linked> Double tap to open /<br><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> Use to open</i>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Corrupt Crate]</linked><span><span><linked>Corrupt Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Corrupt Crate]</linked><span><span><linked>Corrupt Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Defiled Crate]</linked><span><span><linked>Defiled Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Defiled Crate]</linked><span><span><linked>Defiled Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 13,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Crimson Crate]</linked><span><span><linked>Crimson Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Crimson Crate]</linked><span><span><linked>Crimson Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hematic Crate]</linked><span><span><linked>Hematic Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hematic Crate]</linked><span><span><linked>Hematic Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Dungeon Crate]</linked><span><span><linked>Dungeon Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Dungeon Crate]</linked><span><span><linked>Dungeon Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stockade Crate]</linked><span><span><linked>Stockade Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stockade Crate]</linked><span><span><linked>Stockade Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Frozen Crate]</linked><span><span><linked>Frozen Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frozen Crate]</linked><span><span><linked>Frozen Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Crate]</linked><span><span><linked>Boreal Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Crate]</linked><span><span><linked>Boreal Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
@@ -59,16 +58,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Golden Crate]</linked><span><span><linked>Golden Crate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Crate]</linked><span><span><linked>Titanium Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Crate]</linked><span><span><linked>Titanium Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Crate]</linked><span><span><linked>Hallowed Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Crate]</linked><span><span><linked>Hallowed Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Divine Crate]</linked><span><span><linked>Divine Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Divine Crate]</linked><span><span><linked>Divine Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
@@ -77,52 +76,52 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Iron Crate]</linked><span><span><linked>Iron Crate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Crate]</linked><span><span><linked>Mythril Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Crate]</linked><span><span><linked>Mythril Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Jungle Crate]</linked><span><span><linked>Jungle Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Jungle Crate]</linked><span><span><linked>Jungle Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bramble Crate]</linked><span><span><linked>Bramble Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bramble Crate]</linked><span><span><linked>Bramble Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Oasis Crate]</linked><span><span><linked>Oasis Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Oasis Crate]</linked><span><span><linked>Oasis Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mirage Crate]</linked><span><span><linked>Mirage Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mirage Crate]</linked><span><span><linked>Mirage Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Crate]</linked><span><span><linked>Obsidian Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Crate]</linked><span><span><linked>Obsidian Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Crate]</linked><span><span><linked>Hellstone Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Crate]</linked><span><span><linked>Hellstone Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Ocean Crate]</linked><span><span><linked>Ocean Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ocean Crate]</linked><span><span><linked>Ocean Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Seaside Crate]</linked><span><span><linked>Seaside Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Seaside Crate]</linked><span><span><linked>Seaside Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Sky Crate]</linked><span><span><linked>Sky Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Sky Crate]</linked><span><span><linked>Sky Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Azure Crate]</linked><span><span><linked>Azure Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Azure Crate]</linked><span><span><linked>Azure Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
@@ -131,7 +130,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Wooden Crate]</linked><span><span><linked>Wooden Crate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood Crate]</linked><span><span><linked>Pearlwood Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood Crate]</linked><span><span><linked>Pearlwood Crate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

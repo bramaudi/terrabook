@@ -2,9 +2,9 @@
   "type": "armors",
   "title": "Boreal Wood armor",
   "summaries": [
-    "<b>Boreal Wood armor</b> is an <linked>armor</linked> set consisting of the <b>Boreal Wood Helmet</b>, <b>Boreal Wood Breastplate</b>, and <b>Boreal Wood Greaves</b>.",
-    "It is made solely out of <linked>Boreal Wood</linked> obtained from chopping <linked>Trees</linked> native to the <linked>Snow Biome</linked>. Like the <linked>Wood armor</linked> set, it is fairly weak in terms of <linked>defense</linked>, making it only useful very early on in the game.",
-    "Wearing the full set grants a basic 3 defense plus a set bonus of 1 defense, providing a <b>total of 4 defense</b>."
+    "<b>Boreal Wood armor</b> is an <linked>armor</linked> set consisting of the <b>Boreal Wood Helmet</b>, <b>Boreal Wood Breastplate</b>, and <b>Boreal Wood Greaves</b>. Like the <linked>Wood armor</linked> set, it is fairly weak in terms of <linked>defense</linked>, making it only useful very early on in the game.",
+    "Wearing the full set grants a basic 3 defense plus a set bonus of 1 defense, providing a <b>total of 4 defense</b>.",
+    "Crafting a full set requires a total of 75 <linked>Boreal Woods</linked>"
   ],
   "statistics": {
     "Defense": "4 (3+1)<span class=\"note-text\"> (set)</span>",
@@ -16,10 +16,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Boreal Wood Breastplate]<span><span title=\"Boreal Wood Breastplate\">Boreal Wood Breastplate</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Boreal Wood Breastplate]<span><span title=\"Boreal Wood Breastplate\">Boreal Wood Breastplate</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">30</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -29,19 +29,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Boreal Wood Greaves]<span><span title=\"Boreal Wood Greaves\">Boreal Wood Greaves</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Boreal Wood Greaves]<span><span title=\"Boreal Wood Greaves\">Boreal Wood Greaves</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Boreal Wood Helmet]<span><span title=\"Boreal Wood Helmet\">Boreal Wood Helmet</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Boreal Wood Helmet]<span><span title=\"Boreal Wood Helmet\">Boreal Wood Helmet</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       }
     ]

@@ -7,8 +7,8 @@
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Tells the time</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -18,7 +18,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tin Watch]</linked><span><span><linked>Tin Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

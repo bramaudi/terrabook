@@ -1,1 +1,36 @@
-{"type":"weapons","title":"Platinum Bow","summaries":["The <b>Platinum Bow</b> is a <linked>bow</linked> crafted solely using <linked>Platinum Bars</linked>, and is the strongest type of <linked>ore</linked> bow one is able to obtain before <linked>Demonite</linked> or <linked>Crimtane</linked>. The <linked>Gold Bow</linked> is its slightly weaker counterpart available in worlds that generated with <linked>Gold Ore</linked> instead of <linked>Platinum Ore</linked>. Its sole purpose is to fire <linked>arrows</linked> from a distance to hit enemies and deal damage to them.","Its best <linked>modifier</linked> is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it. <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> It can also get the <b>Deadly</b> modifier, which, while the Demonic modifier may provide the greatest damage per hit, grants a higher increase to the overall <abbr title=\"Damage per second\">DPS</abbr>."],"statistics":{"Uses ammo":"<linked>Arrows</linked>","Damage":"13 <span class=\"small-bold\">(Ranged)</span>","Knockback":"0 <span class=\"knockback\">(No knockback)</span>","Critical chance":"4%","Use time":"25 <span class=\"usetime\">(Fast)</span>","Velocity":"6.6","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Sell":"<span class=\"coin\" title=\"21 Silver Coins\" data-sort-value=\"2100\"><span class=\"sc\">21</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Platinum Bow]</linked><span><span><linked>Platinum Bow</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span> <span class=\"note-text\">(7)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Platinum Bow",
+  "summaries": [
+    "The <b>Platinum Bow</b> is a <linked>bow</linked> crafted solely using <linked>Platinum Bars</linked>, and is the strongest type of <linked>ore</linked> bow one is able to obtain before <linked>Demonite</linked> or <linked>Crimtane</linked>. The <linked>Gold Bow</linked> is its slightly weaker counterpart available in worlds that generated with <linked>Gold Ore</linked> instead of <linked>Platinum Ore</linked>. Its sole purpose is to fire <linked>arrows</linked> from a distance to hit enemies and deal damage to them.",
+    "Its best <linked>modifier</linked> is <b>Demonic</b>, as it does not have any knockback and thus cannot get modifiers that affect it. <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> It can also get the <b>Deadly</b> modifier, which, while the Demonic modifier may provide the greatest damage per hit, grants a higher increase to the overall <abbr title=\"Damage per second\">DPS</abbr>."
+  ],
+  "statistics": {
+    "Uses ammo": "<linked>Arrows</linked>",
+    "Damage": "13 <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "0 <span class=\"knockback\">(No knockback)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "6.6",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"21 Silver Coins\" data-sort-value=\"2100\"><span class=\"sc\">21<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Platinum Bow]</linked><span><span><linked>Platinum Bow</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span><span class=\"am\">7</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

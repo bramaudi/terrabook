@@ -1,1 +1,36 @@
-{"type":"weapons","title":"Hive-Five","summaries":["<b>Hive-Five</b> is a <linked>yoyo</linked> that can extend up to 14 tiles away from the player. It can last up to 11 seconds before returning to the player. Upon striking an <linked>enemy</linked>, it has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance of summoning a single friendly Bee projectile that attacks nearby enemies. The Bee projectile deals 50% of the yoyo's damage (12 base damage).","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"24 <span class=\"small-bold\">(Melee)</span>","Knockback":"3.75 <span class=\"knockback\">(Weak)</span>","Critical chance":"4%","Use time":"25 <span class=\"usetime\">(Fast)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Summons killer bees after striking your foe</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>","Sell":"<span class=\"coin\" title=\"70 Silver Coins\" data-sort-value=\"7000\"><span class=\"sc\">70</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Hive-Five]</linked><span><span><linked>Hive-Five</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Bee Wax]</linked><span><span><linked>Bee Wax</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Hive-Five",
+  "summaries": [
+    "<b>Hive-Five</b> is a <linked>yoyo</linked> that can extend up to 14 tiles away from the player. It can last up to 11 seconds before returning to the player. Upon striking an <linked>enemy</linked>, it has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance of summoning a single friendly Bee projectile that attacks nearby enemies. The Bee projectile deals 50% of the yoyo's damage (12 base damage).",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "24 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "3.75 <span class=\"knockback\">(Weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "25 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons killer bees after striking your foe</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"70 Silver Coins\" data-sort-value=\"7000\"><span class=\"sc\">70<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Hive-Five]</linked><span><span><linked>Hive-Five</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bee Wax]</linked><span><span><linked>Bee Wax</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">14</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Iron Anvil]</linked><span><span><linked>Iron Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Lead Anvil]</linked><span><span><linked>Lead Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

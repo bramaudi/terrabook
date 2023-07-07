@@ -7,9 +7,9 @@
   ],
   "statistics": {
     "Defense": "13<span class=\"note-text\"> (set)</span>",
-    "Set Bonus": "<i><span class=\"gameText\">20% chance to not consume ammo</span></i>",
+    "Set Bonus": "<i><span class=\"gameText\">20% chance to save ammo</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 20 Silver Coins\" data-sort-value=\"12000\"><span class=\"gc\">1</span><span class=\"sc\">20</span></span><span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 20 Silver Coins\" data-sort-value=\"12000\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">20<i> SC</i></span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\">[img:Fossil Greaves]<span><span title=\"Fossil Greaves\">Fossil Greaves</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">20</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -32,7 +32,7 @@
           "value": "<span class=\"i multi-line\">[img:Fossil Helmet]<span><span title=\"Fossil Helmet\">Fossil Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       },
       {
@@ -41,7 +41,7 @@
           "value": "<span class=\"i multi-line\">[img:Fossil Plate]<span><span title=\"Fossil Plate\">Fossil Plate</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sturdy Fossil]</linked><span><span><linked>Sturdy Fossil</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       }
     ]

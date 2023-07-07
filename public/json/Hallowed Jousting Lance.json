@@ -1,1 +1,38 @@
-{"type":"weapons","title":"Hallowed Jousting Lance","summaries":["The <b>Hallowed Jousting Lance</b> is a <linked>Hardmode</linked> <linked>melee weapon</linked>. When attacking using <span class=\"key\"><linked>⚒ Use / Attack</linked></span>, the lance will extend, and holding <span class=\"key\"><linked>⚒ Use / Attack</linked></span> will keep it extended at a fixed angle. The damage and <linked>knockback</linked> will increase depending on the player's <linked>movement speed</linked>, making <linked>mounts</linked>, <linked>sprinting accessories</linked>, or dash abilities (such as those granted by <linked>Shield of Cthulhu</linked>, <linked>Tabi</linked>/<linked>Master Ninja Gear</linked>, or <linked>Solar Flare armor</linked>) useful for maximizing damage.","When the player takes damage, the Hallowed Jousting Lance will stop being active.","It is the upgrade of the <linked>Jousting Lance</linked> and the precursor to the <linked>Shadow Jousting Lance</linked>.","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"90 <span class=\"small-bold\">(Melee)</span>","Knockback":"13 <span class=\"knockback\">(Insane)</span>","Critical chance":"4%","Use time":"24 <span class=\"usetime\">(Fast)</span>","Velocity":"3.5","Tooltip":"<i><span class=\"gameText\">Build momentum to increase attack power</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>","Sell":"<span class=\"coin\" title=\"4 Gold 60 Silver Coins\" data-sort-value=\"46000\"><span class=\"gc\">4</span><span class=\"sc\">60</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Hallowed Jousting Lance]</linked><span><span><linked>Hallowed Jousting Lance</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Hallowed Jousting Lance",
+  "summaries": [
+    "The <b>Hallowed Jousting Lance</b> is a <linked>Hardmode</linked> <linked>melee weapon</linked>. When attacking using <span class=\"key\"><linked>⚒ Use / Attack</linked></span>, the lance will extend, and holding <span class=\"key\"><linked>⚒ Use / Attack</linked></span> will keep it extended at a fixed angle. The damage and <linked>knockback</linked> will increase depending on the player's <linked>movement speed</linked>, making <linked>mounts</linked>, <linked>sprinting accessories</linked>, or dash abilities (such as those granted by <linked>Shield of Cthulhu</linked>, <linked>Tabi</linked>/<linked>Master Ninja Gear</linked>, or <linked>Solar Flare armor</linked>) useful for maximizing damage.",
+    "When the player takes damage, the Hallowed Jousting Lance will stop being active.",
+    "It is the upgrade of the <linked>Jousting Lance</linked> and the precursor to the <linked>Shadow Jousting Lance</linked>.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "90 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "13 <span class=\"knockback\">(Insane)</span>",
+    "Critical chance": "4%",
+    "Use time": "24 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "3.5",
+    "Tooltip": "<i><span class=\"gameText\">Build momentum to increase attack power</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"4 Gold 60 Silver Coins\" data-sort-value=\"46000\"><span class=\"gc\">4<i> GC</i></span><span class=\"sc\">60<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Jousting Lance]</linked><span><span><linked>Hallowed Jousting Lance</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span><span class=\"am\">12</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Mythril Anvil]</linked><span><span><linked>Mythril Anvil</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i\"><linked>[img:Orichalcum Anvil]</linked><span><span><linked>Orichalcum Anvil</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

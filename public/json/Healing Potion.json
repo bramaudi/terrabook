@@ -3,7 +3,7 @@
   "title": "Healing Potion",
   "summaries": [
     "The <b>Healing Potion</b> is a healing item that restores 100 <linked>health</linked> and inflicts <linked>Potion Sickness</linked> for 60 seconds when used. This duration can be reduced via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>.",
-    "In addition to being crafted, Healing Potions can be found naturally in <linked>pots</linked> after <linked>Hardmode</linked> activation and pots in the <linked>Underworld</linked> before Hardmode. Several are also dropped by the <linked>Wall of Flesh</linked> and <linked>Skeletron</linked>. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> They are also sold by the <linked>Merchant</linked> and the <linked>Skeleton Merchant</linked> in Hardmode.",
+    "In addition to being crafted, Healing Potions can be found naturally in <linked>pots</linked> after <linked>Hardmode</linked> activation and pots in the <linked>Underworld</linked> before Hardmode. Several are also dropped by the <linked>Wall of Flesh</linked> and <linked>Skeletron</linked>. <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> They are also sold by the <linked>Merchant</linked> and the <linked>Skeleton Merchant</linked> in Hardmode.",
     "It is the second tier of healing <linked>potions</linked>, the first being the <linked>Lesser Healing Potion</linked>, the third being the <linked>Greater Healing Potion</linked> and the fourth being the <linked>Super Healing Potion</linked>."
   ],
   "statistics": {
@@ -11,8 +11,8 @@
     "Heals Health": "100",
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">30 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -22,11 +22,11 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Healing Potion]</linked><span><span><linked>Healing Potion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Healing Potion]</linked><span><span><linked>Lesser Healing Potion</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesser Healing Potion]</linked><span><span><linked>Lesser Healing Potion</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ],
@@ -41,7 +41,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -3,13 +3,14 @@
   "title": "Sign",
   "summaries": [
     "The <b>Sign</b> is a <linked>decorative</linked> <linked>furniture</linked> item that can store a player-written message. A Sign must be placed and then the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button must be pressed on it to edit or display its message. A Sign can be placed on top of <linked>blocks</linked>, beside them, or hanging from their underside. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, they can also be placed on <linked>walls</linked>. A Sign's message can be up to 10 lines long, at 48 characters max per line, for a total of 480 characters maximum per sign. Signs can be used for decoration, labeling areas, adventure text, etc.",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> There is a maximum limit of 1000 placed Signs that can be written on in each world. If more than 1000 are put down, only the first 1000 Signs that are interacted with can be edited; the rest do not open a menu upon pressing <span class=\"key\"><linked>⚷ Open / Activate</linked></span> (until one of the first 1000 Signs is removed). <small class=\"plainlinks\"></small>",
     "On the <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, Signs are limited to 16 characters, with a maximum of 5 numbers, and no punctuation or special symbols can be used."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +20,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Sign]</linked><span><span><linked>Sign</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -31,10 +32,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Announcement Box]</linked><span><span><linked>Announcement Box</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Announcement Box]</linked><span><span><linked>Announcement Box</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sign]</linked><span><span><linked>Sign</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sign]</linked><span><span><linked>Sign</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

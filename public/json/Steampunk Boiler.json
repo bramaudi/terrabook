@@ -2,16 +2,16 @@
   "type": "furnitures",
   "title": "Steampunk Boiler",
   "summaries": [
-    "The <b>Steampunk Boiler</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> that is purchased from the <linked>Steampunker</linked> for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>, once <linked>Eye of Cthulhu</linked>, <linked>Eater of Worlds</linked>/<linked>Brain of Cthulhu</linked> and <linked>Skeletron</linked> have been defeated. It is used to craft <linked>steampunk</linked>-themed <linked>furniture</linked> from <linked>Cogs</linked>."
+    "The <b>Steampunk Boiler</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> that is purchased from the <linked>Steampunker</linked> for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>, once <linked>Eye of Cthulhu</linked>, <linked>Eater of Worlds</linked>/<linked>Brain of Cthulhu</linked> and <linked>Skeletron</linked> have been defeated. It is used to craft <linked>steampunk</linked>-themed <linked>furniture</linked> from <linked>Cogs</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Used for special crafting</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
@@ -21,16 +21,16 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Steampunk Platform]</linked><span><span><linked>Steampunk Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Steampunk Platform]</linked><span><span><linked>Steampunk Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Bathtub]</linked><span><span><linked>Steampunk Bathtub</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Bathtub]</linked><span><span><linked>Steampunk Bathtub</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         }
       },
       {
@@ -39,34 +39,34 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Bed]</linked><span><span><linked>Steampunk Bed</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Bookcase]</linked><span><span><linked>Steampunk Bookcase</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Bookcase]</linked><span><span><linked>Steampunk Bookcase</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Candelabra]</linked><span><span><linked>Steampunk Candelabra</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Candelabra]</linked><span><span><linked>Steampunk Candelabra</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Candle]</linked><span><span><linked>Steampunk Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Candle]</linked><span><span><linked>Steampunk Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -75,34 +75,34 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Chair]</linked><span><span><linked>Steampunk Chair</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Chandelier]</linked><span><span><linked>Steampunk Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Chandelier]</linked><span><span><linked>Steampunk Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Chest]</linked><span><span><linked>Steampunk Chest</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Chest]</linked><span><span><linked>Steampunk Chest</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Clock]</linked><span><span><linked>Steampunk Clock</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Clock]</linked><span><span><linked>Steampunk Clock</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -111,49 +111,49 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Door]</linked><span><span><linked>Steampunk Door</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Dresser]</linked><span><span><linked>Steampunk Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Dresser]</linked><span><span><linked>Steampunk Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Lamp]</linked><span><span><linked>Steampunk Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Lamp]</linked><span><span><linked>Steampunk Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Lantern]</linked><span><span><linked>Steampunk Lantern</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Lantern]</linked><span><span><linked>Steampunk Lantern</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Piano]</linked><span><span><linked>Steampunk Piano</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Piano]</linked><span><span><linked>Steampunk Piano</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Steampunk Platform]</linked><span><span><linked>Steampunk Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Steampunk Platform]</linked><span><span><linked>Steampunk Platform</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span></li></ul>"
@@ -162,19 +162,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Sink]</linked><span><span><linked>Steampunk Sink</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Sink]</linked><span><span><linked>Steampunk Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Sofa]</linked><span><span><linked>Steampunk Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Sofa]</linked><span><span><linked>Steampunk Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -183,25 +183,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Table]</linked><span><span><linked>Steampunk Table</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Toilet]</linked><span><span><linked>Steampunk Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Toilet]</linked><span><span><linked>Steampunk Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Work Bench]</linked><span><span><linked>Steampunk Work Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Steampunk Work Bench]</linked><span><span><linked>Steampunk Work Bench</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       }
     ]

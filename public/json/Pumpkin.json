@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Pumpkin",
   "summaries": [
-    "<b>Pumpkins</b> are a <linked>crafting material</linked> that grow on <linked>grass</linked> on the <linked>surface</linked>. They can be planted manually by the player year-round by purchasing <linked>Pumpkin Seeds</linked> from the <linked>Dryad</linked> NPC and placing them on grass on the surface. They also grow naturally randomly on grass during the <linked>Halloween</linked> and <span class=\"eil\"><span><linked>Oktoberfest</linked></span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span></span> seasonal events.",
+    "The <b>Pumpkin</b> is a <linked>crafting material</linked> that grows naturally randomly on <linked>grass</linked> on the <linked>surface</linked> during the <linked>Halloween</linked> and <span class=\"eil\"><span><linked>Oktoberfest</linked></span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span></span> seasonal events. Pumpkins can be planted manually by the player year-round by purchasing <linked>Pumpkin Seeds</linked> from the <linked>Dryad</linked> NPC and placing them on grass on the surface.",
     "Harvesting fully grown Pumpkins during the Halloween season will rarely yield a <linked>Magical Pumpkin Seed</linked>, which is used to summon the Squashling pet.",
     "Pumpkin Seeds each require two blocks width and two blocks height to grow Pumpkins."
   ],
@@ -10,8 +10,8 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"25 Copper Coins\" data-sort-value=\"25\"><span class=\"cc\">25</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"25 Copper Coins\" data-sort-value=\"25\"><span class=\"cc\">25 <i>CC</i></span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -34,12 +34,12 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Wall]</linked><span><span><linked>Pumpkin Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Wall]</linked><span><span><linked>Pumpkin Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -52,7 +52,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       }
     ],
@@ -60,7 +60,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span></li></ul>"
@@ -76,7 +76,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Work Bench]</linked><span><span><linked>Pumpkin Work Bench</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -85,7 +85,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Pie]</linked><span><span><linked>Pumpkin Pie</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -95,10 +95,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Chandelier]</linked><span><span><linked>Pumpkin Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Chandelier]</linked><span><span><linked>Pumpkin Chandelier</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -111,7 +111,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Moon Medallion]</linked><span><span><linked>Pumpkin Moon Medallion</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">30</span></li><li><span class=\"i\"><linked>[img:Ectoplasm]</linked><span><span><linked>Ectoplasm</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Hallowed Bar]</linked><span><span><linked>Hallowed Bar</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -121,10 +121,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bathtub]</linked><span><span><linked>Pumpkin Bathtub</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bathtub]</linked><span><span><linked>Pumpkin Bathtub</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 8,
@@ -134,64 +134,64 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bed]</linked><span><span><linked>Pumpkin Bed</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bed]</linked><span><span><linked>Pumpkin Bed</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bookcase]</linked><span><span><linked>Pumpkin Bookcase</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bookcase]</linked><span><span><linked>Pumpkin Bookcase</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Clock]</linked><span><span><linked>Pumpkin Clock</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Clock]</linked><span><span><linked>Pumpkin Clock</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Dresser]</linked><span><span><linked>Pumpkin Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Dresser]</linked><span><span><linked>Pumpkin Dresser</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Piano]</linked><span><span><linked>Pumpkin Piano</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Piano]</linked><span><span><linked>Pumpkin Piano</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Sofa]</linked><span><span><linked>Pumpkin Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Sofa]</linked><span><span><linked>Pumpkin Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Toilet]</linked><span><span><linked>Pumpkin Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Toilet]</linked><span><span><linked>Pumpkin Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -204,7 +204,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -213,7 +213,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hanging Jack 'O Lantern]</linked><span><span><linked>Hanging Jack 'O Lantern</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 23,
@@ -226,7 +226,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Jack 'O Lantern]</linked><span><span><linked>Jack 'O Lantern</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -235,34 +235,34 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Jackelier]</linked><span><span><linked>Jackelier</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Bathtub]</linked><span><span><linked>Pumpkin Bathtub</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bathtub]</linked><span><span><linked>Pumpkin Bathtub</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bed]</linked><span><span><linked>Pumpkin Bed</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bed]</linked><span><span><linked>Pumpkin Bed</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Bookcase]</linked><span><span><linked>Pumpkin Bookcase</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Bookcase]</linked><span><span><linked>Pumpkin Bookcase</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -271,25 +271,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Breastplate]</linked><span><span><linked>Pumpkin Breastplate</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">30</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Candelabra]</linked><span><span><linked>Pumpkin Candelabra</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Candelabra]</linked><span><span><linked>Pumpkin Candelabra</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Candle]</linked><span><span><linked>Pumpkin Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Candle]</linked><span><span><linked>Pumpkin Candle</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -298,25 +298,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Chair]</linked><span><span><linked>Pumpkin Chair</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Chest]</linked><span><span><linked>Pumpkin Chest</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Chest]</linked><span><span><linked>Pumpkin Chest</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Clock]</linked><span><span><linked>Pumpkin Clock</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Clock]</linked><span><span><linked>Pumpkin Clock</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -325,16 +325,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Door]</linked><span><span><linked>Pumpkin Door</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Dresser]</linked><span><span><linked>Pumpkin Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Dresser]</linked><span><span><linked>Pumpkin Dresser</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -343,25 +343,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Helmet]</linked><span><span><linked>Pumpkin Helmet</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Lamp]</linked><span><span><linked>Pumpkin Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Lamp]</linked><span><span><linked>Pumpkin Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Lantern]</linked><span><span><linked>Pumpkin Lantern</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Lantern]</linked><span><span><linked>Pumpkin Lantern</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -370,22 +370,22 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Leggings]</linked><span><span><linked>Pumpkin Leggings</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Piano]</linked><span><span><linked>Pumpkin Piano</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Piano]</linked><span><span><linked>Pumpkin Piano</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pumpkin Platform]</linked><span><span><linked>Pumpkin Platform</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span></li></ul>"
@@ -394,10 +394,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Sink]</linked><span><span><linked>Pumpkin Sink</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Sink]</linked><span><span><linked>Pumpkin Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -406,13 +406,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Table]</linked><span><span><linked>Pumpkin Table</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Wall]</linked><span><span><linked>Pumpkin Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Wall]</linked><span><span><linked>Pumpkin Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span></li></ul>"

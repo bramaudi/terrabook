@@ -2,26 +2,29 @@
   "type": "ammunitions",
   "title": "Buggy",
   "summaries": [
-    "<b>Buggy</b> is one of three <linked>critters</linked> that occasionally spawn in the <linked>Jungle</linked> or <linked>Underground Jungle</linked> <linked>biome</linked> when a player breaks a background plant (using any <linked>pickaxe</linked> or <linked>drill</linked>), the others being <linked>Sluggy</linked> (more common) and <linked>Grubby</linked> (most common). Buggy is the rarest of the three. It can be caught with any type of <linked>Bug Net</linked>, and used as <linked>bait</linked> with 40% Bait Power.",
-    "Unsurprisingly, as Buggy is the rarest, it is the only one with a <span class=\"rarity\"><s class=\"sortkey\" style=\"display:none;\">02*</s><linked>[img:Rarity level: 2]</linked></span> rarity, while Sluggy and Grubby have <span class=\"rarity\"><s class=\"sortkey\" style=\"display:none;\">01*</s><linked>[img:Rarity level: 1]</linked></span> rarities."
+    "<b>Buggy</b> is one of three <linked>critters</linked> that occasionally spawn in the <linked>Jungle</linked> or <linked>Underground Jungle</linked> <linked>biome</linked> when a player breaks a <linked>background plant</linked>, the others being <linked>Sluggy</linked> (more common) and <linked>Grubby</linked> (most common). Buggy is the rarest of the three. Buggy has only 5 <linked>health</linked> and no <linked>defense</linked>, and can be damaged by other enemies and players.",
+    "Buggy can be caught with any <linked>Bug Net</linked> to be carried around in the <linked>inventory</linked> and released later, or crafted into animated decorative <linked>furniture</linked> (<linked>Buggy Cage</linked>). Once crafted,  Buggy cannot be released again.",
+    "Buggy can be used as <linked>bait</linked> for <linked>fishing</linked>, with 40% bait power.",
+    "Buggy can be spawned by the <linked>Buggy Statue</linked>, however statue-spawned critters cannot be caught with any Bug Net, and will disappear in a puff of smoke when the player attempts to do so.",
+    ""
   ],
   "statistics": {
     "Bait Power": "40%",
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Buggy Cage]</linked><span><span><linked>Buggy Cage</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Buggy Cage]</linked><span><span><linked>Buggy Cage</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Buggy]</linked><span><span><linked>Buggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Buggy]</linked><span><span><linked>Buggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -31,10 +34,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Grub Soup]</linked><span><span><linked>Grub Soup</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Grub Soup]</linked><span><span><linked>Grub Soup</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Grubby]</linked><span><span><linked>Grubby</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Sluggy]</linked><span><span><linked>Sluggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Buggy]</linked><span><span><linked>Buggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Grubby]</linked><span><span><linked>Grubby</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Sluggy]</linked><span><span><linked>Sluggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Buggy]</linked><span><span><linked>Buggy</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -44,27 +47,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Buggy Statue]</linked><span><span><linked>Buggy Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Buggy Statue]</linked><span><span><linked>Buggy Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Jungle Bug]</linked><span><span><linked>Any Jungle Bug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Any Jungle Bug]</linked><span><span><linked>Any Jungle Bug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Buggy Statue]</linked><span><span><linked>Buggy Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Jungle Bug]</linked><span><span><linked>Any Jungle Bug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

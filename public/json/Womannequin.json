@@ -2,28 +2,28 @@
   "type": "furnitures",
   "title": "Womannequin",
   "summaries": [
-    "The <b>Womannequin</b> is a <linked>decorative</linked> <linked>furniture</linked> item that can be used to display <linked>armor</linked> and <linked>vanity items</linked>, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> as well as <linked>accessories</linked> and <linked>dyes</linked>.",
+    "The <b>Womannequin</b> is a <linked>decorative</linked> <linked>furniture</linked> item that can be used to display <linked>armor</linked> and <linked>vanity items</linked>, <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> as well as <linked>accessories</linked> and <linked>dyes</linked>.",
     "<span class=\"transclude-box\">This content is transcluded from <linked>Mannequin</linked>.</span>On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, items can be placed on a Womannequin by pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button on it, which opens a small set of <linked>inventory</linked>-like slots beneath the player's main inventory. There are three slots for helmet, shirt, and pants, and five slots for accessories. In addition, each slot has an associated dye slot underneath it. Placing items in these slots immediately displays them on the Womannequin.",
     "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked>, items can be placed on a Womannequin by pressing the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> button anywhere on it, which places the item currently held by the player on the Womannequin. If there is already an item in the same slot on the Womannequin, it will be replaced and dropped. Items can also be removed with a <linked>pickaxe</linked> or <linked>drill</linked>.",
     "Womannequins can only be removed if no items are placed on them. On <linked>[img:Old-gen console version]</linked><linked> Old-gen console</linked>, they can always be destroyed by <linked>explosives</linked>, however.",
-    "The Womannequin always displays armor and clothing in their female sprite forms. The <linked>Mannequin</linked> can be used to display them in their male sprite forms."
+    "The Womannequin always displays armor and clothing in their female sprite forms. The <linked>Mannequin</linked> can be used to display them in their male counterparts."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 3 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Right click to customize attire</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Womannequin]</linked><span><span><linked>Womannequin</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Womannequin]</linked><span><span><linked>Womannequin</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

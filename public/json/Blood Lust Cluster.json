@@ -18,8 +18,8 @@
     "Use time": "32 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "15",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"27 Silver Coins\" data-sort-value=\"2700\"><span class=\"sc\">27<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +29,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Blood Lust Cluster]</linked><span><span><linked>Blood Lust Cluster</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

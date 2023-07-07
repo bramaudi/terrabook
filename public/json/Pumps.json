@@ -2,7 +2,7 @@
   "type": "furnitures",
   "title": "Pumps",
   "summaries": [
-    "<b>Inlet</b> and <b>Outlet Pumps</b> are <linked>mechanisms</linked> used to transport <linked>liquids</linked> (<linked>water</linked>, <linked>lava</linked>, <linked>honey</linked>, and <span class=\"eil\"><span><linked>shimmer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span>), without having to construct pathways through <linked>blocks</linked> or rely on gravity. Instead, an Inlet and Outlet Pump need only be connected to each other with <linked>Wires</linked> and activated, which transfers fluid from the Inlet Pump to the Outlet Pump. Each activation transfers up to four tiles of liquid. For continuous automated pumping, a <linked>timer</linked> can be used.",
+    "<b>Inlet</b> and <b>Outlet Pumps</b> are <linked>mechanisms</linked> used to transport <linked>liquids</linked> (<linked>water</linked>, <linked>lava</linked>, <linked>honey</linked>, and <span class=\"eil\"><span><linked>shimmer</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>), without having to construct pathways through <linked>blocks</linked> or rely on gravity. Instead, an Inlet and Outlet Pump need only be connected to each other with <linked>Wires</linked> and activated, which transfers fluid from the Inlet Pump to the Outlet Pump. Each activation transfers up to four tiles of liquid. For continuous automated pumping, a <linked>timer</linked> can be used.",
     "Despite its appearance as a pipe that takes in liquid from beside it, an Inlet Pump must be submerged in liquid, as it removes liquid that lies directly over its graphic, and does so equally from all of its 2×2 tile space. Similarly, an Outlet Pump spawns liquid directly over its graphic, and does so equally over all of its 2×2 tile space."
   ],
   "statistics": {
@@ -10,7 +10,7 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Sends water to outlet pumps</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -20,7 +20,7 @@
           "value": "<span class=\"i multi-line\">[img:Inlet Pump]<span><span title=\"Inlet Pump\">Inlet Pump</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\">[img:Outlet Pump]<span><span title=\"Outlet Pump\">Outlet Pump</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Wire]</linked><span><span><linked>Wire</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       }
     ]

@@ -1,1 +1,20 @@
-{"type":"weapons","title":"Tempest Staff","summaries":["The <b>Tempest Staff</b> is a <linked>Hardmode</linked> <linked>summon weapon</linked>. It spawns a small <b>Sharknado</b> minion that follows the player for an unlimited amount of time, and attacks <linked>enemies</linked> automatically by firing Mini Sharkron projectiles which splatter against enemies and <linked>blocks</linked>. Its attack is akin to a miniature version of <linked>Duke Fishron</linked>'s tornado/shark attack. The Tempest Staff has a 20% chance of being dropped by <linked>Duke Fishron</linked>.","The Tempest Staff's tornado moves to intercept enemies at significant range, and can pass through blocks. The tornado itself also damages enemies on contact.","Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Tempest Staff has over a Ruthless one is <linked>knockback</linked>."],"statistics":{"Damage":"50 <span class=\"small-bold\">(Summon)</span>","Knockback":"2 <span class=\"knockback\">(Very weak)</span>","Mana":"10","Use time":"36 <span class=\"usetime\">(Very slow)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Summons sharknados to fight for you</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Tempest Staff",
+  "summaries": [
+    "The <b>Tempest Staff</b> is a <linked>Hardmode</linked> <linked>summon weapon</linked> that spawns a small <b>Sharknado</b> <linked>minion</linked> that attacks by intermittently firing Mini Sharkron projectiles which splatter upon contact with <linked>enemies</linked> or solid <linked>blocks</linked>, akin to a miniature version of <linked>Duke Fishron</linked>'s own Sharknado attack. The Sharknado minion also deals contact damage to enemies and fires Mini Sharkrons at surrounding targets while returning to the player. Like other <linked>minions</linked>, the summoned Sharknado is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, cancels the <linked>buff</linked>, or leaves the world. The Tempest Staff has a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance of being dropped by <linked>Duke Fishron</linked>.",
+    "Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Tempest Staff has over a Ruthless one is <linked>knockback</linked>."
+  ],
+  "statistics": {
+    "Damage": "50 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "10",
+    "Use time": "36 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons sharknados to fight for you</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

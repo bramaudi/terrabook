@@ -10,8 +10,8 @@
     "Velocity": "9",
     "Tooltip": "<i><span class=\"gameText\">Throw this to make someone fall in love</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">20 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">20 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Love Potion]</linked><span><span><linked>Love Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Princess Fish]</linked><span><span><linked>Princess Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Princess Fish]</linked><span><span><linked>Princess Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -3,15 +3,15 @@
   "title": "Lawn Mower",
   "toolpower": [],
   "summaries": [
-    "The <b>Lawn Mower</b> is a <linked>tool</linked> that can be purchased from the <linked>Golfer</linked> for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>. It mows normal and Hallowed <linked>grass</linked>. Mowed grass has a different texture, reduces enemy spawn chance, prevents tall grass from growing, and changes how balls move in <linked>golfing</linked>. The Lawn Mower deals a fixed amount of 8 damage to critters and enemies only while the player is moving. When it is used on grass other than normal and hallowed, it only removes weeds and flowers."
+    "The <b>Lawn Mower</b> is a <linked>tool</linked> that can be purchased from the <linked>Golfer</linked> for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span>. It mows normal and Hallowed <linked>grass</linked>. Mowed grass has a different texture, reduces enemy spawn chance, prevents tall grass from growing, and changes how balls move in <linked>golfing</linked>. The Lawn Mower deals a fixed 8 damage to entities only while the player is moving forwards, is not in the air, and is not grappled. When it is used on grass other than normal and hallowed, it only removes <linked>weeds and flowers</linked>."
   ],
   "statistics": {
     "Use time": "30 <span class=\"usetime\">(Average)</span>",
     "Tooltip": "<i><span class=\"gameText\">Mows Pure and Hallowed grass<br>Mowed grass reduces enemy spawn chance</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1</span></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {}
 }

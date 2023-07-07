@@ -8,7 +8,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -18,7 +18,7 @@
           "value": "<span class=\"i multi-line\">[img:Candy Cane Block]<span><span title=\"Candy Cane Block\">Candy Cane Block</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -31,7 +31,7 @@
           "value": "<span class=\"i multi-line\">[img:Green Candy Cane Block]<span><span title=\"Green Candy Cane Block\">Green Candy Cane Block</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -39,7 +39,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Candy Cane Wall]</linked><span><span><linked>Candy Cane Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Candy Cane Block]</linked><span><span><linked>Candy Cane Block</linked></span></span></span></li></ul>"
@@ -52,7 +52,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Green Candy Cane Wall]</linked><span><span><linked>Green Candy Cane Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Green Candy Cane Block]</linked><span><span><linked>Green Candy Cane Block</linked></span></span></span></li></ul>"

@@ -2,7 +2,7 @@
   "type": "ammunitions",
   "title": "Ichor Bullet",
   "summaries": [
-    "<b>Ichor Bullets</b> are <linked>Hardmode</linked> <linked>bullets</linked> that inflict the <linked>Ichor debuff</linked> to <linked>enemies</linked>, decreasing the enemy's defense by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 15 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 20 points, which effectively can increase the damage from the bullet by up to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 8 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 10 from its base value of 13, totaling the effective damage up to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 21 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 23. They are <linked>the Crimson</linked> counterpart to <linked>the Corruption</linked>'s <linked>Cursed Bullets</linked>."
+    "<b>Ichor Bullets</b> are <linked>Hardmode</linked> <linked>bullets</linked> that inflict the <linked>Ichor debuff</linked> to <linked>enemies</linked>, decreasing the enemy's defense by <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 15 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 20 points, which effectively can increase the damage from the bullet by up to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 8 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 10 from its base value of 13, totaling the effective damage up to <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 21 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 23. They are <linked>the Crimson</linked> counterpart to <linked>the Corruption</linked>'s <linked>Cursed Bullets</linked>."
   ],
   "statistics": {
     "Damage": "13 <span class=\"small-bold\">(Ranged)</span>",
@@ -11,18 +11,18 @@
     "Velocity Multiplier": "3×",
     "Tooltip": "<i><span class=\"gameText\">Decreases target's defense</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"6 Copper Coins\" data-sort-value=\"6\"><span class=\"cc\">6</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"6 Copper Coins\" data-sort-value=\"6\"><span class=\"cc\">6 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ichor Bullet]</linked><span><span><linked>Ichor Bullet</linked></span></span></span> <span class=\"note-text\">(150)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ichor Bullet]</linked><span><span><linked>Ichor Bullet</linked></span></span></span><span class=\"am\">150</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(150)</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span><span class=\"am\">150</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -32,10 +32,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ichor Bullet]</linked><span><span><linked>Ichor Bullet</linked></span></span></span> <span class=\"note-text\">(50)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Ichor Bullet]</linked><span><span><linked>Ichor Bullet</linked></span></span></span><span class=\"am\">50</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Ichor]</linked><span><span><linked>Ichor</linked></span></span></span></li></ul>"
         }
       }
     ]

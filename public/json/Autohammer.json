@@ -2,35 +2,35 @@
   "type": "furnitures",
   "title": "Autohammer",
   "summaries": [
-    "The <b>Autohammer</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> used to craft <linked>Shroomite Bars</linked> and the <linked>Mini Nuke I</linked> and <linked>II</linked>. It is purchased from the <linked>Truffle</linked> for <span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1</span></span> after <linked>Plantera</linked> has been defeated."
+    "The <b>Autohammer</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> used to craft <linked>Shroomite Bars</linked> and the <linked>Mini Nuke I</linked> and <linked>II</linked>. It is purchased from the <linked>Truffle</linked> for <span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1<i> PC</i></span></span> after <linked>Plantera</linked> has been defeated."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Converts Chlorophyte Bars into Shroomite Bars</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1</span></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1<i> PC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mini Nuke I]</linked><span><span><linked>Mini Nuke I</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(100)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mini Nuke I]</linked><span><span><linked>Mini Nuke I</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">100</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rocket III]</linked><span><span><linked>Rocket III</linked></span></span></span> <span class=\"note-text\">(100)</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rocket III]</linked><span><span><linked>Rocket III</linked></span></span></span><span class=\"am\">100</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mini Nuke II]</linked><span><span><linked>Mini Nuke II</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(100)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Mini Nuke II]</linked><span><span><linked>Mini Nuke II</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">100</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rocket IV]</linked><span><span><linked>Rocket IV</linked></span></span></span> <span class=\"note-text\">(100)</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rocket IV]</linked><span><span><linked>Rocket IV</linked></span></span></span><span class=\"am\">100</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -39,7 +39,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       }
     ]

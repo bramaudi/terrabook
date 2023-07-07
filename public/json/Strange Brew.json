@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Strange Brew",
   "summaries": [
-    "The <b>Strange Brew</b> is a <linked>potion</linked> that is purchased from the <linked>Skeleton Merchant</linked> during certain <linked>moon phases</linked> for <span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span> each. It restores 70–120 <linked>health</linked> and inflicts 40–70 seconds of <linked>Potion Sickness</linked>. It also randomly gives 0 / 1 / 2 / 4 second(s) of damage immunity."
+    "The <b>Strange Brew</b> is a <linked>potion</linked> that is purchased from the <linked>Skeleton Merchant</linked> during certain <linked>moon phases</linked> for <span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<i> SC</i></span></span> each. It restores 70–120 <linked>health</linked> and inflicts 40–70 seconds of <linked>Potion Sickness</linked>. It also randomly gives 0 / 1 / 2 / 4 second(s) of damage immunity."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -10,9 +10,9 @@
     "Use time": "17 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Side Effects May Include:<br>-Unpredictable Healing<br>-Inconsistent Potion Sickness<br>-Brief Periods of Inexplicable Invulnerability<br>'It looks and smells terrible'</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5</span></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">30 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<i> SC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">30 required</abbr>"
   },
   "crafts": {}
 }

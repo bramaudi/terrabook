@@ -9,8 +9,8 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"6 Silver Coins\" data-sort-value=\"600\"><span class=\"sc\">6</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"6 Silver Coins\" data-sort-value=\"600\"><span class=\"sc\">6<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
@@ -20,7 +20,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Adamantite Forge]</linked><span><span><linked>Adamantite Forge</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Ore]</linked><span><span><linked>Adamantite Ore</linked></span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\"><linked>[img:Hellforge]</linked><span><span><linked>Hellforge</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Ore]</linked><span><span><linked>Adamantite Ore</linked></span></span></span><span class=\"am\">30</span></li><li><span class=\"i\"><linked>[img:Hellforge]</linked><span><span><linked>Hellforge</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -33,7 +33,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Titanium Forge]</linked><span><span><linked>Titanium Forge</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Ore]</linked><span><span><linked>Titanium Ore</linked></span></span></span> <span class=\"note-text\">(30)</span></li><li><span class=\"i\"><linked>[img:Hellforge]</linked><span><span><linked>Hellforge</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Ore]</linked><span><span><linked>Titanium Ore</linked></span></span></span><span class=\"am\">30</span></li><li><span class=\"i\"><linked>[img:Hellforge]</linked><span><span><linked>Hellforge</linked></span></span></span></li></ul>"
         }
       }
     ],
@@ -44,58 +44,58 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lavaproof Bug Net]</linked><span><span><linked>Lavaproof Bug Net</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavaproof Bug Net]</linked><span><span><linked>Lavaproof Bug Net</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Bug Net]</linked><span><span><linked>Bug Net</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Bar]</linked><span><span><linked>Hellstone Bar</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Bug Net]</linked><span><span><linked>Bug Net</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Longcoat]</linked><span><span><linked>Obsidian Longcoat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Longcoat]</linked><span><span><linked>Obsidian Longcoat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Outlaw Hat]</linked><span><span><linked>Obsidian Outlaw Hat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Outlaw Hat]</linked><span><span><linked>Obsidian Outlaw Hat</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Pants]</linked><span><span><linked>Obsidian Pants</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Pants]</linked><span><span><linked>Obsidian Pants</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Shadow Scale]</linked><span><span><linked>Shadow Scale</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Tissue Sample]</linked><span><span><linked>Tissue Sample</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       }
     ],
@@ -103,10 +103,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Adamantite Beam]</linked><span><span><linked>Adamantite Beam</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Adamantite Beam]</linked><span><span><linked>Adamantite Beam</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Adamantite Ore]</linked><span><span><linked>Adamantite Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Adamantite Ore]</linked><span><span><linked>Adamantite Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -121,25 +121,25 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Aetherium Brick]</linked><span><span><linked>Aetherium Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Aetherium Brick]</linked><span><span><linked>Aetherium Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Aetherium Block]</linked><span><span><linked>Aetherium Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Aetherium Block]</linked><span><span><linked>Aetherium Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Argon Moss Brick]</linked><span><span><linked>Argon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Argon Moss Brick]</linked><span><span><linked>Argon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Argon Moss]</linked><span><span><linked>Argon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Argon Moss]</linked><span><span><linked>Argon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
@@ -151,16 +151,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Bowl]</linked><span><span><linked>Bowl</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bubblegum Block]</linked><span><span><linked>Bubblegum Block</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Bubblegum Block]</linked><span><span><linked>Bubblegum Block</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -175,19 +175,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Brick]</linked><span><span><linked>Chlorophyte Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Brick]</linked><span><span><linked>Chlorophyte Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Ore]</linked><span><span><linked>Chlorophyte Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Ore]</linked><span><span><linked>Chlorophyte Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Brick]</linked><span><span><linked>Chlorophyte Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Brick]</linked><span><span><linked>Chlorophyte Brick</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Ore]</linked><span><span><linked>Chlorophyte Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Chlorophyte Ore]</linked><span><span><linked>Chlorophyte Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -196,7 +196,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Clay Pot]</linked><span><span><linked>Clay Pot</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -205,7 +205,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Clay Pot]</linked><span><span><linked>Clay Pot</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -214,16 +214,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Ore]</linked><span><span><linked>Cobalt Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Ore]</linked><span><span><linked>Cobalt Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Cobalt Brick]</linked><span><span><linked>Cobalt Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Cobalt Brick]</linked><span><span><linked>Cobalt Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Cobalt Ore]</linked><span><span><linked>Cobalt Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Cobalt Ore]</linked><span><span><linked>Cobalt Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -241,16 +241,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Ore]</linked><span><span><linked>Copper Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Ore]</linked><span><span><linked>Copper Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Copper Brick]</linked><span><span><linked>Copper Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Copper Brick]</linked><span><span><linked>Copper Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Copper Ore]</linked><span><span><linked>Copper Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Copper Ore]</linked><span><span><linked>Copper Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -265,10 +265,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Crimstone Brick]</linked><span><span><linked>Crimstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Crimstone Brick]</linked><span><span><linked>Crimstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimstone Block]</linked><span><span><linked>Crimstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimstone Block]</linked><span><span><linked>Crimstone Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -277,7 +277,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -286,22 +286,22 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crimtane Bar]</linked><span><span><linked>Crimtane Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crimtane Brick]</linked><span><span><linked>Crimtane Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Crimtane Brick]</linked><span><span><linked>Crimtane Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimstone Block]</linked><span><span><linked>Crimstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimstone Block]</linked><span><span><linked>Crimstone Block</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Crimtane Brick]</linked><span><span><linked>Crimtane Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Crimtane Brick]</linked><span><span><linked>Crimtane Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crimtane Ore]</linked><span><span><linked>Crimtane Ore</linked></span></span></span></li></ul>"
@@ -322,7 +322,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -331,16 +331,16 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Demonite Bar]</linked><span><span><linked>Demonite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Demonite Brick]</linked><span><span><linked>Demonite Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Demonite Ore]</linked><span><span><linked>Demonite Ore</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -349,7 +349,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Ebonstone Brick]</linked><span><span><linked>Ebonstone Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonstone Block]</linked><span><span><linked>Ebonstone Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -358,13 +358,13 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Sand]</linked><span><span><linked>Any Sand</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Glass Bowl]</linked><span><span><linked>Glass Bowl</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Glass Bowl]</linked><span><span><linked>Glass Bowl</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
@@ -376,16 +376,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Gold Brick]</linked><span><span><linked>Gold Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Gold Ore]</linked><span><span><linked>Gold Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -403,61 +403,61 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Gray Brick]</linked><span><span><linked>Gray Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Gray Stucco]</linked><span><span><linked>Gray Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gray Stucco]</linked><span><span><linked>Gray Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Green Thread]</linked><span><span><linked>Green Thread</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Green Thread]</linked><span><span><linked>Green Thread</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Japanese Console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Japanese Console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:White Thread]</linked><span><span><linked>White Thread</linked></span><span class=\"eico s j\" title=\"Japanese console version\"></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:White Thread]</linked><span><span><linked>White Thread</linked></span><span class=\"eico s j\" title=\"Japanese console version\"></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Green Stucco]</linked><span><span><linked>Green Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Purple Thread]</linked><span><span><linked>Purple Thread</linked></span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Purple Thread]</linked><span><span><linked>Purple Thread</linked></span><span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Helium Moss Brick]</linked><span><span><linked>Helium Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Helium Moss Brick]</linked><span><span><linked>Helium Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Helium Moss]</linked><span><span><linked>Helium Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Helium Moss]</linked><span><span><linked>Helium Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hellstone Brick]</linked><span><span><linked>Hellstone Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hellstone Brick]</linked><span><span><linked>Hellstone Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -484,34 +484,34 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Iron Bar]</linked><span><span><linked>Iron Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Iron Brick]</linked><span><span><linked>Iron Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Iron Brick]</linked><span><span><linked>Iron Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Iron Ore]</linked><span><span><linked>Iron Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Krypton Moss Brick]</linked><span><span><linked>Krypton Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Krypton Moss Brick]</linked><span><span><linked>Krypton Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Krypton Moss]</linked><span><span><linked>Krypton Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Krypton Moss]</linked><span><span><linked>Krypton Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lava Moss Brick]</linked><span><span><linked>Lava Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lava Moss Brick]</linked><span><span><linked>Lava Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lava Moss]</linked><span><span><linked>Lava Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lava Moss]</linked><span><span><linked>Lava Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -520,25 +520,25 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Lead Bar]</linked><span><span><linked>Lead Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Lead Brick]</linked><span><span><linked>Lead Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Lead Brick]</linked><span><span><linked>Lead Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Lead Ore]</linked><span><span><linked>Lead Ore</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Luminite Brick]</linked><span><span><linked>Luminite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
@@ -547,12 +547,12 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Magic Mirror]</linked><span><span><linked>Magic Mirror</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -561,22 +561,22 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Meteorite Bar]</linked><span><span><linked>Meteorite Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Meteorite]</linked><span><span><linked>Meteorite</linked></span></span></span></li></ul>"
@@ -606,16 +606,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mythril Bar]</linked><span><span><linked>Mythril Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mythril Brick]</linked><span><span><linked>Mythril Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mythril Brick]</linked><span><span><linked>Mythril Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -630,19 +630,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Neon Moss Brick]</linked><span><span><linked>Neon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Neon Moss Brick]</linked><span><span><linked>Neon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Neon Moss]</linked><span><span><linked>Neon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Neon Moss]</linked><span><span><linked>Neon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -651,7 +651,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Obsidian Brick]</linked><span><span><linked>Obsidian Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -660,7 +660,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Obsidian Skull]</linked><span><span><linked>Obsidian Skull</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
@@ -669,7 +669,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Orichalcum Bar]</linked><span><span><linked>Orichalcum Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Orichalcum Ore]</linked><span><span><linked>Orichalcum Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -678,16 +678,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Palladium Bar]</linked><span><span><linked>Palladium Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Ore]</linked><span><span><linked>Palladium Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palladium Ore]</linked><span><span><linked>Palladium Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Palladium Column]</linked><span><span><linked>Palladium Column</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Palladium Column]</linked><span><span><linked>Palladium Column</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Palladium Ore]</linked><span><span><linked>Palladium Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Palladium Ore]</linked><span><span><linked>Palladium Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -705,7 +705,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pearlstone Brick]</linked><span><span><linked>Pearlstone Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -723,16 +723,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pink Vase]</linked><span><span><linked>Pink Vase</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Plate]</linked><span><span><linked>Plate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Plate]</linked><span><span><linked>Plate</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -741,16 +741,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Platinum Brick]</linked><span><span><linked>Platinum Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Platinum Brick]</linked><span><span><linked>Platinum Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Platinum Ore]</linked><span><span><linked>Platinum Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -768,7 +768,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Pumpkin Pie]</linked><span><span><linked>Pumpkin Pie</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -777,16 +777,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Red Brick]</linked><span><span><linked>Red Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Red Stucco]</linked><span><span><linked>Red Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Red Stucco]</linked><span><span><linked>Red Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -795,7 +795,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Sandgun]</linked><span><span><linked>Sandgun</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Illegal Gun Parts]</linked><span><span><linked>Illegal Gun Parts</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Antlion Mandible]</linked><span><span><linked>Antlion Mandible</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Topaz]</linked><span><span><linked>Topaz</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Illegal Gun Parts]</linked><span><span><linked>Illegal Gun Parts</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Antlion Mandible]</linked><span><span><linked>Antlion Mandible</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Topaz]</linked><span><span><linked>Topaz</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -810,10 +810,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Plating]</linked><span><span><linked>Shroomite Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(25)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shroomite Plating]</linked><span><span><linked>Shroomite Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">25</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(25)</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">25</span></li><li><span class=\"i\"><linked>[img:Shroomite Bar]</linked><span><span><linked>Shroomite Bar</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -822,16 +822,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Ore]</linked><span><span><linked>Silver Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Ore]</linked><span><span><linked>Silver Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Brick]</linked><span><span><linked>Silver Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Brick]</linked><span><span><linked>Silver Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silver Ore]</linked><span><span><linked>Silver Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silver Ore]</linked><span><span><linked>Silver Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -846,19 +846,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sandstone Block]</linked><span><span><linked>Sandstone Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Teapot]</linked><span><span><linked>Teapot</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Teapot]</linked><span><span><linked>Teapot</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">12</span></li></ul>"
         }
       },
       {
@@ -867,7 +867,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Terrarium]</linked><span><span><linked>Terrarium</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -876,16 +876,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Ore]</linked><span><span><linked>Tin Ore</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Ore]</linked><span><span><linked>Tin Ore</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Brick]</linked><span><span><linked>Tin Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tin Brick]</linked><span><span><linked>Tin Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Tin Ore]</linked><span><span><linked>Tin Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Tin Ore]</linked><span><span><linked>Tin Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -900,10 +900,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Titanstone Block]</linked><span><span><linked>Titanstone Block</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Titanstone Block]</linked><span><span><linked>Titanstone Block</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Titanium Ore]</linked><span><span><linked>Titanium Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Titanium Ore]</linked><span><span><linked>Titanium Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -921,16 +921,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Ore]</linked><span><span><linked>Tungsten Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Ore]</linked><span><span><linked>Tungsten Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Brick]</linked><span><span><linked>Tungsten Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Brick]</linked><span><span><linked>Tungsten Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Tungsten Ore]</linked><span><span><linked>Tungsten Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Tungsten Ore]</linked><span><span><linked>Tungsten Ore</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -945,7 +945,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Wine Glass]</linked><span><span><linked>Wine Glass</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Wine Glass]</linked><span><span><linked>Wine Glass</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
@@ -954,19 +954,19 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Xenon Moss Brick]</linked><span><span><linked>Xenon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Xenon Moss Brick]</linked><span><span><linked>Xenon Moss Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Xenon Moss]</linked><span><span><linked>Xenon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Xenon Moss]</linked><span><span><linked>Xenon Moss</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Clay Block]</linked><span><span><linked>Clay Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span> <span class=\"note-text\">(10)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Stucco]</linked><span><span><linked>Yellow Stucco</linked></span></span></span><span class=\"am\">10</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silt Block]</linked><span><span><linked>Silt Block</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Sand Block]</linked><span><span><linked>Sand Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       }
     ]

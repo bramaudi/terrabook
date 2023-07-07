@@ -3,7 +3,7 @@
   "title": "Tungsten Bullet",
   "summaries": [
     "<b>Tungsten Bullets</b> are a type of <linked>bullets</linked> used by <linked>guns</linked>. They deal 2 more damage and are slightly faster than <linked>Musket Balls</linked>, but otherwise have no special properties.",
-    "Tungsten Bullets can be bought from the <linked>Arms Dealer</linked> for <span class=\"coin\" title=\"18 Copper Coins\" data-sort-value=\"18\"><span class=\"cc\">18</span></span> each, or <span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1</span><span class=\"sc\">80</span></span> for 1000 rounds in worlds with <linked>Tungsten</linked>. Prior to <linked>Hardmode</linked>, they are only sold during <linked>Blood Moons</linked>, but become available anytime once Hardmode begins. They can also be found replacing <linked>Wooden Arrows</linked> in <linked>Pots</linked> during Hardmode, in <linked>Shadow Chests</linked>, and crafted using <linked>Tungsten Bars</linked>.",
+    "Tungsten Bullets can be bought from the <linked>Arms Dealer</linked> for <span class=\"coin\" title=\"18 Copper Coins\" data-sort-value=\"18\"><span class=\"cc\">18 <i>CC</i></span></span> each, or <span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">80<i> SC</i></span></span> for 1000 rounds in worlds with <linked>Tungsten</linked>. Prior to <linked>Hardmode</linked>, they are only sold during <linked>Blood Moons</linked>, but become available anytime once Hardmode begins. They can also be found replacing <linked>Wooden Arrows</linked> in <linked>Pots</linked> during Hardmode, in <linked>Shadow Chests</linked>, and crafted using <linked>Tungsten Bars</linked>.",
     "They are the <linked>Tungsten</linked> counterpart to <linked>Silver Bullets</linked>, possessing identical stats (aside from knockback and buy/sell prices)."
   ],
   "statistics": {
@@ -12,19 +12,19 @@
     "Base Velocity": "4.5",
     "Velocity Multiplier": "2×",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"18 Copper Coins\" data-sort-value=\"18\"><span class=\"cc\">18</span></span>",
-    "Sell": "<span class=\"coin\" title=\"3 Copper Coins\" data-sort-value=\"3\"><span class=\"cc\">3</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"18 Copper Coins\" data-sort-value=\"18\"><span class=\"cc\">18 <i>CC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"3 Copper Coins\" data-sort-value=\"3\"><span class=\"cc\">3 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Tungsten Bullet]</linked><span><span><linked>Tungsten Bullet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(70)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Tungsten Bullet]</linked><span><span><linked>Tungsten Bullet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">70</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span> <span class=\"note-text\">(70)</span></li><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Musket Ball]</linked><span><span><linked>Musket Ball</linked></span></span></span><span class=\"am\">70</span></li><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -2,12 +2,13 @@
   "type": "enemies",
   "title": "Sharkron",
   "summaries": [
-    "<b>Sharkrons</b> are <linked>Hardmode</linked> <linked>enemies</linked> fired by <linked>Duke Fishron</linked>'s Sharknado attack. They travel in an arc, descending at a slower speed after reaching maximum height. They are killed instantly upon impact with blocks."
+    "<b>Sharkrons</b> are <linked>Hardmode</linked> <linked>enemies</linked> fired by <linked>Duke Fishron</linked>'s Sharknado and Cthulhunado attacks. They will first spawn in the Sharknado or Cthulhunado, staying in it for some time before being launched directly at the player. They travel in an arc, descending at a slower speed after reaching maximum height. They are killed instantly upon impact with blocks.",
+    "Despite being shark-related, Sharkrons do not move faster in <linked>water</linked>."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Ocean </linked></span></div>",
     "AI Type": "Sharkron AI",
-    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">100</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">225</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">100</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">225</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">100</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">100%</span></span>",
     "Immune to": "Confused"

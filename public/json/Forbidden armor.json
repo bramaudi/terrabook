@@ -4,15 +4,14 @@
   "summaries": [
     "<b>Forbidden armor</b> is a <linked>Hardmode</linked> <linked>armor</linked> set consisting of the <b>Forbidden Mask</b>, <b>Forbidden Robes</b> and the <b>Forbidden Treads</b>. Crafting the full set requires 3 <linked>Forbidden Fragments</linked> and 46 <linked>Titanium Bars</linked> or <linked>Adamantite Bars</linked>.",
     "A full set of Forbidden armor will provide the following stats:",
-    "<ul><li>+26 <linked>defense</linked></li><li>+25% <linked>magic</linked> and <linked>summon damage</linked></li><li>+80 maximum <linked>mana</linked></li><li>+2 minion capacity</li></ul>",
-    "While wearing the full set, a golden, spiky, rune-like object, known as the <b>Forbidden Sign</b>, floats behind the player in a very similar fashion to the <linked>Stardust Guardian</linked> from the <linked>Stardust armor</linked> set. Double tapping <span class=\"key\"><linked>▼ Down</linked></span> or <span class=\"key\"><linked>▲ Up</linked></span> (depending on the \"Activate Set Bonuses\" <linked>setting</linked>) will send a beam of dust particles that summon a sand tornado at the nearest <linked>block</linked> surface beneath the cursor position at the cost of 20 mana. The beam itself does not deal any damage, but the tornado rapidly hits any <linked>enemy</linked> that comes in direct contact with it for 20 base damage. The Forbidden Sign also casts a faint yellow light around the player, similar to the <linked>Mining Helmet</linked>.",
-    "The dust particles can not pass-through solid objects, which means that if there is a solid object between the character and the cursor, the beam will hit the solid object, stop there, and the sand tornado will not be summoned. Only one sand tornado can be summoned at a time, and when a new tornado is summoned, the old one disappears after roughly 1 second. A space of at least 3×12 tiles is required for the tornado to be summoned. If no enemies come in contact with the tornado, it disappears after 15 seconds."
+    "<ul><li>+26 <linked>defense</linked></li><li>+25% <linked>magic</linked> and <linked>summon damage</linked></li><li>+80 maximum <linked>mana</linked></li><li>+2 <linked>minion</linked> capacity</li></ul>",
+    "While wearing the full set, a golden, spiky, rune-like object known as the <b>Forbidden Sign</b> floats behind the player in a very similar fashion to the <linked>Stardust Guardian</linked> from the <linked>Stardust armor</linked> set. Double tapping <span class=\"key\"><linked>▼ Down</linked></span> or <span class=\"key\"><linked>▲ Up</linked></span> (depending on the \"Activate Set Bonuses\" <linked>setting</linked>) will send a beam of dust particles that summon an Ancient Storm at the nearest <linked>block</linked> surface beneath the cursor position at the cost of 20 mana. The beam itself does not deal any damage, but the storm rapidly hits any <linked>enemy</linked> that comes in direct contact with it for 20 base damage. The dust particles cannot pass through solid objects, which means that if there is a solid object between the character and the cursor, the beam will hit the solid object, stop there, and the Ancient Storm will not be summoned."
   ],
   "statistics": {
     "Defense": "26<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Double tap <span class=\"key\"><linked>▼ Down</linked></span>/<span class=\"key\"><linked>▲ Up</linked></span><sup id=\"cite_ref-1\" class=\"reference\"><linked>[1]</linked></sup> to call an ancient storm to the cursor location</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"12 Gold Coins\" data-sort-value=\"120000\"><span class=\"gc\">12</span></span><span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"12 Gold Coins\" data-sort-value=\"120000\"><span class=\"gc\">12<i> GC</i></span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -22,7 +21,7 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Mask]<span><span title=\"Forbidden Mask\">Forbidden Mask</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 6,
@@ -31,7 +30,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
@@ -40,12 +39,12 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Robes]<span><span title=\"Forbidden Robes\">Forbidden Robes</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
@@ -54,12 +53,12 @@
           "value": "<span class=\"i multi-line\">[img:Forbidden Treads]<span><span title=\"Forbidden Treads\">Forbidden Treads</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Adamantite Bar]</linked><span><span><linked>Adamantite Bar</linked></span></span></span><span class=\"am\">16</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(16)</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span><span class=\"am\">16</span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       }
     ]

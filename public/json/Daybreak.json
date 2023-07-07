@@ -1,1 +1,38 @@
-{"type":"weapons","title":"Daybreak","summaries":["The <b>Daybreak</b> is a <linked>Hardmode</linked>, endgame <linked>melee weapon</linked> crafted from <linked>Solar Fragments</linked> obtained from the <linked>Lunar Events</linked>. It <linked>auto-fires</linked> projectiles that cost no <linked>mana</linked> or <linked>ammunition</linked>. It can be considered a much more powerful and non-consumable <linked>Bone Javelin</linked>, as its projectiles are affected by gravity and stick to enemies to inflict damage over time.","Up to 8 projectiles can stick to an <linked>enemy</linked> at once, with each dealing 25 damage per quarter-second, resulting in 800 max <abbr title=\"Damage per second\">DPS</abbr> from the debuff. When a projectile expires or hits a block, it will explode, dealing damage in an area.","The projectiles also emit a good amount of light, making exploration and finding enemies in the dark much easier.","Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."],"statistics":{"Damage":"150 <span class=\"small-bold\">(Melee)</span>","Knockback":"5 <span class=\"knockback\">(Average)</span>","Critical chance":"4%","Use time":"16 <span class=\"usetime\">(Very fast)</span>","Velocity":"20<small> (<linked>effective</linked>)</small>","Tooltip":"<i><span class=\"gameText\">'Rend your foes asunder with a spear of light!'</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Daybreak]</linked><span><span><linked>Daybreak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Daybreak",
+  "summaries": [
+    "The <b>Daybreak</b> is a <linked>Hardmode</linked>, endgame <linked>melee weapon</linked> crafted from <linked>Solar Fragments</linked> obtained from the <linked>Lunar Events</linked>. It <linked>auto-fires</linked> projectiles that cost no <linked>mana</linked> or <linked>ammunition</linked>. It can be considered a much more powerful and non-consumable <linked>Bone Javelin</linked>, as its projectiles are affected by gravity and stick to enemies to inflict damage over time.",
+    "Up to 8 projectiles can stick to an <linked>enemy</linked> at once, with each dealing 25 damage per quarter-second, resulting in 800 max <abbr title=\"Damage per second\">DPS</abbr> from the debuff. When a projectile expires or hits a block, it will explode, dealing damage in an area.",
+    "The projectiles also emit a good amount of light, making exploration and finding enemies in the dark much easier.",
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
+  ],
+  "statistics": {
+    "Damage": "150 <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span>",
+    "Critical chance": "4%",
+    "Use time": "16 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "20<small> (<linked>effective</linked>)</small>",
+    "Tooltip": "<i><span class=\"gameText\">'Rend your foes asunder with a spear of light!'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 10]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Daybreak]</linked><span><span><linked>Daybreak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">18</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+        }
+      }
+    ]
+  }
+}

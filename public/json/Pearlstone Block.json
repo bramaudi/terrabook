@@ -2,7 +2,7 @@
   "type": "blocks",
   "title": "Pearlstone Block",
   "summaries": [
-    "<b>Pearlstone</b> is a <linked>Hardmode</linked> <linked>block</linked> type found in <linked>The Hallow</linked>. It requires at least a <linked>Nightmare Pickaxe</linked>, <linked>Deathbringer Pickaxe</linked>, or <linked>explosives</linked> to mine.",
+    "The <b>Pearlstone Block</b> is a <linked>Hardmode</linked> <linked>block</linked> type found in <linked>The Hallow</linked>. It requires at least a <linked>Nightmare Pickaxe</linked>, <linked>Deathbringer Pickaxe</linked>, or <linked>explosives</linked> to mine.",
     "Pearlstone is the Hallow version of <linked>Stone</linked> (similar to <linked>Ebonstone</linked> in <linked>The Corruption</linked>, or <linked>Crimstone</linked> in <linked>The Crimson</linked>). In a way similar to Ebonstone and Crimstone, Pearlstone can be converted into ordinary Stone via <linked>Vile Powder</linked>, <linked>Vicious Powder</linked>, or the <linked>Clentaminator</linked> with the <linked>Green Solution</linked>.",
     "During the initial creation of the Hallow biome upon the defeat of the <linked>Wall of Flesh</linked>, Stone blocks in the conversion path become Pearlstone blocks (see <linked>Hardmode</linked>). Pearlstone itself also continues to spread Hallow to all Stone, <linked>Sand</linked>, <linked>Ice</linked>, and <linked>Grass</linked> covered dirt within a three tile radius. Over time, it will grow Crystal Shards if it is in the Underground or below."
   ],
@@ -10,17 +10,17 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Torch]</linked><span><span><linked>Hallowed Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(3)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Torch]</linked><span><span><linked>Hallowed Torch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">3</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -37,7 +37,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -46,7 +46,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pearlstone Brick]</linked><span><span><linked>Pearlstone Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -65,20 +65,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hallowed Cavern Wall]</linked><span><span><linked>Hallowed Cavern Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Cavern Wall]</linked><span><span><linked>Hallowed Cavern Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 5,
-          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hallowed Crystalline Wall]</linked><span><span><linked>Hallowed Crystalline Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Crystalline Wall]</linked><span><span><linked>Hallowed Crystalline Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
@@ -87,7 +87,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hallowed Prism Wall]</linked><span><span><linked>Hallowed Prism Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Prism Wall]</linked><span><span><linked>Hallowed Prism Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
@@ -96,7 +96,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Hallowed Shard Wall]</linked><span><span><linked>Hallowed Shard Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hallowed Shard Wall]</linked><span><span><linked>Hallowed Shard Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"
@@ -105,7 +105,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pearlstone Wall]</linked><span><span><linked>Pearlstone Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Pearlstone Wall]</linked><span><span><linked>Pearlstone Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlstone Block]</linked><span><span><linked>Pearlstone Block</linked></span></span></span></li></ul>"

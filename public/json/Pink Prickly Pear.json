@@ -1,0 +1,39 @@
+{
+  "type": "miscellaneous",
+  "title": "Pink Prickly Pear",
+  "summaries": [
+    "The <b>Pink Prickly Pear</b> is a <linked>dye material</linked> that is sometimes found on top of a regular or Hallowed <linked>Cactus</linked>. It can only be harvested using a <linked>pickaxe</linked>, <linked>drill</linked> or <linked>explosives</linked>. Its sole purpose is to craft <linked>Pink Dye</linked>."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Used to make Pink Dye</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">3 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pink Dye]</linked><span><span><linked>Pink Dye</linked></span></span></span><span class=\"am\">2</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pink Prickly Pear]</linked><span><span><linked>Pink Prickly Pear</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 2,
+          "value": "<span class=\"i -w\"><linked>[img:Dye Vat]</linked><span><span><linked>Dye Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Pink Dye]</linked><span><span><linked>Pink Dye</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pink Prickly Pear]</linked><span><span><linked>Pink Prickly Pear</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

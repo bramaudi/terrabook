@@ -18,8 +18,8 @@
     "Use time": "35 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "14",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4<i> GC</i></span><span class=\"sc\">32<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +29,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Chlorophyte Warhammer]</linked><span><span><linked>Chlorophyte Warhammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

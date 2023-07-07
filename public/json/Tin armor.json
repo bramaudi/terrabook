@@ -3,7 +3,7 @@
   "title": "Tin armor",
   "summaries": [
     "<b>Tin armor</b> is the <linked>Tin</linked> counterpart of <linked>Copper armor</linked>, and is also one of the most simply craftable armor sets in the game.",
-    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 48 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 60 <linked>Tin Bars</linked> to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 144 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 180 <linked>Tin Ore</linked>.",
+    "It takes a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 48 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 60 <linked>Tin Bars</linked> to craft a full suit, or <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 144 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 180 <linked>Tin Ore</linked>.",
     "A full set grants a basic 5 defense plus a set bonus of 2 defense, which equals a total of 7 defense. That means a full set of tin armor grants 1 more defense than Copper armor's 6 defense.",
     "The set consists of the <b>Tin Helmet</b>, <b>Tin Chainmail</b> and <b>Tin Greaves</b>."
   ],
@@ -11,7 +11,7 @@
     "Defense": "7 (5+2)<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">2 defense</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"9 Silver Coins\" data-sort-value=\"900\"><span class=\"sc\">9</span></span><span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"9 Silver Coins\" data-sort-value=\"900\"><span class=\"sc\">9<i> SC</i></span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Chainmail]<span><span title=\"Tin Chainmail\">Tin Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
@@ -34,7 +34,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Chainmail]<span><span title=\"Tin Chainmail\">Tin Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       },
       {
@@ -43,7 +43,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Greaves]<span><span title=\"Tin Greaves\">Tin Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -52,7 +52,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Greaves]<span><span title=\"Tin Greaves\">Tin Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
@@ -61,7 +61,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Helmet]<span><span title=\"Tin Helmet\">Tin Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">12</span></li></ul>"
         }
       },
       {
@@ -70,7 +70,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Tin Helmet]<span><span title=\"Tin Helmet\">Tin Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       }
     ]

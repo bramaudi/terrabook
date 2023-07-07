@@ -3,15 +3,15 @@
   "title": "Heart Lantern",
   "summaries": [
     "The <b>Heart Lantern</b> is a unique variant of <linked>lantern</linked>, a hanging <linked>furniture</linked> item, that emits moderate light while also providing the <b>Heart Lamp</b> <linked>health regeneration</linked> <linked>buff</linked>. It must be hung from the underside of <linked>blocks</linked>, like other lanterns. The Heart Lantern is also a <linked>mechanism</linked> that can be toggled if <linked>wired</linked>. Toggling it off will only deactivate the light source, not the buff.",
-    "The Heart Lamp buff provides nearby players with a constant 1 health-per-second. The buff applies to any players standing within a rectangular area of 170×125 (<linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked>) / 100×84 (<linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked>) tiles centered on the Heart Lantern, providing a boost in <linked>health regeneration</linked> similar to the one granted by <linked>Campfires</linked>. The regeneration buffs from both items will stack together to provide a greater regeneration boost, and being within range of these items can also help to counteract the effects of damaging <linked>debuffs</linked> (such as <linked>Poisoned</linked> and <linked>On Fire!</linked>)."
+    "The Heart Lamp buff provides nearby players with a constant 1 health-per-second. The buff applies to all players who are within a rectangular area of 170×125 (<linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked>) / 100×84 (<linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked>) tiles centered on the Heart Lantern, providing a boost in <linked>health regeneration</linked> similar to the one granted by <linked>Campfires</linked>. The regeneration buffs from both items will stack together to provide a greater regeneration boost, and being within range of these items can also help to counteract the effects of damaging <linked>debuffs</linked> (such as <linked>Poisoned</linked> and <linked>On Fire!</linked>)."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Increases life regeneration when placed nearby</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1</span><span class=\"sc\">50</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">50<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Heart Lantern]</linked><span><span><linked>Heart Lantern</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Life Crystal]</linked><span><span><linked>Life Crystal</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Life Crystal]</linked><span><span><linked>Life Crystal</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

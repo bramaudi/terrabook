@@ -3,7 +3,7 @@
   "title": "Cell Phone",
   "toolpower": [],
   "summaries": [
-    "The <b>Cell Phone</b> is a post-<linked>Skeletron</linked> <linked>informational item</linked> that displays <linked>fishing</linked> power, weather, <linked>moon phase</linked>, elevation, distance from the center of the world, <linked>time</linked>, nearest valuable environment item, <linked>movement speed</linked>, current DPS, total kills of the last enemy attacked, rare creatures nearby and total number of nearby enemies. It can also teleport the player home, similar to a <linked>Magic Mirror</linked>. The Cell Phone has one of the most complex crafting trees in <i><linked>Terraria</linked>,</i> using 13 base items (and 7 crafting operations), beaten by its upgrade, the <linked>Shellphone</linked>, which uses 15, and closely followed by the <linked>Zenith</linked>, which uses 14. Note this does not include ore smelting or the crafting of the chains.",
+    "The <b>Cell Phone</b> is a post-<linked>Skeletron</linked> <linked>informational item</linked> that displays <linked>fishing</linked> power, weather, <linked>moon phase</linked>, elevation, distance from the center of the world, <linked>time</linked>, nearest valuable environment item, <linked>movement speed</linked>, current <abbr title=\"Damage per second\">DPS</abbr>, total kills of the last enemy attacked, rare creatures nearby and total number of nearby enemies. It can also teleport the player home, similar to a <linked>Magic Mirror</linked>.",
     "Unlike most other informational items (e.g. its constituent parts), the Cell Phone does not double as an <linked>accessory</linked>, and cannot be equipped in accessory slots. It instead functions solely from the player's ordinary inventory slots, which puts it into the <linked>tool</linked> category.",
     "While the <linked>inventory</linked> screen is open, Cell Phone information is hidden. Instead, an icon is displayed for each information type, each of which can be clicked to toggle their display on or off.",
     "In <linked>multiplayer</linked>, information from the Cell Phone will be shared with other nearby players on the same team.",
@@ -13,18 +13,18 @@
     "Use time": "90 <span class=\"usetime\">(Snail)</span>",
     "Tooltip": "<i><span class=\"gameText\">Displays everything<br>Allows you to return home at will</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Cell Phone]</linked><span><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cell Phone]</linked><span><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Ice Mirror]</linked><span><span><linked>Ice Mirror</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Mirror]</linked><span><span><linked>Magic Mirror</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -33,7 +33,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Mirror]</linked><span><span><linked>Magic Mirror</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:PDA]</linked><span><span><linked>PDA</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Ice Mirror]</linked><span><span><linked>Ice Mirror</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         }
       }
     ],
@@ -41,10 +41,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Shellphone]</linked><span><span><linked>Shellphone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Shellphone]</linked><span><span><linked>Shellphone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cell Phone]</linked><span><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Conch]</linked><span><span><linked>Magic Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Demon Conch]</linked><span><span><linked>Demon Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cell Phone]</linked><span><span><linked>Cell Phone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Magic Conch]</linked><span><span><linked>Magic Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Demon Conch]</linked><span><span><linked>Demon Conch</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

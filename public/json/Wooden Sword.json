@@ -1,1 +1,35 @@
-{"type":"weapons","title":"Wooden Sword","summaries":["The <b>Wooden Sword</b> is an early-game <linked>melee weapon</linked>, and the weakest of the seven wooden swords. It is considered a significant upgrade from the starting <linked>Copper Shortsword</linked> due to its higher damage and broadsword arc motion. This facilitates pushing enemies further away, and it is therefore recommended to craft this sword as soon as possible if one is not strictly adhering to another class.","On the <linked>[img:Nintendo 3DS version]</linked>, all newly created characters begin with a Wooden Sword instead of a Copper Shortsword. However, here it inflicts less damage than the Copper Shortsword. This disadvantage may be negated by the fact that it can strike flying enemies (unlike the Copper Shortsword).","Its best <linked>modifier</linked> is <b>Legendary</b>."],"statistics":{"Damage":"7 <linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Old-gen console version]</linked> / 5 <linked>[img:Nintendo 3DS version]</linked> <span class=\"small-bold\">(Melee)</span>","Knockback":"5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 4 <span class=\"knockback\">(Weak)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>","Critical chance":"4%","Use time":"20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>","Sell":"<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{"<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>":[{"result":{"rowspan":1,"value":"<span class=\"i multi-line\"><linked>[img:Wooden Sword]</linked><span><span><linked>Wooden Sword</linked></span></span></span>"},"ingredients":{"value":"<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span> <span class=\"note-text\">(7)</span></li></ul>"},"station":{"rowspan":1,"value":"<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"}}]}}
+{
+  "type": "weapons",
+  "title": "Wooden Sword",
+  "summaries": [
+    "The <b>Wooden Sword</b> is an early-game <linked>melee weapon</linked>, and the weakest of the seven wooden swords. It is considered a significant upgrade from the starting <linked>Copper Shortsword</linked> due to its higher damage and broadsword arc motion. This facilitates pushing enemies further away, and it is therefore recommended to craft this sword as soon as possible if one is not strictly adhering to another class.",
+    "On the <linked>[img:Nintendo 3DS version]</linked>, all newly created characters begin with a Wooden Sword instead of a Copper Shortsword. However, here it inflicts less damage than the Copper Shortsword. This disadvantage may be negated by the fact that it can strike flying enemies (unlike the Copper Shortsword).",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "7 <linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> <linked>[img:Old-gen console version]</linked> / 5 <linked>[img:Nintendo 3DS version]</linked> <span class=\"small-bold\">(Melee)</span>",
+    "Knockback": "5 <span class=\"knockback\">(Average)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 4 <span class=\"knockback\">(Weak)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
+    "Critical chance": "4%",
+    "Use time": "20 <span class=\"usetime\">(Very fast)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 25 <span class=\"usetime\">(Fast)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Wooden Sword]</linked><span><span><linked>Wooden Sword</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">7</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      }
+    ]
+  }
+}

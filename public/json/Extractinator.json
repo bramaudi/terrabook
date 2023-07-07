@@ -3,7 +3,7 @@
   "title": "Extractinator",
   "summaries": [
     "The <b>Extractinator</b> or <b>Silt Extractinator</b> is an item that converts <linked>Silt</linked>, <linked>Slush</linked>, and <linked>Desert Fossils</linked> into more valuable items such as <linked>ores</linked>, <linked>coins</linked>, and <linked>gems</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can also convert <linked>Glowing Mosses</linked> into all kinds of regular <linked>mosses</linked>, and fishing trash into low level bait.",
-    "It can be found rarely in <linked>Wooden Crates</linked>, or in <linked>Gold Chests</linked>, <linked>Frozen Chests</linked>, and other chests in the <linked>Underground</linked> and <linked>Caverns</linked> layers. <linked>Underground Cabins</linked> in the <span class=\"eil\"><span><linked>Underground Desert</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span> also have a chance to contain an Extractinator.",
+    "It can be found rarely in <linked>Wooden Crates</linked>, or in <linked>Gold Chests</linked>, <linked>Frozen Chests</linked>, and other chests in the <linked>Underground</linked> and <linked>Caverns</linked> layers. <linked>Underground Cabins</linked> in the <span class=\"eil\"><span><linked>Underground Desert</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> also have a chance to contain an Extractinator.",
     "To use the Extractinator, it first needs to be <linked>placed</linked> in the world. Afterward, suitable blocks need to be consumed (with the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> key) directly on the Extractinator within its 3×3 frame. Holding the <span class=\"key\"><linked>Auto Select</linked></span> key and clicking on the Extractinator will automatically insert extractable items from the player's inventory without having to pick them up manually.",
     "Feeding blocks to the Extractinator is the only way to obtain <linked>Amber Mosquitoes</linked>, and, along with opening <linked>crates</linked>, the only reliable way to obtain a world's alternative <linked>pre-Hardmode</linked> ores. This is a great way to obtain ore and coins in the early game."
   ],
@@ -12,8 +12,8 @@
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Placing silt/slush/fossil piles into the extractinator turns them into something more useful</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
@@ -23,7 +23,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li><li><span class=\"i\"><linked>[img:Extractinator]</linked><span><span><linked>Extractinator</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">18</span></li><li><span class=\"i\"><linked>[img:Extractinator]</linked><span><span><linked>Extractinator</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

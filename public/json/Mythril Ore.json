@@ -3,15 +3,14 @@
   "title": "Mythril Ore",
   "summaries": [
     "<b>Mythril Ore</b> is a <linked>Hardmode</linked> <linked>ore</linked> that appears in the world every two out of three <linked>Demon Altars</linked> or <linked>Crimson Altars</linked> that have been destroyed. Note that its equivalent, <linked>Orichalcum Ore</linked>, may spawn instead.",
-    "Mythril Ore is found throughout the <linked>Cavern</linked> layer as well as in most <linked>Hardmode</linked> <linked>Crates</linked>. It requires a <linked>pickaxe power</linked> of 110 to mine (<linked>Cobalt</linked>/<linked>Palladium</linked> <linked>pickaxe</linked> or better, or any <linked>drill</linked>).",
-    "To craft all Mythril equipment, a total of 155 Bars (or 620 Ores) is required."
+    "Mythril Ore is found throughout the <linked>Cavern</linked> layer as well as in most <linked>Hardmode</linked> <linked>crates</linked>. It requires a <linked>pickaxe power</linked> of 110 to mine (<linked>Cobalt</linked>/<linked>Palladium</linked> <linked>pickaxe</linked> or better, or any <linked>drill</linked>)."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"11 Silver Coins\" data-sort-value=\"1100\"><span class=\"sc\">11</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"11 Silver Coins\" data-sort-value=\"1100\"><span class=\"sc\">11<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -25,7 +24,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -49,7 +48,7 @@
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Chlorophyte Extractinator]</linked><span><span><linked>Chlorophyte Extractinator Conversion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -58,7 +57,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Mythril Bar]</linked><span><span><linked>Mythril Bar</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -68,10 +67,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mythril Brick]</linked><span><span><linked>Mythril Brick</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Mythril Brick]</linked><span><span><linked>Mythril Brick</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Mythril Ore]</linked><span><span><linked>Mythril Ore</linked></span></span></span></li></ul>"
         }
       },
       {

@@ -1,1 +1,21 @@
-{"type":"weapons","title":"Dark Harvest","summaries":["The <b>Dark Harvest</b> is a <linked>Hardmode</linked> <linked>whip</linked> dropped by the <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked>. Like other whips, it causes <linked>minions</linked> to focus on the last-struck <linked>enemy</linked>.","Striking an enemy with Dark Harvest applies a \"dark energy\" aura to the target. Every time a minion attacks that enemy, the dark aura flares out and damages the target as well as nearby enemies for 10 damage (not affected by any damage bonuses) with 50 <linked>armor penetration</linked>.","Hitting an enemy with Dark Harvest will grant the <b>Harvest Time</b> <linked>buff</linked>, which increases attack speed by 35% for 3 seconds, and the buff duration can be refreshed by hitting enemies with the Dark Harvest again.","If the Dark Harvest hits multiple targets in a single attack, the damage dealt by each consecutive hit will be reduced by 10%.","Its best <linked>modifier</linked> is <b>Legendary</b>."],"statistics":{"Damage":"100 <span class=\"small-bold\">(Summon)</span>","Knockback":"3 <span class=\"knockback\">(Very weak)</span>","Use time":"27 <span class=\"usetime\">(Average)</span>","Velocity":"12<small> (<linked>effective</linked>)</small>","Tooltip":"<i><span class=\"gameText\">Your summons will focus struck enemies<br>Strike enemies with dark energy to gain whip attack speed<br>Dark energy jumps from enemies hit by summons</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Dark Harvest",
+  "summaries": [
+    "The <b>Dark Harvest</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>whip</linked> which, upon striking an enemy, applies an aura of dark energy to the target. When a <linked>minion</linked> or <linked>sentry</linked> damages an enemy afflicted with a dark aura, the aura dissipates and creates an explosion of dark energy, dealing 10 damage to the afflicted target as well as nearby enemies. This damage is not affected by any damage bonuses and has 50 <linked>armor penetration</linked>.",
+    "Striking an enemy with Dark Harvest will also grant the <b>Harvest Time</b> <linked>buff</linked>, which increases attack speed by 35% for 3 seconds. The buff's duration can be refreshed by hitting enemies with the Dark Harvest again, which also reapplies the dark aura effect to damaged enemies. Like other whips, it causes <linked>minions</linked> and <linked>sentries</linked> to focus on the last-struck <linked>enemy</linked>.",
+    "If the Dark Harvest hits multiple targets in a single attack, the damage dealt by each consecutive hit will be reduced by 10%. The Dark Harvest is dropped by the <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked> with a 1.56 ~ 12.5% (<linked>6.25 ~ 12.5%</linked>) chance depending on the current wave.",
+    "Its best <linked>modifier</linked> is <b>Legendary</b>."
+  ],
+  "statistics": {
+    "Damage": "100 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Use time": "27 <span class=\"usetime\">(Average)</span>",
+    "Velocity": "12<small> (<linked>effective</linked>)</small>",
+    "Tooltip": "<i><span class=\"gameText\">Your summons will focus struck enemies<br>Strike enemies with dark energy to gain whip attack speed<br>Dark energy jumps from enemies hit by summons</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

@@ -9,7 +9,7 @@
     "Defense": "3<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">Attackers take damage from the cactus spines</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1</span><span class=\"cc\">50</span></span><span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"1 Silver 50 Copper Coins\" data-sort-value=\"150\"><span class=\"sc\">1<i> SC</i></span><span class=\"cc\">50 <i>CC</i></span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,7 +19,7 @@
           "value": "<span class=\"i multi-line\">[img:Cactus Breastplate]<span><span title=\"Cactus Breastplate\">Cactus Breastplate</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">30</span></li></ul>"
         },
         "station": {
           "rowspan": 3,
@@ -32,7 +32,7 @@
           "value": "<span class=\"i multi-line\">[img:Cactus Helmet]<span><span title=\"Cactus Helmet\">Cactus Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
@@ -41,7 +41,7 @@
           "value": "<span class=\"i multi-line\">[img:Cactus Leggings]<span><span title=\"Cactus Leggings\">Cactus Leggings</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       }
     ]

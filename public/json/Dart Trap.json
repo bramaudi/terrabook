@@ -2,26 +2,25 @@
   "type": "blocks",
   "title": "Dart Trap",
   "summaries": [
-    "<b>Dart Traps</b> are <linked>traps</linked> that fire <linked>poisoned</linked> darts when triggered via <linked>wire</linked>. The trap does not consume any <linked>ammunition</linked>, its output being limited only by how frequently it can be triggered, which is a maximum of once every 3 1/3 seconds (<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 3 seconds). Dart Traps are found naturally placed in random areas in the <linked>Cavern</linked> layer, and more frequently in the <linked>Dungeon</linked>, and can be freed and harvested by players with a <linked>pickaxe</linked> or <linked>drill</linked>. They are found wired to <linked>Pressure Plates</linked> that trigger when the <linked>player</linked> or an <linked>enemy</linked> steps on them.",
-    "In order to use harvested Dart Traps, players must wire them to a triggering <linked>mechanism</linked> that sends a signal to the trap, which can be done with tools available from the <linked>Mechanic</linked> (who can be found in the Dungeon after <linked>Skeletron</linked> is defeated). Dart Traps will be placed facing the direction the player is facing, and on the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, can be <linked>hammered</linked> to rotate them after being placed, allowing them to fire vertically."
+    "The <b>Dart Trap</b> is a <linked>trap</linked> that can be found naturally placed in <linked>Cavern</linked> layer and <linked>Dungeon</linked>. It fires a dart when triggered via <linked>wire</linked> which does not consume any <linked>ammunition</linked>. It has a cooldown of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 3 1/3 seconds / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 3 seconds between firing. The darts deal 40 / <linked>80</linked> / <linked>120</linked> damage and inflict <linked>Poisoned</linked> for 10 / <linked>20</linked> / <linked>25</linked> seconds to players (20 damage and 10 seconds of Poisoned to <linked>NPCs</linked>, <linked>enemies</linked>, and <linked>critters</linked>).",
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> Dart Traps can be rotated 90° with a <linked>hammer</linked>."
   ],
   "statistics": {
-    "Damage": "20",
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"20 Silver Coins\" data-sort-value=\"2000\"><span class=\"sc\">20<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Venom Dart Trap]</linked><span><span><linked>Venom Dart Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Venom Dart Trap]</linked><span><span><linked>Venom Dart Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Dart Trap]</linked><span><span><linked>Dart Trap</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Spider Fang]</linked><span><span><linked>Spider Fang</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dart Trap]</linked><span><span><linked>Dart Trap</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Spider Fang]</linked><span><span><linked>Spider Fang</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -2,16 +2,16 @@
   "type": "armors",
   "title": "Silver armor",
   "summaries": [
-    "<b>Silver armor</b> is an <linked>armor</linked> set crafted from <linked>Silver Bars</linked>. Crafting the entire set requires a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 60 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 75 Silver Bars (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 240 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 300 <linked>Silver Ore</linked>).",
+    "<b>Silver armor</b> is an <linked>armor</linked> set crafted from <linked>Silver Bars</linked>. Crafting the entire set requires a total of <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 60 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 75 Silver Bars (<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 240 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 300 <linked>Silver Ore</linked>).",
     "It consists of the <b>Silver Helmet</b>, <b>Silver Chainmail</b>, and <b>Silver Greaves</b>.",
     "The individual Silver armor pieces grant a total of 10 defense. Wearing a full set additionally grants a set bonus of 3 defense, for a grand total of 13 defense.",
-    "Replacing the Silver Greaves with the <span class=\"eil\"><span><linked>Boots of Ostara</linked></span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i></span></span> will still grant the set bonus of 3 defense. The Boots of Ostara will also, when placed on a <linked>mannequin</linked>, become Silver Greaves."
+    "Replacing the Silver Greaves with the <span class=\"eil\"><span><linked>Boots of Ostara</linked></span><span class=\"eico s i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span></span> will still grant the set bonus of 3 defense. The Boots of Ostara will also, when placed on a <linked>mannequin</linked>, become Silver Greaves."
   ],
   "statistics": {
     "Defense": "13 (10+3)<span class=\"note-text\"> (set)</span>",
     "Set Bonus": "<i><span class=\"gameText\">3 defense</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60</span></span><span class=\"note-text\"> (set)</span>"
+    "Sell": "<span class=\"coin\" title=\"60 Silver Coins\" data-sort-value=\"6000\"><span class=\"sc\">60<i> SC</i></span></span><span class=\"note-text\"> (set)</span>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -21,7 +21,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Chainmail]<span><span title=\"Silver Chainmail\">Silver Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         },
         "station": {
           "rowspan": 6,
@@ -34,7 +34,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Chainmail]<span><span title=\"Silver Chainmail\">Silver Chainmail</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(30)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">30</span></li></ul>"
         }
       },
       {
@@ -43,7 +43,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Greaves]<span><span title=\"Silver Greaves\">Silver Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
@@ -52,7 +52,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Greaves]<span><span title=\"Silver Greaves\">Silver Greaves</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(25)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">25</span></li></ul>"
         }
       },
       {
@@ -61,7 +61,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Helmet]<span><span title=\"Silver Helmet\">Silver Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(15)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">15</span></li></ul>"
         }
       },
       {
@@ -70,7 +70,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\">[img:Silver Helmet]<span><span title=\"Silver Helmet\">Silver Helmet</span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       }
     ]

@@ -3,8 +3,8 @@
   "title": "Chlorophyte Arrow",
   "summaries": [
     "<b>Chlorophyte Arrows</b> are a type of arrow obtainable after all three <linked>mechanical bosses</linked> are defeated. They are crafted from <linked>Chlorophyte Bars</linked> and are the third strongest type of <linked>arrow</linked> in the game. They ricochet once when hitting blocks, are affected by gravity, and maintain their decreasing altitude when the arrows ricochet.",
-    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> The arrows can bounce four times, and will \"Smart Bounce\" to a nearby target if one is in range. Arrows only deal 66% of normal damage after a bounce.",
-    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> Similar to <linked>Meteor Shots</linked>, the arrows can pierce one enemy or bounce one time, but not both. It should be also noted that they bounce in a different way than Meteor Shots, always returning to the place which they were fired from, making a 180° angle. They are destroyed upon impact."
+    "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> The arrows can bounce four times, and will \"Smart Bounce\" to a nearby target if one is in range. Arrows only deal 66% of normal damage after a bounce.",
+    "<span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> Similar to <linked>Meteor Shots</linked>, the arrows can pierce one enemy or bounce one time, but not both. It should be also noted that they bounce in a different way than Meteor Shots, always returning to the place which they were fired from, making a 180° angle. They are destroyed upon impact."
   ],
   "statistics": {
     "Damage": "16 <span class=\"small-bold\">(Ranged)</span>",
@@ -13,15 +13,15 @@
     "Velocity Multiplier": "2×",
     "Tooltip": "<i><span class=\"gameText\">Bounces back after hitting a wall</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Arrow]</linked><span><span><linked>Chlorophyte Arrow</linked></span></span></span> <span class=\"note-text\">(150)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Arrow]</linked><span><span><linked>Chlorophyte Arrow</linked></span></span></span><span class=\"am\">150</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li></ul>"
@@ -34,7 +34,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Arrow]</linked><span><span><linked>Chlorophyte Arrow</linked></span></span></span> <span class=\"note-text\">(50)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Chlorophyte Arrow]</linked><span><span><linked>Chlorophyte Arrow</linked></span></span></span><span class=\"am\">50</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span></li></ul>"

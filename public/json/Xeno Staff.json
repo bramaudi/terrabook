@@ -1,1 +1,20 @@
-{"type":"weapons","title":"Xeno Staff","summaries":["The <b>Xeno Staff</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>summon weapon</linked>. It summons a <b>UFO</b> minion that teleports to nearby <linked>enemies</linked> and fires lasers at them. The UFO is capable of moving through blocks when far away from the character. It is dropped by the <linked>Martian Saucer</linked> during the <linked>Martian Madness</linked> <linked>event</linked>.","Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Xeno Staff has over a Ruthless one is <linked>knockback</linked>."],"statistics":{"Damage":"36 <span class=\"small-bold\">(Summon)</span>","Knockback":"2 <span class=\"knockback\">(Very weak)</span>","Mana":"10","Use time":"36 <span class=\"usetime\">(Very slow)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Summons a UFO to fight for you</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Xeno Staff",
+  "summaries": [
+    "The <b>Xeno Staff</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>summon weapon</linked> that spawns a <b>UFO</b> minion that instantly teleports above the nearest <linked>enemy</linked> before rapidly firing thin blue lasers at its target. The UFO's lasers are fired instantaneously at a rate of once every 0.4 seconds on average. If the UFO minion is more than 75 tiles away from the player, it ceases to attack enemies and returns to the player. The Xeno Staff has a <span class=\"chance\"><s>16.67*</s>1/6 (16.67%)</span> chance of being dropped by the <linked>Martian Saucer</linked> during the <linked>Martian Madness</linked> <linked>event</linked>.",
+    "Its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Xeno Staff has over a Ruthless one is <linked>knockback</linked>."
+  ],
+  "statistics": {
+    "Damage": "36 <span class=\"small-bold\">(Summon)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "10",
+    "Use time": "36 <span class=\"usetime\">(Very slow)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons a UFO to fight for you</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

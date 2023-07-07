@@ -2,19 +2,19 @@
   "type": "ammunitions",
   "title": "Glowing Snail",
   "summaries": [
-    "The <b>Glowing Snail</b> is an uncommon <linked>critter</linked> that only spawns in <linked>Glowing Mushroom biomes</linked>. It can be caught using the <linked>Bug Net</linked>, carried around in the inventory and released later, or crafted into a <linked>Glowing Snail Cage</linked>, which can be placed as a furniture item. The snail also gives off a small amount of blue light, and cannot be released once crafted.",
-    "Along with its uncommon chance to spawn, it often spawns together with or near <linked>enemies</linked>, causing it to be killed rather easily by them or by accident by the player. It is also quite large compared to the normal cave dwelling counterpart, looking like an enemy rather than a critter.",
-    "Glowing Snails can be used as <linked>bait</linked> for fishing, having 15% bait power.",
-    "A Glowing Snail cage occupies a 3×2 space. The Glowing Snail inside may follow the following patterns randomly:",
-    "<ul><li>Hide inside its shell</li><li>Try to climb up to the ceiling of the cage and fall to the ground</li><li>Make a whole loop around its cage</li></ul>"
+    "The <b>Glowing Snail</b> is an uncommon <linked>critter</linked> that only spawns in <linked>Glowing Mushroom biomes</linked>. It is also quite large compared to its <linked>normal counterpart</linked>. The Glowing Snail has only 5 <linked>health</linked> and no <linked>defense</linked>, and can be damaged by other enemies and players.",
+    "The Glowing Snail can be caught with any <linked>Bug Net</linked> to be carried around in the <linked>inventory</linked> and released later, or crafted into animated decorative <linked>furniture</linked> (<linked>Glowing Snail Cage</linked>). Once crafted, the Glowing Snail cannot be released again.",
+    "The Glowing Snail can be used as <linked>bait</linked> for <linked>fishing</linked>, with 15% bait power.",
+    "The Glowing Snail can be spawned by the <linked>Snail Statue</linked>, however statue-spawned critters cannot be caught with any Bug Net, and will disappear in a puff of smoke when the player attempts to do so.",
+    ""
   ],
   "statistics": {
     "Bait Power": "15%",
     "Consumable": "<span class=\"t-yes\">✔️</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">5 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">5 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
@@ -34,27 +34,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Snail Statue]</linked><span><span><linked>Snail Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Snail Statue]</linked><span><span><linked>Snail Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Snail]</linked><span><span><linked>Any Snail</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Any Snail]</linked><span><span><linked>Any Snail</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Snail Statue]</linked><span><span><linked>Snail Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Snail]</linked><span><span><linked>Any Snail</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
-        },
-        "station": {
-          "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -3,13 +3,13 @@
   "title": "Tables",
   "summaries": [
     "<b>Tables</b> are <linked>furniture</linked> items which can be placed on the ground, commonly used in conjunction with <linked>chairs</linked>. They count as a flat surface item, which is one of the required elements in order to make a <linked>house</linked> for an <linked>NPC</linked>. They can also form a crafting station when combined with a chair.",
-    "There are 40 craftable tables, and 6 tables that must be looted from specific areas within the world. Some tables can also be found in <linked>Underground Cabins</linked>, in which they follow the theme of the cabin they are in."
+    "There are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 43 craftable tables, and 6 tables that must be looted from specific areas within the world. Some tables can also be found in <linked>Underground Cabins</linked>, in which they follow the theme of the cabin they are in."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
     "Use time": "14 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60</span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2</span></span> (Golden Table)"
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Table)"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -19,11 +19,11 @@
           "value": "<span class=\"i -w multi-line\">[img:Nebula Table]<span><span title=\"Nebula Table\">Nebula Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4204</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         }
       },
       {
@@ -32,7 +32,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Solar Table]<span><span title=\"Solar Table\">Solar Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4162</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -41,7 +41,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Stardust Table]<span><span title=\"Stardust Table\">Stardust Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4225</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -50,7 +50,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Vortex Table]<span><span title=\"Vortex Table\">Vortex Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4183</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -59,11 +59,11 @@
           "value": "<span class=\"i -w multi-line\">[img:Bone Table]<span><span title=\"Bone Table\">Bone Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 827</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Bone Welder]</linked><span><span><linked>Bone Welder</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Bone Welder]</linked><span><span><linked>Bone Welder</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -72,7 +72,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Lesion Table]<span><span title=\"Lesion Table\">Lesion Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3974</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -85,7 +85,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Flesh Table]<span><span title=\"Flesh Table\">Flesh Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 828</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -98,7 +98,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Glass Table]<span><span title=\"Glass Table\">Glass Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 1713</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -111,7 +111,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Honey Table]<span><span title=\"Honey Table\">Honey Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1717</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -124,7 +124,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Frozen Table]<span><span title=\"Frozen Table\">Frozen Table</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2248</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -137,7 +137,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Table]<span><span title=\"Lihzahrd Table\">Lihzahrd Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1144</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -150,11 +150,11 @@
           "value": "<span class=\"i -w multi-line\">[img:Living Wood Table]<span><span title=\"Living Wood Table\">Living Wood Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 829</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Living Loom]</linked><span><span><linked>Living Loom</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Living Loom]</linked><span><span><linked>Living Loom</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
@@ -163,7 +163,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Banquet Table]<span><span title=\"Banquet Table\">Banquet Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1714</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
@@ -176,7 +176,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Bar]<span><span title=\"Bar\">Bar</span><div class=\"id\">Internal <linked>Item ID</linked>: 1715</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -185,7 +185,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Fancy Picnic Table]<span><span title=\"Fancy Picnic Table\">Fancy Picnic Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4065</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -194,29 +194,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Picnic Table]<span><span title=\"Picnic Table\">Picnic Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4064</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(12)</span></li></ul>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Alchemy Table]<span><span title=\"Alchemy Table\">Alchemy Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3000</div></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bewitching Table]</linked><span><span><linked>Bewitching Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
-        },
-        "station": {
-          "rowspan": 2,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
-        }
-      },
-      {
-        "result": {
-          "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bewitching Table]<span><span title=\"Bewitching Table\">Bewitching Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2999</div></span></span>"
-        },
-        "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">12</span></li></ul>"
         }
       },
       {
@@ -225,7 +203,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Skyware Table]<span><span title=\"Skyware Table\">Skyware Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 830</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -238,7 +216,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Slime Table]<span><span title=\"Slime Table\">Slime Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 2583</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -251,7 +229,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Steampunk Table]<span><span title=\"Steampunk Table\">Steampunk Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1718</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -264,7 +242,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Ash Wood Table]<span><span title=\"Ash Wood Table\">Ash Wood Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5207</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         },
         "station": {
           "rowspan": 26,
@@ -277,7 +255,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Balloon Table]<span><span title=\"Balloon Table\">Balloon Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5186</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -286,7 +264,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Bamboo Table]<span><span title=\"Bamboo Table\">Bamboo Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4583</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -295,7 +273,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Bone Table]<span><span title=\"Bone Table\">Bone Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 827</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -304,7 +282,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Table]<span><span title=\"Boreal Wood Table\">Boreal Wood Table</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 677</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -313,7 +291,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Cactus Table]<span><span title=\"Cactus Table\">Cactus Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 2743</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -322,7 +300,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Crystal Table]<span><span title=\"Crystal Table\">Crystal Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3920</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(20)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li></ul>"
         }
       },
       {
@@ -331,7 +309,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Dynasty Table]<span><span title=\"Dynasty Table\">Dynasty Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2259</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -340,7 +318,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Ebonwood Table]<span><span title=\"Ebonwood Table\">Ebonwood Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 638</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -349,7 +327,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Granite Table]<span><span title=\"Granite Table\">Granite Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3155</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -358,7 +336,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Honey Table]<span><span title=\"Honey Table\">Honey Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1717</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -367,7 +345,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Marble Table]<span><span title=\"Marble Table\">Marble Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3154</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -376,7 +354,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Martian Table]<span><span title=\"Martian Table\">Martian Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2824</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -385,7 +363,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Meteorite Table]<span><span title=\"Meteorite Table\">Meteorite Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3153</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -394,7 +372,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Mushroom Table]<span><span title=\"Mushroom Table\">Mushroom Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 2550</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -403,7 +381,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Palm Wood Table]<span><span title=\"Palm Wood Table\">Palm Wood Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 2532</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -412,7 +390,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Pearlwood Table]<span><span title=\"Pearlwood Table\">Pearlwood Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 640</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -421,7 +399,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Pine Table]<span><span title=\"Pine Table\">Pine Table</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 1926</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pine Tree Block]</linked><span><span><linked>Pine Tree Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pine Tree Block]</linked><span><span><linked>Pine Tree Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -430,7 +408,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Pumpkin Table]<span><span title=\"Pumpkin Table\">Pumpkin Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1794</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -439,7 +417,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Reef Table]<span><span title=\"Reef Table\">Reef Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 5165</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -448,7 +426,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Table]<span><span title=\"Rich Mahogany Table\">Rich Mahogany Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 639</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -457,7 +435,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Sandstone Table]<span><span title=\"Sandstone Table\">Sandstone Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 4314</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -466,7 +444,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Shadewood Table]<span><span title=\"Shadewood Table\">Shadewood Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 917</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -475,7 +453,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Spider Table]<span><span title=\"Spider Table\">Spider Table</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span><div class=\"id\">Internal <linked>Item ID</linked>: 3948</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -484,7 +462,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Spooky Table]<span><span title=\"Spooky Table\">Spooky Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 1816</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -493,7 +471,7 @@
           "value": "<span class=\"i -w multi-line\">[img:Wooden Table]<span><span title=\"Wooden Table\">Wooden Table</span><div class=\"id\">Internal <linked>Item ID</linked>: 32</div></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       }
     ],
@@ -504,7 +482,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Copper Watch]</linked><span><span><linked>Copper Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -513,7 +491,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Depth Meter]</linked><span><span><linked>Depth Meter</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Copper Bar]</linked><span><span><linked>Copper Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -522,7 +500,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Gold Watch]</linked><span><span><linked>Gold Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Bar]</linked><span><span><linked>Gold Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -531,7 +509,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Platinum Watch]</linked><span><span><linked>Platinum Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Bar]</linked><span><span><linked>Platinum Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -540,7 +518,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Silver Watch]</linked><span><span><linked>Silver Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -549,7 +527,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tin Watch]</linked><span><span><linked>Tin Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tin Bar]</linked><span><span><linked>Tin Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -558,7 +536,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Tungsten Watch]</linked><span><span><linked>Tungsten Watch</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       }
     ]

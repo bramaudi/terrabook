@@ -8,18 +8,18 @@
     "Defense": "8",
     "Tooltip": "<i><span class=\"gameText\">Enemies are more likely to target you</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Berserker's Glove]</linked><span><span><linked>Berserker's Glove</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Berserker's Glove]</linked><span><span><linked>Berserker's Glove</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Power Glove]</linked><span><span><linked>Power Glove</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Power Glove]</linked><span><span><linked>Power Glove</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -29,10 +29,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hero Shield]</linked><span><span><linked>Hero Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hero Shield]</linked><span><span><linked>Hero Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

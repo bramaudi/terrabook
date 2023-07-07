@@ -17,8 +17,8 @@
     "Use time": "35 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "7",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold 52 Silver Coins\" data-sort-value=\"25200\"><span class=\"gc\">2</span><span class=\"sc\">52</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"2 Gold 52 Silver Coins\" data-sort-value=\"25200\"><span class=\"gc\">2<i> GC</i></span><span class=\"sc\">52<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Titanium Waraxe]</linked><span><span><linked>Titanium Waraxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span> <span class=\"note-text\">(13)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Titanium Bar]</linked><span><span><linked>Titanium Bar</linked></span></span></span><span class=\"am\">13</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

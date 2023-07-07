@@ -8,7 +8,7 @@
   ],
   "summaries": [
     "The <b>Chlorophyte Jackhammer</b> is a <linked>Hardmode</linked> <linked>hammer</linked> crafted with 18 <linked>Chlorophyte Bars</linked> at a <linked>Mythril</linked> or <linked>Orichalcum Anvil</linked>. Even though it has a lower hammer power than other hammers, it destroys fairly quickly and serves practically all hammer purposes.",
-    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount. Mechanical tools can only have universal prefixes, because they can't have their speed modified."
+    "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount. Mechanical tools can only have universal prefixes, because they cannot have their speed modified."
   ],
   "statistics": {
     "Damage": "45 <span class=\"small-bold\">(Melee)</span>",
@@ -18,8 +18,8 @@
     "Velocity": "46",
     "Tool speed": "4",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 7]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4</span><span class=\"sc\">32</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"4 Gold 32 Silver Coins\" data-sort-value=\"43200\"><span class=\"gc\">4<i> GC</i></span><span class=\"sc\">32<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +29,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Chlorophyte Jackhammer]</linked><span><span><linked>Chlorophyte Jackhammer</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span> <span class=\"note-text\">(18)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

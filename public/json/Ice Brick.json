@@ -8,7 +8,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -18,7 +18,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Ice Brick]</linked><span><span><linked>Ice Brick</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -27,7 +27,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
@@ -35,7 +35,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ice Brick Wall]</linked><span><span><linked>Ice Brick Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ice Brick]</linked><span><span><linked>Ice Brick</linked></span></span></span></li></ul>"

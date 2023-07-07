@@ -2,8 +2,12 @@
   "type": "ammunitions",
   "title": "Dragonflies",
   "summaries": [
-    "<b>Dragonflies</b> are small, rare <linked>critters</linked> that can be found near large bodies of <linked>water</linked> which have sufficient amounts of <linked>cattails</linked> on the surface of the water during the <linked>day</linked> when it is not <linked>raining</linked> and there is low wind speed. When approached, they will fly a short distance up and away from the player. They can be caught with any <linked>Bug Net</linked> and carried in the inventory. Dragonflies also serve as <linked>bait</linked>, with a Bait Power of 20%. They can be used to craft <linked>Dragonfly Jars</linked>.",
-    "Unlike many critters, dragonflies are capable of spawning on screen. Dragonflies spawn in air within a small radius of cattails. If looking to farm dragonflies, it is advised to make space for more cattails to grow, since the critter appears to spawn directly from the cattail itself rather than by normal mob spawning. If there is air space underneath a submerged cattail, it is possible for the dragonfly to spawn in said air space. The type of dragonfly spawned is determined by the type of cattail. <linked>Desert</linked> cattails spawn the Black, Orange and Yellow variants, whereas <linked>Forest</linked> cattails spawn the Blue, Green and Red variants."
+    "<b>Dragonflies</b> are small, rare <linked>critters</linked> that can be found near large bodies of <linked>water</linked> which have sufficient amounts of <linked>cattails</linked> on the surface of the water, during the <linked>day</linked> when it is not <linked>raining</linked>, and there is low wind speed. When approached, they will fly a short distance up and away from the player.",
+    "Dragonflies spawn in air within a small radius of cattails. <linked>Desert</linked> cattails spawn the Black, Orange and Yellow variants, whereas <linked>Forest</linked> cattails spawn the Blue, Green and Red variants. Unlike many critters, dragonflies are capable of spawning on screen.<small class=\"plainlinks\"></small>",
+    "Dragonflies have only 5 <linked>health</linked> and no <linked>defense</linked>, and can be damaged by other enemies and players.",
+    "Dragonflies can be caught with any <linked>Bug Net</linked> to be carried around in the <linked>inventory</linked> and released later, or crafted into animated decorative <linked>furniture</linked> (<linked>Dragonfly Jars</linked>). Once crafted, the Dragonflies cannot be released again.",
+    "Dragonflies can be spawned by the <linked>Dragonfly Statue</linked>, however statue-spawned critters cannot be caught with any Bug Net, and will disappear in a puff of smoke when the player attempts to do so.",
+    "There is a <span class=\"chance\"><s>0.25*</s>1/400 (0.25%)</span> chance for a <linked>Gold Dragonfly</linked> to spawn in place of an ordinary one."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Surface </linked></span></div>",
@@ -18,10 +22,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Black Dragonfly Jar]</linked><span><span><linked>Black Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Black Dragonfly Jar]</linked><span><span><linked>Black Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Black Dragonfly]</linked><span><span><linked>Black Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Black Dragonfly]</linked><span><span><linked>Black Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 7,
@@ -31,64 +35,64 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Blue Dragonfly Jar]</linked><span><span><linked>Blue Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Blue Dragonfly Jar]</linked><span><span><linked>Blue Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Blue Dragonfly]</linked><span><span><linked>Blue Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Blue Dragonfly]</linked><span><span><linked>Blue Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Gold Dragonfly Jar]</linked><span><span><linked>Gold Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gold Dragonfly Jar]</linked><span><span><linked>Gold Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Dragonfly]</linked><span><span><linked>Gold Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Dragonfly]</linked><span><span><linked>Gold Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Green Dragonfly Jar]</linked><span><span><linked>Green Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Green Dragonfly Jar]</linked><span><span><linked>Green Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Green Dragonfly]</linked><span><span><linked>Green Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Green Dragonfly]</linked><span><span><linked>Green Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Orange Dragonfly Jar]</linked><span><span><linked>Orange Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Orange Dragonfly Jar]</linked><span><span><linked>Orange Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Orange Dragonfly]</linked><span><span><linked>Orange Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Orange Dragonfly]</linked><span><span><linked>Orange Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Red Dragonfly Jar]</linked><span><span><linked>Red Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Red Dragonfly Jar]</linked><span><span><linked>Red Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Red Dragonfly]</linked><span><span><linked>Red Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Red Dragonfly]</linked><span><span><linked>Red Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Dragonfly Jar]</linked><span><span><linked>Yellow Dragonfly Jar</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Yellow Dragonfly Jar]</linked><span><span><linked>Yellow Dragonfly Jar</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Yellow Dragonfly]</linked><span><span><linked>Yellow Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Yellow Dragonfly]</linked><span><span><linked>Yellow Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Golden Delight]</linked><span><span><linked>Golden Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Golden Delight]</linked><span><span><linked>Golden Delight</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Dragonfly]</linked><span><span><linked>Gold Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Dragonfly]</linked><span><span><linked>Gold Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -98,14 +102,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Dragonfly Statue]</linked><span><span><linked>Dragonfly Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Dragonfly Statue]</linked><span><span><linked>Dragonfly Statue</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span> <span class=\"note-text\">(50)</span></li><li><span class=\"i\"><linked>[img:Any Dragonfly]</linked><span><span><linked>Any Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Any Dragonfly]</linked><span><span><linked>Any Dragonfly</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Heavy Work Bench]</linked><span><span><linked>Heavy Work Bench</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

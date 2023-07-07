@@ -8,7 +8,7 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">100 required</abbr>"
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">100 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -18,7 +18,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Platform]</linked><span><span><linked>Slime Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Platform]</linked><span><span><linked>Slime Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span><span class=\"am\">2</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -36,7 +36,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block Wall]</linked><span><span><linked>Slime Block Wall</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block Wall]</linked><span><span><linked>Slime Block Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -48,7 +48,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Slime Platform]</linked><span><span><linked>Slime Platform</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(2)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Slime Platform]</linked><span><span><linked>Slime Platform</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span><span class=\"am\">2</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span></li></ul>"
@@ -64,7 +64,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Slime Work Bench]</linked><span><span><linked>Slime Work Bench</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -86,7 +86,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Bathtub]</linked><span><span><linked>Slime Bathtub</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(14)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">14</span></li></ul>"
         }
       },
       {
@@ -95,7 +95,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Bed]</linked><span><span><linked>Slime Bed</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(5)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         }
       },
       {
@@ -104,7 +104,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Bookcase]</linked><span><span><linked>Slime Bookcase</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(20)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -113,7 +113,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Candelabra]</linked><span><span><linked>Slime Candelabra</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -122,7 +122,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Candle]</linked><span><span><linked>Slime Candle</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -131,7 +131,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Chair]</linked><span><span><linked>Slime Chair</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       },
       {
@@ -140,7 +140,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Chandelier]</linked><span><span><linked>Slime Chandelier</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Chain]</linked><span><span><linked>Chain</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -149,7 +149,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Chest]</linked><span><span><linked>Slime Chest</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">8</span></li><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -158,7 +158,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Clock]</linked><span><span><linked>Slime Clock</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span> <span class=\"note-text\">(3)</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
@@ -167,7 +167,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Door]</linked><span><span><linked>Slime Door</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -176,7 +176,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Dresser]</linked><span><span><linked>Slime Dresser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(16)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">16</span></li></ul>"
         }
       },
       {
@@ -185,7 +185,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Lamp]</linked><span><span><linked>Slime Lamp</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(3)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">3</span></li></ul>"
         }
       },
       {
@@ -194,7 +194,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Lantern]</linked><span><span><linked>Slime Lantern</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Torch]</linked><span><span><linked>Torch</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -203,16 +203,16 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Piano]</linked><span><span><linked>Slime Piano</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span> <span class=\"note-text\">(4)</span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(15)</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Slime Sink]</linked><span><span><linked>Slime Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Slime Sink]</linked><span><span><linked>Slime Sink</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">6</span></li><li><span class=\"i\"><linked>[img:Water Bucket]</linked><span><span><linked>Water Bucket</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -221,7 +221,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Sofa]</linked><span><span><linked>Slime Sofa</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span> <span class=\"note-text\">(2)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">2</span></li></ul>"
         }
       },
       {
@@ -230,7 +230,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Table]</linked><span><span><linked>Slime Table</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(8)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">8</span></li></ul>"
         }
       },
       {
@@ -239,7 +239,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Slime Toilet]</linked><span><span><linked>Slime Toilet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(6)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
         }
       },
       {
@@ -248,13 +248,13 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Slime Work Bench]</linked><span><span><linked>Slime Work Bench</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Slime Block Wall]</linked><span><span><linked>Slime Block Wall</linked></span></span></span> <span class=\"note-text\">(4)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Slime Block Wall]</linked><span><span><linked>Slime Block Wall</linked></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span></li></ul>"

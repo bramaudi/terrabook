@@ -2,17 +2,17 @@
   "type": "enemies",
   "title": "Krampus",
   "summaries": [
-    "<b>Krampus</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>enemy</linked> that appears during the <linked>Frost Moon</linked> <linked>event</linked>. His first appearance in the event is on Wave 8.",
-    "Defeating a Krampus adds <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 10 points (<linked>20 points</linked>) / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 10 points during the Frost Moon event."
+    "<b>Krampus</b> is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>enemy</linked> that appears during the <linked>Frost Moon</linked> <linked>event</linked>. His first appearance in the event is in wave 8.",
+    "Defeating a Krampus adds 10 / <linked>20</linked> / <linked>25</linked> points during the Frost Moon event."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Frost Moon </linked></span></div>",
     "AI Type": "Fighter AI",
-    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">100</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">200</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">300</span></span></span>",
-    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">2500</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">5000</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">7500</span></span></span>",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">100</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">150</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">225</span></span></span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">2500</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">3750</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">5625</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">40</span></span>",
-    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">90%</span><span class=\"ssep\">/</span><span class=\"m-expert expert\"><span class=\"s\">91%</span></span><span class=\"ssep\">/</span><span class=\"m-master master\"><span class=\"s\">92%</span></span></span>",
-    "Banner": "<span class=\"i -w\"><linked>[img:Krampus Banner]</linked><span><span><linked>Krampus Banner</linked></span><span class=\"eico s i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i></span></span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">90%</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">91%</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">92%</span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Krampus Banner]</linked><span><span><linked>Krampus Banner</linked></span><span class=\"eico s i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i><span>(Desktop, Console, Mobile and 3DS versions)</span></span></span></span>",
     "Immune to": "Frostburn, Frostbite"
   }
 }

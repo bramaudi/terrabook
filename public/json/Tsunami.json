@@ -1,1 +1,21 @@
-{"type":"weapons","title":"Tsunami","summaries":["The <b>Tsunami</b> is a <linked>Hardmode</linked> <linked>bow</linked> that auto-fires five closely-grouped arrows per shot, while only consuming one arrow from the player's inventory each time. It has a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance of being dropped by <linked>Duke Fishron</linked>.","Its best <linked>modifier</linked> is <b>Unreal</b>."],"statistics":{"Uses ammo":"<linked>Arrows</linked>","Damage":"53 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 60 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>","Knockback":"2 <span class=\"knockback\">(Very weak)</span>","Critical chance":"4%","Use time":"24 <span class=\"usetime\">(Fast)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Shoots 5 arrows at a time</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Tsunami",
+  "summaries": [
+    "The <b>Tsunami</b> is a <linked>Hardmode</linked> <linked>bow</linked> that auto-fires five closely-grouped arrows per shot, while only consuming one arrow from the player's inventory each time. It has a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance of being dropped by <linked>Duke Fishron</linked>.",
+    "Its best <linked>modifier</linked> is <b>Unreal</b>."
+  ],
+  "statistics": {
+    "Uses ammo": "<linked>Arrows</linked>",
+    "Damage": "53 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 60 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Knockback": "2 <span class=\"knockback\">(Very weak)</span>",
+    "Critical chance": "4%",
+    "Use time": "24 <span class=\"usetime\">(Fast)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Shoots 5 arrows at a time</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}

@@ -7,7 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Silver Pickaxe</b> is an early-game <linked>pickaxe</linked> that is stronger than the <linked>Iron</linked> and <linked>Lead Pickaxes</linked>, but weaker than the <linked>Gold</linked> and <linked>Platinum Pickaxes</linked>. Compared to its alternate <linked>ore</linked> version, the <linked>Tungsten Pickaxe</linked>, it has less <linked>pickaxe power</linked> but is significantly faster in terms of <linked>mining speed</linked>. Unlike the Tungsten Pickaxe, it is not able to mine <linked>Meteorite</linked>.",
+    "The <b>Silver Pickaxe</b> is an early-game <linked>pickaxe</linked>. Its alternate ore counterpart is the <linked>Tungsten Pickaxe</linked>.",
+    "Like other low-tier pickaxes, the Silver Pickaxe can only mine <linked>blocks</linked> and ores weaker than <linked>Meteorite</linked> (which requires a pickaxe with at least 50% pickaxe power, e.g. a <linked>Tungsten Pickaxe</linked>).",
     "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
@@ -17,8 +18,8 @@
     "Use time": "19 <span class=\"usetime\">(Very fast)</span>",
     "Tool speed": "11",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +29,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Pickaxe]</linked><span><span><linked>Silver Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -41,7 +42,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Silver Pickaxe]</linked><span><span><linked>Silver Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Silver Bar]</linked><span><span><linked>Silver Bar</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ]

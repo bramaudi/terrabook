@@ -10,15 +10,15 @@
     "Velocity": "3",
     "Tooltip": "<i><span class=\"gameText\">Drops cursed flames on the ground</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 3]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"6 Copper Coins\" data-sort-value=\"6\"><span class=\"cc\">6</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"6 Copper Coins\" data-sort-value=\"6\"><span class=\"cc\">6 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Cursed Dart]</linked><span><span><linked>Cursed Dart</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span> <span class=\"note-text\">(100)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Cursed Dart]</linked><span><span><linked>Cursed Dart</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">100</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cursed Flame]</linked><span><span><linked>Cursed Flame</linked></span></span></span></li></ul>"

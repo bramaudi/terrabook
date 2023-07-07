@@ -2,13 +2,12 @@
   "type": "bosses",
   "title": "Dark Mage",
   "summaries": [
-    "The <b>Dark Mage</b> is a <linked>mini-boss</linked> that spawns in the <linked>Old One's Army</linked> <linked>event</linked> during wave 5 in Tier 1 and during waves 4 and 6 in Tier 3. It will freely float a bit above the ground. It randomly chooses between three attacks:",
-    "<ul><li>The Dark Mage summons [img:Dark Energy] <b><span class=\"gameText\">Dark Energy</span></b>, and hurls it directly at the player, dealing 80 / <linked>160</linked> / <linked>240</linked> damage.</li><li>The Dark Mage summons a large rune, which then generates a large area of light that heals most enemies in its 62.5-tile range (who have at least 30 maximum health, who deal at least 1 damage, and who are not a Dark Mage) by up to 500 health.</li><li>The Dark Mage begins chanting, and a [img:Dark Sigil] <b><span class=\"gameText\">Dark Sigil</span></b> will appear. After a short moment, <linked>Old One's Skeletons</linked> will appear from them. This attack cannot be done if there are more than 200 NPCs in the world.</li></ul>"
+    "The <b>Dark Mage</b> is a <linked>mini-boss</linked> that spawns during the <linked>Old One's Army</linked> <linked>event</linked> during wave 5 in Tier 1 and during waves 4 and 6 in Tier 3."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Old One's Army </linked></span></div>",
     "AI Type": "Dark Mage AI",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-all\">100%</span></span>",
-    "Immune to": "Confused"
+    "Immune to": "Confused, Shimmering"
   }
 }

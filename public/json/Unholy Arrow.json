@@ -2,27 +2,27 @@
   "type": "ammunitions",
   "title": "Unholy Arrow",
   "summaries": [
-    "The <b>Unholy Arrow</b> is a type of <linked>arrow</linked>. The Unholy Arrow can pierce up to 4 targets, hitting a total of 5 targets. The damage of the Unholy Arrow decreases by 5% for each target it pierces. Against enemies with multiple segments, like the <linked>Eater of Worlds</linked>, a single Unholy Arrow can damage multiple segments. <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> A fired Unholy Arrow has a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance of being recoverable after hitting an <linked>enemy</linked> or <linked>block</linked>.",
-    "In addition to being crafted, Unholy Arrows are dropped by the <linked>Eye of Cthulhu</linked> in worlds that generated with <linked>Corruption</linked>. Furthermore, they can be purchased from the <linked>Arms Dealer</linked> at <linked>night</linked> for <span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span> once the Eater of Worlds or <linked>Brain of Cthulhu</linked> has been defeated. After activating <linked>Hardmode</linked>, they become available during the day as well."
+    "The <b>Unholy Arrow</b> is a type of <linked>arrow</linked>. The Unholy Arrow can pierce up to 4 targets, hitting a total of 5 targets. The damage of the Unholy Arrow decreases by 5% for each target it pierces. Against enemies with multiple segments, like the <linked>Eater of Worlds</linked>, a single Unholy Arrow can damage multiple segments. <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> A fired Unholy Arrow has a <span class=\"chance\"><s>25*</s>1/4 (25%)</span> chance of being recoverable after hitting an <linked>enemy</linked> or <linked>block</linked>.",
+    "In addition to being crafted, Unholy Arrows are dropped by the <linked>Eye of Cthulhu</linked> in worlds that generated with <linked>Corruption</linked>. Furthermore, they can be purchased from the <linked>Arms Dealer</linked> at <linked>night</linked> for <span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40 <i>CC</i></span></span> once the Eater of Worlds or <linked>Brain of Cthulhu</linked> has been defeated. After activating <linked>Hardmode</linked>, they become available during the day as well."
   ],
   "statistics": {
-    "Damage": "12 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> <span class=\"small-bold\">(Ranged)</span>",
+    "Damage": "12 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 8 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> <span class=\"small-bold\">(Ranged)</span>",
     "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
     "Velocity": "3.4",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Buy": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40</span></span>",
-    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">99 required</abbr>"
+    "Buy": "<span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40 <i>CC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"8 Copper Coins\" data-sort-value=\"8\"><span class=\"cc\">8 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">99 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Worm Tooth]</linked><span><span><linked>Worm Tooth</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Worm Tooth]</linked><span><span><linked>Worm Tooth</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -32,10 +32,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Unholy Arrow]</linked><span><span><linked>Unholy Arrow</linked></span></span></span><span class=\"am\">5</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span> <span class=\"note-text\">(5)</span></li><li><span class=\"i\"><linked>[img:Vertebra]</linked><span><span><linked>Vertebra</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Arrow]</linked><span><span><linked>Wooden Arrow</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Vertebra]</linked><span><span><linked>Vertebra</linked></span></span></span></li></ul>"
         }
       }
     ]

@@ -17,8 +17,8 @@
     "Use time": "35 <span class=\"usetime\">(Slow)</span>",
     "Tool speed": "13",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"1 Gold 8 Silver Coins\" data-sort-value=\"10800\"><span class=\"gc\">1</span><span class=\"sc\">8</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"1 Gold 8 Silver Coins\" data-sort-value=\"10800\"><span class=\"gc\">1<i> GC</i></span><span class=\"sc\">8<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -28,7 +28,7 @@
           "value": "<span class=\"i multi-line\"><linked>[img:Cobalt Waraxe]</linked><span><span><linked>Cobalt Waraxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cobalt Bar]</linked><span><span><linked>Cobalt Bar</linked></span></span></span><span class=\"am\">10</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

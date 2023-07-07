@@ -7,7 +7,8 @@
     "[img:Axe mask] 0%"
   ],
   "summaries": [
-    "The <b>Tungsten Pickaxe</b> is an early-game <linked>pickaxe</linked> that is stronger than the <linked>Iron</linked> and <linked>Lead Pickaxes</linked>, but weaker than the <linked>Gold</linked> and <linked>Platinum Pickaxes</linked>. Compared to its alternate <linked>ore</linked> version, the <linked>Silver Pickaxe</linked>, it has more <linked>pickaxe power</linked> but is significantly slower in terms of <linked>mining speed</linked>. Unlike the Silver Pickaxe, it is able to mine <linked>Meteorite</linked>.",
+    "The <b>Tungsten Pickaxe</b> is an early-game <linked>pickaxe</linked>. Its alternate ore counterpart is the <linked>Silver Pickaxe</linked>.",
+    "The Tungsten Pickaxe can mine <linked>blocks</linked> and ores weaker than <linked>Demonite</linked> and <linked>Crimtane Ore</linked> (which requires a pickaxe with at least 55% pickaxe power, e.g. a <linked>Gold Pickaxe</linked>). Most notably, it can mine <linked>Meteorite</linked>.",
     "Its best <linked>modifier</linked> is <b>Light</b> for harvesting purposes and <b>Legendary</b> for combat purposes."
   ],
   "statistics": {
@@ -18,8 +19,8 @@
     "Tool speed": "19",
     "Tooltip": "<i><span class=\"gameText\">Can mine Meteorite</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15</span></span>",
-    "Research": "<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"
+    "Sell": "<span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
@@ -29,7 +30,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Pickaxe]</linked><span><span><linked>Tungsten Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(10)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -42,7 +43,7 @@
           "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Tungsten Pickaxe]</linked><span><span><linked>Tungsten Pickaxe</linked></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span> <span class=\"note-text\">(12)</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span> <span class=\"note-text\">(4)</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Tungsten Bar]</linked><span><span><linked>Tungsten Bar</linked></span></span></span><span class=\"am\">12</span></li><li><span class=\"i\"><linked>[img:Any Wood]</linked><span><span><linked>Any Wood</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ]

@@ -1,1 +1,21 @@
-{"type":"weapons","title":"Bat Scepter","summaries":["The bat scepter is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>magic weapon</linked> that <linked>auto-fires</linked> <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span> 1–3 / <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> 2–3 homing bat projectiles per shot. The projectiles will not bounce off <linked>blocks</linked>, but will dissipate upon contact instead, unlike the <linked>Bee Gun</linked> and <linked>Wasp Gun</linked>. The Bat Scepter is dropped by <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked>.","Its best <linked>modifier</linked> is <b>Mythical</b>."],"statistics":{"Damage":"45 <span class=\"small-bold\">(Magic)</span>","Knockback":"3 <span class=\"knockback\">(Very weak)</span>","Mana":"6 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span> / 3 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i></span>","Critical chance":"4%","Use time":"12 <span class=\"usetime\">(Very fast)</span>","Velocity":"10","Tooltip":"<i><span class=\"gameText\">Summons bats to attack your enemies</span></i>","Rarity":"<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>","Sell":"<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10</span></span>","Research":"<abbr class=\"journey\" title=\"Journey Mode\">1 required</abbr>"},"crafts":{}}
+{
+  "type": "weapons",
+  "title": "Bat Scepter",
+  "summaries": [
+    "The bat scepter is a <linked>Hardmode</linked>, post-<linked>Plantera</linked> <linked>magic weapon</linked> that <linked>auto-fires</linked> <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 1–3 / <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 2–3 homing bat projectiles per shot. These projectiles will not ricochet off of <linked>blocks</linked> but dissipate upon contact with an enemy or block instead, unlike the <linked>Bee Gun</linked> or <linked>Wasp Gun</linked>. The Bat Scepter is dropped by the <linked>Pumpking</linked> during the <linked>Pumpkin Moon</linked> <linked>event</linked> with a 1.56 ~ 12.5% (<linked>6.25 ~ 12.5%</linked>) chance depending on the current wave.",
+    "Its best <linked>modifier</linked> is <b>Mythical</b>."
+  ],
+  "statistics": {
+    "Damage": "45 <span class=\"small-bold\">(Magic)</span>",
+    "Knockback": "3 <span class=\"knockback\">(Very weak)</span>",
+    "Mana": "6 <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> / 3 <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
+    "Critical chance": "4%",
+    "Use time": "12 <span class=\"usetime\">(Very fast)</span>",
+    "Velocity": "10",
+    "Tooltip": "<i><span class=\"gameText\">Summons bats to attack your enemies</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 8]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {}
+}
