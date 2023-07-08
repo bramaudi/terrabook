@@ -70,13 +70,10 @@ const statistics = (() => {
     removeTags(row, ['s'])
     parseLinks(row)
     normalizeText(row)
-    const [,,,,Time,Height,Horizontal,Vertical,Rarity] = row.children
+    const [,,Ingredients, Crafts] = row.children
     return {
-        Time: Time.textContent.trim(),
-        Height: Height.textContent.trim(),
-        Horizontal: Horizontal.textContent.trim(),
-        Vertical: Vertical.innerHTML.trim(),
-        Rarity: Rarity.textContent.trim(),
+        Ingredients: Ingredients.textContent.trim(),
+        Crafts: Crafts.textContent.trim(),
     }
 })()
 
@@ -86,7 +83,7 @@ const source = (() => {
 })()
 
 print({
-    type: 'wings',
+    type: 'dyes',
 	title,
     summaries,
     statistics,

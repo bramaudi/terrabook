@@ -9,13 +9,23 @@ await crawl({
 
 const items = JSON.parse(readFileSync('./public/json/_dyes.json', { encoding: 'utf-8' }))
 
+let slug = 'Dyes'
+let fetchScript = 'basic'
+
 for (const item of items) {
 	const name = decodeURIComponent(item)
+	slug = `Dyes#${name.replace(/ /g, '_')}`
 	
-	try {	
-		let scriptPath = './labs/crawler/dyes/_fetch.script.js'
-		let slug = 'Dyes#' + name.replace(/ /g, '_')
+	try {
+		if (name === 'Bright Red Dye') {
+			fetchScript = 'combine'
+		}
+		if (name === 'Acid Dye') {
+			fetchScript = 'strange'
+			slug = name.replace(/ /g, '_')
+		}
 
+		const scriptPath = `./labs/crawler/dyes/_fetch_${fetchScript}.script.js`
 		await crawl({script: scriptPath, slug, name})
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
