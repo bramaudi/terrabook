@@ -9,16 +9,16 @@ await crawl({
 
 const items = JSON.parse(readFileSync('./public/json/_dyes.json', { encoding: 'utf-8' }))
 
-let slug = 'Dyes'
+let slug = 'Dyes#Red_Dye'
 let fetchScript = 'basic'
 
 for (const item of items) {
 	const name = decodeURIComponent(item)
-	slug = `Dyes#${name.replace(/ /g, '_')}`
 	
 	try {
 		if (name === 'Bright Red Dye') {
 			fetchScript = 'combine'
+			slug = `Dyes#${name.replace(/ /g, '_')}`
 		}
 		if (name === 'Acid Dye') {
 			fetchScript = 'strange'
