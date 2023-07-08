@@ -6,6 +6,7 @@ export const MENUS = [
 	{ slug: 'furnitures',		icon: 'Emote_Bed' },
 	{ slug: 'accessories',		icon: 'Emote_Hermes_Boots' },
 	{ slug: 'blocks',			icon: 'Stone_Block' },
+	{ slug: 'dyes',				icon: 'Rainbow_Dye' },
 	{ slug: 'potions',			icon: 'Emote_Healing_Potion' },
 	{ slug: 'pets',				icon: 'Emote_Companion_Cube' },
 	{ slug: 'mounts',			icon: 'Emote_Slime_Mount' },
