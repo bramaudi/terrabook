@@ -20,7 +20,7 @@ let i = 1;
 for (const type of blocks_types) {
     const name = 'Blocks-' + i
     await crawl({
-        script: './labs/crawler/blocks/_index.script.js',
+        script: ['./labs/crawler/blocks/_index.script.js'],
         custom_slug: true,
         slug: `index.php?action=render&title=${encodeURIComponent(type)}`,
         name,
@@ -31,7 +31,7 @@ for (const type of blocks_types) {
     i++
 }
 
-// filter unique & exclude non-crawlable page
+// exclude non-crawl-able page
 const multiplePage = ['Grass', 'Ice', 'Pearlsandstone', 'Sandstone']
 mergedList = [...new Set(mergedList)]
     .filter(name => !name.match('Item ID'))
@@ -41,12 +41,15 @@ writeFileSync('./public/json/_blocks.json', JSON.stringify(mergedList), { encodi
 
 for (const item of mergedList) {
     const name = decodeURIComponent(item)
-	
 	try {	
-		let scriptPath = './labs/crawler/blocks/_fetch.script.js'
-		let slug = name.replace(/ /g, '_')
-
-		await crawl({script: scriptPath, slug, name})
+		await crawl({
+            script: [
+                './labs/crawler/_functions.script.js',
+                './labs/crawler/blocks/_fetch.script.js',
+            ],
+            slug: name.replace(/ /g, '_'),
+            name
+        })
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
 	 }

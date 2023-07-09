@@ -1,9 +1,8 @@
 import crawl from '../_crawl.js'
 import { readFileSync } from 'fs'
 
-// Fetch Tools.json
 await crawl({
-	script: './labs/crawler/tools/_index.script.js',
+	script: ['./labs/crawler/tools/_index.script.js'],
 	slug: 'Tools',
 	name: '_tools',
 })
@@ -12,7 +11,6 @@ const items = JSON.parse(readFileSync('./public/json/_tools.json', { encoding: '
 
 for (const item of items) {
 	const name = decodeURIComponent(item)
-	
 	try {	
 		let scriptPath = './labs/crawler/tools/_fetch.script.js'
 		let slug = name.replace(/ /g, '_')
@@ -31,7 +29,14 @@ for (const item of items) {
 			slug = 'Luminite Hamaxes'
 		}
 
-		await crawl({script: scriptPath, slug, name})
+		await crawl({
+			script: [
+				'./labs/crawler/_functions.script.js',
+				scriptPath
+			],
+			slug,
+			name
+		})
 	 } catch (error) {
 		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
 	 }

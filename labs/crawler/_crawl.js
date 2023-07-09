@@ -10,7 +10,7 @@ import { parseHTML } from 'linkedom'
 /**
  * Crawler
  * @param {{
- * script: string
+ * script: string[]
  * slug: string
  * name: string?
  * update_cache: boolean?
@@ -18,6 +18,16 @@ import { parseHTML } from 'linkedom'
  * custom_slug: boolean?
  * }} props 
  * @returns 
+ */
+
+
+/**
+ * Crawler
+ * @param {string[]} props.script
+ * @param {string} props.slug
+ * @param {boolean} props.update_cache default: false
+ * @param {boolean} props.verbose default: false
+ * @param {boolean} props.custom_slug default: false
  */
 export default async function crawl(props) {
 	let {
@@ -33,7 +43,6 @@ export default async function crawl(props) {
 
 	const WIKI_URL = 'https://terraria.wiki.gg/' + (custom_slug ? '' : 'wiki/')
 	const CACHE = `./labs/crawler/_cache/${custom_slug ? name : slug}.html`
-	// const CACHE = `./labs/crawler/cache/${script.replace(/\//g, ':').replace('.', '').substr(1)}>${slug}.html`
 	
 	// Create if script folder exists
 	const folder = `./public/json`
@@ -50,9 +59,11 @@ export default async function crawl(props) {
 	}
 	
 	// Run script and write json result
-	const scriptPath = script //`./labs/crawler/fetch-script/${script}.js`
-	if (!existsSync(scriptPath)) return console.log(`--script ${script} not found`)
-	const fetchScript = readFileSync(scriptPath, { encoding: 'utf-8' })
+	let scriptStr = ''
+	for (const scriptPath of script) {
+		if (!existsSync(scriptPath)) return console.log(`--script ${scriptPath} not found`)
+		scriptStr += readFileSync(scriptPath, { encoding: 'utf-8' })
+	}
 	const html = readFileSync(CACHE, { encoding: 'utf-8' })
 	const { document } = parseHTML(html)
 
@@ -67,11 +78,11 @@ export default async function crawl(props) {
 	}
 	
 	try {
-		new Function('document', 'print', '$url', fetchScript)(document, json, WIKI_URL + slug)
+		new Function('document', 'print', '$url', scriptStr)(document, json, WIKI_URL + slug)
 		console.log(`[Success] ${name}.json`);
 	} catch (error) {
 		console.log(`[××× Failed] ${name}.json`);
-		writeFileSync(`./labs/crawler/_logs/${name}.txt`, `${scriptPath}\n${error.stack}`, { encoding: 'utf-8' })
+		writeFileSync(`./labs/crawler/_logs/${name}.txt`, error.stack, { encoding: 'utf-8' })
 	}
 
 	return

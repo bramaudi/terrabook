@@ -1,26 +1,25 @@
 import crawl from '../_crawl.js'
 import { readFileSync, writeFileSync } from 'fs'
 
-// Fetch Miscellaneous.json
 await crawl({
-	script: './labs/crawler/miscellaneous/_index.script.js',
+	script: ['./labs/crawler/miscellaneous/_index.script.js'],
 	slug: 'Miscellaneous',
 	name: '_miscellaneous',
 })
 
 const items = JSON.parse(readFileSync('./public/json/_miscellaneous.json', { encoding: 'utf-8' }))
 
-// exclude "cactus" since its a block
-items.filter(v => v !== 'Cactus')
-
 for (const item of items) {
 	const name = decodeURIComponent(item)
-	
 	try {	
-		let scriptPath = './labs/crawler/tools/_fetch.script.js'
-		let slug = name.replace(/ /g, '_')
-		
-		await crawl({ script: scriptPath, slug, name })
+		await crawl({
+			script: [
+				'./labs/crawler/_functions.script.js',
+				'./labs/crawler/tools/_fetch.script.js'
+			],
+			slug: name.replace(/ /g, '_'),
+			name
+		})
 
 		// rename type "tools" to "miscellaneous"
 		let itemRaw = readFileSync(`./public/json/${name}.json`, { encoding: 'utf-8' })

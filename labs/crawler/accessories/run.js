@@ -1,7 +1,7 @@
 import crawl from '../_crawl.js'
 import { readFileSync, rmSync, writeFileSync } from 'fs'
 
-const accessories_types = [
+const TYPES = [
     'Movement',
     'Informational',
     'Health and Mana',
@@ -14,12 +14,14 @@ const accessories_types = [
     'Expert mode'
 ]
 let mergedList = ['Music Box']
-
 let i = 1;
-for (const type of accessories_types) {
+for (const type of TYPES) {
     const name = 'Accessories-' + i
     await crawl({
-        script: './labs/crawler/accessories/_index.script.js',
+        script: [
+            './labs/crawler/_functions.script.js',
+            './labs/crawler/accessories/_index.script.js',
+        ],
         custom_slug: true,
         slug: `index.php?action=render&title=${encodeURIComponent(type + ' Accessories')}`,
         name,
@@ -30,19 +32,21 @@ for (const type of accessories_types) {
     i++
 }
 
-// filter unique
-mergedList = [...new Set(mergedList)]
+mergedList = [...new Set(mergedList)] // filter unique
 writeFileSync('./public/json/_accessories.json', JSON.stringify(mergedList, null, 2), { encoding: 'utf-8' })
 
 for (const item of mergedList) {
     const name = decodeURIComponent(item)
-	
-	try {	
-		let scriptPath = './labs/crawler/accessories/_fetch.script.js'
-		let slug = name.replace(/ /g, '_')
-
-		await crawl({script: scriptPath, slug, name})
-	 } catch (error) {
-		console.log(`[××× Failed] ${error.status} with '${error.message}'`);
-	 }
+    try {
+        await crawl({
+            script: [
+                './labs/crawler/_functions.script.js',
+                './labs/crawler/accessories/_fetch.script.js'
+            ],
+            slug: name.replace(/ /g, '_'),
+            name
+        })
+    } catch (error) {
+        console.log(`[××× Failed] ${error.status} with '${error.message}'`);
+    }
 }

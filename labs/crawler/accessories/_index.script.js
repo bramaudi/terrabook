@@ -1,15 +1,3 @@
-function removeTags($el, tags, recursive = true) {
-	tags.forEach(tag => {
-    	for (const elm of $el.querySelectorAll(tag)) {
-            if (!recursive) {
-                $el.innerHTML = $el.innerHTML
-                	.replace(elm.outerHTML, elm.innerHTML)
-            }
-        	else elm.remove()
-        }
-    })
-}
-
 const table = document.querySelector('.terraria')
 	|| document.querySelector('.crafts .sortable')
 

@@ -1,60 +1,3 @@
-function removeTags($el, tags, recursive = true) {
-    tags.forEach(tag => {
-        for (const elm of $el.querySelectorAll(tag)) {
-            if (!recursive) {
-                $el.innerHTML = $el.innerHTML
-                    .replace(elm.outerHTML, elm.innerHTML)
-            }
-            else elm.remove()
-        }
-    })
-}
-function parseImg($el) {
-    for (const img of $el.querySelectorAll('img')) {
-        const alt = img.getAttribute('alt')
-            .replace(/\.(png|gif)/g, '')
-        if (alt.match('Template loop')) { // Moon phase image
-            const moonPhase = img.src
-            	.split('/').slice(-1)[0]
-            	.match(/Moon-(.*)/, '$1')[1]
-                .replace(/\.(png|gif)/g, '')
-            $el.innerHTML = $el.innerHTML
-                .replace(img.outerHTML, `[img:Moon_phase_${moonPhase}]`)
-        } else {
-            $el.innerHTML = $el.innerHTML
-                .replace(img.outerHTML, `[img:${alt}]`)
-        }
-    }
-}
-function parseLinks($el) {
-	for (const elm of $el.querySelectorAll('a')) {
-        $el.innerHTML = $el.innerHTML
-            .replace(elm.outerHTML, `<linked>${elm.textContent}</linked>`)
-    }
-}
-function clearSpan($el) {
-    for (const span of $el.querySelectorAll('span')) {
-        if (span.getAttribute('style') || span.classList.contains('nowrap')) {
-            $el.innerHTML = $el.innerHTML
-                .replace(span.outerHTML, span.innerHTML)
-        }
-    }
-}
-function removeSoundTag($el) {
-	[...$el.querySelectorAll('.sound')].forEach(el => {
-    	el.outerHTML = el
-            .querySelector('.sound-title')
-        	.textContent.trim()
-    })
-}
-function normalizeText($el) {
-    $el.innerHTML = $el.innerHTML
-        .replace(/&nbsp;/g, ' ')
-        .replace(/\n+/g, '')
-        .replace(/\t+/g, '')
-        .trim()
-}
-
 const title = $url.split('/').slice(-1)[0].replace(/_/g, ' ')
 
 const summaries = (() => {
@@ -114,15 +57,6 @@ const statistics = (() => {
     return rows
 })()
 
-const format = el => {
-    normalizeText(el)
-    clearSpan(el)
-    parseImg(el)
-    removeTags(el, ['s','sup'])
-    parseLinks(el)
-    return el
-}
-
 const summon = (() => {
 	const headline = (() => {
     	let el = document.getElementById('Spawning') ||
@@ -141,7 +75,7 @@ const summon = (() => {
         	walk = walk.nextElementSibling
             continue
         }
-        format(walk)
+        format(walk, ['s', 'sup'])
         arr.push(walk.outerHTML)
     	walk = walk.nextElementSibling
     }

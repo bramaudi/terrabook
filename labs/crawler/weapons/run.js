@@ -1,9 +1,8 @@
 import crawl from '../_crawl.js'
 import { readFileSync, writeFileSync } from 'fs'
 
-// Fetch Weapons.json
 await crawl({
-	script: './labs/crawler/weapons/_index.script.js',
+	script: ['./labs/crawler/weapons/_index.script.js'],
 	slug: 'Weapons',
 	name: '_weapons',
 })
@@ -12,12 +11,15 @@ const items = JSON.parse(readFileSync('./public/json/_weapons.json', { encoding:
 
 for (const item of items) {
 	const name = decodeURIComponent(item)
-	
 	try {	
-		let scriptPath = './labs/crawler/tools/_fetch.script.js'
-		let slug = name.replace(/ /g, '_')
-		
-		await crawl({ script: scriptPath, slug, name })
+		await crawl({
+			script: [
+				'./labs/crawler/_functions.script.js',
+				'./labs/crawler/tools/_fetch.script.js',
+			],
+			slug: name.replace(/ /g, '_'),
+			name
+		})
 
 		// rename type "tools" to "weapons"
 		let itemRaw = readFileSync(`./public/json/${name}.json`, { encoding: 'utf-8' })
