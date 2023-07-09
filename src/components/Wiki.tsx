@@ -99,7 +99,7 @@ export default function(props: { slug: string }) {
 						<caption class="m-2">
 							<Show when={['dyes'].includes(items()!.type)}>
 								<img
-									class="block mx-auto w-8 mb-3"
+									class="block mx-auto max-w-xs mb-3"
 									style={{'image-rendering': 'pixelated'}}
 									src={`/images/${previewImage()}_(equipped).webp`}
 								/>
