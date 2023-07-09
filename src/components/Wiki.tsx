@@ -97,6 +97,13 @@ export default function(props: { slug: string }) {
 				<div class="box-wiki p-2">
 					<table class="table-fixed w-full my-2">
 						<caption class="m-2">
+							<Show when={['dyes'].includes(items()!.type)}>
+								<img
+									class="block mx-auto w-8 mb-3"
+									style={{'image-rendering': 'pixelated'}}
+									src={`/images/${previewImage()}_(equipped).webp`}
+								/>
+							</Show>
 							<img
 								class="block mx-auto"
 								classList={{'max-w-12 max-h-10': items().type !== 'bosses'}}

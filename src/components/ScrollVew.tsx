@@ -83,7 +83,7 @@ export default function(props: Props) {
 								<img
 									class="inline mr-2 max-h-8"
 									style={{ "max-width": '32px' }}
-									src={`/images/${props.slug === 'bosses' ? 'Map_Icon_': ''}${slug}.webp`}
+									src={`/images/${props.slug === 'bosses' ? 'Map_Icon_': ''}${slug}${props.slug === 'dyes' ? '_(equipped)': ''}.webp`}
 								/>
 								<Link href={`/wiki/${props.slug}/${item}`}>{decodeURIComponent(item)}</Link>
 							</div>
