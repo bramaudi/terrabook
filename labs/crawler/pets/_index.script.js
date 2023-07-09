@@ -13,5 +13,4 @@ for (const table of tables) {
         }
 	}
 }
-const removedPetsCount = list.length - 3
-print(list.splice(0, removedPetsCount))
+print(list.slice(0, -8)) // remove 3ds & removed pets
