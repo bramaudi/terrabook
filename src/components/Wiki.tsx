@@ -106,7 +106,10 @@ export default function(props: { slug: string }) {
 							</Show>
 							<img
 								class="block mx-auto"
-								classList={{'max-w-12 max-h-10': items().type !== 'bosses'}}
+								classList={{
+									'max-w-12 max-h-10': items().type !== 'bosses',
+									'w-8 max-h-16': ['armors'].includes(items()!.type)
+								}}
 								style={{'image-rendering': 'pixelated'}}
 								src={`/images/${previewImage()}.webp`}
 							/>
