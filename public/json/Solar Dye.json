@@ -1,14 +1,29 @@
 {
   "type": "dyes",
-  "title": "Acid Dye",
+  "title": "Solar Dye",
   "summaries": [
-    "<b>Acid Dye</b> is a <linked>dye</linked> sometimes acquired from the <linked>Dye Trader</linked> after completing a <linked>Strange Plant</linked> quest. <linked>Armor</linked> dyed by it can be seen in the dark, but does not provide light. It also gives a rippling effect that pulses outwards from the player's head. It can sometimes be used for exploring, but the fact that it does not provide real light makes it mostly of use for decoration.",
-    "Equipping Acid Dye, <linked>Red Acid Dye</linked> or <linked>Blue Acid Dye</linked> on the <linked>Shadow Orb</linked> can make parts of it or the whole orb invisible."
+    "<b>Solar Dye</b> is a <linked>Hardmode</linked>, endgame <linked>dye</linked> crafted from <linked>Solar Fragments</linked> dropped by the <linked>Solar Pillar</linked> from the <linked>Lunar Events</linked>. The dye gives a golden, metallic hue and a slight pulsating effect to anything used with it, similar to the <linked>Reflective Dyes</linked> obtainable from the <linked>Dye Trader</linked>'s <linked>Strange Plants quest</linked>. Unlike the Metallic dyes, however, items dyed with Solar Dye do not appear to dynamically reflect light, and have the same appearance regardless of the player's proximity to light sources. Also unlike the metallic dyes, dyed items periodically glow (without casting light)."
   ],
   "statistics": {
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"75 Silver Coins\" data-sort-value=\"7500\"><span class=\"sc\">75<i> SC</i></span></span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 4]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<i> GC</i></span><span class=\"sc\">50<i> SC</i></span></span>",
     "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">3 required</abbr>"
   },
-  "crafts": {}
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Solar Dye]</linked><span><span><linked>Solar Dye</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">10</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Dye Vat]</linked><span><span><linked>Dye Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+        }
+      }
+    ]
+  }
 }

@@ -54,38 +54,22 @@ const row = document.querySelector(`#${slug}`).closest('tr')
 
 const title = slug.replace(/_/g, ' ')
 
-const summaries = (() => {
-    clearSpan(row)
-    parseImg(row)
-    removeTags(row, ['s'])
-    parseLinks(row)
-    normalizeText(row)
-    const list = row.lastElementChild.querySelectorAll('li')
-	return [...list].map(n => n.innerHTML.trim())
-})()
-
 const statistics = (() => {
-    clearSpan(row)
+    //clearSpan(row)
     parseImg(row)
     removeTags(row, ['s'])
     parseLinks(row)
     normalizeText(row)
     const [,,Ingredients, Crafts] = row.children
+    const craftsList = [...Crafts.querySelectorAll('.dye-unit')].map(e => e.textContent).join('<br/>')
     return {
         Ingredients: Ingredients.textContent.trim(),
-        Crafts: Crafts.textContent.trim(),
+        Crafts: craftsList || undefined,
     }
 })()
 
-const source = (() => {
-    const [,,,Source] = row.children
-    return Source.innerHTML.trim()
-})()
-
-print({
+print(JSON.parse(JSON.stringify({
     type: 'dyes',
 	title,
-    summaries,
     statistics,
-    source,
-})
+})))

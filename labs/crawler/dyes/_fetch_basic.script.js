@@ -83,15 +83,9 @@ const statistics = (() => {
     }
 })()
 
-const source = (() => {
-    const [,,,Source] = row.children
-    return Source.innerHTML.trim()
-})()
-
 print({
     type: 'dyes',
 	title,
     summaries,
     statistics,
-    source,
 })
