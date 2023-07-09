@@ -6,24 +6,16 @@
 @tailwind components;
 @tailwind utilities;
 
-.coins {
-	white-space: nowrap
-}
-
-.coins s {
-	display: none
-}
-
 .coin {
-	white-space: nowrap
+	white-space: nowrap;
 }
 
-.coin s {
-	display: none
+.coin .gc::after {
+	background-position: -15px 50%;
 }
 
-.coin ::after {
-	content: '';
+.coin span::after {
+	content: "";
 	display: inline-block;
 	width: 12px;
 	height: 16px;
@@ -33,24 +25,12 @@
 	background-repeat: no-repeat;
 	background-size: auto 16px;
 	image-rendering: pixelated;
-	image-rendering: crisp-edges
+	image-rendering: crisp-edges;
+
 }
 
-.coin .pc::after {
-	width: 14px;
-	background-position: 0 50%
-}
-
-.coin .gc::after {
-	background-position: -15px 50%
-}
-
-.coin .sc::after {
-	background-position: -28px 50%
-}
-
-.coin .cc::after {
-	background-position: -41px 50%
+.coin i {
+	display: none;
 }
 
 .eico,
@@ -221,11 +201,7 @@
 }
 
 .tags .tag {
-	@apply
-		inline-block mt-1 mr-1 px-1.5
-		rounded-md whitespace-nowrap
-		bg-black bg-opacity-40
-		;
+	@apply inline-block mt-1 mr-1 px-1.5 rounded-md whitespace-nowrap bg-black bg-opacity-40;
 }
 
 .tags .tag:last-child {
@@ -292,11 +268,9 @@ ul.toolpower li img {
 }
 
 .drops.items li {
-	@apply
-		px-1
-		flex flex-nowrap flex-row justify-between items-center relative
-		border-t border-gray-100 border-opacity-10;
+	@apply px-1 flex flex-nowrap flex-row justify-between items-center relative border-t border-gray-100 border-opacity-10;
 }
+
 .drops.items li.note-after {
 	@apply border-t-0
 }
@@ -309,18 +283,31 @@ ul.toolpower li img {
 	@apply justify-center
 }
 
-.drops.items dd { @apply pl-5 }
+.drops.items dd {
+	@apply pl-5
+}
 
-.drops.items .loot { @apply pl-2}
+.drops.items .loot {
+	@apply pl-2
+}
+
 .drops.items .caption.loot::before,
-.drops.items .loot > *:first-child::before {
+.drops.items .loot>*:first-child::before {
 	content: ' • ';
 	vertical-align: middle;
 }
 
-.drops.items .caption { @apply block text-gray-400 }
-.drops.items .groupstart { @apply bg-black bg-opacity-20 }
-.drops.items .group { @apply bg-black bg-opacity-10 }
+.drops.items .caption {
+	@apply block text-gray-400
+}
+
+.drops.items .groupstart {
+	@apply bg-black bg-opacity-20
+}
+
+.drops.items .group {
+	@apply bg-black bg-opacity-10
+}
 
 .drops.items .notebox {
 	@apply m-1 justify-center border border-dashed border-white;
@@ -338,23 +325,65 @@ ul.toolpower li img {
 	@apply hidden;
 }
 
-.show-normal .m-normal { @apply inline }
-.show-expert .m-expert { @apply inline }
-.show-expert .m-expert-master { @apply inline }
-.show-master .m-master { @apply inline }
-.show-master .m-expert-master { @apply inline }
+.show-normal .m-normal {
+	@apply inline
+}
 
-.show-normal .drops.items li.m-normal { @apply flex }
-.show-expert .drops.items li.m-expert { @apply flex }
-.show-expert .drops.items li.m-expert-master { @apply flex }
-.show-master .drops.items li.m-master { @apply flex }
-.show-master .drops.items li.m-expert-master { @apply flex }
+.show-expert .m-expert {
+	@apply inline
+}
 
-.show-normal .drops.items li.caption.m-normal { @apply block }
-.show-expert .drops.items li.caption.m-expert { @apply block }
-.show-expert .drops.items li.caption.m-expert-master { @apply block }
-.show-master .drops.items li.caption.m-master { @apply block }
-.show-master .drops.items li.caption.m-expert-master { @apply block }
+.show-expert .m-expert-master {
+	@apply inline
+}
+
+.show-master .m-master {
+	@apply inline
+}
+
+.show-master .m-expert-master {
+	@apply inline
+}
+
+.show-normal .drops.items li.m-normal {
+	@apply flex
+}
+
+.show-expert .drops.items li.m-expert {
+	@apply flex
+}
+
+.show-expert .drops.items li.m-expert-master {
+	@apply flex
+}
+
+.show-master .drops.items li.m-master {
+	@apply flex
+}
+
+.show-master .drops.items li.m-expert-master {
+	@apply flex
+}
+
+.show-normal .drops.items li.caption.m-normal {
+	@apply block
+}
+
+.show-expert .drops.items li.caption.m-expert {
+	@apply block
+}
+
+.show-expert .drops.items li.caption.m-expert-master {
+	@apply block
+}
+
+.show-master .drops.items li.caption.m-master {
+	@apply block
+}
+
+.show-master .drops.items li.caption.m-expert-master {
+	@apply block
+}
 
 .usetime,
 .knockback,
@@ -452,4 +481,6 @@ p>code {
 	@apply max-h-full mt-2;
 }
 
-th { @apply p-2 }
+th {
+	@apply p-2
+}
