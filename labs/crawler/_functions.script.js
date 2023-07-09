@@ -60,6 +60,7 @@ function format(el, tags = ['s']) {
     parseImg(el)
     parseLinks(el)
     removeTags(el, tags)
+    removeSoundTag(el)
     return el
 }
 function parseCraftTable() {    
