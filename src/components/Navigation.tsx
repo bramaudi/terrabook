@@ -1,5 +1,5 @@
 import { NAV, NAV_ICONS } from "@/consts";
-import { Link, useLocation } from "solid-app-router";
+import { Link, useLocation } from "@solidjs/router";
 import { For } from "solid-js";
 
 export default function() {

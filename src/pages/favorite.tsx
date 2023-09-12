@@ -1,5 +1,5 @@
 import { Result } from "@/types"
-import { Link, useLocation } from "solid-app-router"
+import { Link, useLocation } from "@solidjs/router"
 import { createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
 import Wiki from "@/components/Wiki"
 import useFavorite from "@/hooks/useFavorite"

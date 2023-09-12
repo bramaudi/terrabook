@@ -1,4 +1,4 @@
-import { Link, useLocation } from "solid-app-router"
+import { Link, useLocation } from "@solidjs/router"
 import { Accessor, createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js"
 import Wiki from "./Wiki"
 

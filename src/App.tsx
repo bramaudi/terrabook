@@ -1,5 +1,5 @@
-import { useRoutes } from 'solid-app-router'
 import routes from '@/routes'
+import { useRoutes } from "@solidjs/router";
 import Navigation from './components/Navigation';
 
 const App = () => {

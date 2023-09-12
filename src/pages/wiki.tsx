@@ -1,6 +1,6 @@
 import ScrollVew from "@/components/ScrollVew"
 import useJson from "@/hooks/useJson"
-import { useParams } from "solid-app-router"
+import { useParams } from "@solidjs/router"
 
 export default function() {	
 	const params = useParams<{

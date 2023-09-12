@@ -1,7 +1,7 @@
 import { MENUS } from "@/consts"
 import { App } from "@capacitor/app"
 import { Toast } from "@capacitor/toast"
-import { Link } from "solid-app-router"
+import { Link } from "@solidjs/router"
 import { For, onCleanup, onMount } from "solid-js"
 
 export default function() {
