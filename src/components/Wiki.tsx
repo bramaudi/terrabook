@@ -1,5 +1,5 @@
 import { Base, Bosses, Hooks, NPC, Tools } from "@/types"
-import { createEffect, createSignal, For, Show } from "solid-js"
+import { createSignal, For, Show } from "solid-js"
 import { Browser } from "@capacitor/browser"
 import { parseImg } from "@/utils"
 import useJson from "@/hooks/useJson"
@@ -29,7 +29,7 @@ export default function(props: { slug: string }) {
 	}
 	const previewImage = () => {
 		const name = ['pets', 'mounts'].includes(items()?.type) ? items()?.title : props.slug		
-		return name.replace(/ /g, '_').replace('\\\'', "'")
+		return decodeURIComponent(name).replace(/ /g, '_').replace('\\\'', "'")
 	}
 
 	function parseLinkItem(text: string, dict: CompleteItems) {
