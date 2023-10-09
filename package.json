@@ -10,14 +10,14 @@
     "build": "vite build",
     "build:site": "eleventy --config=.eleventy.cjs",
     "serve": "vite preview",
-    "build:search": "node labs/crawler/search.js",
-    "build:run": "pnpm build:search && vite build && cap run android",
-    "webp:convert": "node labs/webp-converter/convert.js",
-    "webp:clear-png-gif": "node labs/webp-converter/clear-png-gif.js",
-    "webp:clear-webp": "node labs/webp-converter/clear-webp.js",
-    "crawl": "node labs/crawler/fetch.js",
-    "clear:cache": "node labs/crawler/clear-cache.js",
-    "clear:logs": "node labs/crawler/clear-log.js"
+    "build:search": "bun labs/crawler/search.js",
+    "build:run": "bun build:search && vite build && cap run android",
+    "webp:convert": "bun labs/webp-converter/convert.js",
+    "webp:clear-png-gif": "bun labs/webp-converter/clear-png-gif.js",
+    "webp:clear-webp": "bun labs/webp-converter/clear-webp.js",
+    "crawl": "bun labs/crawler/fetch.js",
+    "clear:cache": "bun labs/crawler/clear-cache.js",
+    "clear:logs": "bun labs/crawler/clear-log.js"
   },
   "license": "MIT",
   "devDependencies": {
