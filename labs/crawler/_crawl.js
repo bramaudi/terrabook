@@ -76,12 +76,13 @@ export default async function crawl(props) {
 		if (verbose) console.log(`Write ${target}`);
 		writeFileSync(target, content, { encoding: 'utf-8' })
 	}
-	
+
 	try {
 		new Function('document', 'print', '$url', scriptStr)(document, json, WIKI_URL + slug)
-		console.log(`[Success] ${name}.json`);
+		// process.stdout.write()
+		process.stdout.write(`\u001b[32m [✔] ${name}\u001b[39m\n`);
 	} catch (error) {
-		console.log(`[××× Failed] ${name}.json`);
+		process.stdout.write(`\u001b[31m [✗] ${name}\u001b[39m\n`);
 		writeFileSync(`./labs/crawler/_logs/${name}.txt`, error.stack, { encoding: 'utf-8' })
 	}
 
