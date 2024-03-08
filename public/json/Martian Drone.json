@@ -2,7 +2,7 @@
   "type": "enemies",
   "title": "Martian Drone",
   "summaries": [
-    "The <b>Martian Drone</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> flying <linked>enemy</linked> that spawns during the <linked>Martian Madness</linked> <linked>event</linked>. Upon spawning, it flies diagonally up from a bottom corner of the screen, moving through <linked>blocks</linked>. If not destroyed, it stops once it reaches a point just above the player, and then it spins and explodes into spark particles that fall and linger on the ground, which will damage players or <linked>NPCs</linked> that touch them."
+    "The <b>Martian Drone</b> is a <linked>Hardmode</linked>, post-<linked>Golem</linked> flying <linked>enemy</linked> that spawns during the <linked>Martian Madness</linked> <linked>event</linked>. It can move through solid <linked>blocks</linked>. When it is positioned lower than the player, it will directly fly towards a point just above the player. After reaching the point, or the player is positioned lower than the Martian Drone, it will dive down towards the player. Once it gets close enough to the player, it self-destructs, dealing area-of-effect damage."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Martian Madness </linked></span></div>",

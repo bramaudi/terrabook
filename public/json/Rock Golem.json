@@ -2,13 +2,13 @@
   "type": "enemies",
   "title": "Rock Golem",
   "summaries": [
-    "The <b>Rock Golem</b> is a powerful <linked>Hardmode</linked> <linked>enemy</linked> that spawns in the <linked>Cavern</linked> layer. It throws rocks at players that are out of contact range.",
-    "When being attacked, it continues to attack, making stun-lock options unusable."
+    "The <b>Rock Golem</b> is a powerful <linked>Hardmode</linked> <linked>enemy</linked> that spawns in the <linked>Cavern</linked> layer. It throws rocks at players that are within its line of sight but out of its contact range. When being attacked, it continues to attack, making stun-lock options unusable.",
+    "In <linked>For the worthy</linked> and <linked>Get fixed boi</linked> worlds, Rock Golems release a <linked>Boulder</linked> projectile on death."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Cavern </linked></span></div>",
     "AI Type": "Fighter AI",
-    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">85</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">170</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">255</span></span></span><br><span class=\"mode-content\"><span class=\"m-normal\">40</span><span class=\"m-expert\"><linked>80</linked></span><span class=\"m-master\"><linked>120</linked></span></span> <span class=\"note-text small\">(ranged attack)</span>",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">85</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">170</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">255</span></span></span> <span class=\"note-text small\">(contact)</span><br><span class=\"mode-content\"><span class=\"m-normal\">40</span><span class=\"m-expert\"><linked>80</linked></span><span class=\"m-master\"><linked>120</linked></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Rock</span>)</span><br><span class=\"mode-content\"><span class=\"m-normal\">140</span><span class=\"m-expert\"><linked>280</linked></span><span class=\"m-master\"><linked>420</linked></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Boulder</span>)</span>",
     "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">1000</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">2000</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">3000</span></span></span>",
     "Defense": "<span class=\"npcstat\"><span class=\"m-all\">35</span></span>",
     "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">90%</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">91%</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">92%</span></span></span>",
