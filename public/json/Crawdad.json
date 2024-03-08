@@ -2,7 +2,7 @@
   "type": "enemies",
   "title": "Crawdad",
   "summaries": [
-    "<b>Crawdad</b> is an <linked>enemy</linked> found in the <linked>Cavern</linked> <linked>layer</linked>. It has two color variants that share identical stats and behavior. Crawdad acts like <linked>Crabs</linked>, walking along the ground and jumping at the player when in close enough proximity, though it is slightly faster. It is also capable of moving through <linked>water</linked> unhindered. When a Crawdad is right next to the player, it will attack with its claw, dealing high damage.",
+    "The <b>Crawdad</b> is an <linked>enemy</linked> found in the <linked>Cavern</linked> <linked>layer</linked>. It has two color variants that share identical stats and behavior. Crawdad acts like <linked>Crabs</linked>, walking along the ground and jumping at the player when in close enough proximity, though it is slightly faster. It is also capable of moving through <linked>water</linked> unhindered. When a Crawdad is right next to the player, it will attack with its claw, dealing high damage.",
     "Crawdads are unique in that their ability to spawn is connected to two other enemies: the <linked>Giant Shelly</linked> and the <linked>Salamander</linked>. Of these three enemies, a world will choose two types that it can spawn, leaving the third inaccessible. Crawdads will never spawn in a world that features both Giant Shellies and Salamanders together. This is taken into account by the <linked>Bestiary</linked> progression logic (the missing enemy will register as unlocked when the other two exclusive creatures are unlocked) and the <linked>banner</linked> acquisition (any two of the trio's banners can be used to craft the banner of the missing member of the trio)."
   ],
   "statistics": {

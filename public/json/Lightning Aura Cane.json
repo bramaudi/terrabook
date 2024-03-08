@@ -8,7 +8,8 @@
     "These weapons cannot be used outside of the <linked>Old One's Army</linked> <linked>event</linked> until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
     "During the Old One's Army event, <linked>Etherian Mana</linked> can be collected, which allows the placement of multiple Lightning Auras that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
     "Lightning Aura sentries are boosted by the <linked>Monk armor</linked> and <linked>Shinobi Infiltrator armor</linked> set bonuses, which increase their attack rate and allow them to deal <linked>critical hits</linked>. The critical strike chance of these weapons will always be locked at 16.67% (Monk armor) or 25% (Shinobi Infiltrator armor), and will <i>not</i> be boosted by the weapon's modifier or any other boost to critical strike chance. The Shinobi Infiltrator armor also increases the size of the Lightning Aura's circle.",
-    "Their best <linked>modifier</linked> is <b>Mythical</b>."
+    "For the rod and cane, their best <linked>modifiers</linked> are <b>Mythical</b>, <b>Furious</b>, or <b>Godly</b>.",
+    "For the staff, its best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting minion. Additionally, minions cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Lightning Aura sentry summons has over a Ruthless one is <linked>knockback</linked>."
   ],
   "statistics": {
     "Damage": "<span class=\"note-text small\">(Varies each tier)</span> <span class=\"small-bold\">(Summon)</span>",
@@ -23,20 +24,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lightning Aura Cane]<span><span title=\"Lightning Aura Cane\">Lightning Aura Cane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Cane]<span><span title=\"Lightning Aura Cane\">Lightning Aura Cane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Explosive Trap Cane]</linked><span><span><linked>Explosive Trap Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lightning Aura Rod]<span><span title=\"Lightning Aura Rod\">Lightning Aura Rod</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Rod]<span><span title=\"Lightning Aura Rod\">Lightning Aura Rod</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Explosive Trap Rod]</linked><span><span><linked>Explosive Trap Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
@@ -45,7 +46,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Lightning Aura Staff]<span><span title=\"Lightning Aura Staff\">Lightning Aura Staff</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Lightning Aura Staff]<span><span title=\"Lightning Aura Staff\">Lightning Aura Staff</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Explosive Trap Staff]</linked><span><span><linked>Explosive Trap Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
@@ -56,32 +57,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Cane]</linked><span><span><linked>Flameburst Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Cane]</linked><span><span><linked>Flameburst Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Cane]</linked><span><span><linked>Lightning Aura Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Cane]</linked><span><span><linked>Lightning Aura Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Rod]</linked><span><span><linked>Flameburst Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Rod]</linked><span><span><linked>Flameburst Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Rod]</linked><span><span><linked>Lightning Aura Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Rod]</linked><span><span><linked>Lightning Aura Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Staff]</linked><span><span><linked>Flameburst Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Flameburst Staff]</linked><span><span><linked>Flameburst Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Staff]</linked><span><span><linked>Lightning Aura Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Lightning Aura Staff]</linked><span><span><linked>Lightning Aura Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

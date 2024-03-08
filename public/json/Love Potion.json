@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Love Potion",
   "summaries": [
-    "The <b>Love Potion</b> is a <linked>Hardmode</linked> thrown <linked>potion</linked> that functions similarly to <linked>Thrown Water</linked>, but inflicts no functional effect. Hitting a solid <linked>block</linked> will inflict all players, <linked>NPCs</linked>, <linked>enemies</linked>, and <linked>critters</linked> with the <b>Lovestruck</b> <linked>debuff</linked>, causing them to emit red hearts for 30 seconds, similar to the <linked>Water Gun</linked>'s dripping. This effect is purely cosmetic."
+    "The <b>Love Potion</b> is a <linked>Hardmode</linked> thrown <linked>potion</linked> that functions similarly to <linked>Thrown Water</linked>, though causes no functional effect. Upon colliding with solid <linked>blocks</linked>, it inflicts the <b>Lovestruck</b> <linked>debuff</linked> on players, <linked>enemies</linked>, <linked>critters</linked>, and <linked>NPCs</linked> within a radius of 9 tiles, causing them to emit red hearts for 30 seconds, similar to the <linked>Water Gun</linked>'s dripping effect. This effect is purely cosmetic."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -18,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Love Potion]</linked><span><span><linked>Love Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Love Potion]</linked><span><span><linked>Love Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Princess Fish]</linked><span><span><linked>Princess Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><s>(Desktop, Console, Old-gen console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Princess Fish]</linked><span><span><linked>Princess Fish</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Shiverthorn]</linked><span><span><linked>Shiverthorn</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

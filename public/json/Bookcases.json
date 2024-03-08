@@ -2,21 +2,22 @@
   "type": "furnitures",
   "title": "Bookcases",
   "summaries": [
-    "<b>Bookcases</b> are <linked>crafting stations</linked> used for the creation of three <linked>Hardmode</linked> <linked>Magic Weapons</linked>: <linked>Crystal Storm</linked>, <linked>Cursed Flames</linked> and <linked>Golden Shower</linked>. Bookcases can also be used as decorative <linked>Furniture</linked>, and fulfill a <linked>House</linked>'s Flat Surface Item requirement. A <linked>Bottle</linked> (or similar) can be placed on one and used as a <linked>Placed Bottle</linked> for crafting <linked>Potions</linked>.",
-    "There are currently 35 craftable Bookcases, and 6 versions looted from the environment: one from the <linked>Underworld</linked>, four from the <linked>Dungeon</linked>, and one from the <linked>Pirate Invasion</linked>. Some bookcases can also be found in <linked>Underground Cabins</linked>; their style follows the theme of the cabin where they are found."
+    "<b>Bookcases</b> are a type of <linked>furniture</linked> and <linked>crafting station</linked> used for the crafting of three <linked>Hardmode</linked> <linked>magic weapons</linked>: the <linked>Crystal Storm</linked>, <linked>Cursed Flames</linked>, and <linked>Golden Shower</linked>. Bookcases also fulfill a <linked>house</linked>'s <linked>flat surface item</linked> requirement.",
+    "There are currently 41 types of Bookcases: 35 craftable Bookcases, and 6 looted from the environment: one from the <linked>Underworld</linked>, four from the <linked>Dungeon</linked>, and one from the <linked>Pirate Invasion</linked>. Some bookcases can also be found in <linked>Underground Cabins</linked>; their style follows the theme of the cabin where they are found."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 4 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Bookcase)"
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Bookcase)",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Nebula Bookcase]<span><span title=\"Nebula Bookcase\">Nebula Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4189</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Bookcase]<span><span title=\"Nebula Bookcase\">Nebula Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4189</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -29,7 +30,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Solar Bookcase]<span><span title=\"Solar Bookcase\">Solar Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4147</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Solar Bookcase]<span><span title=\"Solar Bookcase\">Solar Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4147</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -38,7 +39,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Stardust Bookcase]<span><span title=\"Stardust Bookcase\">Stardust Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4210</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Bookcase]<span><span title=\"Stardust Bookcase\">Stardust Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4210</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -47,7 +48,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Vortex Bookcase]<span><span title=\"Vortex Bookcase\">Vortex Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4168</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Bookcase]<span><span title=\"Vortex Bookcase\">Vortex Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4168</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -56,7 +57,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bone Bookcase]<span><span title=\"Bone Bookcase\">Bone Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2138</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bone Bookcase]<span><span title=\"Bone Bookcase\">Bone Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2138</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -69,7 +70,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lesion Bookcase]<span><span title=\"Lesion Bookcase\">Lesion Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3960</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lesion Bookcase]<span><span title=\"Lesion Bookcase\">Lesion Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3960</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -82,7 +83,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Flesh Bookcase]<span><span title=\"Flesh Bookcase\">Flesh Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2022</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Flesh Bookcase]<span><span title=\"Flesh Bookcase\">Flesh Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2022</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -95,7 +96,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Glass Bookcase]<span><span title=\"Glass Bookcase\">Glass Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2025</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Glass Bookcase]<span><span title=\"Glass Bookcase\">Glass Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2025</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -108,7 +109,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Honey Bookcase]<span><span title=\"Honey Bookcase\">Honey Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2023</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Honey Bookcase]<span><span title=\"Honey Bookcase\">Honey Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2023</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -121,7 +122,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Frozen Bookcase]<span><span title=\"Frozen Bookcase\">Frozen Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2031</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Frozen Bookcase]<span><span title=\"Frozen Bookcase\">Frozen Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2031</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -134,7 +135,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Bookcase]<span><span title=\"Lihzahrd Bookcase\">Lihzahrd Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2030</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Bookcase]<span><span title=\"Lihzahrd Bookcase\">Lihzahrd Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2030</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -147,7 +148,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Living Wood Bookcase]<span><span title=\"Living Wood Bookcase\">Living Wood Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2135</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Living Wood Bookcase]<span><span title=\"Living Wood Bookcase\">Living Wood Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2135</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -160,7 +161,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Bookcase]<span><span title=\"Ash Wood Bookcase\">Ash Wood Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5192</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Bookcase]<span><span title=\"Ash Wood Bookcase\">Ash Wood Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5192</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -173,7 +174,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Balloon Bookcase]<span><span title=\"Balloon Bookcase\">Balloon Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5171</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Balloon Bookcase]<span><span title=\"Balloon Bookcase\">Balloon Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5171</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -182,7 +183,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bamboo Bookcase]<span><span title=\"Bamboo Bookcase\">Bamboo Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4568</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bamboo Bookcase]<span><span title=\"Bamboo Bookcase\">Bamboo Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4568</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -191,7 +192,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bookcase]<span><span title=\"Bookcase\">Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 354</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bookcase]<span><span title=\"Bookcase\">Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 354</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -200,7 +201,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Bookcase]<span><span title=\"Boreal Wood Bookcase\">Boreal Wood Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2554</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Bookcase]<span><span title=\"Boreal Wood Bookcase\">Boreal Wood Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2554</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -209,7 +210,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bookcase]<span><span title=\"Cactus Bookcase\">Cactus Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2020</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bookcase]<span><span title=\"Cactus Bookcase\">Cactus Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2020</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -218,7 +219,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Crystal Bookcase]<span><span title=\"Crystal Bookcase\">Crystal Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3917</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Crystal Bookcase]<span><span title=\"Crystal Bookcase\">Crystal Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3917</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">50</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -227,7 +228,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Dynasty Bookcase]<span><span title=\"Dynasty Bookcase\">Dynasty Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2233</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Dynasty Bookcase]<span><span title=\"Dynasty Bookcase\">Dynasty Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2233</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -236,7 +237,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Bookcase]<span><span title=\"Ebonwood Bookcase\">Ebonwood Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2021</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Bookcase]<span><span title=\"Ebonwood Bookcase\">Ebonwood Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2021</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -245,7 +246,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Granite Bookcase]<span><span title=\"Granite Bookcase\">Granite Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3167</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Granite Bookcase]<span><span title=\"Granite Bookcase\">Granite Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3167</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -254,7 +255,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Marble Bookcase]<span><span title=\"Marble Bookcase\">Marble Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3166</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Marble Bookcase]<span><span title=\"Marble Bookcase\">Marble Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3166</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -263,7 +264,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Martian Holobookcase]<span><span title=\"Martian Holobookcase\">Martian Holobookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2817</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Martian Holobookcase]<span><span title=\"Martian Holobookcase\">Martian Holobookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2817</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -272,7 +273,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Meteorite Bookcase]<span><span title=\"Meteorite Bookcase\">Meteorite Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3165</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Meteorite Bookcase]<span><span title=\"Meteorite Bookcase\">Meteorite Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3165</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -281,7 +282,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Mushroom Bookcase]<span><span title=\"Mushroom Bookcase\">Mushroom Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2540</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Mushroom Bookcase]<span><span title=\"Mushroom Bookcase\">Mushroom Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2540</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -290,7 +291,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Bookcase]<span><span title=\"Palm Wood Bookcase\">Palm Wood Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2536</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Bookcase]<span><span title=\"Palm Wood Bookcase\">Palm Wood Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2536</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -299,7 +300,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Bookcase]<span><span title=\"Pearlwood Bookcase\">Pearlwood Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2027</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Bookcase]<span><span title=\"Pearlwood Bookcase\">Pearlwood Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2027</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -308,7 +309,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bookcase]<span><span title=\"Pumpkin Bookcase\">Pumpkin Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2670</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bookcase]<span><span title=\"Pumpkin Bookcase\">Pumpkin Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2670</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -317,7 +318,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Reef Bookcase]<span><span title=\"Reef Bookcase\">Reef Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5150</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Reef Bookcase]<span><span title=\"Reef Bookcase\">Reef Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5150</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -326,7 +327,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Bookcase]<span><span title=\"Rich Mahogany Bookcase\">Rich Mahogany Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2026</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Bookcase]<span><span title=\"Rich Mahogany Bookcase\">Rich Mahogany Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2026</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -335,7 +336,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sandstone Bookcase]<span><span title=\"Sandstone Bookcase\">Sandstone Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4300</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sandstone Bookcase]<span><span title=\"Sandstone Bookcase\">Sandstone Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4300</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -344,7 +345,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Shadewood Bookcase]<span><span title=\"Shadewood Bookcase\">Shadewood Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2136</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Shadewood Bookcase]<span><span title=\"Shadewood Bookcase\">Shadewood Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2136</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -353,7 +354,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spider Bookcase]<span><span title=\"Spider Bookcase\">Spider Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3933</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spider Bookcase]<span><span title=\"Spider Bookcase\">Spider Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3933</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -362,7 +363,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spooky Bookcase]<span><span title=\"Spooky Bookcase\">Spooky Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2028</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spooky Bookcase]<span><span title=\"Spooky Bookcase\">Spooky Bookcase</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2028</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -371,7 +372,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Skyware Bookcase]<span><span title=\"Skyware Bookcase\">Skyware Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2029</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Skyware Bookcase]<span><span title=\"Skyware Bookcase\">Skyware Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2029</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -384,7 +385,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Slime Bookcase]<span><span title=\"Slime Bookcase\">Slime Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2569</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Slime Bookcase]<span><span title=\"Slime Bookcase\">Slime Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2569</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -397,7 +398,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Steampunk Bookcase]<span><span title=\"Steampunk Bookcase\">Steampunk Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2024</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Steampunk Bookcase]<span><span title=\"Steampunk Bookcase\">Steampunk Bookcase</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2024</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -410,7 +411,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bookcase]<span><span title=\"Cactus Bookcase\">Cactus Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2020</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bookcase]<span><span title=\"Cactus Bookcase\">Cactus Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2020</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -423,7 +424,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bookcase]<span><span title=\"Pumpkin Bookcase\">Pumpkin Bookcase</span><div class=\"id\">Internal <linked>Item ID</linked>: 2670</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bookcase]<span><span title=\"Pumpkin Bookcase\">Pumpkin Bookcase</span><span class=\"id\">Internal <linked>Item ID</linked>: 2670</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">20</span></li><li><span class=\"i\"><linked>[img:Book]</linked><span><span><linked>Book</linked></span></span></span><span class=\"am\">10</span></li></ul>"

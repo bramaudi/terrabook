@@ -10,14 +10,16 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 2 high)</span>",
     "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">'How desperate are you?'</span> </i>(Cactus)<i><br><span class=\"gameText\">Seriously? THIS is what you used the Broken Hero Sword for?</span> </i>(Terra)",
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>"
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"30 Copper Coins\" data-sort-value=\"30\"><span class=\"cc\">30 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Toilet)",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Nebula Toilet]<span><span title=\"Nebula Toilet\">Nebula Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4207</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Toilet]<span><span title=\"Nebula Toilet\">Nebula Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4207</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -30,7 +32,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Solar Toilet]<span><span title=\"Solar Toilet\">Solar Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4165</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Solar Toilet]<span><span title=\"Solar Toilet\">Solar Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4165</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -39,7 +41,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Stardust Toilet]<span><span title=\"Stardust Toilet\">Stardust Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4228</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Toilet]<span><span title=\"Stardust Toilet\">Stardust Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4228</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -48,7 +50,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Vortex Toilet]<span><span title=\"Vortex Toilet\">Vortex Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4186</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Toilet]<span><span title=\"Vortex Toilet\">Vortex Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4186</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -57,7 +59,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bone Toilet]<span><span title=\"Bone Toilet\">Bone Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4101</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bone Toilet]<span><span title=\"Bone Toilet\">Bone Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4101</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -70,7 +72,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lesion Toilet]<span><span title=\"Lesion Toilet\">Lesion Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4126</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lesion Toilet]<span><span title=\"Lesion Toilet\">Lesion Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4126</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -83,7 +85,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Flesh Toilet]<span><span title=\"Flesh Toilet\">Flesh Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4102</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Flesh Toilet]<span><span title=\"Flesh Toilet\">Flesh Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4102</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -96,7 +98,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Glass Toilet]<span><span title=\"Glass Toilet\">Glass Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4112</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Glass Toilet]<span><span title=\"Glass Toilet\">Glass Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4112</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -109,7 +111,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Honey Toilet]<span><span title=\"Honey Toilet\">Honey Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4113</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Honey Toilet]<span><span title=\"Honey Toilet\">Honey Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4113</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -122,7 +124,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Frozen Toilet]<span><span title=\"Frozen Toilet\">Frozen Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4111</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Frozen Toilet]<span><span title=\"Frozen Toilet\">Frozen Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4111</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -135,7 +137,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Terra Toilet]<span><span title=\"Terra Toilet\">Terra Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4731</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Terra Toilet]<span><span title=\"Terra Toilet\">Terra Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4731</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Toilet]</linked><span><span><linked>Toilet</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Broken Hero Sword]</linked><span><span><linked>Broken Hero Sword</linked></span></span></span></li></ul>"
@@ -148,7 +150,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Toilet]<span><span title=\"Toilet\">Toilet</span><div class=\"id\">Internal <linked>Item ID</linked>: 358</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Toilet]<span><span title=\"Toilet\">Toilet</span><span class=\"id\">Internal <linked>Item ID</linked>: 358</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Iron Bar]</linked><span><span><linked>Any Iron Bar</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -157,7 +159,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Toilet]<span><span title=\"Lihzahrd Toilet\">Lihzahrd Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4106</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Toilet]<span><span title=\"Lihzahrd Toilet\">Lihzahrd Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4106</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -170,7 +172,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Living Wood Toilet]<span><span title=\"Living Wood Toilet\">Living Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4099</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Living Wood Toilet]<span><span title=\"Living Wood Toilet\">Living Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4099</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -183,7 +185,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Toilet]<span><span title=\"Ash Wood Toilet\">Ash Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5210</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Toilet]<span><span title=\"Ash Wood Toilet\">Ash Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5210</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -196,7 +198,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Balloon Toilet]<span><span title=\"Balloon Toilet\">Balloon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5189</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Balloon Toilet]<span><span title=\"Balloon Toilet\">Balloon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5189</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -205,7 +207,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bamboo Toilet]<span><span title=\"Bamboo Toilet\">Bamboo Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4586</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bamboo Toilet]<span><span title=\"Bamboo Toilet\">Bamboo Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4586</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -214,7 +216,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Blue Dungeon Toilet]<span><span title=\"Blue Dungeon Toilet\">Blue Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4107</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Blue Dungeon Toilet]<span><span title=\"Blue Dungeon Toilet\">Blue Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4107</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Blue Brick]</linked><span><span><linked>Blue Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -223,7 +225,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Toilet]<span><span title=\"Boreal Wood Toilet\">Boreal Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4119</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Toilet]<span><span title=\"Boreal Wood Toilet\">Boreal Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4119</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -232,7 +234,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Cactus Toilet]<span><span title=\"Cactus Toilet\">Cactus Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4100</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Cactus Toilet]<span><span title=\"Cactus Toilet\">Cactus Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4100</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -241,7 +243,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Crystal Toilet]<span><span title=\"Crystal Toilet\">Crystal Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4124</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Crystal Toilet]<span><span title=\"Crystal Toilet\">Crystal Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4124</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li></ul>"
@@ -250,7 +252,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Diamond Toilet]<span><span title=\"Diamond Toilet\">Diamond Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4127</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Diamond Toilet]<span><span title=\"Diamond Toilet\">Diamond Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4127</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Diamond]</linked><span><span><linked>Diamond</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -259,7 +261,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Dynasty Toilet]<span><span title=\"Dynasty Toilet\">Dynasty Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4117</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Dynasty Toilet]<span><span title=\"Dynasty Toilet\">Dynasty Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4117</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -268,7 +270,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Toilet]<span><span title=\"Ebonwood Toilet\">Ebonwood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4096</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Toilet]<span><span title=\"Ebonwood Toilet\">Ebonwood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4096</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -277,7 +279,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Granite Toilet]<span><span title=\"Granite Toilet\">Granite Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4122</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Granite Toilet]<span><span title=\"Granite Toilet\">Granite Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4122</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -286,7 +288,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Green Dungeon Toilet]<span><span title=\"Green Dungeon Toilet\">Green Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4108</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Green Dungeon Toilet]<span><span title=\"Green Dungeon Toilet\">Green Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4108</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Green Brick]</linked><span><span><linked>Green Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -295,7 +297,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Marble Toilet]<span><span title=\"Marble Toilet\">Marble Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4123</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Marble Toilet]<span><span title=\"Marble Toilet\">Marble Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4123</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -304,7 +306,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Martian Toilet]<span><span title=\"Martian Toilet\">Martian Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4121</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Martian Toilet]<span><span title=\"Martian Toilet\">Martian Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4121</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -313,7 +315,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Meteor Toilet]<span><span title=\"Meteor Toilet\">Meteor Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4141</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Meteor Toilet]<span><span title=\"Meteor Toilet\">Meteor Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4141</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -322,7 +324,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Mushroom Toilet]<span><span title=\"Mushroom Toilet\">Mushroom Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4103</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Mushroom Toilet]<span><span title=\"Mushroom Toilet\">Mushroom Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4103</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -331,7 +333,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Obsidian Toilet]<span><span title=\"Obsidian Toilet\">Obsidian Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4110</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Obsidian Toilet]<span><span title=\"Obsidian Toilet\">Obsidian Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4110</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Obsidian]</linked><span><span><linked>Obsidian</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Hellstone]</linked><span><span><linked>Hellstone</linked></span></span></span><span class=\"am\">2</span></li></ul>"
@@ -340,7 +342,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Toilet]<span><span title=\"Palm Wood Toilet\">Palm Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4118</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Toilet]<span><span title=\"Palm Wood Toilet\">Palm Wood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4118</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -349,7 +351,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Toilet]<span><span title=\"Pearlwood Toilet\">Pearlwood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4098</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Toilet]<span><span title=\"Pearlwood Toilet\">Pearlwood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4098</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -358,7 +360,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pink Dungeon Toilet]<span><span title=\"Pink Dungeon Toilet\">Pink Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4109</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pink Dungeon Toilet]<span><span title=\"Pink Dungeon Toilet\">Pink Dungeon Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4109</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pink Brick]</linked><span><span><linked>Pink Brick</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -367,7 +369,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pumpkin Toilet]<span><span title=\"Pumpkin Toilet\">Pumpkin Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4115</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pumpkin Toilet]<span><span title=\"Pumpkin Toilet\">Pumpkin Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4115</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -376,7 +378,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Reef Toilet]<span><span title=\"Reef Toilet\">Reef Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5168</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Reef Toilet]<span><span title=\"Reef Toilet\">Reef Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5168</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -385,7 +387,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Toilet]<span><span title=\"Rich Mahogany Toilet\">Rich Mahogany Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4097</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Toilet]<span><span title=\"Rich Mahogany Toilet\">Rich Mahogany Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4097</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -394,7 +396,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sandstone Toilet]<span><span title=\"Sandstone Toilet\">Sandstone Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4316</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sandstone Toilet]<span><span title=\"Sandstone Toilet\">Sandstone Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4316</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -403,7 +405,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Shadewood Toilet]<span><span title=\"Shadewood Toilet\">Shadewood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4105</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Shadewood Toilet]<span><span title=\"Shadewood Toilet\">Shadewood Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4105</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -412,7 +414,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spider Toilet]<span><span title=\"Spider Toilet\">Spider Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4125</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spider Toilet]<span><span title=\"Spider Toilet\">Spider Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4125</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -421,7 +423,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spooky Toilet]<span><span title=\"Spooky Toilet\">Spooky Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4116</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spooky Toilet]<span><span title=\"Spooky Toilet\">Spooky Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4116</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -430,7 +432,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Skyware Toilet]<span><span title=\"Skyware Toilet\">Skyware Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4104</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Skyware Toilet]<span><span title=\"Skyware Toilet\">Skyware Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4104</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -443,7 +445,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Slime Toilet]<span><span title=\"Slime Toilet\">Slime Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4120</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Slime Toilet]<span><span title=\"Slime Toilet\">Slime Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4120</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">6</span></li></ul>"
@@ -456,7 +458,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Steampunk Toilet]<span><span title=\"Steampunk Toilet\">Steampunk Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4114</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Steampunk Toilet]<span><span title=\"Steampunk Toilet\">Steampunk Toilet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4114</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">6</span></li></ul>"

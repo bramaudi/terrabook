@@ -2,7 +2,7 @@
   "type": "weapons",
   "title": "Nebula Blaze",
   "summaries": [
-    "The <b>Nebula Blaze</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> <linked>magic weapon</linked> which <linked>auto-fires</linked> pink, high-velocity projectiles that home in on <linked>enemies</linked> if they are nearby, with a <span class=\"chance\"><s>20*</s>1/5 (20%)</span> chance to fire a larger, faster blue projectile that does three times the damage and has a higher velocity, instead. The Nebula Blaze fires inaccurately, akin to the <linked>Chain Gun</linked> and similar weapons – however, its projectiles are homing from a certain angle, similar to the <linked>Spectre Staff</linked>. When selected, it appears as a pink glow covering the player's hand which leaves behind a pink particle trail as the player moves.",
+    "The <b>Nebula Blaze</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> <linked>magic weapon</linked> which <linked>autofires</linked> pink, high-velocity projectiles that home in on <linked>enemies</linked> if they are nearby, with a <span class=\"chance\" data-sort-value=\"20\">1/5 (20%)</span> chance to fire a larger, faster blue projectile that has a higher velocity and deals 300% or three times the weapon's base damage (390 damage). The Nebula Blaze fires inaccurately, akin to the <linked>Chain Gun</linked> and similar weapons – however, its projectiles home in from a certain angle, similar to the <linked>Spectre Staff</linked>. When selected, it appears as a pink glow covering the player's hand, which leaves behind a pink particle trail as the player moves.",
     "Its best <linked>modifier</linked> is <b>Mythical</b>."
   ],
   "statistics": {
@@ -22,14 +22,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Nebula Blaze]</linked><span><span><linked>Nebula Blaze</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Nebula Blaze]</linked><span><span><linked>Nebula Blaze</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">18</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

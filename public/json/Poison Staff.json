@@ -2,7 +2,7 @@
   "type": "weapons",
   "title": "Poison Staff",
   "summaries": [
-    "The <b>Poison Staff</b> is a <linked>Hardmode</linked> <linked>magic weapon</linked> which <linked>auto-fires</linked> a roughly 30-degree spread of 3-4 Poison Fangs that pierce multiple <linked>enemies</linked> and inflict the <linked>Poisoned</linked> <linked>debuff</linked>. It is dropped by <linked>Black Recluses</linked>, which are found in or around <linked>Spider Nests</linked>, with a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> drop chance.",
+    "The <b>Poison Staff</b> is a <linked>Hardmode</linked> <linked>magic weapon</linked> which <linked>auto-fires</linked> a roughly 30° spread of 3-4 Poison Fangs that pierce multiple <linked>enemies</linked> and inflict the <linked>Poisoned</linked> <linked>debuff</linked> for a duration of 30 seconds. The Poison Staff has <span class=\"chance\" data-sort-value=\"2.5\">1/40 (2.5%)</span> chance of being dropped by <linked>Black Recluses</linked>, which are found in or around <linked>Spider Nests</linked>.",
     "Its best <linked>modifier</linked> is <b>Mythical</b>."
   ],
   "statistics": {
@@ -22,7 +22,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Venom Staff]</linked><span><span><linked>Venom Staff</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Venom Staff]</linked><span><span><linked>Venom Staff</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Poison Staff]</linked><span><span><linked>Poison Staff</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Chlorophyte Bar]</linked><span><span><linked>Chlorophyte Bar</linked></span></span></span><span class=\"am\">14</span></li></ul>"

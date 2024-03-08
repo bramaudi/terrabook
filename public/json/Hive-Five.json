@@ -2,7 +2,7 @@
   "type": "weapons",
   "title": "Hive-Five",
   "summaries": [
-    "<b>Hive-Five</b> is a <linked>yoyo</linked> that can extend up to 14 tiles away from the player. It can last up to 11 seconds before returning to the player. Upon striking an <linked>enemy</linked>, it has a <span class=\"chance\"><s>33.33*</s>1/3 (33.33%)</span> chance of summoning a single friendly Bee projectile that attacks nearby enemies. The Bee projectile deals 50% of the yoyo's damage (12 base damage).",
+    "The <b>Hive-Five</b> is a <linked>yoyo</linked> that, upon striking an <linked>enemy</linked>, has a <span class=\"chance\" data-sort-value=\"33.33\">1/3 (33.33%)</span> chance of summoning a single friendly Bee projectile that attacks nearby enemies. This Bee projectile deals 50% of the yoyo's damage (12 base damage), has a <span class=\"chance\" data-sort-value=\"50\">1/2 (50%)</span> chance to deal 1 extra damage, can pierce enemies or ricochet off solid <linked>blocks</linked> 3 times in total, and lasts 10 seconds. The Hive-Five can extend up to 14 tiles away from the player and lasts up to 11 seconds before returning to the player.",
     "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
   ],
   "statistics": {
@@ -21,10 +21,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hive-Five]</linked><span><span><linked>Hive-Five</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hive-Five]</linked><span><span><linked>Hive-Five</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Bee Wax]</linked><span><span><linked>Bee Wax</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">14</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bee Wax]</linked><span><span><linked>Bee Wax</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">14</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

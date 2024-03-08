@@ -1,0 +1,20 @@
+{
+  "type": "enemies",
+  "title": "Cultist Archer",
+  "summaries": [
+    "The <b>Cultists</b> are <linked>Hardmode</linked>, post-<linked>Golem</linked> <linked>enemies</linked> that spawn along with a <linked>Mysterious Tablet</linked> at the entrance to the <linked>Dungeon</linked> after Golem has been defeated. Four Cultists will appear there: two <b>Cultist Archers</b> and two <b>Lunatic Devotees</b>. Defeating all four of the Cultists causes the <linked>Lunatic Cultist</linked> <linked>boss</linked> to spawn instantly at their location, destroying the Mysterious Tablet in the process. Defeating the Lunatic Cultist then initiates the <linked>Lunar Events</linked>.",
+    "Until one of the Cultists is attacked, they are passive and deal no contact damage, and players can walk through them freely without activating them. Attacking any of the four will awaken the Archers, who will begin to fire <linked>Wooden Arrows</linked> using <linked>bows</linked> and will deal contact damage. Lunatic Devotees are always passive and never deal contact damage.",
+    "All four Cultists respawn and reset their location and initial passive state after 12 minutes (12 in-game hours), if the Lunatic Cultist was not summoned, if the player runs away or <linked>dies</linked> during the fight, when all four <linked>Celestial Pillars</linked> are destroyed, or when the world is closed and restarted. Restarting the world can be the fastest option to reset them to their original state.",
+    "The Lunatic Devotee and Cultist Archer require 25 kills to be awarded completion of their <linked>Bestiary</linked> entries and corresponding banners, as opposed to the usual 50 kills."
+  ],
+  "statistics": {
+    "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Dungeon entrance </linked></span></div>",
+    "AI Type": "Fighter AI",
+    "Damage": "<span class=\"npcstat\"><span class=\"m-normal\">45</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">90</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">135</span></span></span> <span class=\"note-text small\">(contact)</span><br><span class=\"mode-content\"><span class=\"m-normal\">80</span><span class=\"m-expert\"><linked>160</linked></span><span class=\"m-master\"><linked>240</linked></span></span> <span class=\"note-text small\">(<span class=\"gameText\">Wooden Arrow</span>)</span>",
+    "Max Life": "<span class=\"npcstat\"><span class=\"m-normal\">210</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">420</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">630</span></span></span>",
+    "Defense": "<span class=\"npcstat\"><span class=\"m-all\">14</span></span>",
+    "KB Resist": "<span class=\"npcstat\"><span class=\"m-normal\">45%</span><span class=\"ssep\">/</span><span class=\"m-expert mode-exclusive expert\"><span class=\"s\">51%</span></span><span class=\"ssep\">/</span><span class=\"m-master mode-exclusive master\"><span class=\"s\">56%</span></span></span>",
+    "Banner": "<span class=\"i -w\"><linked>[img:Blue Cultist Archer Banner]</linked><span><span><linked>Blue Cultist Archer Banner</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>",
+    "Immune to": "Confused"
+  }
+}

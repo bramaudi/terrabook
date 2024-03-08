@@ -2,7 +2,8 @@
   "type": "blocks",
   "title": "Ancient Hellstone Brick",
   "summaries": [
-    "<b>Ancient Hellstone Brick</b> is a type of <linked>brick</linked> obtained by throwing <linked>Hellstone Brick</linked> into <linked>Shimmer</linked>. Its appearance is based on the sprite of Hellstone Brick prior to <linked>1.2</linked>."
+    "<b>Ancient Hellstone Brick</b> is a type of <linked>brick</linked> obtained by throwing <linked>Hellstone Brick</linked> into <linked>Shimmer</linked>. Its appearance is based on the sprite of Hellstone Brick prior to <linked>1.2</linked>.",
+    "Like plain Hellstone Bricks, players without an <linked>Obsidian Skull</linked> or one of its upgrades in their accessory slot will receive the <linked>Burning</linked> <linked>debuff</linked> from making contact with the brick. Mining the block or carrying it in one's inventory incurs no negative effect, however. As with most damaging blocks, <linked>NPCs</linked> and enemies are immune to this damage."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
@@ -15,7 +16,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Hellstone Brick]</linked><span><span><linked>Hellstone Brick</linked></span></span></span></li></ul>"
@@ -27,7 +28,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">4</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
@@ -39,10 +40,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">4</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Ancient Hellstone Brick Wall]</linked><span><span><linked>Ancient Hellstone Brick Wall</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ancient Hellstone Brick]</linked><span><span><linked>Ancient Hellstone Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

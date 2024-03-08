@@ -10,27 +10,28 @@
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(4 wide × 2 high)</span>",
     "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4<i> SC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Bed)"
+    "Sell": "<span class=\"coin\" title=\"4 Silver Coins\" data-sort-value=\"400\"><span class=\"sc\">4<i> SC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Bed)",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Nebula Bed]<span><span title=\"Nebula Bed\">Nebula Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4188</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Bed]<span><span title=\"Nebula Bed\">Nebula Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4188</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 4,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Solar Bed]<span><span title=\"Solar Bed\">Solar Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4146</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Solar Bed]<span><span title=\"Solar Bed\">Solar Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4146</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -39,7 +40,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Stardust Bed]<span><span title=\"Stardust Bed\">Stardust Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4209</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Bed]<span><span title=\"Stardust Bed\">Stardust Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4209</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -48,7 +49,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Vortex Bed]<span><span title=\"Vortex Bed\">Vortex Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4167</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Bed]<span><span title=\"Vortex Bed\">Vortex Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4167</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -57,7 +58,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bone Bed]<span><span title=\"Bone Bed\">Bone Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2140</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bone Bed]<span><span title=\"Bone Bed\">Bone Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2140</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -70,85 +71,85 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lesion Bed]<span><span title=\"Lesion Bed\">Lesion Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3959</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lesion Bed]<span><span title=\"Lesion Bed\">Lesion Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3959</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Decay Chamber]</linked><span><span><linked>Decay Chamber</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Decay Chamber]</linked><span><span><linked>Decay Chamber</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Flesh Bed]<span><span title=\"Flesh Bed\">Flesh Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2067</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Flesh Bed]<span><span title=\"Flesh Bed\">Flesh Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2067</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Flesh Cloning Vat]</linked><span><span><linked>Flesh Cloning Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Flesh Cloning Vat]</linked><span><span><linked>Flesh Cloning Vat</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Glass Bed]<span><span title=\"Glass Bed\">Glass Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 1719</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Glass Bed]<span><span title=\"Glass Bed\">Glass Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 1719</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Glass Kiln]</linked><span><span><linked>Glass Kiln</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Glass Kiln]</linked><span><span><linked>Glass Kiln</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Honey Bed]<span><span title=\"Honey Bed\">Honey Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 1721</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Honey Bed]<span><span title=\"Honey Bed\">Honey Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 1721</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Honey Dispenser]</linked><span><span><linked>Honey Dispenser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Honey Dispenser]</linked><span><span><linked>Honey Dispenser</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Frozen Bed]<span><span title=\"Frozen Bed\">Frozen Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2068</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Frozen Bed]<span><span title=\"Frozen Bed\">Frozen Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2068</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Ice Machine]</linked><span><span><linked>Ice Machine</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ice Machine]</linked><span><span><linked>Ice Machine</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Bed]<span><span title=\"Lihzahrd Bed\">Lihzahrd Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2069</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lihzahrd Bed]<span><span title=\"Lihzahrd Bed\">Lihzahrd Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2069</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lihzahrd Brick]</linked><span><span><linked>Lihzahrd Brick</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Lihzahrd Furnace]</linked><span><span><linked>Lihzahrd Furnace</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Lihzahrd Furnace]</linked><span><span><linked>Lihzahrd Furnace</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Living Wood Bed]<span><span title=\"Living Wood Bed\">Living Wood Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2139</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Living Wood Bed]<span><span title=\"Living Wood Bed\">Living Wood Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2139</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -161,7 +162,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Bed]<span><span title=\"Ash Wood Bed\">Ash Wood Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5191</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Bed]<span><span title=\"Ash Wood Bed\">Ash Wood Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5191</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -174,7 +175,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Balloon Bed]<span><span title=\"Balloon Bed\">Balloon Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5170</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Balloon Bed]<span><span title=\"Balloon Bed\">Balloon Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5170</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -183,7 +184,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bamboo Bed]<span><span title=\"Bamboo Bed\">Bamboo Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4567</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bamboo Bed]<span><span title=\"Bamboo Bed\">Bamboo Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4567</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -192,7 +193,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bed]<span><span title=\"Bed\">Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 224</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bed]<span><span title=\"Bed\">Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 224</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -201,7 +202,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Bed]<span><span title=\"Boreal Wood Bed\">Boreal Wood Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2553</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Bed]<span><span title=\"Boreal Wood Bed\">Boreal Wood Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2553</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -210,7 +211,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bed]<span><span title=\"Cactus Bed\">Cactus Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2066</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bed]<span><span title=\"Cactus Bed\">Cactus Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2066</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -219,7 +220,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Crystal Bed]<span><span title=\"Crystal Bed\">Crystal Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3897</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Crystal Bed]<span><span title=\"Crystal Bed\">Crystal Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3897</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">40</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -228,7 +229,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Dynasty Bed]<span><span title=\"Dynasty Bed\">Dynasty Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2231</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Dynasty Bed]<span><span title=\"Dynasty Bed\">Dynasty Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2231</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -237,7 +238,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Bed]<span><span title=\"Ebonwood Bed\">Ebonwood Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 644</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Bed]<span><span title=\"Ebonwood Bed\">Ebonwood Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 644</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -246,7 +247,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Granite Bed]<span><span title=\"Granite Bed\">Granite Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3164</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Granite Bed]<span><span title=\"Granite Bed\">Granite Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3164</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -255,7 +256,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Marble Bed]<span><span title=\"Marble Bed\">Marble Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3163</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Marble Bed]<span><span title=\"Marble Bed\">Marble Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3163</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -264,7 +265,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Martian Bed]<span><span title=\"Martian Bed\">Martian Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2811</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Martian Bed]<span><span title=\"Martian Bed\">Martian Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2811</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -273,7 +274,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Meteorite Bed]<span><span title=\"Meteorite Bed\">Meteorite Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3162</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Meteorite Bed]<span><span title=\"Meteorite Bed\">Meteorite Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3162</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -282,7 +283,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Mushroom Bed]<span><span title=\"Mushroom Bed\">Mushroom Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2538</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Mushroom Bed]<span><span title=\"Mushroom Bed\">Mushroom Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2538</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -291,7 +292,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Bed]<span><span title=\"Palm Wood Bed\">Palm Wood Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2520</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Bed]<span><span title=\"Palm Wood Bed\">Palm Wood Bed</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2520</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -300,7 +301,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Bed]<span><span title=\"Pearlwood Bed\">Pearlwood Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 646</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Bed]<span><span title=\"Pearlwood Bed\">Pearlwood Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 646</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -309,7 +310,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bed]<span><span title=\"Pumpkin Bed\">Pumpkin Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2669</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bed]<span><span title=\"Pumpkin Bed\">Pumpkin Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2669</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -318,7 +319,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Reef Bed]<span><span title=\"Reef Bed\">Reef Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5149</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Reef Bed]<span><span title=\"Reef Bed\">Reef Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5149</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -327,7 +328,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Bed]<span><span title=\"Rich Mahogany Bed\">Rich Mahogany Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 645</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Bed]<span><span title=\"Rich Mahogany Bed\">Rich Mahogany Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 645</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -336,7 +337,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sandstone Bed]<span><span title=\"Sandstone Bed\">Sandstone Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4299</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sandstone Bed]<span><span title=\"Sandstone Bed\">Sandstone Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4299</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -345,7 +346,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Shadewood Bed]<span><span title=\"Shadewood Bed\">Shadewood Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 920</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Shadewood Bed]<span><span title=\"Shadewood Bed\">Shadewood Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 920</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -354,7 +355,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spider Bed]<span><span title=\"Spider Bed\">Spider Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3932</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spider Bed]<span><span title=\"Spider Bed\">Spider Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3932</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -363,7 +364,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Spooky Bed]<span><span title=\"Spooky Bed\">Spooky Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2071</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Spooky Bed]<span><span title=\"Spooky Bed\">Spooky Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2071</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -372,20 +373,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Skyware Bed]<span><span title=\"Skyware Bed\">Skyware Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2070</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Skyware Bed]<span><span title=\"Skyware Bed\">Skyware Bed</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2070</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Sky Mill]</linked><span><span><linked>Sky Mill</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Sky Mill]</linked><span><span><linked>Sky Mill</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Slime Bed]<span><span title=\"Slime Bed\">Slime Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2568</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Slime Bed]<span><span title=\"Slime Bed\">Slime Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2568</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -398,20 +399,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Steampunk Bed]<span><span title=\"Steampunk Bed\">Steampunk Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 1722</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Steampunk Bed]<span><span title=\"Steampunk Bed\">Steampunk Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 1722</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Steampunk Boiler]</linked><span><span><linked>Steampunk Boiler</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Steampunk Boiler]</linked><span><span><linked>Steampunk Boiler</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bed]<span><span title=\"Cactus Bed\">Cactus Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2066</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Cactus Bed]<span><span title=\"Cactus Bed\">Cactus Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2066</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -424,7 +425,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Honey Bed]<span><span title=\"Honey Bed\">Honey Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 1721</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Honey Bed]<span><span title=\"Honey Bed\">Honey Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 1721</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -433,7 +434,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bed]<span><span title=\"Pumpkin Bed\">Pumpkin Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2669</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Pumpkin Bed]<span><span title=\"Pumpkin Bed\">Pumpkin Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2669</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"
@@ -442,7 +443,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Spooky Bed]<span><span title=\"Spooky Bed\">Spooky Bed</span><div class=\"id\">Internal <linked>Item ID</linked>: 2071</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> only:</div><span class=\"i -w multi-line\">[img:Spooky Bed]<span><span title=\"Spooky Bed\">Spooky Bed</span><span class=\"id\">Internal <linked>Item ID</linked>: 2071</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Silk]</linked><span><span><linked>Silk</linked></span></span></span><span class=\"am\">5</span></li></ul>"

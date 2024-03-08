@@ -2,11 +2,11 @@
   "type": "enemies",
   "title": "Albino Antlion",
   "summaries": [
-    "The <b>Antlion</b> is an <linked>enemy</linked> found in <linked>Deserts</linked> during the day and in <linked>Underground Deserts</linked>. It remains stationary with its head sticking out of the ground, and will shoot <linked>sand</linked> projectiles at the player every 3.33 seconds when they are in its line of sight. It can only launch its projectile at an upwards angle (within about 45 degrees to the left and right), so players approaching from lower ground are usually out of its line of fire. The sand projectiles turn into clumps of Sand Blocks when hitting an object, and will gather on the ground, similarly to the projectiles fired by the <linked>Sandgun</linked>.",
+    "The <b>Antlion</b> is an <linked>enemy</linked> found in <linked>Deserts</linked> during the day and in <linked>Underground Deserts</linked>. It remains stationary with its head sticking out of the ground, turns its head towards the player when they are within its line of sight, and fires Sand Ball projectiles at them once every 3.33 seconds. It can only launch its projectiles at an upward angle (within about 45° to the left and right), so players that are approaching from lower ground are usually out of its line of fire. Sand Balls turn into <linked>Sand Blocks</linked> upon hitting an object, and will gather on the ground, similarly to the projectiles fired by the <linked>Sandgun</linked>.",
     "On the <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, the <b>Albino Antlion</b> variant also appears."
   ],
   "statistics": {
-    "Damage": "10 <span class=\"note-text small\">(ranged)</span> <br>10 <span class=\"note-text small\">(melee)</span>",
+    "Damage": "10 <span class=\"note-text small\">(<span class=\"gameText\">Sand Ball</span>)</span> <br>10 <span class=\"note-text small\">(contact)</span>",
     "Max Life": "45",
     "Defense": "6",
     "Banner": "<span class=\"i -w\"><linked>[img:Albino Antlion Banner]</linked><span><span><linked>Albino Antlion Banner</linked></span><span class=\"eico s i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span></span></span>"

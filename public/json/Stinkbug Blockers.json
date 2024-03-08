@@ -1,0 +1,46 @@
+{
+  "type": "furnitures",
+  "title": "Stinkbug Blockers",
+  "summaries": [
+    "The <b>Stinkbug Blocker</b> and <b>Ghostly Stinkbug Blocker</b> are <linked>furniture</linked> items. When placed in a valid house, they will prevent <linked>NPCs</linked> from moving in.",
+    "The Ghostly Stinkbug Blocker is completely invisible when placed and can only been seen if the player has the <linked>Spectre Goggles</linked> equipped or if they are near an activated <linked>Echo Chamber</linked> similar to <linked>Echo Blocks</linked>."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 1 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">When placed in a home, prevents villagers from moving in<br>'Smells like cilantro'</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 2]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"10 Silver Coins\" data-sort-value=\"1000\"><span class=\"sc\">10<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stinkbug Blocker]<span><span title=\"Stinkbug Blocker\">Stinkbug Blocker</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stinkbug]</linked><span><span><linked>Stinkbug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Ghostly Stinkbug Blocker]<span><span title=\"Ghostly Stinkbug Blocker\">Ghostly Stinkbug Blocker</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stinkbug]</linked><span><span><linked>Stinkbug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i\"><linked>[img:Work Bench]</linked><span><span><linked>Work Bench</linked></span></span></span> <b>and</b> <span class=\"i -w\"><span><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        }
+      }
+    ]
+  }
+}

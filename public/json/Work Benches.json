@@ -2,7 +2,7 @@
   "type": "furnitures",
   "title": "Work Benches",
   "summaries": [
-    "<b>Work Benches</b> are a type of <linked>crafting station</linked> required to craft many essential early-game items. They are also one possible way to fulfill a <linked>house</linked>'s <linked>flat surface item</linked> requirement. <linked>Bottles</linked>, <linked>Pink Vases</linked>, and <linked>Mugs</linked> can be placed on it and used as a <linked>Placed Bottle</linked> for crafting <linked>potions</linked>. The Work Bench is the first crafting station the player can make in the game, and one of the first items overall.",
+    "<b>Work Benches</b> are a type of <linked>furniture</linked> and <linked>crafting station</linked> required to craft many essential early-game items. They are also one possible way to fulfill a <linked>house</linked>'s <linked>flat surface item</linked> requirement. <linked>Bottles</linked>, <linked>Pink Vases</linked>, and <linked>Mugs</linked> can be placed on it and used as a <linked>Placed Bottle</linked> for crafting <linked>potions</linked>. The Work Bench is the first crafting station the player can make in the game, and one of the first items overall.",
     "There are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 44 types of Work Benches which can be crafted, and 7 types which must be picked up from areas such as the <linked>Dungeon</linked>. Some Work Benches can also be found in <linked>Underground Cabins</linked>, in which they follow the theme of the cabin they are found in."
   ],
   "statistics": {
@@ -10,14 +10,15 @@
     "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
     "Tooltip": "<i><span class=\"gameText\">Used for basic crafting</span></i>",
     "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"30 Copper Coins\" data-sort-value=\"30\"><span class=\"cc\">30 <i>CC</i></span></span>"
+    "Sell": "<span class=\"coin\" title=\"30 Copper Coins\" data-sort-value=\"30\"><span class=\"cc\">30 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Work Bench)",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
   },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Nebula Work Bench]<span><span title=\"Nebula Work Bench\">Nebula Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4205</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Nebula Work Bench]<span><span title=\"Nebula Work Bench\">Nebula Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4205</span></span><div class=\"anchor\" id=\"Nebula_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Brick]</linked><span><span><linked>Nebula Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -30,7 +31,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Solar Work Bench]<span><span title=\"Solar Work Bench\">Solar Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4163</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Solar Work Bench]<span><span title=\"Solar Work Bench\">Solar Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4163</span></span><div class=\"anchor\" id=\"Solar_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Solar Brick]</linked><span><span><linked>Solar Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -39,7 +40,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Stardust Work Bench]<span><span title=\"Stardust Work Bench\">Stardust Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4226</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Stardust Work Bench]<span><span title=\"Stardust Work Bench\">Stardust Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4226</span></span><div class=\"anchor\" id=\"Stardust_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Brick]</linked><span><span><linked>Stardust Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -48,7 +49,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Vortex Work Bench]<span><span title=\"Vortex Work Bench\">Vortex Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4184</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Vortex Work Bench]<span><span title=\"Vortex Work Bench\">Vortex Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4184</span></span><div class=\"anchor\" id=\"Vortex_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Brick]</linked><span><span><linked>Vortex Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -57,7 +58,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Bone Work Bench]<span><span title=\"Bone Work Bench\">Bone Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 811</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Old-gen console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Bone Work Bench]<span><span title=\"Bone Work Bench\">Bone Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 811</span></span><div class=\"anchor\" id=\"Bone_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -70,7 +71,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Work Bench]<span><span title=\"Ash Wood Work Bench\">Ash Wood Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5208</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ash Wood Work Bench]<span><span title=\"Ash Wood Work Bench\">Ash Wood Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5208</span></span><div class=\"anchor\" id=\"Ash_Wood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ash Wood]</linked><span><span><linked>Ash Wood</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -83,7 +84,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Balloon Work Bench]<span><span title=\"Balloon Work Bench\">Balloon Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5187</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Balloon Work Bench]<span><span title=\"Balloon Work Bench\">Balloon Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5187</span></span><div class=\"anchor\" id=\"Balloon_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Any Balloon]</linked><span><span><linked>Any Balloon</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -92,7 +93,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Bamboo Work Bench]<span><span title=\"Bamboo Work Bench\">Bamboo Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4584</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Bamboo Work Bench]<span><span title=\"Bamboo Work Bench\">Bamboo Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4584</span></span><div class=\"anchor\" id=\"Bamboo_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bamboo]</linked><span><span><linked>Bamboo</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -101,7 +102,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Bone Work Bench]<span><span title=\"Bone Work Bench\">Bone Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 811</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Bone Work Bench]<span><span title=\"Bone Work Bench\">Bone Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 811</span></span><div class=\"anchor\" id=\"Bone_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Bone]</linked><span><span><linked>Bone</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -110,7 +111,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Work Bench]<span><span title=\"Boreal Wood Work Bench\">Boreal Wood Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 673</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Boreal Wood Work Bench]<span><span title=\"Boreal Wood Work Bench\">Boreal Wood Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 673</span></span><div class=\"anchor\" id=\"Boreal_Wood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Boreal Wood]</linked><span><span><linked>Boreal Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -119,7 +120,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Cactus Work Bench]<span><span title=\"Cactus Work Bench\">Cactus Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 812</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Cactus Work Bench]<span><span title=\"Cactus Work Bench\">Cactus Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 812</span></span><div class=\"anchor\" id=\"Cactus_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cactus]</linked><span><span><linked>Cactus</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -128,7 +129,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Crystal Work Bench]<span><span title=\"Crystal Work Bench\">Crystal Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3909</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Crystal Work Bench]<span><span title=\"Crystal Work Bench\">Crystal Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3909</span></span><div class=\"anchor\" id=\"Crystal_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Crystal Block]</linked><span><span><linked>Crystal Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">25</span></li></ul>"
@@ -137,7 +138,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Dynasty Work Bench]<span><span title=\"Dynasty Work Bench\">Dynasty Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2229</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Dynasty Work Bench]<span><span title=\"Dynasty Work Bench\">Dynasty Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2229</span></span><div class=\"anchor\" id=\"Dynasty_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Dynasty Wood]</linked><span><span><linked>Dynasty Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -146,7 +147,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Work Bench]<span><span title=\"Ebonwood Work Bench\">Ebonwood Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 635</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Ebonwood Work Bench]<span><span title=\"Ebonwood Work Bench\">Ebonwood Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 635</span></span><div class=\"anchor\" id=\"Ebonwood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ebonwood]</linked><span><span><linked>Ebonwood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -155,7 +156,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Granite Work Bench]<span><span title=\"Granite Work Bench\">Granite Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3158</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Granite Work Bench]<span><span title=\"Granite Work Bench\">Granite Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3158</span></span><div class=\"anchor\" id=\"Granite_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Granite Block]</linked><span><span><linked>Smooth Granite Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -164,7 +165,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Marble Work Bench]<span><span title=\"Marble Work Bench\">Marble Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3157</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Marble Work Bench]<span><span title=\"Marble Work Bench\">Marble Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3157</span></span><div class=\"anchor\" id=\"Marble_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Marble Block]</linked><span><span><linked>Smooth Marble Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -173,7 +174,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Martian Work Bench]<span><span title=\"Martian Work Bench\">Martian Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2826</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Martian Work Bench]<span><span title=\"Martian Work Bench\">Martian Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2826</span></span><div class=\"anchor\" id=\"Martian_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Martian Conduit Plating]</linked><span><span><linked>Martian Conduit Plating</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -182,7 +183,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Meteorite Work Bench]<span><span title=\"Meteorite Work Bench\">Meteorite Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3156</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Meteorite Work Bench]<span><span title=\"Meteorite Work Bench\">Meteorite Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3156</span></span><div class=\"anchor\" id=\"Meteorite_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Meteorite Brick]</linked><span><span><linked>Meteorite Brick</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -191,7 +192,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Mushroom Work Bench]<span><span title=\"Mushroom Work Bench\">Mushroom Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 814</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Mushroom Work Bench]<span><span title=\"Mushroom Work Bench\">Mushroom Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 814</span></span><div class=\"anchor\" id=\"Mushroom_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glowing Mushroom]</linked><span><span><linked>Glowing Mushroom</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -200,7 +201,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Work Bench]<span><span title=\"Palm Wood Work Bench\">Palm Wood Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2534</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Palm Wood Work Bench]<span><span title=\"Palm Wood Work Bench\">Palm Wood Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2534</span></span><div class=\"anchor\" id=\"Palm_Wood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -209,7 +210,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Work Bench]<span><span title=\"Pearlwood Work Bench\">Pearlwood Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 637</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pearlwood Work Bench]<span><span title=\"Pearlwood Work Bench\">Pearlwood Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 637</span></span><div class=\"anchor\" id=\"Pearlwood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pearlwood]</linked><span><span><linked>Pearlwood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -218,7 +219,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Pumpkin Work Bench]<span><span title=\"Pumpkin Work Bench\">Pumpkin Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 1795</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Pumpkin Work Bench]<span><span title=\"Pumpkin Work Bench\">Pumpkin Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 1795</span></span><div class=\"anchor\" id=\"Pumpkin_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Pumpkin]</linked><span><span><linked>Pumpkin</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -227,7 +228,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Reef Work Bench]<span><span title=\"Reef Work Bench\">Reef Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 5166</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Reef Work Bench]<span><span title=\"Reef Work Bench\">Reef Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 5166</span></span><div class=\"anchor\" id=\"Reef_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -236,7 +237,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Work Bench]<span><span title=\"Rich Mahogany Work Bench\">Rich Mahogany Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 636</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Rich Mahogany Work Bench]<span><span title=\"Rich Mahogany Work Bench\">Rich Mahogany Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 636</span></span><div class=\"anchor\" id=\"Rich_Mahogany_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -245,7 +246,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Sandstone Work Bench]<span><span title=\"Sandstone Work Bench\">Sandstone Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 4315</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Sandstone Work Bench]<span><span title=\"Sandstone Work Bench\">Sandstone Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 4315</span></span><div class=\"anchor\" id=\"Sandstone_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Smooth Sandstone]</linked><span><span><linked>Smooth Sandstone</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -254,7 +255,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Shadewood Work Bench]<span><span title=\"Shadewood Work Bench\">Shadewood Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 916</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Shadewood Work Bench]<span><span title=\"Shadewood Work Bench\">Shadewood Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 916</span></span><div class=\"anchor\" id=\"Shadewood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Shadewood]</linked><span><span><linked>Shadewood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -263,7 +264,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Slime Work Bench]<span><span title=\"Slime Work Bench\">Slime Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 815</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i -w multi-line\">[img:Slime Work Bench]<span><span title=\"Slime Work Bench\">Slime Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 815</span></span><div class=\"anchor\" id=\"Slime_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -272,7 +273,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spider Work Bench]<span><span title=\"Spider Work Bench\">Spider Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3949</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spider Work Bench]<span><span title=\"Spider Work Bench\">Spider Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3949</span></span><div class=\"anchor\" id=\"Spider_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spider Nest Block]</linked><span><span><linked>Spider Nest Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -281,7 +282,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Spooky Work Bench]<span><span title=\"Spooky Work Bench\">Spooky Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 1817</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Spooky Work Bench]<span><span title=\"Spooky Work Bench\">Spooky Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 1817</span></span><div class=\"anchor\" id=\"Spooky_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -290,7 +291,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Work Bench]<span><span title=\"Work Bench\">Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 36</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Work Bench]<span><span title=\"Work Bench\">Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 36</span></span><div class=\"anchor\" id=\"Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -299,7 +300,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Lesion Work Bench]<span><span title=\"Lesion Work Bench\">Lesion Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 3975</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Lesion Work Bench]<span><span title=\"Lesion Work Bench\">Lesion Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 3975</span></span><div class=\"anchor\" id=\"Lesion_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Lesion Block]</linked><span><span><linked>Lesion Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -312,7 +313,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Flesh Work Bench]<span><span title=\"Flesh Work Bench\">Flesh Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 813</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Flesh Work Bench]<span><span title=\"Flesh Work Bench\">Flesh Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 813</span></span><div class=\"anchor\" id=\"Flesh_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Flesh Block]</linked><span><span><linked>Flesh Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -325,7 +326,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Glass Work Bench]<span><span title=\"Glass Work Bench\">Glass Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2632</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Glass Work Bench]<span><span title=\"Glass Work Bench\">Glass Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2632</span></span><div class=\"anchor\" id=\"Glass_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -338,7 +339,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Honey Work Bench]<span><span title=\"Honey Work Bench\">Honey Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 2251</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Honey Work Bench]<span><span title=\"Honey Work Bench\">Honey Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 2251</span></span><div class=\"anchor\" id=\"Honey_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -351,7 +352,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Frozen Work Bench]<span><span title=\"Frozen Work Bench\">Frozen Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2252</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Frozen Work Bench]<span><span title=\"Frozen Work Bench\">Frozen Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2252</span></span><div class=\"anchor\" id=\"Frozen_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Ice Block]</linked><span><span><linked>Ice Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -364,7 +365,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Living Wood Work Bench]<span><span title=\"Living Wood Work Bench\">Living Wood Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 2633</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Living Wood Work Bench]<span><span title=\"Living Wood Work Bench\">Living Wood Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 2633</span></span><div class=\"anchor\" id=\"Living_Wood_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood]</linked><span><span><linked>Wood</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -377,7 +378,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Skyware Work Bench]<span><span title=\"Skyware Work Bench\">Skyware Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2631</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Skyware Work Bench]<span><span title=\"Skyware Work Bench\">Skyware Work Bench</span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2631</span></span><div class=\"anchor\" id=\"Skyware_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Sunplate Block]</linked><span><span><linked>Sunplate Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -390,7 +391,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Slime Work Bench]<span><span title=\"Slime Work Bench\">Slime Work Bench</span><div class=\"id\">Internal <linked>Item ID</linked>: 815</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Slime Work Bench]<span><span title=\"Slime Work Bench\">Slime Work Bench</span><span class=\"id\">Internal <linked>Item ID</linked>: 815</span></span><div class=\"anchor\" id=\"Slime_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Slime Block]</linked><span><span><linked>Slime Block</linked></span></span></span><span class=\"am\">10</span></li></ul>"
@@ -403,7 +404,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i -w multi-line\">[img:Steampunk Work Bench]<span><span title=\"Steampunk Work Bench\">Steampunk Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><div class=\"id\">Internal <linked>Item ID</linked>: 2253</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Steampunk Work Bench]<span><span title=\"Steampunk Work Bench\">Steampunk Work Bench</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><span class=\"id\">Internal <linked>Item ID</linked>: 2253</span></span><div class=\"anchor\" id=\"Steampunk_Work_Bench\"></div></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Cog]</linked><span><span><linked>Cog</linked></span></span></span><span class=\"am\">10</span></li></ul>"

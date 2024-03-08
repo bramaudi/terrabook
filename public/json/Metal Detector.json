@@ -2,8 +2,9 @@
   "type": "accessories",
   "title": "Metal Detector",
   "summaries": [
-    "The <b>Metal Detector</b> is an <linked>informational accessory</linked> which informs the player about valuable objects, such as <linked>ores</linked>, <linked>chests</linked>, or <linked>Life Crystals</linked>, in their vicinity. It has a <span class=\"chance\"><s>50*</s>1/2 (50%)</span> / <linked>100%</linked> chance to be dropped by the <linked>Nymph</linked>, a rare <linked>cavern</linked> <linked>enemy</linked>.",
-    "The Metal Detector displays the specific type of what was detected, for instance, <i>\"<span class=\"gameText\"><linked>Chlorophyte</linked> detected nearby!</span>\"</i> When multiple valuables are detected, only the one with the highest <linked>value</linked> is noted. Like most informational accessories, it does not reveal the location or direction of the detected object."
+    "The <b>Metal Detector</b> is an <linked>informational accessory</linked> that detects valuable objects, including <linked>ores</linked>, <linked>chests</linked>, <linked>Life Crystals</linked>, and <linked>Life Fruit</linked>, within a rectangular area of 170×125 tiles centered on the player. The Metal Detector has a <span class=\"chance\" data-sort-value=\"50\">1/2 (50%)</span> / <linked>100%</linked> chance of being dropped by <linked>Nymphs</linked>, a rare <linked>cavern</linked> <linked>enemy</linked>.",
+    "The Metal Detector displays the specific type of what was detected, for instance, <i>\"<span class=\"gameText\"><linked>Chlorophyte</linked> detected nearby!</span>\"</i> When multiple valuables are detected, only the one with the highest <linked>value</linked> is noted. Like most informational accessories, it does not directly reveal the location or direction of the detected object.",
+    "The Metal Detector is one of the three parts necessary to make the <linked>Goblin Tech</linked>, with the others being the <linked>Stopwatch</linked> and the <linked>DPS Meter</linked>, and as such is a required ingredient in <linked>crafting</linked> the <linked>Shellphone</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Displays the most valuable ore around you</span></i>",

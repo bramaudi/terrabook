@@ -3,7 +3,7 @@
   "title": "Gas Trap",
   "summaries": [
     "The <b>Gas Trap</b> is a <linked>trap</linked> item obtained by throwing a <linked>Whoopie Cushion</linked> into <linked>Shimmer</linked>. It can also be activated from <linked>Chests</linked> in <linked>No traps</linked> and <linked>Get fixed boi</linked> worlds.",
-    "After being placed in a <linked>storage item</linked>, the Gas Trap will activate the next time that storage item is opened, dealing 20 / <linked>40</linked> / <linked>60</linked> damage to nearby players and 10 damage to nearby <linked>enemies</linked>, <linked>NPCs</linked>, and <linked>critters</linked>, and inflicting all entities within a small radius with the <linked>Poisoned</linked> <linked>debuff</linked> for 49 seconds / <linked>1 minute 38 seconds</linked> / <linked>2 minutes 3 seconds</linked>. The Gas Trap then becomes a <b>Used Gas Trap</b>, which has no effect but can be converted back into a useable Gas Trap by throwing it into Shimmer. Only one Gas Trap will be used at a time whenever a player opens a storage item. A Gas Trap will not activate if the storage item it was placed in is opened in a singleplayer world while <linked>autopause</linked> is enabled."
+    "After being placed in a <linked>storage item</linked>, the Gas Trap will activate the next time that storage item is opened, dealing 20 / <linked>40</linked> / <linked>60</linked> damage to nearby players and 10 damage to nearby <linked>enemies</linked>, <linked>NPCs</linked>, and <linked>critters</linked>, and inflicting all entities within a small radius with the <linked>Poisoned</linked> <linked>debuff</linked> for 49 seconds / <linked>1 minute 38 seconds</linked> / <linked>2 minutes 3 seconds</linked>. The Gas Trap then becomes a <b>Used Gas Trap</b> and can only be refilled by throwing it into Shimmer producing a new Gas Trap. Only one Gas Trap will be used at a time whenever a player opens a storage item. A Gas Trap will not activate if the storage item it was placed in is opened in a singleplayer world while <linked>autopause</linked> is enabled."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Releases poisonous gas when a container it is in is opened</span></i>",
@@ -16,19 +16,19 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<span class=\"i multi-line\"><linked>[img:Gas Trap]</linked><span><span><linked>Gas Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Gas Trap]</linked><span><span><linked>Gas Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Whoopie Cushion]</linked><span><span><linked>Whoopie Cushion</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Used Gas Trap]</linked><span><span><linked>Used Gas Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Used Gas Trap]</linked><span><span><linked>Used Gas Trap</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

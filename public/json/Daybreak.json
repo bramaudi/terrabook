@@ -2,9 +2,8 @@
   "type": "weapons",
   "title": "Daybreak",
   "summaries": [
-    "The <b>Daybreak</b> is a <linked>Hardmode</linked>, endgame <linked>melee weapon</linked> crafted from <linked>Solar Fragments</linked> obtained from the <linked>Lunar Events</linked>. It <linked>auto-fires</linked> projectiles that cost no <linked>mana</linked> or <linked>ammunition</linked>. It can be considered a much more powerful and non-consumable <linked>Bone Javelin</linked>, as its projectiles are affected by gravity and stick to enemies to inflict damage over time.",
-    "Up to 8 projectiles can stick to an <linked>enemy</linked> at once, with each dealing 25 damage per quarter-second, resulting in 800 max <abbr title=\"Damage per second\">DPS</abbr> from the debuff. When a projectile expires or hits a block, it will explode, dealing damage in an area.",
-    "The projectiles also emit a good amount of light, making exploration and finding enemies in the dark much easier.",
+    "The <b>Daybreak</b> is a <linked>Hardmode</linked>, post-<linked>Lunatic Cultist</linked> <linked>melee weapon</linked> that <linked>autofires</linked> molten spear projectiles that cost no <linked>mana</linked> or <linked>ammunition</linked>, which, upon contact with an <linked>enemy</linked>, stick to the damaged target and inflict the <linked>Daybroken</linked> <linked>debuff</linked>, dealing 25 damage per quarter-second for a duration of five seconds. Up to a maximum of eight spear projectiles can be lodged into a single enemy at one time, resulting in a maximum of 800 <abbr title=\"Damage per second\">DPS</abbr> from the afflicted debuff.",
+    "Solar Explosions are produced from the Daybreak's spears once the debuff's duration expires, once the afflicted enemy dies, when a spear collides with solid tiles, or when the spear limit is reached and another thrown spear attempts to affect the same afflicted target. These explosions inflict the weapon's base damage and also apply the Daybroken debuff to nearby enemies.",
     "Its best <linked>modifier</linked> is <b>Godly</b> or <b>Demonic</b>. Both modifiers increase the average damage output by the same amount."
   ],
   "statistics": {
@@ -23,14 +22,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Daybreak]</linked><span><span><linked>Daybreak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Daybreak]</linked><span><span><linked>Daybreak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">18</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">18</span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

@@ -3,7 +3,7 @@
   "title": "Mining armor",
   "summaries": [
     "<b>Mining armor</b> is an <linked>armor</linked> set consisting of the <b>Mining Helmet</b> or <b><span class=\"eil\"><span><linked>Ultrabright Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></b>, <b>Mining Shirt</b>, and <b>Mining Pants</b>. The helmets alone provide light when worn in the armor slot, but not when worn in the social slot. A full set grants <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 4 / <span class=\"eico i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span> 3 defense (6 with the Ultrabright Helmet), as well as 30% increased <linked>mining speed</linked>.",
-    "<ul><li>The Mining Shirt and Mining Pants are dropped from <linked>Undead Miners</linked> with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> <span class=\"chance\"><s>12*</s>3/25 (12%)</span> / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span> <span class=\"chance\"><s>2.4*</s>3/125 (2.4%)</span> chance.</li><li>The Mining Helmet can be purchased from the <linked>Merchant</linked> for <span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i><span>(Desktop, Console, Mobile and 3DS versions)</span></span> <span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<i> GC</i></span></span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span> <span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<i> GC</i></span></span>.<ul><li>The Mining Helmet is also a drop from Undead Miners with a <span class=\"chance\"><s>5*</s>1/20 (5%)</span> chance in the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>.</li></ul></li></ul>"
+    "<ul><li>The Mining Shirt and Mining Pants are dropped from <linked>Undead Miners</linked> with a <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> <span class=\"chance\" data-sort-value=\"12\">3/25 (12%)</span> / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span> <span class=\"chance\" data-sort-value=\"2.4\">3/125 (2.4%)</span> chance.</li><li>The Mining Helmet can be purchased from the <linked>Merchant</linked> for <span class=\"eico i1 i2 i4 i5\" title=\"Desktop, Console, Mobile and 3DS versions\"><b></b><i></i><span>(Desktop, Console, Mobile and 3DS versions)</span></span> <span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<i> GC</i></span></span> / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span> <span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<i> GC</i></span></span>.</li><li>On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, the Mining Helmet can also be dropped by Undead Miners with a <span class=\"chance\" data-sort-value=\"5\">1/20 (5%)</span> chance.</li></ul>"
   ],
   "statistics": {
     "Defense": "<span class=\"i\">[img:Mining Helmet]</span> : 4 / <span class=\"i\">[img:Ultrabright Helmet]</span> : 6<span class=\"note-text\"> (set)</span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span><br>3 <span class=\"note-text\">(set)</span> <span class=\"eico s i3 i5\" title=\"Old-gen console and 3DS versions\"><b></b><i></i><span>(Old-gen console and 3DS versions)</span></span>",
@@ -16,20 +16,20 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mining Pants]</linked><span><span><linked>Mining Pants</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Mining Pants]<span><span title=\"Mining Pants\">Mining Pants</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Mining Shirt]</linked><span><span><linked>Mining Shirt</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 2,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Mining Shirt]</linked><span><span><linked>Mining Shirt</linked></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Mining Shirt]<span><span title=\"Mining Shirt\">Mining Shirt</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Mining Pants]</linked><span><span><linked>Mining Pants</linked></span></span></span></li></ul>"
@@ -38,10 +38,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Ultrabright Helmet]</linked><span><span><linked>Ultrabright Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Ultrabright Helmet]<span><span title=\"Ultrabright Helmet\">Ultrabright Helmet</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Mining Helmet]</linked><span><span><linked>Mining Helmet</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Night Vision Helmet]</linked><span><span><linked>Night Vision Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Mining Helmet]</linked><span><span><linked>Mining Helmet</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Night Vision Helmet]</linked><span><span><linked>Night Vision Helmet</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

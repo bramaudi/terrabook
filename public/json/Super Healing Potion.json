@@ -2,8 +2,9 @@
   "type": "accessories",
   "title": "Super Healing Potion",
   "summaries": [
-    "The <b>Super Healing Potion</b> is a <linked>potion</linked> that heals 200 <linked>health</linked> and inflicts <linked>Potion Sickness</linked> for 60 seconds when used. This duration can be reduced via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>.",
-    "Though their crafting cost is fairly significant, they are the highest tier of healing potion in the game. They are also dropped by the <linked>Moon Lord</linked>."
+    "The <b>Super Healing Potion</b> is a <linked>recovery potion</linked> that heals 200 <linked>health</linked> and inflicts <linked>Potion Sickness</linked> for 60 seconds when used. This duration can be reduced via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>.",
+    "Though their crafting cost is fairly significant, they are the highest tier of healing potion in the game. They are also always dropped by the <linked>Moon Lord</linked>.",
+    "It is the fourth and final tier of healing potion, succeeding the <linked>Lesser Healing Potion</linked>, <linked>Healing Potion</linked>, and <linked>Greater Healing Potion</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -18,14 +19,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Super Healing Potion]</linked><span><span><linked>Super Healing Potion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">4</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Super Healing Potion]</linked><span><span><linked>Super Healing Potion</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">4</span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Greater Healing Potion]</linked><span><span><linked>Greater Healing Potion</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Stardust Fragment]</linked><span><span><linked>Stardust Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li><li><span class=\"i\"><linked>[img:Vortex Fragment]</linked><span><span><linked>Vortex Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Greater Healing Potion]</linked><span><span><linked>Greater Healing Potion</linked></span></span></span><span class=\"am\">4</span></li><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Stardust Fragment]</linked><span><span><linked>Stardust Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Vortex Fragment]</linked><span><span><linked>Vortex Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

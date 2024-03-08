@@ -2,7 +2,7 @@
   "type": "accessories",
   "title": "Molten Quiver",
   "summaries": [
-    "The <b>Molten Quiver</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that has the same effects as the <linked>Magic Quiver</linked> with the addition of turning <linked>Wooden Arrows</linked> into <linked>Flaming Arrows</linked> when fired from a bow."
+    "The <b>Molten Quiver</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that has the same effects as the <linked>Magic Quiver</linked> with the addition of turning <linked>Wooden Arrows</linked> into <linked>Flaming Arrows</linked> when fired from a bow. Unlike the general <linked>ranged damage</linked> bonuses, it only boosts the damage of the weapons and does not affect damage of the <linked>ammo</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases arrow damage by 10% and greatly increases arrow speed<br>20% chance not to consume arrows<br>Lights wooden arrows ablaze<br>'Quiver in fear!'</span></i>",
@@ -15,7 +15,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Molten Quiver]</linked><span><span><linked>Molten Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Molten Quiver]</linked><span><span><linked>Molten Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Magic Quiver]</linked><span><span><linked>Magic Quiver</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Magma Stone]</linked><span><span><linked>Magma Stone</linked></span></span></span></li></ul>"

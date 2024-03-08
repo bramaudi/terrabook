@@ -2,8 +2,8 @@
   "type": "accessories",
   "title": "Honeyfin",
   "summaries": [
-    "The <b>Honeyfin</b> is a consumable <linked>fish</linked> that can be <linked>fished</linked> from <linked>honey</linked> found in <linked>Bee Hives</linked> within the <linked>Underground Jungle</linked>. Other than the <linked>Bumblebee Tuna</linked> found during <linked>Angler</linked> quests, Honeyfins are the only fish that can be caught in honey.",
-    "It restores 120 <linked>health</linked> when consumed and inflicts <linked>Potion Sickness</linked> for 1 minute, making it superior to standard <linked>Healing Potions</linked>. It can also be used to craft <linked>Seafood Dinner</linked>."
+    "The <b>Honeyfin</b> is a consumable <linked>fish</linked> and <linked>recovery potion</linked> that restores 120 <linked>health</linked> and inflicts <linked>Potion Sickness</linked> for 60 seconds when used, making it superior to standard <linked>Healing Potions</linked>. This duration can be reduced via the <linked>Philosopher's Stone</linked> or <linked>Charm of Myths</linked>. It can also be used to craft <linked>Seafood Dinners</linked>.",
+    "The Honeyfin can be <linked>fished</linked> from <linked>honey</linked> found in <linked>Bee Hives</linked> within the <linked>Underground Jungle</linked>. Other than the <linked>Bumblebee Tuna</linked> that can be found during <linked>Angler</linked> quests, Honeyfins are the only fish that can be caught in honey."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -18,7 +18,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Seafood Dinner]</linked><span><span><linked>Seafood Dinner</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Seafood Dinner]</linked><span><span><linked>Seafood Dinner</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Honeyfin]</linked><span><span><linked>Honeyfin</linked></span></span></span><span class=\"am\">2</span></li></ul>"

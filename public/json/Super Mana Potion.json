@@ -2,7 +2,8 @@
   "type": "accessories",
   "title": "Super Mana Potion",
   "summaries": [
-    "The <b>Super Mana Potion</b> is a <linked>potion</linked> that restores 300 <linked>mana</linked> and gives the <linked>Mana Sickness</linked> <linked>debuff</linked> upon use. It is fairly easy to obtain, and is the most potent of all mana restoration items, restoring more mana than the <linked>Greater Mana Potion</linked>."
+    "The <b>Super Mana Potion</b> is a <linked>recovery potion</linked> that restores 300 <linked>mana</linked> and inflicts the <linked>Mana Sickness</linked> <linked>debuff</linked> upon use. It is the most potent of all mana restoration items.",
+    "It is the fourth and final tier of mana potion, succeeding the <linked>Lesser Mana Potion</linked>, <linked>Mana Potion</linked>, and <linked>Greater Mana Potion</linked>."
   ],
   "statistics": {
     "Consumable": "<span class=\"t-yes\">✔️</span>",
@@ -17,14 +18,14 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Super Mana Potion]</linked><span><span><linked>Super Mana Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i></span></span></span><span class=\"am\">15</span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Super Mana Potion]</linked><span><span><linked>Super Mana Potion</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span><span class=\"am\">15</span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Greater Mana Potion]</linked><span><span><linked>Greater Mana Potion</linked></span></span></span><span class=\"am\">15</span></li><li><span class=\"i\"><linked>[img:Fallen Star]</linked><span><span><linked>Fallen Star</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Crystal Shard]</linked><span><span><linked>Crystal Shard</linked></span></span></span><span class=\"am\">3</span></li><li><span class=\"i\"><linked>[img:Unicorn Horn]</linked><span><span><linked>Unicorn Horn</linked></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,
-          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i\"><linked>[img:Placed Bottle]</linked><span><span><linked>Placed Bottle</linked></span></span></span><br><i><b>or</b></i><br><span class=\"i -w\"><linked>[img:Alchemy Table]</linked><span><span><linked>Alchemy Table</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       }
     ]

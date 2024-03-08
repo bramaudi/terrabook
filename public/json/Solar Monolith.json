@@ -1,0 +1,81 @@
+{
+  "type": "accessories",
+  "title": "Monoliths",
+  "summaries": [
+    "<b>Monoliths</b> are items that activate backgrounds and other screen effects normally seen during <linked>events</linked>. When placed, they can be toggled with the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> button or via <linked>wire</linked>, like other <linked>mechanisms</linked>, providing their effects in a small area around them. They can also be equipped as <linked>vanity accessories</linked>, which enables their effect globally for the player, similarly to the <linked>Radio Thing</linked>.",
+    "There are seven different monoliths: the <b>Solar</b>, <b>Vortex</b>, <b>Nebula</b>, <b>Stardust</b>, and <b>Void Monoliths</b> can be crafted at an <linked>Ancient Manipulator</linked>, the <b>Aether Monolith</b> can be obtained via <linked>Shimmer</linked>, and the <b>Blood Moon Monolith</b> is dropped by the <linked>Dreadnautilus</linked> with a <span class=\"chance\" data-sort-value=\"10\">1/10 (10%)</span> chance.",
+    "<ul><li>The Blood Moon Monolith mimics the effects seen during a <linked>Blood Moon</linked>.</li><li>The Nebula, Solar, Stardust, and Vortex Monoliths mimic effects that normally surround the corresponding <linked>Celestial Pillar</linked> during the <linked>Lunar Events</linked>.</li><li>The Void Monolith mimics the screen effects of the <linked>Moon Lord</linked> boss fight.</li><li>The Aether Monolith mimics the screen effects of the <linked>Aether</linked> mini-biome.</li></ul>",
+    "Unlike the other monoliths, the Aether Monolith has three states: One off state (which disables the Aether effect entirely in its area, even if it would normally be present due to <linked>Shimmer</linked>) and two on states – low, which acts as if the monolith were not present (allowing the Aether effect if enough Shimmer is nearby but not forcing it on), and high, which forces the Aether effect on."
+  ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 3 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Nebula Monolith]<span><span title=\"Nebula Monolith\">Nebula Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Nebula Fragment]</linked><span><span><linked>Nebula Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li></ul>"
+        },
+        "station": {
+          "rowspan": 5,
+          "value": "<span class=\"i -w\"><linked>[img:Ancient Manipulator]</linked><span><span><linked>Ancient Manipulator</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Solar Monolith]<span><span title=\"Solar Monolith\">Solar Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Solar Fragment]</linked><span><span><linked>Solar Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Stardust Monolith]<span><span title=\"Stardust Monolith\">Stardust Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stardust Fragment]</linked><span><span><linked>Stardust Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Void Monolith]<span><span title=\"Void Monolith\">Void Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Luminite]</linked><span><span><linked>Luminite</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">25</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Vortex Monolith]<span><span title=\"Vortex Monolith\">Vortex Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Vortex Fragment]</linked><span><span><linked>Vortex Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">15</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\">[img:Aether Monolith]<span><span title=\"Aether Monolith\">Aether Monolith</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Angel Statue]</linked><span><span><linked>Angel Statue</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        }
+      }
+    ]
+  }
+}

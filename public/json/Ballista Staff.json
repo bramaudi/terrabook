@@ -7,7 +7,8 @@
     "These weapons cannot be used outside of the <linked>Old One's Army</linked> <linked>event</linked> until the event has been successfully completed. Completing the event on any difficulty allows Rods, Canes, and Staves alike to be used outside of the event.",
     "During the Old One's Army event, <linked>Etherian Mana</linked> can be collected, which allows the placement of multiple Ballistas that remain permanently until the event is over. Etherian Mana cannot be used outside the event.",
     "Ballista sentries are boosted by the <linked>Squire armor</linked> and <linked>Valhalla Knight armor</linked> set bonuses, which increase the velocity of the Ballista Shot projectiles and allow them to pierce up to three more enemies, for a maximum of six. In addition, they grant the <linked>Ballista Panic!</linked> buff for 5 seconds when the player takes damage, which increases the sentries' fire rate. The Valhalla Knight armor also greatly increases the fire rate.",
-    "Their best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting sentry. Additionally, sentries cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Ballista has over a Ruthless one is <linked>knockback</linked>."
+    "For the rod, its best <linked>modifiers</linked> are <b>Mythical</b>, <b>Furious</b>, or <b>Godly</b>. Rounding reveals that these modifiers provide the same increase to damage as the Ruthless modifier, increasing it from 30 to 35.",
+    "For the cane and staff, their best <linked>modifier</linked> is <b>Ruthless</b>. The Mythical modifier provides the widest array of stat bonuses, but these primarily affect the initial summon rather than the resulting sentry. Additionally, sentries cannot deal <linked>critical hits</linked>. The only lasting advantage a Mythical Ballista has over a Ruthless one is <linked>knockback</linked>."
   ],
   "statistics": {
     "Damage": "<span class=\"note-text small\">(Varies each tier)</span> <span class=\"small-bold\">(Summon)</span>",
@@ -22,32 +23,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ballista Cane]<span><span title=\"Ballista Cane\">Ballista Cane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Ballista Cane]<span><span title=\"Ballista Cane\">Ballista Cane</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Cane]</linked><span><span><linked>Flameburst Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Cane]</linked><span><span><linked>Flameburst Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ballista Rod]<span><span title=\"Ballista Rod\">Ballista Rod</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Ballista Rod]<span><span title=\"Ballista Rod\">Ballista Rod</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Rod]</linked><span><span><linked>Flameburst Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Rod]</linked><span><span><linked>Flameburst Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\">[img:Ballista Staff]<span><span title=\"Ballista Staff\">Ballista Staff</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\">[img:Ballista Staff]<span><span title=\"Ballista Staff\">Ballista Staff</span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Staff]</linked><span><span><linked>Flameburst Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Flameburst Staff]</linked><span><span><linked>Flameburst Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ],
@@ -55,32 +56,32 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Cane]</linked><span><span><linked>Explosive Trap Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Cane]</linked><span><span><linked>Explosive Trap Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Cane]</linked><span><span><linked>Ballista Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Cane]</linked><span><span><linked>Ballista Cane</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 3,
-          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Rod]</linked><span><span><linked>Explosive Trap Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Rod]</linked><span><span><linked>Explosive Trap Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Rod]</linked><span><span><linked>Ballista Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Rod]</linked><span><span><linked>Ballista Rod</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       },
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Staff]</linked><span><span><linked>Explosive Trap Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Explosive Trap Staff]</linked><span><span><linked>Explosive Trap Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Staff]</linked><span><span><linked>Ballista Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Ballista Staff]</linked><span><span><linked>Ballista Staff</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

@@ -1,0 +1,30 @@
+{
+  "type": "accessories",
+  "title": "Chromatic Cloak",
+  "summaries": [
+    "The <b>Chromatic Cloak</b> is a <linked>Hardmode</linked> <linked>accessory</linked> which allows a more controlled <linked>Shimmering</linked>. When equipped, touching Shimmer does not immediately inflict the Shimmering debuff, and the player can instead start Shimmering at any time by holding the <span class=\"key\"><linked>▼ Down</linked></span> key. However, after Shimmering starts, it cannot be interrupted anymore, not even by re-equipping the Chromatic Cloak."
+  ],
+  "statistics": {
+    "Tooltip": "<i><span class=\"gameText\">Immunity to Shimmer Phasing<br>Hold Down to Phase while submerged in Shimmer</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 5]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Chromatic Cloak]</linked><span><span><linked>Chromatic Cloak</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Star Cloak]</linked><span><span><linked>Star Cloak</linked></span></span></span></li></ul>"
+        },
+        "station": {
+          "rowspan": 1,
+          "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        }
+      }
+    ]
+  }
+}

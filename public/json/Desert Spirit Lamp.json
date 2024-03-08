@@ -2,7 +2,7 @@
   "type": "furnitures",
   "title": "Desert Spirit Lamp",
   "summaries": [
-    "The <b>Desert Spirit Lamp</b> is a decorative <linked>furniture</linked> item and <linked>crafting material</linked>. It must be placed on a <linked>platform</linked> or other <linked>flat-surface item</linked>. It has a <span class=\"chance\"><s>2.5*</s>1/40 (2.5%)</span> chance of being dropped from <linked>Desert Spirits</linked>, which can be encountered in the <linked>Corrupted</linked> or <linked>Crimson</linked> <linked>Underground Desert</linked>. However, the Desert Spirit will only drop one of its special drops at a time (i.e. it may drop either the Desert Spirit Lamp or the <linked>Djinn's Curse</linked>, but never both). It will first attempt to drop the Desert Spirit Lamp, and if it fails to do so, it will attempt to drop the Djinn's Curse."
+    "The <b>Desert Spirit Lamp</b> is a decorative <linked>furniture</linked> item and <linked>crafting material</linked>. It must be placed on a <linked>platform</linked> or other <linked>flat-surface item</linked>. It has a <span class=\"chance\" data-sort-value=\"2.5\">1/40 (2.5%)</span> chance of being dropped from <linked>Desert Spirits</linked>, which can be encountered in the <linked>Corrupted</linked> or <linked>Crimson</linked> <linked>Underground Desert</linked>."
   ],
   "statistics": {
     "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(2 wide × 1 high)</span>",
@@ -16,10 +16,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Spirit Flame]</linked><span><span><linked>Spirit Flame</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Spirit Flame]</linked><span><span><linked>Spirit Flame</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Desert Spirit Lamp]</linked><span><span><linked>Desert Spirit Lamp</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Soul of Night]</linked><span><span><linked>Soul of Night</linked></span></span></span><span class=\"am\">12</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Desert Spirit Lamp]</linked><span><span><linked>Desert Spirit Lamp</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li><li><span class=\"i\"><linked>[img:Forbidden Fragment]</linked><span><span><linked>Forbidden Fragment</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">2</span></li><li><span class=\"i\"><linked>[img:Soul of Night]</linked><span><span><linked>Soul of Night</linked></span></span></span><span class=\"am\">12</span></li></ul>"
         },
         "station": {
           "rowspan": 1,

@@ -2,7 +2,8 @@
   "type": "accessories",
   "title": "Stalker's Quiver",
   "summaries": [
-    "The <b>Stalker's Quiver</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that combines the effects of the <linked>Magic Quiver</linked> and the <linked>aggro</linked>-reducing effect of the <linked>Putrid Scent</linked>. Like other accessories crafted with the Putrid Scent, it does <i>not</i> inherit the Putrid Scent's bonus to damage and critical strike chance. It could be seen as the corruption-equivalent to the <linked>Berserker's Glove</linked>."
+    "The <b>Stalker's Quiver</b> is a <linked>Hardmode</linked> <linked>accessory</linked> that combines the effects of the <linked>Magic Quiver</linked> and the <linked>aggro</linked>-reducing effect of the <linked>Putrid Scent</linked>. Unlike the general <linked>ranged damage</linked> bonuses, it only boosts the damage of the weapons and does not affect damage of the <linked>ammo</linked>.",
+    "Like other accessories crafted with the Putrid Scent, it does <i>not</i> inherit the Putrid Scent's bonus to damage and critical strike chance. It could be seen as the corruption-equivalent to the <linked>Berserker's Glove</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Increases arrow damage by 10% and greatly increases arrow speed<br>20% chance not to consume arrows<br>Enemies are less likely to target you</span></i>",
@@ -15,10 +16,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Stalker's Quiver]</linked><span><span><linked>Stalker's Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Stalker's Quiver]</linked><span><span><linked>Stalker's Quiver</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Magic Quiver]</linked><span><span><linked>Magic Quiver</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Magic Quiver]</linked><span><span><linked>Magic Quiver</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Putrid Scent]</linked><span><span><linked>Putrid Scent</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 1,

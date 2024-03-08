@@ -2,10 +2,10 @@
   "type": "accessories",
   "title": "Paladin's Shield",
   "summaries": [
-    "<b>Paladin's Shield</b> is a <linked>Hardmode</linked> post-<linked>Plantera</linked> <linked>Shield</linked> <linked>accessory</linked> that functions primarily in <linked>multiplayer</linked>. While equipped, and when the wearer's health is above 25%, it grants all nearby players on their <linked>team</linked> the <b>Paladin's Shield</b> <linked>buff</linked>: this buff causes 25% of any damage inflicted on them to transfer to the wearer of the shield instead.",
+    "The <b>Paladin's Shield</b> is a <linked>Hardmode</linked> post-<linked>Plantera</linked> <linked>Shield</linked> <linked>accessory</linked> that functions primarily in <linked>multiplayer</linked>. While equipped, and when the wearer's health is above 25%, it grants all nearby players on their <linked>team</linked> the <b>Paladin's Shield</b> <linked>buff</linked>: this buff causes 25% of any damage inflicted on them to transfer to the wearer of the shield instead.",
     "In both singleplayer and <linked>multiplayer</linked>, Paladin's Shield also provides the wearer immunity to <linked>knockback</linked> (like the <linked>Cobalt Shield</linked> and its variants), and provides an additional 6 <linked>defense</linked>.",
     "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> The shield can be combined with the <linked>Frozen Turtle Shell</linked> or the <linked>Flesh Knuckles</linked> to craft the <linked>Frozen Shield</linked> or the <linked>Hero Shield</linked>, respectively.",
-    "Paladin's Shield is dropped by <linked>Paladins</linked> with a chance of <span class=\"chance\"><s>9.33*</s>7/75 (9.33%)</span> / <linked>13.56*763/5625 (13.56%)</linked>."
+    "The Paladin's Shield has a <span class=\"chance\" data-sort-value=\"9.33\">7/75 (9.33%)</span> / <linked>19/100 (19%)</linked> chance of being dropped by <linked>Paladins</linked>."
   ],
   "statistics": {
     "Defense": "6",
@@ -19,7 +19,7 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Frozen Shield]</linked><span><span><linked>Frozen Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Frozen Shield]</linked><span><span><linked>Frozen Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Frozen Turtle Shell]</linked><span><span><linked>Frozen Turtle Shell</linked></span></span></span></li></ul>"
@@ -32,10 +32,10 @@
       {
         "result": {
           "rowspan": 1,
-          "value": "<span class=\"i multi-line\"><linked>[img:Hero Shield]</linked><span><span><linked>Hero Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span>"
+          "value": "<span class=\"i multi-line\"><linked>[img:Hero Shield]</linked><span><span><linked>Hero Shield</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
         },
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><s>(Desktop, Console and Mobile versions)</s></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Paladin's Shield]</linked><span><span><linked>Paladin's Shield</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Flesh Knuckles]</linked><span><span><linked>Flesh Knuckles</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
         }
       }
     ]

@@ -2,7 +2,7 @@
   "type": "enemies",
   "title": "Salamander",
   "summaries": [
-    "<b>Salamander</b> is an <linked>enemy</linked> found in the <linked>Cavern</linked> <linked>layer</linked>. It has nine color variants that all share identical stats and behavior. Salamander can spit projectiles that inflict the <linked>Poisoned</linked> <linked>debuff</linked>.",
+    "The <b>Salamander</b> is an <linked>enemy</linked> found in the <linked>Cavern</linked> <linked>layer</linked>. It has nine color variants that all share identical stats and behavior. When a player is within their line of sight, Salamanders stay in place and fire green spit projectiles that inflict the <linked>Poisoned</linked> <linked>debuff</linked>.",
     "Salamanders are unique in that their ability to spawn is connected to two other enemies: the <linked>Crawdad</linked> and the <linked>Giant Shelly</linked>. Of these three enemies, a world will choose two types that it can spawn, leaving the third inaccessible. Salamanders will never spawn in a world that features both Crawdads and Giant Shellies together. This is taken into account by the <linked>Bestiary</linked> progression logic (the missing enemy will register as unlocked when the other two exclusive creatures are unlocked) and the <linked>banner</linked> acquisition (any two of the trio's banners can be used to craft the banner of the missing member of the trio)."
   ],
   "statistics": {

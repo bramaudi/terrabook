@@ -16,7 +16,7 @@
       {
         "result": {
           "rowspan": 2,
-          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Wood]<span><span title=\"Wood\">Wood</span><div class=\"id\">Internal <linked>Item ID</linked>: 9</div></span></span>"
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i -w multi-line\">[img:Wood]<span><span title=\"Wood\">Wood</span><span class=\"id\">Internal <linked>Item ID</linked>: 9</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood Shelf]</linked><span><span><linked>Wood Shelf</linked></span></span></span><span class=\"am\">2</span></li></ul>"
@@ -34,7 +34,7 @@
       {
         "result": {
           "rowspan": 15,
-          "value": "<span class=\"i -w multi-line\">[img:Wood]<span><span title=\"Wood\">Wood</span><div class=\"id\">Internal <linked>Item ID</linked>: 9</div></span></span>"
+          "value": "<span class=\"i -w multi-line\">[img:Wood]<span><span title=\"Wood\">Wood</span><span class=\"id\">Internal <linked>Item ID</linked>: 9</span></span></span>"
         },
         "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Wood Platform]</linked><span><span><linked>Wood Platform</linked></span></span></span><span class=\"am\">2</span></li></ul>"
@@ -65,11 +65,16 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
         },
         "station": {
           "rowspan": 9,
           "value": "<span class=\"i -w\"><linked>[img:Shimmer]</linked><span><span><linked>Shimmer Transmutation</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Spooky Wood]</linked><span><span><linked>Spooky Wood</linked></span></span></span></li></ul>"
         }
       },
       {
@@ -99,11 +104,6 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Palm Wood]</linked><span><span><linked>Palm Wood</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
-        }
-      },
-      {
-        "ingredients": {
           "value": "<ul><li><span class=\"i\"><linked>[img:Rich Mahogany]</linked><span><span><linked>Rich Mahogany</linked></span></span></span></li></ul>"
         }
       },
@@ -114,7 +114,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Fence]</linked><span><span><linked>Wooden Fence</linked></span></span></span><span class=\"am\">4</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wood Wall]</linked><span><span><linked>Wood Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         },
         "station": {
           "rowspan": 2,
@@ -123,7 +123,7 @@
       },
       {
         "ingredients": {
-          "value": "<ul><li><span class=\"i\"><linked>[img:Wood Wall]</linked><span><span><linked>Wood Wall</linked></span></span></span><span class=\"am\">4</span></li></ul>"
+          "value": "<ul><li><span class=\"i\"><linked>[img:Wooden Fence]</linked><span><span><linked>Wooden Fence</linked></span></span></span><span class=\"am\">4</span></li></ul>"
         }
       }
     ],
