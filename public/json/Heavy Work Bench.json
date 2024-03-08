@@ -1,9 +1,17 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Heavy Work Bench",
   "summaries": [
     "The <b>Heavy Work Bench</b> is a <linked>crafting station</linked> used to make various building materials, decorative items and <linked>mechanisms</linked>. It is not an upgrade for the standard <linked>Work Bench</linked>, nor does it qualify as a flat surface item for <linked>NPC</linked> <linked>housing</linked>."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used for advanced crafting</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {

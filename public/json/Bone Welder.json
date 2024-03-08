@@ -1,9 +1,18 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Bone Welder",
   "summaries": [
     "The <b>Bone Welder</b> is a <linked>crafting station</linked> used to craft <linked>Bone furniture</linked> out of <linked>Bones</linked>, and can also craft <linked>Dungeon Shelves</linked> when combined with <span class=\"eil\"><span><linked>Ecto Mist</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>. The Bone Welder can be found found in the <linked>Dungeon</linked>, either inside <linked>Locked Gold Chests</linked> (<span class=\"chance\" data-sort-value=\"12.5\">1/8 (12.5%)</span> chance for each chest) or placed on the ground. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it is also sold by the <linked>Steampunker</linked> when in a <linked>Graveyard</linked>."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used for special crafting</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
       {

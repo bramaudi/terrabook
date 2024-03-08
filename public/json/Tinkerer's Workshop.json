@@ -1,5 +1,5 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Tinkerer's Workshop",
   "summaries": [
     "The <b>Tinkerer's Workshop</b> is a <linked>crafting station</linked> that is used primarily to combine multiple <linked>accessories</linked> into single items that usually provide the abilities of all. For instance, it can combine the <linked>Rocket Boots</linked> and <linked>Hermes Boots</linked> into a single item (the <linked>Spectre Boots</linked>) that provides the same rocket-jumping and accelerated movement as the individual items did, without occupying two accessory slots. The Tinkerer's Workshop is purchased from the <linked>Goblin Tinkerer</linked> for <span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>.",
@@ -7,6 +7,15 @@
     "<span class=\"eico i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span> Items crafted at the Tinkerer's Workshop will be assigned <i>no</i> modifier.",
     "The Tinkerer's Workshop is also used to craft most of the unrecordable <linked>Music Boxes</linked>, and on <linked>[img:Old-gen console version]</linked><linked> Old-gen console version</linked> and <linked>Nintendo 3DS</linked><linked>[img:Nintendo 3DS version]</linked><linked> version</linked>, <linked>Boulders</linked>."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Allows the combining of some accessories</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<i> GC</i></span></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
       {

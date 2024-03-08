@@ -1,10 +1,18 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Meat Grinder",
   "summaries": [
     "The <b>Meat Grinder</b> is a <linked>Hardmode</linked> <linked>crafting station</linked> used to craft <linked>Flesh Blocks</linked> and <linked>Lesion Blocks</linked>. It has a <span class=\"chance\" data-sort-value=\"0.5\">1/200 (0.5%)</span> chance of being dropped by several <linked>Crimson</linked> and <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> <linked>Corruption</linked> enemies.",
     "Flesh and Lesion Blocks can be used as building materials, and crafted into flesh-/lesion-themed <linked>walls</linked> and <linked>furniture</linked> via the <linked>Decay Chamber</linked>/<linked>Flesh Cloning Vat</linked>. As a result, the Meat Grinder is of little use without them."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used to craft objects</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
       {

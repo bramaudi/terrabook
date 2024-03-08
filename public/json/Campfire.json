@@ -1,11 +1,18 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Campfires",
   "summaries": [
     "The <b>Campfire</b> is a placed <linked>furniture</linked> item that emits light and provides the <b>Cozy Fire</b> <linked>health regeneration</linked> <linked>buff</linked> to players in its vicinity. A Campfire can be turned off by pressing the <span class=\"key\"><linked>⚷ Open / Activate</linked></span> on the object or by sending it a <linked>wire</linked> signal, and can be toggled back on again the same way. It is also used to cook a <linked>Marshmallow on a Stick</linked>.",
     "The Cozy Fire buff increases nearby players' current healing rate by 10%, and adds an additional constant 0.5 health-per-second. The buff is applied to all players who are within a rectangular area of 170×125 (<linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked>) / 100×84 (<linked>[img:Old-gen console version]</linked> <linked>[img:Nintendo 3DS version]</linked>) tiles centered on the Campfire, similar to the <linked>Heart Lantern</linked>. The regeneration buffs from both items will stack together to provide a greater regeneration boost, and being within range of these items can also help to counteract the effects of damaging <linked>debuffs</linked> (such as <linked>Poisoned</linked> and <linked>On Fire!</linked>).",
     "The <linked>Fireplace</linked> operates similarly and provides the same Cozy Fire buff, but cannot cook a Marshmallow on a Stick."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Life regen is increased when near a campfire</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {
