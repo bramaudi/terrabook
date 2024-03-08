@@ -1,0 +1,54 @@
+{
+  "type": "crafting_stations",
+  "title": "Lava",
+  "summaries": [
+    "<b>Lava</b> is a glowing red/orange <linked>liquid</linked> found deep in the <linked>Cavern</linked> layer and in <linked>The Underworld</linked>, appearing instead of <linked>water</linked> at <linked>depths</linked> below approximately 950 feet (475 tiles) in a <linked>small world</linked>, 1,450 feet (725 tiles) in a medium world, or 1,950 feet (975 tiles) in a large world (on average). Tiny pools can frequently be found on the outskirts of the <span class=\"eil\"><span><linked>Underground Desert</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> as well, even as high as 200 feet below the surface.",
+    "Contact with lava deals <linked>damage</linked> and inflicts the <linked>On Fire!</linked> <linked>debuff</linked>. Players take 80 damage and the debuff lasts for 7 / <linked>14</linked> / <linked>17.5</linked> seconds, whereas <linked>enemies</linked>, <linked>NPCs</linked>, and <linked>critters</linked> take 50 damage and the debuff lasts for 7 seconds. <linked>Various items</linked> make the player immune to this damage, such as the <linked>Lava Charm</linked> and its derivatives. Lava also slows movement the way water does.",
+    "Lava flows downwards and horizontally, settling and taking the shape of any block formations below and beside it, the way water does; however, lava is more viscous than water, flowing more slowly. It also emits a medium amount of flickering light. Lava can be moved by the player via a <linked>bucket</linked> or <linked>pump</linked>. After flowing 50 tiles in a direction, lava will begin to evaporate, causing the source to be lost. Lava will destroy most furniture and most <linked>platforms</linked>.",
+    "Most dropped items of <span class=\"rarity\"><s class=\"sortkey\" style=\"display:none;\">00*</s><linked>[img:Rarity level: 0]</linked></span> <linked>rarity</linked> (which includes all <linked>coins</linked>) will be destroyed when submerged in lava past their vertical midpoint. Blocks cannot be placed directly within lava, but falling blocks like <linked>silt</linked> and <linked>sand</linked> can fall into it, resulting in placement at its bottom.",
+    "In addition to naturally generated lava, it may be produced a few other ways. <linked>Hellstone</linked> produces half a block's volume of lava when mined in the Underworld (a full block's volume in <span class=\"eil\"><span><linked>Expert Mode</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>). <linked>Lava Slimes</linked> create a small amount of lava when slain in Expert Mode (except in <span class=\"eil\"><span><linked>Don't dig up</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> and <span class=\"eil\"><span><linked>Get fixed boi</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> <linked>secret world seeds</linked>). <linked>Hellbats</linked> and <linked>Lava Bats</linked> create a small amount of lava when slain in a <span class=\"eil\"><span><linked>Get fixed boi</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span> <linked>secret world seed</linked>.",
+    "Unlike with water, lava's color does not depend on the biome the player is in."
+  ],
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Lava Bomb]</linked><span><span><linked>Lava Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Bomb]</linked><span><span><linked>Dry Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Lava Rocket]</linked><span><span><linked>Lava Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Rocket]</linked><span><span><linked>Dry Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "<span class=\"i\"><linked>[img:Lava]</linked><span><span><linked>Lava</linked></span></span></span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Lavafall Block]</linked><span><span><linked>Lavafall Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Lava Dropper]</linked><span><span><linked>Magic Lava Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

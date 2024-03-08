@@ -1,18 +1,10 @@
 {
-  "type": "furnitures",
+  "type": "crafting_stations",
   "title": "Alchemy Table",
   "summaries": [
     "The <b>Alchemy Table</b> is a post-<linked>Skeletron</linked> <linked>crafting station</linked> used to craft <linked>potions</linked>. It works almost identically to <linked>Placed Bottles</linked> when crafting potions, except that it has a <span class=\"chance\" data-sort-value=\"33.33\">1/3 (33.33%)</span> chance of not consuming ingredients. It can be found randomly in the <linked>Dungeon</linked> and can also be obtained by <linked>fishing</linked> in the Dungeon. They also count as a <linked>flat surface item</linked>, which is one of the required elements in order to make a <linked>house</linked>.",
     "When a potion is crafted with the Alchemy Table, there is a <span class=\"chance\" data-sort-value=\"33.33\">1/3 (33.33%)</span> chance for each ingredient not to be consumed. There is a separate probability check for each of the ingredients used in making the potion, including each of those in a stack. This is effective for gaining more value out of alchemy ingredients, especially of those that are hard to obtain."
   ],
-  "statistics": {
-    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
-    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
-    "Tooltip": "<i><span class=\"gameText\">33% chance to not consume potion crafting ingredients</span></i>",
-    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 1]</linked></span>",
-    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
-    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
-  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {

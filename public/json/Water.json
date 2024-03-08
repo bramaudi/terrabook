@@ -1,0 +1,115 @@
+{
+  "type": "crafting_stations",
+  "title": "Water",
+  "summaries": [
+    "<b>Water</b> is an abundant <linked>liquid</linked>. It is found in nearly any <linked>biome</linked> in pools of various sizes, and forms the large <linked>Oceans</linked> on either side of a map. It is less abundant in <linked>Deserts</linked>, and absent in <linked>The Underworld</linked> (where it evaporates if made to flow there). Water is only found above a certain <linked>depth</linked>, beneath which <linked>lava</linked> pools tend to appear instead. It flows more freely than lava and <linked>honey</linked>. Each biome has its own unique water color, which can be changed using <linked>water fountains</linked>.",
+    "<linked>Candles</linked>, most <linked>Torches</linked>, and <linked>Flaming Arrows</linked> do not emit light underwater, but <linked>Glowsticks</linked> and some other <linked>light sources</linked> do. Most Torches are knocked free when water touches them, with the exception of Cursed, Ichor, and Coral Torches.",
+    "Upon submersion, a player's <linked>breath meter</linked> will display, indicating their remaining breathing time before <linked>drowning</linked> damage will be incurred. The point where a player is considered submerged, for purposes of the breath meter, is one pixel above the eyes.",
+    "If the player's feet are in at least one tile of water, movement is hindered noticeably. Certain <linked>accessories</linked> or <linked>potions</linked> can boost player movement through liquids, enable swimming, or even allow <linked>walking along its surface</linked>. Players cannot swim by default. <linked>Projectiles</linked> move slower through water than air.",
+    "In <span class=\"eil\"><span><linked>Expert Mode</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span>, entering water in a <linked>Snow biome</linked> will give the player the <linked>Chilled</linked> debuff, which slows their movement speed.",
+    "A body of water will also break the player's fall upon impact and negate any <linked>fall damage</linked>. If the player has the <linked>Water Walking</linked> buff or one of the accessories that allow walking on water, this will also negate fall damage by landing on the water's surface."
+  ],
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Bottled Water]</linked><span><span><linked>Bottled Water</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Coralstone Block]</linked><span><span><linked>Coralstone Block</linked></span></span></span><span class=\"am\">5</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">5</span></li><li><span class=\"i\"><linked>[img:Coral]</linked><span><span><linked>Coral</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Mud Block]</linked><span><span><linked>Mud Block</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dirt Block]</linked><span><span><linked>Dirt Block</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Reef Block]</linked><span><span><linked>Reef Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">10</span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Stone Block]</linked><span><span><linked>Stone Block</linked></span></span></span><span class=\"am\">10</span></li><li><span class=\"i\"><linked>[img:Coral]</linked><span><span><linked>Coral</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Seashell]</linked><span><span><linked>Seashell</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Wet Bomb]</linked><span><span><linked>Wet Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Bomb]</linked><span><span><linked>Dry Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Wet Rocket]</linked><span><span><linked>Wet Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Rocket]</linked><span><span><linked>Dry Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "<span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><i><b>or</b></i><span class=\"i\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Water Dropper]</linked><span><span><linked>Magic Water Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Water Candle]</linked><span><span><linked>Water Candle</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Candle]</linked><span><span><linked>Candle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Candle]</linked><span><span><linked>Platinum Candle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Waterfall Block]</linked><span><span><linked>Waterfall Block</linked></span><span class=\"eico s i1 i2 i3 i4\" title=\"Desktop, Console, Old-gen console and Mobile versions\"><b></b><i></i><span>(Desktop, Console, Old-gen console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "<span class=\"i\"><linked>[img:Crystal Ball]</linked><span><span><linked>Crystal Ball</linked></span></span></span> <b>and</b> <span class=\"i\"><linked>[img:Water]</linked><span><span><linked>Water</linked></span></span></span><i><b>or</b></i><span class=\"i\"><linked>[img:Sink]</linked><span><span><linked>Sink</linked></span><span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Desktop version]</linked> <linked>[img:Console version]</linked> <linked>[img:Mobile version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Rain Cloud]</linked><span><span><linked>Rain Cloud</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Cloud]</linked><span><span><linked>Cloud</linked></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

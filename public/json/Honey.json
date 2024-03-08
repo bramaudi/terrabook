@@ -1,0 +1,82 @@
+{
+  "type": "crafting_stations",
+  "title": "Honey",
+  "summaries": [
+    "<b>Honey</b> is a <linked>liquid</linked> found at the bottom of <linked>Bee Hives</linked>, as well as in small patches along with <linked>Honey Blocks</linked> in the <linked>Underground Jungle</linked> near Bee Hives. It is also sometimes created when destroying <linked>Hive</linked> blocks. Honey flows even more slowly than <linked>lava</linked>, and it also greatly slows the movement speed of most entities and projectiles (with the exception of the <linked>Old One's Army</linked> enemies and Bosses). Like other liquids, honey can be transported with <linked>buckets</linked> or <linked>pumps</linked>. Like <linked>water</linked>, the player can <linked>drown</linked> in honey, and any item which allows breathing, walking on, or swimming in water will do likewise for honey.",
+    "Honey has the unique effect of granting players the <linked>Honey</linked> life regeneration <linked>buff</linked>, which lasts for as long as they remain standing or swimming in the honey, plus 30 seconds after leaving. The player does not need to be submerged, but the honey pool must be at least two tiles wide, and at least 5/8 of a tile deep. The buff increases the rate at which player <linked>health regenerates</linked> by 1 HP/s per second and increases natural heal rate acceleration by a factor of three. In addition, it reduces the damage from life-losing debuffs like <linked>Acid Venom</linked> by 2 HP per second."
+  ],
+  "crafts": {
+    "<span class=\"mw-headline\" id=\"Used_to_craft\">Used to craft</span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Bottled Honey]</linked><span><span><linked>Bottled Honey</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Bottle]</linked><span><span><linked>Bottle</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 2,
+          "value": "<span class=\"i multi-line\"><linked>[img:Flymeal]</linked><span><span><linked>Flymeal</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Platinum Broadsword]</linked><span><span><linked>Platinum Broadsword</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stinkbug]</linked><span><span><linked>Stinkbug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
+        }
+      },
+      {
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Gold Broadsword]</linked><span><span><linked>Gold Broadsword</linked></span></span></span></li><li><span class=\"i\"><linked>[img:Stinkbug]</linked><span><span><linked>Stinkbug</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span><span class=\"am\">5</span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<div class=\"version-note note-text small\"><linked>[img:Nintendo 3DS version]</linked> only:</div><span class=\"i multi-line\"><linked>[img:Honey Block]</linked><span><span><linked>Honey Block</linked></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Crispy Honey Block]</linked><span><span><linked>Crispy Honey Block</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Honey Bomb]</linked><span><span><linked>Honey Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Bomb]</linked><span><span><linked>Dry Bomb</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Honey Rocket]</linked><span><span><linked>Honey Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Dry Rocket]</linked><span><span><linked>Dry Rocket</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      }
+    ],
+    "<span class=\"i\"><linked>[img:Honey]</linked><span><span><linked>Honey</linked></span></span></span>": [
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Honeyfall Block]</linked><span><span><linked>Honeyfall Block</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Glass]</linked><span><span><linked>Glass</linked></span></span></span></li></ul>"
+        }
+      },
+      {
+        "result": {
+          "rowspan": 1,
+          "value": "<span class=\"i multi-line\"><linked>[img:Magic Honey Dropper]</linked><span><span><linked>Magic Honey Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span>"
+        },
+        "ingredients": {
+          "value": "<ul><li><span class=\"i\"><linked>[img:Empty Dropper]</linked><span><span><linked>Empty Dropper</linked></span><span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span></span></span></li></ul>"
+        }
+      }
+    ]
+  }
+}

@@ -29,7 +29,7 @@ export default function() {
 			<For each={MENUS}>{({ slug, icon }) => (
 				<Link href={`/wiki/${slug}`} class="block box-wiki m-2 p-2">
 					<img class="w-5 mr-1 inline" src={`/images/${icon}.webp`} />
-					{slug.charAt(0).toUpperCase() + slug.slice(1)}
+					{slug.split('_').map(w => `${w.charAt(0).toUpperCase()}${w.slice(1)}`).join(' ')}
 				</Link>
 			)}</For>
 			<Link href="#" class="block box-wiki m-2 p-2"
