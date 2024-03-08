@@ -2,7 +2,8 @@
   "type": "npcs",
   "title": "Golfer",
   "summaries": [
-    "The <b>Golfer</b> is an <linked>NPC</linked> vendor that sells <linked>golfing</linked>-related items. More items will unlock as the player plays more golf, including <linked>clubs</linked>, <linked>trophies</linked>, and <linked>paintings</linked>. He will initially spawn in the <linked>Underground Desert</linked>, being stationary, and talking to him in this state will \"free\" him. If the stationary Golfer is killed, he will still be able to respawn afterwards; if the Golfer NPC is killed, he will move in again after some time as long as there are vacant <linked>houses</linked>.",
+    "The <b>Golfer</b> is an <linked>NPC</linked> vendor who sells <linked>golfing</linked>-related items. More items will be unlocked as the player's <linked>golf score</linked> increases, including <linked>clubs</linked>, <linked>trophies</linked>, and <linked>paintings</linked>. He will move in once the following criteria are met:",
+    "<ul><li>There is an available vacant <linked>house</linked>.</li><li>Rescuing him as the <b>Golfer Rescue</b>, who can be rarely encountered in the <linked>Underground Desert</linked>. Interacting with him in this state with <span class=\"key\"><linked>⚷ Open / Activate</linked></span> will free him. If the stationary Golfer is killed, he will still be able to respawn afterwards; if the Golfer NPC is killed, he will move in again after some time as long as there are vacant <linked>houses</linked>.</li></ul>",
     "The Golfer will attack nearby <linked>enemies</linked> with his golf balls to defend himself.",
     "He is one of the few entities that can be detected by the <linked>Lifeform Analyzer</linked> or its upgrades."
   ],

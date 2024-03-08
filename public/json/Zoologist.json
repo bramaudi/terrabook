@@ -2,10 +2,12 @@
   "type": "npcs",
   "title": "Zoologist",
   "summaries": [
-    "The <b>Zoologist</b> is an <linked>NPC</linked> vendor that sells animal-related items and vanity. She will move in when the following criteria have been met:",
-    "<ul><li>There is an empty <linked>house</linked>.</li><li>The <linked>Bestiary</linked> has been filled to at least 10% (54 entries).</li></ul>",
+    "The <b>Zoologist</b> is an <linked>NPC</linked> vendor who sells animal-related items and vanity. She will move in when the following criteria have been met:",
+    "<ul><li>There is an available vacant <linked>house</linked>.</li><li>The <linked>Bestiary</linked> has been filled to at least 10% (54 entries).</li></ul>",
     "She sells a large variety of <linked>vanity items</linked>, in addition to many <linked>mounts</linked> and <linked>pets</linked>, critter-themed <linked>accessories</linked>, and the <linked>Universal Pylon</linked>, depending on the Bestiary's completion percentage.",
-    "The Zoologist will attack nearby enemies with her claws to defend herself."
+    "The Zoologist will transform into a werefox during <linked>full moon</linked> or <linked>Blood Moon</linked>. Apart from having different sprite and quotes, there is no difference between her normal and transformed state. Upon dawn she will revert back to normal.",
+    "<ul><li>When transformed, the Zoologist's minimap icon does not change.</li></ul>",
+    "The Zoologist will attack nearby enemies with her claws to defend herself. The color of the claw attack turns from green to red when she is transformed."
   ],
   "statistics": {
     "Environment": "<div class=\"tags\"><span class=\"tag\"><linked> Valid house </linked></span></div>",
