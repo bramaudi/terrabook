@@ -1,9 +1,17 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Loom",
   "summaries": [
     "The <b>Loom</b> is a <linked>crafting station</linked> used to craft <linked>Silk</linked>, as well as some items that require Silk as an ingredient. It can sometimes be found in <linked>Underground Cabins</linked>."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used for crafting cloth</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {

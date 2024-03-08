@@ -1,5 +1,5 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Chairs",
   "summaries": [
     "The <b>Chair</b> is a type of <linked>furniture</linked> item that can be placed on the ground. They count as a comfort item, which is one of the required elements in order to make a <linked>house</linked> suitable for an <linked>NPC</linked>. In combination with a <linked>Work Bench</linked> or a <linked>Table</linked>, they also form minor crafting stations.",
@@ -7,6 +7,13 @@
     "All chairs are 1 tile wide, 2 tiles high, and must be placed on top of a solid <linked>block</linked> or <linked>platform</linked>.",
     "Also see <span class=\"i\"><linked>[img:Throne]</linked><span><span><linked>Throne</linked></span></span></span>, which also fulfills a house's comfort item requirement. Including the Throne and Bar Stool, there are <span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> 47 / <span class=\"eico i3\" title=\"Old-gen console version\"><b></b><i></i><span>(Old-gen console version)</span></span> 28 / <span class=\"eico i5\" title=\"3DS version\"><b></b><i></i><span>(3DS version)</span></span> 25 varieties of chairs."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(1 wide × 2 high)</span>",
+    "Use time": "10 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"30 Copper Coins\" data-sort-value=\"30\"><span class=\"cc\">30 <i>CC</i></span></span><br><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span> (Golden Chair)",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {

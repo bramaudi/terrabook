@@ -1,10 +1,19 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Furnace",
   "summaries": [
     "The <b>Furnace</b> is a <linked>crafting station</linked> used mainly to smelt <linked>ores</linked> into <linked>bars</linked>, to create ore bricks, and to craft <linked>Glass</linked> and certain glass items from <linked>Sand</linked>, but can also be used to craft other items e.g. weapons. It is also a <linked>light source</linked>. The Furnace smelts all Pre-Hardmode ores besides <linked>Hellstone</linked>, which must be smelted in a <linked>Hellforge</linked>.",
     "<span class=\"eico i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span> The Furnace is also sold by the <linked>Merchant</linked> when he is in the <linked>Jungle</linked> biome."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Used for smelting ore</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Buy": "<span class=\"coin\" title=\"3 Silver Coins\" data-sort-value=\"300\"><span class=\"sc\">3<i> SC</i></span></span> <span class=\"eico s i1 i2 i4\" title=\"Desktop, Console and Mobile versions\"><b></b><i></i><span>(Desktop, Console and Mobile versions)</span></span>",
+    "Sell": "<span class=\"coin\" title=\"60 Copper Coins\" data-sort-value=\"60\"><span class=\"cc\">60 <i>CC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Recipes\">Recipes</span>": [
       {

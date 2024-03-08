@@ -32,12 +32,31 @@ const summaries = (() => {
     return data
 })()
 
+
+const sections = (() => {
+	const data = []
+    if ($url.match('Shimmer_Transmutation')?.length) {
+        let walk = document.querySelector('#toc').nextElementSibling
+        while (walk.children[0]?.id !== 'Notes') {
+            clearSpan(walk)
+            parseImg(walk)
+            removeTags(walk, ['sup', 'br'])
+            parseLinks(walk)
+            removeSoundTag(walk)
+            normalizeText(walk)
+            data.push(walk.outerHTML)
+            walk = walk.nextElementSibling
+        }
+    }
+    return data
+})()
+
 const crafts = parseCraftTable()
 
 const json_result = {
     type: 'crafting_stations',
 	title,
-    summaries,
+    summaries: [...summaries, ...sections],
     crafts,
 }
 print(JSON.parse(JSON.stringify(json_result)))

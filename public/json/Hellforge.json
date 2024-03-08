@@ -1,10 +1,17 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Hellforge",
   "summaries": [
     "The <b>Hellforge</b> is a <linked>crafting station</linked> that incorporates the same functions as a regular <linked>Furnace</linked>, additionally being able to smelt <linked>Hellstone</linked> into <linked>Hellstone Bars</linked>. It is also used to craft the essential <linked>Adamantite</linked>/<linked>Titanium Forge</linked> in <linked>Hardmode</linked>.",
     "Hellforges cannot be crafted, and are found in <linked>Ruined Houses</linked> in <linked>the Underworld</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, Hellforges can only be collected with a <linked>Deathbringer</linked> or <linked>Nightmare Pickaxe</linked> or better (65% pickaxe power). Once placed at higher depths, they can be removed with any pickaxe."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 2 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"6 Silver Coins\" data-sort-value=\"600\"><span class=\"sc\">6<i> SC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {

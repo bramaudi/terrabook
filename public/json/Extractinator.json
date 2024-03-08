@@ -1,5 +1,5 @@
 {
-  "type": "crafting_stations",
+  "type": "furnitures",
   "title": "Extractinator",
   "summaries": [
     "The <b>Extractinator</b> or <b>Silt Extractinator</b> is an item that converts <linked>Silt</linked>, <linked>Slush</linked>, and <linked>Desert Fossils</linked> into more valuable items such as <linked>ores</linked>, <linked>coins</linked>, and <linked>gems</linked>. On the <linked>[img:Desktop version]</linked><linked> Desktop version</linked>, <linked>[img:Console version]</linked><linked> Console version</linked>, and <linked>[img:Mobile version]</linked><linked> Mobile version</linked>, it can also convert <linked>Glowing Mosses</linked> into all kinds of regular <linked>mosses</linked>, and fishing trash into low level bait.",
@@ -7,6 +7,14 @@
     "To use the Extractinator, it first needs to be <linked>placed</linked> in the world. Afterward, suitable blocks need to be consumed (with the <span class=\"key\"><linked>⚒ Use / Attack</linked></span> key) directly on the Extractinator within its 3×3 frame. Holding the <span class=\"key\"><linked>Auto Select</linked></span> key and clicking on the Extractinator will automatically insert extractable items from the player's inventory without having to pick them up manually.",
     "Feeding blocks to the Extractinator is the only way to obtain <linked>Amber Mosquitoes</linked>, and, along with opening <linked>crates</linked>, the only reliable way to obtain a world's alternative <linked>pre-Hardmode</linked> ores. This is a great way to obtain ore and coins in the early game."
   ],
+  "statistics": {
+    "Placeable": "<span class=\"t-yes\">✔️</span> <span class=\"small-bold\">(3 wide × 3 high)</span>",
+    "Use time": "15 <span class=\"usetime\">(Very fast)</span>",
+    "Tooltip": "<i><span class=\"gameText\">Placing silt/slush/fossil piles into the extractinator turns them into something more useful</span></i>",
+    "Rarity": "<span class=\"rarity\"><linked>[img:Rarity level: 0]</linked></span>",
+    "Sell": "<span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<i> GC</i></span></span>",
+    "Research": "<abbr class=\"mode-exclusive journey\" title=\"Journey Mode\">1 required</abbr>"
+  },
   "crafts": {
     "<span class=\"mw-headline\" id=\"Used_in\">Used in</span>": [
       {
