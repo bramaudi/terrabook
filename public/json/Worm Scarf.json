@@ -2,10 +2,9 @@
   "type": "accessories",
   "title": "Worm Scarf",
   "summaries": [
-    "The <b>Worm Scarf</b> is an <linked>Expert Mode</linked> <linked>accessory</linked> that reduces incoming damage by 17%. The Worm Scarf is always obtained from the <linked>Eater of Worlds</linked>' <linked>Treasure Bag</linked>.",
-    "This damage reduction from this item is calculated after defense is applied:",
+    "The <b>Worm Scarf</b> is an <linked>accessory</linked> that reduces incoming damage by 17%. This damage reduction from this item is calculated after defense is applied:",
     "<code>Damage taken = ( Raw damage - (Defense * (0.5 or 0.75 or 1 for Classic/Expert/Master Mode, respectively)) ) * (1 - .17)</code>",
-    "Visually, it appears to be piercing through the player’s shoulder."
+    "The Worm Scarf is always dropped from the <linked>Eater of Worlds</linked>' <linked>Treasure Bag</linked> in <linked>Expert Mode</linked>."
   ],
   "statistics": {
     "Tooltip": "<i><span class=\"gameText\">Reduces damage taken by 17%</span></i>",
