@@ -6,6 +6,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.am {
+	@apply ml-1 text-gray-400;
+}
+
 .coin {
 	white-space: nowrap;
 }
