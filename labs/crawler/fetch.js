@@ -1,13 +1,11 @@
-import { exec } from "child_process";
+import { spawn } from "child_process";
 import { existsSync } from "fs";
 import fs from 'fast-glob'
 import { basename } from "path";
 
 const fetch = type => {
-    exec(`node ./labs/crawler/${type}/run.js`)
-    .stdout
-    .on('data', data => {
-        console.log(data.replace(/\n/, ''));
+    spawn('node', [`./labs/crawler/${type}/run.js`]).stdout.on('data', data => {
+        process.stdout.write(`${data}`);
     })
 }
 
@@ -17,7 +15,6 @@ const fetch = type => {
         if (!existsSync(`./labs/crawler/${type}/run.js`)) {
             return console.log('type doesn\'t exists');
         }
-
         fetch(type)
     }
     else {
