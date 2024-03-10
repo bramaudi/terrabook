@@ -80,7 +80,7 @@ export default function() {
 				</div>
 				<For each={filteredList()}>
 					{(item) => {
-						const slug = item.name.replace(/ /g, '_')
+						const slug = decodeURIComponent(item.name).replace(/ /g, '_')
 						return (
 							<div class="flex items-center my-1">
 								<img

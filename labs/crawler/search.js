@@ -4,8 +4,8 @@ import { basename } from "path";
 
 const type_dirs = fs
     .sync('./labs/crawler/*', { onlyDirectories: true })
-    .filter(v => !v.match('_'))
     .map(v => basename(v))
+    .filter(n => !n.startsWith('_'))
 
 let collection = []
 for (const dirname of type_dirs) {
